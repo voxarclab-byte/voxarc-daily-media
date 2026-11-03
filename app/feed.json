@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-03T19:02:38+00:00",
+ "generated": "2026-11-03T19:05:12+00:00",
  "items": [
   {
    "id": "fr-2026-22094",
@@ -142,7 +142,6 @@
     "risk_level": "Low",
     "opportunity_level": "Low",
     "related_signals": [
-     "eu-32026r2374",
      "fr-2026-21896"
     ],
     "watch_next": "The date it applies from, set in the act's final article on EUR-Lex",
@@ -521,89 +520,13 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6adfaa09c6ab4e86516a9cb3",
-     "eu-32026r2374",
-     "6ae0fb95987facb4c57e55ac"
+     "6ae0fb95987facb4c57e55ac",
+     "6ace51427d6da06c8ebdbdd1"
     ],
     "watch_next": "Applications due Dec 11, 2026",
     "confidence_score": 67,
     "source_name": "Federal Register",
     "source_url": "https://www.federalregister.gov/documents/2026/10/27/2026-21896/notice-of-publication-of-us-resources-management-industry-listing-and-opportunity-to-apply-for-the",
-    "published_date": "2026-10-27"
-   }
-  },
-  {
-   "id": "eu-32026r2374",
-   "published": "2026-10-27T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Regulation (EU) 2026/2374: Amending Regulation (EC) No 1183/2005 concerning restrictive measures in…",
-   "topics": [
-    "geo"
-   ],
-   "primary": "geo",
-   "summary": "Council Regulation (EU) 2026/2374 of 26 October 2026 amending Regulation (EC) No 1183/2005 concerning restrictive measures in view of the situation in the Democratic Republic of the Congo",
-   "body": "Council Regulation (EU) 2026/2374 of 26 October 2026 amending Regulation (EC) No 1183/2005 concerning restrictive measures in view of the situation in the Democratic Republic of the Congo.\n\nPublished in the Official Journal of the European Union, L series, on Oct 27, 2026. CELEX number 32026R2374. Act type: Council Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Regulation (EU) 2026/2374",
-    "Published Oct 27, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-10-27",
-     "title": "Council Regulation (EU) 2026/2374 of 26 October 2026 amending Regulation (EC) No 1183/2005 concerning restrictive measures in view of the situation in the Democratic Republic of the Congo",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2374"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Regulation (EU) 2026/2374: Amending Regulation (EC) No 1183/2005 concerning restrictive measures in…",
-   "soWhat": {
-    "changed": "The EU published Council Regulation (EU) 2026/2374 in the Official Journal on Oct 27, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Mineral buyers with Congo exposure should recheck counterparties under the amended regime.",
-    "n_sources": 1,
-    "signal_title": "EU tightens its Congo sanctions rulebook",
-    "crux": "The Council amended the Congo restrictive measures regulation (EC 1183/2005) on Oct 27.",
-    "importance": "Low",
-    "impact_score": 36,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Mining",
-     "Compliance",
-     "Trade"
-    ],
-    "affected_regions": [
-     "European Union",
-     "DR Congo"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "fr-2026-21896",
-     "eu-32026d2457",
-     "6ae0c5aae1ae795666cb028a"
-    ],
-    "watch_next": "The date it applies from, set in the act's final article on EUR-Lex",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2374",
     "published_date": "2026-10-27"
    }
   },
@@ -7629,7 +7552,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-03T19:02:38+00:00",
+  "asOf": "2026-11-03T19:05:09+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -7643,7 +7566,7 @@
      "cur": 16,
      "prev": 0,
      "dir": "up",
-     "reliable": false
+     "reliable": true
     },
     "90": {
      "cur": 17,
@@ -7663,7 +7586,7 @@
      "cur": 13,
      "prev": 0,
      "dir": "up",
-     "reliable": false
+     "reliable": true
     },
     "90": {
      "cur": 13,
@@ -7675,18 +7598,18 @@
    "geo": {
     "7": {
      "cur": 3,
-     "prev": 8,
+     "prev": 7,
      "dir": "down",
      "reliable": true
     },
     "30": {
-     "cur": 21,
+     "cur": 20,
      "prev": 0,
      "dir": "up",
-     "reliable": false
+     "reliable": true
     },
     "90": {
-     "cur": 21,
+     "cur": 20,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -7703,7 +7626,7 @@
      "cur": 14,
      "prev": 0,
      "dir": "up",
-     "reliable": false
+     "reliable": true
     },
     "90": {
      "cur": 14,
