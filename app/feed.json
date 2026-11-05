@@ -1,8 +1,95 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-04T11:10:39+00:00",
+ "generated": "2026-11-05T11:02:44+00:00",
  "items": [
+  {
+   "id": "fr-2026-22593",
+   "published": "2026-11-05T12:00:00Z",
+   "kicker": "AI Policy · Federal Register",
+   "title": "Medical Devices; Hematology and Pathology Devices",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II…",
+   "body": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.\n\nKey dates: This order is effective November 5, 2026. The classification was applicable on January 31, 2024.\n\nDocument type: Final rule. Agency: Health and Human Services, Food and Drug Administration. Docket: Docket No. FDA-2026-N-12384.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Food and Drug Administration",
+    "Takes effect Nov 5, 2026",
+    "Docket Docket No. FDA-2026-N-12384"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-05",
+     "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-11-05",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
+    }
+   ],
+   "titleMarkup": "Medical Devices; Hematology and Pathology Devices",
+   "soWhat": {
+    "changed": "Food and Drug Administration issued a final rule: Medical Devices; Hematology and Pathology Devices",
+    "who": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital…",
+    "watch": "Takes effect Nov 5, 2026"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital… are most exposed.",
+    "n_sources": 1,
+    "signal_title": "FDA Sets Class II Path for AI Cervical Cytology Imaging",
+    "crux": "FDA final rule classifies digital cervical cytology slide imaging systems with an AI algorithm into class II, giving the device type a defined regulatory pathway.",
+    "importance": "Medium",
+    "impact_score": 42,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Medical devices",
+     "Healthcare AI",
+     "Diagnostics"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [],
+    "watch_next": "Special controls attached to the classification and follow-on 510(k) clearances for similar AI pathology tools.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+    "published_date": "2026-11-05",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "fr-2026-22094",
    "published": "2026-10-29T12:00:00Z",
@@ -77,7 +164,14 @@
     "confidence_score": 67,
     "source_name": "Federal Register",
     "source_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22094/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",
-    "published_date": "2026-10-29"
+    "published_date": "2026-10-29",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22094/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",
+     "kind": "official journal"
+    },
+    "reported_by": null
    }
   },
   {
@@ -150,7 +244,14 @@
     "confidence_score": 67,
     "source_name": "EUR-Lex (Official Journal of the EU)",
     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2457",
-    "published_date": "2026-10-29"
+    "published_date": "2026-10-29",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2457",
+     "kind": "official journal"
+    },
+    "reported_by": null
    }
   },
   {
@@ -252,7 +353,19 @@
     "confidence_score": 72,
     "source_name": "Natural Resources Canada",
     "source_url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/canada-invests-to-unlock-lithium-potential-and-improve-connectivity-and-industry-in-northern-quebec.html",
-    "published_date": "2026-10-28"
+    "published_date": "2026-10-28",
+    "key_number": {
+     "value": "$1.2M",
+     "unit": "",
+     "label": "into lithium potential and connectivity in",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Natural Resources Canada",
+     "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/canada-invests-to-unlock-lithium-potential-and-improve-connectivity-and-industry-in-northern-quebec.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
    }
   },
   {
@@ -356,7 +469,19 @@
     "confidence_score": 88,
     "source_name": "European Parliament",
     "source_url": "https://www.europarl.europa.eu/news/en/press-room/20261018IPR48253/",
-    "published_date": "2026-10-27"
+    "published_date": "2026-10-27",
+    "key_number": {
+     "value": "€2bn",
+     "unit": "",
+     "label": "EU Critical Raw Materials Centre that",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "European Parliament",
+     "url": "https://www.europarl.europa.eu/news/en/press-room/20261018IPR48253/",
+     "kind": "government or agency"
+    },
+    "reported_by": "European Parliamentary Research Service"
    }
   },
   {
@@ -454,7 +579,19 @@
     "confidence_score": 79,
     "source_name": "Minister for Resources (Australia)",
     "source_url": "https://www.minister.industry.gov.au/king/media/critical-minerals-strategy-update-build-resilience-and-security",
-    "published_date": "2026-10-27"
+    "published_date": "2026-10-27",
+    "key_number": {
+     "value": "A$1.2 billion",
+     "unit": "",
+     "label": "critical minerals reserve",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Minister for Resources (Australia)",
+     "url": "https://www.minister.industry.gov.au/king/media/critical-minerals-strategy-update-build-resilience-and-security",
+     "kind": "government or agency"
+    },
+    "reported_by": "Department of Industry, Science and Resources"
    }
   },
   {
@@ -538,7 +675,14 @@
     "confidence_score": 67,
     "source_name": "Federal Register",
     "source_url": "https://www.federalregister.gov/documents/2026/10/27/2026-21896/notice-of-publication-of-us-resources-management-industry-listing-and-opportunity-to-apply-for-the",
-    "published_date": "2026-10-27"
+    "published_date": "2026-10-27",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21896/notice-of-publication-of-us-resources-management-industry-listing-and-opportunity-to-apply-for-the",
+     "kind": "official journal"
+    },
+    "reported_by": null
    }
   },
   {
@@ -631,7 +775,19 @@
     "confidence_score": 95,
     "source_name": "US Department of Energy",
     "source_url": "https://www.energy.gov/articles/energy-department-designates-helium-critical-material-strengthen-american-manufacturing",
-    "published_date": "2026-10-26"
+    "published_date": "2026-10-26",
+    "key_number": {
+     "value": "85%",
+     "unit": "",
+     "label": "of the world's helium",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "US Department of Energy",
+     "url": "https://www.energy.gov/articles/energy-department-designates-helium-critical-material-strengthen-american-manufacturing",
+     "kind": "government or agency"
+    },
+    "reported_by": "Federal Register"
    }
   },
   {
@@ -740,7 +896,15 @@
     "confidence_score": 63,
     "source_name": "Wood Mackenzie",
     "source_url": "https://www.woodmac.com/press-releases/wood-mackenzie-geopolitical-supply-shocks-and-ai-power-crunch-collide-across-global-base-metals/",
-    "published_date": "2026-10-26"
+    "published_date": "2026-10-26",
+    "key_number": {
+     "value": "$14,759",
+     "unit": "",
+     "label": "a tonne",
+     "kind": "money"
+    },
+    "primary_source": null,
+    "reported_by": "Wood Mackenzie"
    }
   },
   {
@@ -836,7 +1000,14 @@
     "confidence_score": 88,
     "source_name": "State Council General Office (gov.cn)",
     "source_url": "https://www.gov.cn/zhengce/content/202610/content_7084107.htm",
-    "published_date": "2026-10-26"
+    "published_date": "2026-10-26",
+    "key_number": null,
+    "primary_source": {
+     "name": "State Council General Office (gov.cn)",
+     "url": "https://www.gov.cn/zhengce/content/202610/content_7084107.htm",
+     "kind": "government or agency"
+    },
+    "reported_by": "Xinhua via english.gov.cn"
    }
   },
   {
@@ -919,44 +1090,44 @@
      0,
      0,
      0,
+     1,
+     1,
      0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     1,
      2,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      1,
      0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     1,
-     0,
-     1,
-     1,
-     2,
-     1,
-     0,
-     0,
-     0,
-     1,
      0,
      0,
      0,
@@ -1018,8 +1189,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-04",
-    "asOfLabel": "Nov 4, 2026",
+    "asOf": "2026-11-05",
+    "asOfLabel": "Nov 5, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -1059,7 +1230,14 @@
     "confidence_score": 67,
     "source_name": "Federal Register",
     "source_url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations",
-    "published_date": "2026-10-26"
+    "published_date": "2026-10-26",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations",
+     "kind": "official journal"
+    },
+    "reported_by": null
    }
   },
   {
@@ -1137,7 +1315,10 @@
     "confidence_score": 68,
     "source_name": "National Conference of State Legislatures",
     "source_url": "https://www.ncsl.org/state-legislatures-news/details/as-congress-deliberates-states-lead-the-way-on-ai-regulation",
-    "published_date": "2026-10-23"
+    "published_date": "2026-10-23",
+    "key_number": null,
+    "primary_source": null,
+    "reported_by": "National Conference of State Legislatures"
    }
   },
   {
@@ -1221,7 +1402,19 @@
     "confidence_score": 80,
     "source_name": "European Parliament",
     "source_url": "https://www.europarl.europa.eu/news/en/press-room/20261021IPR48321/methane-rules-parliament-backs-longer-delay-for-energy-importers-and-producers",
-    "published_date": "2026-10-23"
+    "published_date": "2026-10-23",
+    "key_number": {
+     "value": "72%",
+     "unit": "",
+     "label": "on Oct 1 against a 90%",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "European Parliament",
+     "url": "https://www.europarl.europa.eu/news/en/press-room/20261021IPR48321/methane-rules-parliament-backs-longer-delay-for-energy-importers-and-producers",
+     "kind": "government or agency"
+    },
+    "reported_by": "ENTSOG"
    }
   },
   {
@@ -1357,7 +1550,15 @@
     "confidence_score": 72,
     "source_name": "The Japan Times (AFP-Jiji)",
     "source_url": "https://www.japantimes.co.jp/business/2026/10/22/rare-earth-supply-stall/",
-    "published_date": "2026-10-23"
+    "published_date": "2026-10-23",
+    "key_number": {
+     "value": "US$1,150",
+     "unit": "",
+     "label": "/kg",
+     "kind": "money"
+    },
+    "primary_source": null,
+    "reported_by": "The Japan Times (AFP-Jiji)"
    }
   },
   {
@@ -1467,7 +1668,19 @@
     "confidence_score": 95,
     "source_name": "Ofgem",
     "source_url": "https://www.ofgem.gov.uk/sites/default/files/2026-07/Proposed-data-centre-connection-reforms-curate-consultation-document.pdf",
-    "published_date": "2026-10-21"
+    "published_date": "2026-10-21",
+    "key_number": {
+     "value": "£237,500",
+     "unit": "",
+     "label": "to £712",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Ofgem",
+     "url": "https://www.ofgem.gov.uk/sites/default/files/2026-07/Proposed-data-centre-connection-reforms-curate-consultation-document.pdf",
+     "kind": "regulator"
+    },
+    "reported_by": "GOV.UK (DSIT)"
    }
   },
   {
@@ -1524,11 +1737,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.13M km²",
+    "value": "8.15M km²",
     "unit": "daily extent",
-    "change": "-1.67M km² vs the 1981–2010 average for the date",
+    "change": "-1.69M km² vs the 1981–2010 average for the date",
     "series": [
-     5.8,
      5.86,
      5.959,
      6.007,
@@ -1557,14 +1769,11 @@
      7.755,
      7.84,
      8.016,
-     8.135
+     8.135,
+     8.153
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-05",
-      6.255
-     ],
      [
       "2026-08-06",
       6.18
@@ -1920,11 +2129,15 @@
      [
       "2026-11-02",
       8.135
+     ],
+     [
+      "2026-11-03",
+      8.153
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-02",
-    "asOfLabel": "Nov 2, 2026",
+    "asOf": "2026-11-03",
+    "asOfLabel": "Nov 3, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -1965,7 +2178,19 @@
     "confidence_score": 88,
     "source_name": "European Commission",
     "source_url": "https://digital-strategy.ec.europa.eu/en/news/eu-sets-out-new-strategy-arctic",
-    "published_date": "2026-10-20"
+    "published_date": "2026-10-20",
+    "key_number": {
+     "value": "€107 million",
+     "unit": "",
+     "label": "for Greenland connectivity work",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "European Commission",
+     "url": "https://digital-strategy.ec.europa.eu/en/news/eu-sets-out-new-strategy-arctic",
+     "kind": "government or agency"
+    },
+    "reported_by": "European Commission (International Partnerships)"
    }
   },
   {
@@ -2070,7 +2295,19 @@
     "confidence_score": 83,
     "source_name": "BOEM",
     "source_url": "https://www.boem.gov/newsroom/press-releases/mma-announces-final-leasing-notice-first-ever-offshore-mineral-lease-sale",
-    "published_date": "2026-10-19"
+    "published_date": "2026-10-19",
+    "key_number": {
+     "value": "$3M",
+     "unit": "",
+     "label": "minimum bid per area",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "BOEM",
+     "url": "https://www.boem.gov/newsroom/press-releases/mma-announces-final-leasing-notice-first-ever-offshore-mineral-lease-sale",
+     "kind": "government or agency"
+    },
+    "reported_by": "Federal Register"
    }
   },
   {
@@ -2155,44 +2392,44 @@
      0,
      0,
      0,
+     1,
+     1,
      0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     1,
      2,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      1,
      0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     1,
-     0,
-     1,
-     1,
-     2,
-     1,
-     0,
-     0,
-     0,
-     1,
      0,
      0,
      0,
@@ -2254,8 +2491,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-04",
-    "asOfLabel": "Nov 4, 2026",
+    "asOf": "2026-11-05",
+    "asOfLabel": "Nov 5, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -2294,7 +2531,19 @@
     "confidence_score": 88,
     "source_name": "USGS",
     "source_url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf",
-    "published_date": "2026-10-19"
+    "published_date": "2026-10-19",
+    "key_number": {
+     "value": "$580",
+     "unit": "",
+     "label": "/kg",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "USGS",
+     "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf",
+     "kind": "government or agency"
+    },
+    "reported_by": "US Department of Energy"
    }
   },
   {
@@ -2404,44 +2653,44 @@
      0,
      0,
      0,
+     1,
+     1,
      0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     1,
      2,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      1,
      0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     1,
-     0,
-     1,
-     1,
-     2,
-     1,
-     0,
-     0,
-     0,
-     1,
      0,
      0,
      0,
@@ -2503,8 +2752,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-04",
-    "asOfLabel": "Nov 4, 2026",
+    "asOf": "2026-11-05",
+    "asOfLabel": "Nov 5, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -2543,7 +2792,19 @@
     "confidence_score": 88,
     "source_name": "Ministry of Commerce of China (MOFCOM) & Ministry of Science and Technology",
     "source_url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_05e2643a8ca04eb9adf9dd0542991fe4.html",
-    "published_date": "2026-10-19"
+    "published_date": "2026-10-19",
+    "key_number": {
+     "value": "40",
+     "unit": "items",
+     "label": "",
+     "kind": "count"
+    },
+    "primary_source": {
+     "name": "Ministry of Commerce of China (MOFCOM) & Ministry of Science and Technology",
+     "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_05e2643a8ca04eb9adf9dd0542991fe4.html",
+     "kind": "government or agency"
+    },
+    "reported_by": "EUR-Lex"
    }
   },
   {
@@ -2627,7 +2888,14 @@
     "confidence_score": 67,
     "source_name": "Canada Gazette, Part I",
     "source_url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-17/html/reg1-eng.html",
-    "published_date": "2026-10-17"
+    "published_date": "2026-10-17",
+    "key_number": null,
+    "primary_source": {
+     "name": "Canada Gazette, Part I",
+     "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-17/html/reg1-eng.html",
+     "kind": "official journal"
+    },
+    "reported_by": null
    }
   },
   {
@@ -2676,11 +2944,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.13M km²",
+    "value": "8.15M km²",
     "unit": "daily extent",
-    "change": "-1.67M km² vs the 1981–2010 average for the date",
+    "change": "-1.69M km² vs the 1981–2010 average for the date",
     "series": [
-     5.8,
      5.86,
      5.959,
      6.007,
@@ -2709,14 +2976,11 @@
      7.755,
      7.84,
      8.016,
-     8.135
+     8.135,
+     8.153
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-05",
-      6.255
-     ],
      [
       "2026-08-06",
       6.18
@@ -3072,11 +3336,15 @@
      [
       "2026-11-02",
       8.135
+     ],
+     [
+      "2026-11-03",
+      8.153
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-02",
-    "asOfLabel": "Nov 2, 2026",
+    "asOf": "2026-11-03",
+    "asOfLabel": "Nov 3, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -3114,7 +3382,19 @@
     "confidence_score": 76,
     "source_name": "Statistics Canada",
     "source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260708/dq260708d-eng.htm",
-    "published_date": "2026-10-16"
+    "published_date": "2026-10-16",
+    "key_number": {
+     "value": "$859,200",
+     "unit": "",
+     "label": "in total",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Statistics Canada",
+     "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260708/dq260708d-eng.htm",
+     "kind": "government or agency"
+    },
+    "reported_by": "AECO"
    }
   },
   {
@@ -3193,7 +3473,15 @@
     "confidence_score": 68,
     "source_name": "Goldman Sachs Research",
     "source_url": "https://www.goldmansachs.com/insights/articles/global-investment-is-forecast-to-exceed-1-trillion-in-2026",
-    "published_date": "2026-10-16"
+    "published_date": "2026-10-16",
+    "key_number": {
+     "value": "$581B",
+     "unit": "",
+     "label": "",
+     "kind": "money"
+    },
+    "primary_source": null,
+    "reported_by": "Goldman Sachs Research"
    }
   },
   {
@@ -3299,7 +3587,14 @@
     "confidence_score": 67,
     "source_name": "Natural Resources Canada",
     "source_url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/thompson-mine-complex-transaction-closes-helping-secure-a-stronger-future-for-canadian-nickel.html",
-    "published_date": "2026-10-16"
+    "published_date": "2026-10-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "Natural Resources Canada",
+     "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/thompson-mine-complex-transaction-closes-helping-secure-a-stronger-future-for-canadian-nickel.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
    }
   },
   {
@@ -3415,7 +3710,19 @@
     "confidence_score": 95,
     "source_name": "Natural Resources Canada",
     "source_url": "https://www.canada.ca/en/natural-resources-canada/news/2026/05/canada-invests-in-arctic-infrastructure-to-bring-critical-minerals-to-market-and-strengthen-northern-communities.html",
-    "published_date": "2026-10-16"
+    "published_date": "2026-10-16",
+    "key_number": {
+     "value": "$50 million",
+     "unit": "",
+     "label": "for Grays Bay planning and preconstruction",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Natural Resources Canada",
+     "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/05/canada-invests-in-arctic-infrastructure-to-bring-critical-minerals-to-market-and-strengthen-northern-communities.html",
+     "kind": "government or agency"
+    },
+    "reported_by": "Major Projects Office"
    }
   },
   {
@@ -3501,7 +3808,19 @@
     "confidence_score": 88,
     "source_name": "Housing, Infrastructure and Communities Canada",
     "source_url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/01/delivering-on-more-homes-for-nunavut.html",
-    "published_date": "2026-10-15"
+    "published_date": "2026-10-15",
+    "key_number": {
+     "value": "$250 million",
+     "unit": "",
+     "label": "and the Government of Nunavut up",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Housing, Infrastructure and Communities Canada",
+     "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/01/delivering-on-more-homes-for-nunavut.html",
+     "kind": "government or agency"
+    },
+    "reported_by": "CMHC"
    }
   },
   {
@@ -3558,11 +3877,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.13M km²",
+    "value": "8.15M km²",
     "unit": "daily extent",
-    "change": "-1.67M km² vs the 1981–2010 average for the date",
+    "change": "-1.69M km² vs the 1981–2010 average for the date",
     "series": [
-     5.8,
      5.86,
      5.959,
      6.007,
@@ -3591,14 +3909,11 @@
      7.755,
      7.84,
      8.016,
-     8.135
+     8.135,
+     8.153
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-05",
-      6.255
-     ],
      [
       "2026-08-06",
       6.18
@@ -3954,11 +4269,15 @@
      [
       "2026-11-02",
       8.135
+     ],
+     [
+      "2026-11-03",
+      8.153
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-02",
-    "asOfLabel": "Nov 2, 2026",
+    "asOf": "2026-11-03",
+    "asOfLabel": "Nov 3, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -3997,7 +4316,15 @@
     "confidence_score": 72,
     "source_name": "PROOF (University of Toronto)",
     "source_url": "https://proof.utoronto.ca/2026/new-data-on-household-food-insecurity-in-2025/",
-    "published_date": "2026-10-15"
+    "published_date": "2026-10-15",
+    "key_number": {
+     "value": "C$40 million",
+     "unit": "",
+     "label": "to Les fraises de l'Île d'Orléans",
+     "kind": "money"
+    },
+    "primary_source": null,
+    "reported_by": "PROOF (University of Toronto)"
    }
   },
   {
@@ -4084,7 +4411,19 @@
     "confidence_score": 88,
     "source_name": "Defence Investment Agency",
     "source_url": "https://www.canada.ca/en/defence-investment-agency/news/2026/08/the-government-of-canada-awards-a-military-communications-contract-to-support-arctic-sovereignty-and-national-security0.html",
-    "published_date": "2026-10-15"
+    "published_date": "2026-10-15",
+    "key_number": {
+     "value": "C$2.3B",
+     "unit": "",
+     "label": "Telesat deal for secure military satellite",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Defence Investment Agency",
+     "url": "https://www.canada.ca/en/defence-investment-agency/news/2026/08/the-government-of-canada-awards-a-military-communications-contract-to-support-arctic-sovereignty-and-national-security0.html",
+     "kind": "government or agency"
+    },
+    "reported_by": "Prime Minister of Canada"
    }
   },
   {
@@ -4194,7 +4533,19 @@
     "confidence_score": 95,
     "source_name": "Hong Kong Monetary Authority",
     "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261015-3/",
-    "published_date": "2026-10-15"
+    "published_date": "2026-10-15",
+    "key_number": {
+     "value": "60%",
+     "unit": "",
+     "label": "of Hong Kong's GenAI sandbox use",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "Hong Kong Monetary Authority",
+     "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261015-3/",
+     "kind": "regulator"
+    },
+    "reported_by": "Monetary Authority of Singapore"
    }
   },
   {
@@ -4275,11 +4626,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.13M km²",
+    "value": "8.15M km²",
     "unit": "daily extent",
-    "change": "-1.67M km² vs the 1981–2010 average for the date",
+    "change": "-1.69M km² vs the 1981–2010 average for the date",
     "series": [
-     5.8,
      5.86,
      5.959,
      6.007,
@@ -4308,14 +4658,11 @@
      7.755,
      7.84,
      8.016,
-     8.135
+     8.135,
+     8.153
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-05",
-      6.255
-     ],
      [
       "2026-08-06",
       6.18
@@ -4671,11 +5018,15 @@
      [
       "2026-11-02",
       8.135
+     ],
+     [
+      "2026-11-03",
+      8.153
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-02",
-    "asOfLabel": "Nov 2, 2026",
+    "asOf": "2026-11-03",
+    "asOfLabel": "Nov 3, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -4717,7 +5068,19 @@
     "confidence_score": 80,
     "source_name": "Ministry of Foreign Affairs of the People's Republic of China",
     "source_url": "https://www.fmprc.gov.cn/mfa_eng/wjbzhd/202610/t20261014_12040281.html",
-    "published_date": "2026-10-14"
+    "published_date": "2026-10-14",
+    "key_number": {
+     "value": "29%",
+     "unit": "",
+     "label": "shorter",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "Ministry of Foreign Affairs of the People's Republic of China",
+     "url": "https://www.fmprc.gov.cn/mfa_eng/wjbzhd/202610/t20261014_12040281.html",
+     "kind": "government or agency"
+    },
+    "reported_by": "TASS"
    }
   },
   {
@@ -4828,7 +5191,19 @@
     "confidence_score": 95,
     "source_name": "FedDev Ontario / Government of Canada",
     "source_url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/government-of-canada-expands-support-to-adopt-and-commercialize-artificial-intelligence.html",
-    "published_date": "2026-10-13"
+    "published_date": "2026-10-13",
+    "key_number": {
+     "value": "$500M",
+     "unit": "",
+     "label": "",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "FedDev Ontario / Government of Canada",
+     "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/government-of-canada-expands-support-to-adopt-and-commercialize-artificial-intelligence.html",
+     "kind": "government or agency"
+    },
+    "reported_by": "Prime Minister of Canada"
    }
   },
   {
@@ -4896,11 +5271,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.13M km²",
+    "value": "8.15M km²",
     "unit": "daily extent",
-    "change": "-1.67M km² vs the 1981–2010 average for the date",
+    "change": "-1.69M km² vs the 1981–2010 average for the date",
     "series": [
-     5.8,
      5.86,
      5.959,
      6.007,
@@ -4929,14 +5303,11 @@
      7.755,
      7.84,
      8.016,
-     8.135
+     8.135,
+     8.153
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-05",
-      6.255
-     ],
      [
       "2026-08-06",
       6.18
@@ -5292,11 +5663,15 @@
      [
       "2026-11-02",
       8.135
+     ],
+     [
+      "2026-11-03",
+      8.153
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-02",
-    "asOfLabel": "Nov 2, 2026",
+    "asOf": "2026-11-03",
+    "asOfLabel": "Nov 3, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -5335,7 +5710,19 @@
     "confidence_score": 88,
     "source_name": "Global Affairs Canada",
     "source_url": "https://www.canada.ca/en/global-affairs/news/2026/10/pledge-on-maintaining-the-integrity-of-the-international-law-of-the-sea--no-fees--no-tolls.html",
-    "published_date": "2026-10-13"
+    "published_date": "2026-10-13",
+    "key_number": {
+     "value": "26%",
+     "unit": "",
+     "label": "",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "Global Affairs Canada",
+     "url": "https://www.canada.ca/en/global-affairs/news/2026/10/pledge-on-maintaining-the-integrity-of-the-international-law-of-the-sea--no-fees--no-tolls.html",
+     "kind": "government or agency"
+    },
+    "reported_by": "Centre for High North Logistics (CHNL)"
    }
   },
   {
@@ -5406,7 +5793,19 @@
     "confidence_score": 59,
     "source_name": "Meta",
     "source_url": "https://datacenters.atmeta.com/wp-content/uploads/2025/02/Metas-Odense-Data-Center.pdf",
-    "published_date": "2026-10-13"
+    "published_date": "2026-10-13",
+    "key_number": {
+     "value": "$197.95",
+     "unit": "",
+     "label": "vs $132",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Meta",
+     "url": "https://datacenters.atmeta.com/wp-content/uploads/2025/02/Metas-Odense-Data-Center.pdf",
+     "kind": "company publication"
+    },
+    "reported_by": null
    }
   },
   {
@@ -5511,7 +5910,15 @@
     "confidence_score": 72,
     "source_name": "DatacenterDynamics (DCD)",
     "source_url": "https://www.datacenterdynamics.com/en/news/indigenous-it-firm-eyes-data-center-campus-in-canadas-northwest-territories/",
-    "published_date": "2026-10-13"
+    "published_date": "2026-10-13",
+    "key_number": {
+     "value": "US$30",
+     "unit": "",
+     "label": ", 60 per MWh",
+     "kind": "money"
+    },
+    "primary_source": null,
+    "reported_by": "DatacenterDynamics (DCD)"
    }
   },
   {
@@ -5638,7 +6045,19 @@
     "confidence_score": 80,
     "source_name": "Presidência da República (Brazil)",
     "source_url": "https://www.presidencia.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15506.htm",
-    "published_date": "2026-10-13"
+    "published_date": "2026-10-13",
+    "key_number": {
+     "value": "$672M",
+     "unit": "",
+     "label": "Meteoric acquisition is expected to be",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Presidência da República (Brazil)",
+     "url": "https://www.presidencia.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15506.htm",
+     "kind": "government or agency"
+    },
+    "reported_by": "Moneycontrol"
    }
   },
   {
@@ -5741,7 +6160,19 @@
     "confidence_score": 88,
     "source_name": "European Commission (Have Your Say)",
     "source_url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19292-AI-Act-Implementing-Act-Articles-75c-75d_en",
-    "published_date": "2026-10-12"
+    "published_date": "2026-10-12",
+    "key_number": {
+     "value": "7%",
+     "unit": "",
+     "label": "of global turnover",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "European Commission (Have Your Say)",
+     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19292-AI-Act-Implementing-Act-Articles-75c-75d_en",
+     "kind": "government or agency"
+    },
+    "reported_by": "European Commission (draft text)"
    }
   },
   {
@@ -5840,7 +6271,14 @@
     "confidence_score": 80,
     "source_name": "The White House",
     "source_url": "https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/",
-    "published_date": "2026-10-12"
+    "published_date": "2026-10-12",
+    "key_number": null,
+    "primary_source": {
+     "name": "The White House",
+     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/",
+     "kind": "government or agency"
+    },
+    "reported_by": "KNR"
    }
   },
   {
@@ -5957,7 +6395,19 @@
     "confidence_score": 95,
     "source_name": "European Commission",
     "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2113",
-    "published_date": "2026-10-12"
+    "published_date": "2026-10-12",
+    "key_number": {
+     "value": "€21.1 billion",
+     "unit": "",
+     "label": "",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2113",
+     "kind": "government or agency"
+    },
+    "reported_by": "European Commission (Q&A)"
    }
   },
   {
@@ -6084,7 +6534,19 @@
     "confidence_score": 80,
     "source_name": "China Ministry of Commerce / GACC (Notice 70)",
     "source_url": "https://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_b1bff63a6bdd412a99c84203dd30fd39.html",
-    "published_date": "2026-10-09"
+    "published_date": "2026-10-09",
+    "key_number": {
+     "value": "€4 billion",
+     "unit": "",
+     "label": "in current EU exports",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "China Ministry of Commerce / GACC (Notice 70)",
+     "url": "https://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_b1bff63a6bdd412a99c84203dd30fd39.html",
+     "kind": "government or agency"
+    },
+    "reported_by": "The Japan Times (AFP)"
    }
   },
   {
@@ -6180,7 +6642,14 @@
     "confidence_score": 80,
     "source_name": "UK Information Commissioner's Office (ICO)",
     "source_url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/",
-    "published_date": "2026-10-09"
+    "published_date": "2026-10-09",
+    "key_number": null,
+    "primary_source": {
+     "name": "UK Information Commissioner's Office (ICO)",
+     "url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/",
+     "kind": "regulator"
+    },
+    "reported_by": "ABC News (Australia)"
    }
   },
   {
@@ -6270,7 +6739,14 @@
     "confidence_score": 88,
     "source_name": "Global Affairs Canada",
     "source_url": "https://www.canada.ca/en/global-affairs/news/2026/10/canada-iceland-joint-statement.html",
-    "published_date": "2026-10-09"
+    "published_date": "2026-10-09",
+    "key_number": null,
+    "primary_source": {
+     "name": "Global Affairs Canada",
+     "url": "https://www.canada.ca/en/global-affairs/news/2026/10/canada-iceland-joint-statement.html",
+     "kind": "government or agency"
+    },
+    "reported_by": "Department of National Defence (Defence Stories)"
    }
   }
  ],
@@ -6279,11 +6755,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "8.13M km²",
+   "value": "8.15M km²",
    "unit": "daily extent",
-   "change": "-1.67M km² vs the 1981–2010 average for the date",
+   "change": "-1.69M km² vs the 1981–2010 average for the date",
    "series": [
-    5.8,
     5.86,
     5.959,
     6.007,
@@ -6312,19 +6787,16 @@
     7.755,
     7.84,
     8.016,
-    8.135
+    8.135,
+    8.153
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-02",
-   "asOfLabel": "Nov 2, 2026",
+   "asOf": "2026-11-03",
+   "asOfLabel": "Nov 3, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-05",
-     6.255
-    ],
     [
      "2026-08-06",
      6.18
@@ -6680,6 +7152,10 @@
     [
      "2026-11-02",
      8.135
+    ],
+    [
+     "2026-11-03",
+     8.153
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -6805,8 +7281,8 @@
     0
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-04",
-   "asOfLabel": "Nov 4, 2026",
+   "asOf": "2026-11-05",
+   "asOfLabel": "Nov 5, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -6820,44 +7296,44 @@
     0,
     0,
     0,
+    1,
+    1,
     0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    0,
+    1,
     2,
-    0,
     1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
     0,
     0,
     1,
     0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    1,
-    0,
-    1,
-    0,
-    1,
-    1,
-    2,
-    1,
-    0,
-    0,
-    0,
-    1,
     0,
     0,
     0,
@@ -6926,13 +7402,13 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-04T11:10:39+00:00",
+  "asOf": "2026-11-05T11:02:32+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
     "7": {
      "cur": 0,
-     "prev": 6,
+     "prev": 5,
      "dir": "down",
      "reliable": true
     },
@@ -6940,7 +7416,7 @@
      "cur": 16,
      "prev": 0,
      "dir": "up",
-     "reliable": true
+     "reliable": false
     },
     "90": {
      "cur": 16,
@@ -6960,7 +7436,7 @@
      "cur": 13,
      "prev": 0,
      "dir": "up",
-     "reliable": true
+     "reliable": false
     },
     "90": {
      "cur": 13,
@@ -6971,8 +7447,8 @@
    },
    "geo": {
     "7": {
-     "cur": 3,
-     "prev": 7,
+     "cur": 1,
+     "prev": 9,
      "dir": "down",
      "reliable": true
     },
@@ -6980,19 +7456,19 @@
      "cur": 20,
      "prev": 0,
      "dir": "up",
-     "reliable": true
+     "reliable": false
     },
     "90": {
      "cur": 20,
-     "prev": 1,
+     "prev": 2,
      "dir": "up",
      "reliable": false
     }
    },
    "minerals": {
     "7": {
-     "cur": 1,
-     "prev": 6,
+     "cur": 0,
+     "prev": 7,
      "dir": "down",
      "reliable": true
     },
@@ -7000,7 +7476,7 @@
      "cur": 14,
      "prev": 0,
      "dir": "up",
-     "reliable": true
+     "reliable": false
     },
     "90": {
      "cur": 14,
