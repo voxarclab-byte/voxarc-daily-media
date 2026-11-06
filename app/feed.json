@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-05T11:02:44+00:00",
+ "generated": "2026-11-06T11:08:52+00:00",
  "items": [
   {
    "id": "fr-2026-22593",
@@ -169,86 +169,6 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22094/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "eu-32026d2457",
-   "published": "2026-10-29T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Decision (EU) 2026/2457: On the signing of the Agreement in the form of an Exchange of Letters…",
-   "topics": [
-    "geo"
-   ],
-   "primary": "geo",
-   "summary": "Council Decision (EU) 2026/2457 of 26 October 2026 on the signing of the Agreement in the form of an Exchange of Letters between the European Union and Canada pursuant to Article XXVIII of the General Agreement on Tariffs and Trade 1994…",
-   "body": "Council Decision (EU) 2026/2457 of 26 October 2026 on the signing of the Agreement in the form of an Exchange of Letters between the European Union and Canada pursuant to Article XXVIII of the General Agreement on Tariffs and Trade 1994 (‘GATT 1994’) relating to the modification of concessions on all the tariff-rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union.\n\nPublished in the Official Journal of the European Union, L series, on Oct 29, 2026. CELEX number 32026D2457. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Decision (EU) 2026/2457",
-    "Published Oct 29, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-10-29",
-     "title": "Council Decision (EU) 2026/2457 of 26 October 2026 on the signing of the Agreement in the form of an Exchange of Letters between the European Union and Canada pursuant to Article XXVIII of the General Agreement on Tariffs and Trade 1994 (‘GATT 1994’) relating to the modification of concessions on all the tariff-rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2457",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Decision (EU) 2026/2457: On the signing of the Agreement in the form of an Exchange of Letters…",
-   "soWhat": {
-    "changed": "The EU published Council Decision (EU) 2026/2457 in the Official Journal on Oct 29, 2026, on the signing of the Agreement in the form of an Exchange of Letters…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/geo-port.webp",
-    "credit": "Photo: biofriendly, CC BY 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
-    "key": "geo-port"
-   },
-   "signal": {
-    "so_what": "Low direct market effect; check the act for which trade or partner it covers.",
-    "n_sources": 1,
-    "signal_title": "EU formalises a new bilateral arrangement by exchange of letters",
-    "crux": "The Council authorised signing an agreement by exchange of letters, published in the Official Journal on Oct 29.",
-    "importance": "Low",
-    "impact_score": 22,
-    "time_horizon": "Medium term",
-    "affected_sectors": [
-     "Trade",
-     "Government"
-    ],
-    "affected_regions": [
-     "European Union"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "fr-2026-21896"
-    ],
-    "watch_next": "The date it applies from, set in the act's final article on EUR-Lex",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2457",
-    "published_date": "2026-10-29",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2457",
      "kind": "official journal"
     },
     "reported_by": null
@@ -1011,236 +931,6 @@
    }
   },
   {
-   "id": "fr-2026-21786",
-   "published": "2026-10-26T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "Outbound Investment Security Program Regulations",
-   "topics": [
-    "geo"
-   ],
-   "primary": "geo",
-   "summary": "This proposed rule sets forth regulations that would implement Subtitle C of the Comprehensive Outbound Investment National Security Act, which is codified at Title VIII of the Defense Production Act. The proposed rule would require United States persons to…",
-   "body": "This proposed rule sets forth regulations that would implement Subtitle C of the Comprehensive Outbound Investment National Security Act, which is codified at Title VIII of the Defense Production Act. The proposed rule would require United States persons to provide notification to the U.S. Department of the Treasury regarding certain transactions involving foreign persons that are engaged in notifiable technologies; and prohibit United States persons from engaging in certain other transactions involving foreign persons that are engaged in prohibited technologies. Where consistent with Title VIII, the proposed rule incorporates certain definitions and concepts from the current regulations governing the Outbound Investment Security Program. The proposed rule also would add applicability dates to the regulations, such that those regulations would continue to apply to activities that occurred within the relevant timeframe.\n\nKey dates: Written comments must be received by December 7, 2026.\n\nDocument type: Proposed rule. Agency: Treasury, Investment Security Office. Docket: Docket No. TREAS-DO-2026-0595.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Proposed rule from Investment Security Office",
-    "Comments close Dec 7, 2026",
-    "Docket Docket No. TREAS-DO-2026-0595"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-10-26",
-     "title": "Outbound Investment Security Program Regulations",
-     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "comment",
-     "label": "Comments close",
-     "date": "2026-12-07",
-     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations"
-    }
-   ],
-   "titleMarkup": "Outbound Investment Security Program Regulations",
-   "soWhat": {
-    "changed": "Investment Security Office proposed a rule: Outbound Investment Security Program Regulations",
-    "who": "The proposed rule would require United States persons to provide notification to the U.S. Department of the Treasury regarding certain transactions involving…",
-    "watch": "Comments close Dec 7, 2026 on federalregister.gov"
-   },
-   "dataCard": {
-    "id": "bis-rules",
-    "kind": "count",
-    "title": "US export-control rules (BIS)",
-    "value": "12",
-    "unit": "final rules in 2026 so far",
-    "change": "13 in the last 12 months",
-    "series": [
-     1,
-     2,
-     1,
-     0,
-     1,
-     0,
-     0,
-     2,
-     5,
-     1,
-     0,
-     0
-    ],
-    "seriesLabel": "Final rules per month, last 12 months",
-    "weekly": [
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     1,
-     1,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     1,
-     0,
-     1,
-     0,
-     1,
-     2,
-     1,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "weeklyEntityList": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-05",
-    "asOfLabel": "Nov 5, 2026",
-    "source": "Federal Register API, Bureau of Industry and Security",
-    "license": "Public domain (US government work)",
-    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
-   },
-   "photo": {
-    "src": "img/photos/ai-chip.webp",
-    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
-    "key": "ai-chip"
-   },
-   "signal": {
-    "so_what": "Funds investing in Chinese chips, AI or quantum should review deals before Dec 7 comments close.",
-    "n_sources": 1,
-    "signal_title": "US outbound tech investment rules are tightening",
-    "crux": "Treasury proposed updated Outbound Investment Security Program rules; comments close Dec 7.",
-    "importance": "High",
-    "impact_score": 72,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Semiconductors",
-     "AI",
-     "Quantum",
-     "Private equity"
-    ],
-    "affected_regions": [
-     "United States",
-     "China"
-    ],
-    "risk_level": "High",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "6ad66e84a07c63635f9885f2",
-     "6ad66e84a07c63635f9885ed",
-     "6adbb54da4c20d730fe656c5"
-    ],
-    "watch_next": "Comments close Dec 7, 2026 on federalregister.gov",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations",
-    "published_date": "2026-10-26",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "6adbb54da4c20d730fe656d6",
    "published": "2026-10-23T19:27:26.909Z",
    "kicker": "AI Policy · Analysis",
@@ -1737,11 +1427,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.15M km²",
+    "value": "8.24M km²",
     "unit": "daily extent",
-    "change": "-1.69M km² vs the 1981–2010 average for the date",
+    "change": "-1.66M km² vs the 1981–2010 average for the date",
     "series": [
-     5.86,
      5.959,
      6.007,
      6.073,
@@ -1770,14 +1459,11 @@
      7.84,
      8.016,
      8.135,
-     8.153
+     8.153,
+     8.241
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-06",
-      6.18
-     ],
      [
       "2026-08-07",
       6.131
@@ -2133,11 +1819,15 @@
      [
       "2026-11-03",
       8.153
+     ],
+     [
+      "2026-11-04",
+      8.241
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-03",
-    "asOfLabel": "Nov 3, 2026",
+    "asOf": "2026-11-04",
+    "asOfLabel": "Nov 4, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -2386,33 +2076,7 @@
      0,
      0,
      0,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     1,
-     1,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      0,
@@ -2423,9 +2087,35 @@
      0,
      1,
      0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
      1,
-     2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
      1,
+     1,
+     0,
+     1,
+     1,
+     0,
+     3,
+     0,
      0,
      0,
      1,
@@ -2491,8 +2181,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-05",
-    "asOfLabel": "Nov 5, 2026",
+    "asOf": "2026-11-06",
+    "asOfLabel": "Nov 6, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -2525,7 +2215,7 @@
     "related_signals": [
      "6adbb54da4c20d730fe656c5",
      "6acab8dbf6dba531c0671d1b",
-     "fr-2026-21786"
+     "6ad7c0a0a69d84a91a2bf0be"
     ],
     "watch_next": "A deadline: China's one-year suspension of its US-specific ban on gallium, germanium and antimony exports ends on Nov 27, 2026…",
     "confidence_score": 88,
@@ -2647,33 +2337,7 @@
      0,
      0,
      0,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     1,
-     1,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      0,
@@ -2684,9 +2348,35 @@
      0,
      1,
      0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
      1,
-     2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
      1,
+     1,
+     0,
+     1,
+     1,
+     0,
+     3,
+     0,
      0,
      0,
      1,
@@ -2752,8 +2442,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-05",
-    "asOfLabel": "Nov 5, 2026",
+    "asOf": "2026-11-06",
+    "asOfLabel": "Nov 6, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -2785,8 +2475,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "6adbb54da4c20d730fe656c5",
-     "fr-2026-21786",
-     "6adbb54da4c20d730fe656d6"
+     "6adbb54da4c20d730fe656d6",
+     "6acab8dbf6dba531c0671d0a"
     ],
     "watch_next": "Comments close Nov 15, 2026",
     "confidence_score": 88,
@@ -2944,11 +2634,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.15M km²",
+    "value": "8.24M km²",
     "unit": "daily extent",
-    "change": "-1.69M km² vs the 1981–2010 average for the date",
+    "change": "-1.66M km² vs the 1981–2010 average for the date",
     "series": [
-     5.86,
      5.959,
      6.007,
      6.073,
@@ -2977,14 +2666,11 @@
      7.84,
      8.016,
      8.135,
-     8.153
+     8.153,
+     8.241
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-06",
-      6.18
-     ],
      [
       "2026-08-07",
       6.131
@@ -3340,11 +3026,15 @@
      [
       "2026-11-03",
       8.153
+     ],
+     [
+      "2026-11-04",
+      8.241
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-03",
-    "asOfLabel": "Nov 3, 2026",
+    "asOf": "2026-11-04",
+    "asOfLabel": "Nov 4, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -3877,11 +3567,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.15M km²",
+    "value": "8.24M km²",
     "unit": "daily extent",
-    "change": "-1.69M km² vs the 1981–2010 average for the date",
+    "change": "-1.66M km² vs the 1981–2010 average for the date",
     "series": [
-     5.86,
      5.959,
      6.007,
      6.073,
@@ -3910,14 +3599,11 @@
      7.84,
      8.016,
      8.135,
-     8.153
+     8.153,
+     8.241
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-06",
-      6.18
-     ],
      [
       "2026-08-07",
       6.131
@@ -4273,11 +3959,15 @@
      [
       "2026-11-03",
       8.153
+     ],
+     [
+      "2026-11-04",
+      8.241
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-03",
-    "asOfLabel": "Nov 3, 2026",
+    "asOf": "2026-11-04",
+    "asOfLabel": "Nov 4, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -4626,11 +4316,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.15M km²",
+    "value": "8.24M km²",
     "unit": "daily extent",
-    "change": "-1.69M km² vs the 1981–2010 average for the date",
+    "change": "-1.66M km² vs the 1981–2010 average for the date",
     "series": [
-     5.86,
      5.959,
      6.007,
      6.073,
@@ -4659,14 +4348,11 @@
      7.84,
      8.016,
      8.135,
-     8.153
+     8.153,
+     8.241
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-06",
-      6.18
-     ],
      [
       "2026-08-07",
       6.131
@@ -5022,11 +4708,15 @@
      [
       "2026-11-03",
       8.153
+     ],
+     [
+      "2026-11-04",
+      8.241
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-03",
-    "asOfLabel": "Nov 3, 2026",
+    "asOf": "2026-11-04",
+    "asOfLabel": "Nov 4, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -5271,11 +4961,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.15M km²",
+    "value": "8.24M km²",
     "unit": "daily extent",
-    "change": "-1.69M km² vs the 1981–2010 average for the date",
+    "change": "-1.66M km² vs the 1981–2010 average for the date",
     "series": [
-     5.86,
      5.959,
      6.007,
      6.073,
@@ -5304,14 +4993,11 @@
      7.84,
      8.016,
      8.135,
-     8.153
+     8.153,
+     8.241
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-06",
-      6.18
-     ],
      [
       "2026-08-07",
       6.131
@@ -5667,11 +5353,15 @@
      [
       "2026-11-03",
       8.153
+     ],
+     [
+      "2026-11-04",
+      8.241
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-03",
-    "asOfLabel": "Nov 3, 2026",
+    "asOf": "2026-11-04",
+    "asOfLabel": "Nov 4, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -6755,11 +6445,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "8.15M km²",
+   "value": "8.24M km²",
    "unit": "daily extent",
-   "change": "-1.69M km² vs the 1981–2010 average for the date",
+   "change": "-1.66M km² vs the 1981–2010 average for the date",
    "series": [
-    5.86,
     5.959,
     6.007,
     6.073,
@@ -6788,19 +6477,16 @@
     7.84,
     8.016,
     8.135,
-    8.153
+    8.153,
+    8.241
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-03",
-   "asOfLabel": "Nov 3, 2026",
+   "asOf": "2026-11-04",
+   "asOfLabel": "Nov 4, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-06",
-     6.18
-    ],
     [
      "2026-08-07",
      6.131
@@ -7156,6 +6842,10 @@
     [
      "2026-11-03",
      8.153
+    ],
+    [
+     "2026-11-04",
+     8.241
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -7281,8 +6971,8 @@
     0
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-05",
-   "asOfLabel": "Nov 5, 2026",
+   "asOf": "2026-11-06",
+   "asOfLabel": "Nov 6, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -7290,33 +6980,7 @@
     0,
     0,
     0,
-    0,
     1,
-    0,
-    0,
-    0,
-    0,
-    1,
-    1,
-    0,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
     0,
     0,
     0,
@@ -7327,9 +6991,35 @@
     0,
     1,
     0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     1,
-    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    3,
+    0,
     0,
     0,
     1,
@@ -7402,24 +7092,24 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-05T11:02:32+00:00",
+  "asOf": "2026-11-06T11:06:22+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
     "7": {
-     "cur": 0,
+     "cur": 1,
      "prev": 5,
      "dir": "down",
      "reliable": true
     },
     "30": {
-     "cur": 16,
+     "cur": 17,
      "prev": 0,
      "dir": "up",
-     "reliable": false
+     "reliable": true
     },
     "90": {
-     "cur": 16,
+     "cur": 17,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -7436,7 +7126,7 @@
      "cur": 13,
      "prev": 0,
      "dir": "up",
-     "reliable": false
+     "reliable": true
     },
     "90": {
      "cur": 13,
@@ -7447,19 +7137,19 @@
    },
    "geo": {
     "7": {
-     "cur": 1,
-     "prev": 9,
+     "cur": 0,
+     "prev": 8,
      "dir": "down",
      "reliable": true
     },
     "30": {
-     "cur": 20,
+     "cur": 18,
      "prev": 0,
      "dir": "up",
-     "reliable": false
+     "reliable": true
     },
     "90": {
-     "cur": 20,
+     "cur": 18,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -7476,7 +7166,7 @@
      "cur": 14,
      "prev": 0,
      "dir": "up",
-     "reliable": false
+     "reliable": true
     },
     "90": {
      "cur": 14,
