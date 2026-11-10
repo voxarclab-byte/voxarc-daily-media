@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-10T11:04:08+00:00",
+ "generated": "2026-11-10T18:58:14+00:00",
  "items": [
   {
    "id": "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
@@ -69,9 +69,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
+     "fr-2026-22861",
      "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
-     "gc-minister-sidhu-announces-extension-of-favourable-market-acce",
-     "fr-2026-22386"
+     "gc-minister-sidhu-announces-extension-of-favourable-market-acce"
     ],
     "watch_next": "Published regulations naming the 11 entities and any allied sanctions moves",
     "confidence_score": 67,
@@ -83,6 +83,354 @@
      "name": "Global Affairs Canada",
      "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-reimposition-of-sanctions-against-iranian-entities.html",
      "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gg-364247",
+   "published": "2026-11-10T12:00:00Z",
+   "kicker": "Geoeconomics · Grants.gov",
+   "title": "Funding call: NASA SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES &ndash; FALL 2027 (NSTGRO27)",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "NASA Headquarters is taking applications until Mar 18, 2027 for NASA SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES &ndash; FALL 2027 (NSTGRO27).",
+   "body": "NASA Headquarters (National Aeronautics and Space Administration) posted funding opportunity NNH26ZTR001N-26NSTGRO-B4, \"NASA SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES &ndash; FALL 2027 (NSTGRO27)\", on Grants.gov on Nov 10, 2026. Applications close Mar 18, 2027.\n\nThe National Aeronautics and Space Administration (NASA) Headquarters has released a solicitation, titled “NASA Space Technology Graduate Research Opportunities – Fall 2027 (NSTGRO27),” as an appendix to the NASA Research Announcement (NRA) titled \"Space Technology Research, Development, Demonstration, and Infusion (SpaceTech REDDI)” Fiscal Year 2026, on November 6, 2026. The solicitation is available by opening the NASA Solicitation and Proposal Integrated Review and Evaluation System (NSPIRES) homepage at https://nspires.nasaprs.com/ , selecting “Open” under \"Solicitations,\" and searching \"NASA Space Technology Graduate Research Opportunities - Fall 2027 (NSTGRO27)\" under Keywords. To go to the solicitation directly, visit https://solicitation.nasaprs.com/NNH26ZTR001N-26NSTGRO_B4 .\n\nAward ceiling: $84,000. Expected awards: 35.\n\nWhy it matters: Federal funding calls show where Washington is paying for research and capacity. Check the full notice of funding opportunity for eligibility, cost-share rules and how to apply.",
+   "stat": null,
+   "keyPoints": [
+    "Funding call NNH26ZTR001N-26NSTGRO-B4 from NASA Headquarters",
+    "Applications due Mar 18, 2027",
+    "Award ceiling: $84,000"
+   ],
+   "sources": [
+    {
+     "publisher": "Grants.gov",
+     "date": "2026-11-10",
+     "title": "NASA SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES &ndash; FALL 2027 (NSTGRO27)",
+     "url": "https://www.grants.gov/search-results-detail/364247",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Grants.gov",
+   "primarySource": {
+    "name": "Grants.gov",
+    "kind": "US federal funding opportunity",
+    "terms": "Public US government data (no key)"
+   },
+   "deadlines": [
+    {
+     "type": "funding",
+     "label": "Applications due",
+     "date": "2027-03-18",
+     "url": "https://www.grants.gov/search-results-detail/364247"
+    }
+   ],
+   "titleMarkup": "Funding call: NASA SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES &ndash; FALL 2027 (NSTGRO27)",
+   "soWhat": {
+    "changed": "NASA Headquarters opened funding call NNH26ZTR001N-26NSTGRO-B4, NASA SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES &ndash; FALL 2027 (NSTGRO27)",
+    "who": "See &quot;Description&quot; below and Full Announcement for eligibility requirements.",
+    "watch": "Applications due Mar 18, 2027 on Grants.gov"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "University labs working on space technology can line up graduate funding for the 2027 academic year.",
+    "n_sources": 1,
+    "signal_title": "NASA opens Fall 2027 space tech graduate research awards",
+    "crux": "NASA Headquarters opened the NSTGRO27 graduate research funding call, with applications due Mar 18, 2027.",
+    "importance": "Low",
+    "impact_score": 28,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Research",
+     "Space"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "gg-364032",
+     "fr-2026-21818",
+     "fr-2026-22789"
+    ],
+    "watch_next": "Applications close Mar 18, 2027 on Grants.gov",
+    "confidence_score": 67,
+    "source_name": "Grants.gov",
+    "source_url": "https://www.grants.gov/search-results-detail/364247",
+    "published_date": "2026-11-10",
+    "key_number": {
+     "value": "$84,000",
+     "unit": "",
+     "label": "",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Grants.gov",
+     "url": "https://www.grants.gov/search-results-detail/364247",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22861",
+   "published": "2026-11-10T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Notice of OFAC Sanctions Action",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the name of one or more persons that have been placed on OFAC's Specially Designated Nationals and Blocked Persons List…",
+   "body": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the name of one or more persons that have been placed on OFAC's Specially Designated Nationals and Blocked Persons List (SDN List) based on OFAC's determination that one or more applicable legal criteria were satisfied. All property and interests in property subject to U.S. jurisdiction of these persons are blocked, and U.S. persons are generally prohibited from engaging in transactions with them.\n\nKey dates: This action was issued on November 5, 2026. See SUPPLEMENTARY INFORMATION for relevant dates.\n\nDocument type: Notice. Agency: Treasury, Foreign Assets Control Office.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Notice from Foreign Assets Control Office"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-10",
+     "title": "Notice of OFAC Sanctions Action",
+     "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22861/notice-of-ofac-sanctions-action",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Notice of OFAC Sanctions Action",
+   "soWhat": {
+    "changed": "Foreign Assets Control Office published a notice: OFAC Sanctions Action",
+    "who": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the name of one or more persons that have been placed on OFAC's…",
+    "watch": "Watch for the final rule or implementing guidance from Foreign Assets Control Office"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Firms with US exposure need to rescreen counterparties against the updated SDN list.",
+    "n_sources": 1,
+    "signal_title": "OFAC adds new names to US sanctions blocklist",
+    "crux": "Treasury's OFAC published new additions to the Specially Designated Nationals and Blocked Persons List.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Compliance",
+     "Financial services"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
+     "fr-2026-22386",
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ"
+    ],
+    "watch_next": "The named persons and the sanctions program they fall under",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22861/notice-of-ofac-sanctions-action",
+    "published_date": "2026-11-10",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22861/notice-of-ofac-sanctions-action",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22925",
+   "published": "2026-11-10T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Notice of Product Exclusion Extensions: China's Acts, Policies, and Practices Related to Technology Transfer…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "In prior notices, the U.S. Trade Representative (Trade Representative) modified the actions in the Section 301 investigation of China's acts, policies, and practices related to technology transfer, intellectual property…",
+   "body": "In prior notices, the U.S. Trade Representative (Trade Representative) modified the actions in the Section 301 investigation of China's acts, policies, and practices related to technology transfer, intellectual property, and innovation by excluding from additional duties certain products of China. While most exclusions have expired in prior years, certain exclusions remain in force. This notice announces the Trade Representative's determination to further extend all 178 current exclusions.\n\nKey dates: The modifications announced in the annexes to this notice further extend the exclusions through 11:59 p.m. eastern time on January 9, 2027.\n\nDocument type: Notice. Agency: Trade Representative, Office of United States.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Notice from Trade Representative, Office of United States"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-10",
+     "title": "Notice of Product Exclusion Extensions: China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation",
+     "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22925/notice-of-product-exclusion-extensions-chinas-acts-policies-and-practices-related-to-technology",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Notice of Product Exclusion Extensions: China's Acts, Policies, and Practices Related to Technology Transfer…",
+   "soWhat": {
+    "changed": "Trade Representative, Office of United States published a notice: Product Exclusion Extensions…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Trade Representative, Office of United States"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "Importers of the covered Chinese products keep tariff relief for now and should check the expiry dates.",
+    "n_sources": 1,
+    "signal_title": "USTR extends some Section 301 China tariff exclusions",
+    "crux": "USTR extended certain product exclusions under the Section 301 action on China's technology transfer and IP practices.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Trade",
+     "Manufacturing",
+     "Supply chains"
+    ],
+    "affected_regions": [
+     "United States",
+     "China"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22385",
+     "fr-2026-22292",
+     "fr-2026-22735"
+    ],
+    "watch_next": "Which exclusions were extended and their new expiry dates",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22925/notice-of-product-exclusion-extensions-chinas-acts-policies-and-practices-related-to-technology",
+    "published_date": "2026-11-10",
+    "duplicate_of": "fr-2026-22868",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22925/notice-of-product-exclusion-extensions-chinas-acts-policies-and-practices-related-to-technology",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22868",
+   "published": "2026-11-10T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Notice of Determination To Extend Section 301 Investigation of Vietnam's Acts, Policies…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "The United States Trade Representative (Trade Representative) has determined to extend for three months the ongoing Section 301 investigation of certain acts, policies…",
+   "body": "The United States Trade Representative (Trade Representative) has determined to extend for three months the ongoing Section 301 investigation of certain acts, policies, and practices of the Government of Vietnam related to intellectual property (IP) protection and enforcement.\n\nKey dates: This notice is effective as of Tuesday, November 3, 2026, at 12:01 a.m. EDT.\n\nDocument type: Notice. Agency: Trade Representative, Office of United States. Docket: Docket No. USTR-2026-0364.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Notice from Trade Representative, Office of United States",
+    "Docket Docket No. USTR-2026-0364"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-10",
+     "title": "Notice of Determination To Extend Section 301 Investigation of Vietnam's Acts, Policies, and Practices Related to Intellectual Property Protection and Enforcement",
+     "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22868/notice-of-determination-to-extend-section-301-investigation-of-vietnams-acts-policies-and-practices",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Notice of Determination To Extend Section 301 Investigation of Vietnam's Acts, Policies…",
+   "soWhat": {
+    "changed": "Trade Representative, Office of United States published a notice: Determination To Extend Section 301 Investigation of Vietnam's Acts, Policies…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Trade Representative, Office of United States"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "Companies sourcing from Vietnam face a longer window of possible US trade action.",
+    "n_sources": 1,
+    "signal_title": "USTR gives Vietnam Section 301 probe three more months",
+    "crux": "USTR extended its ongoing Section 301 investigation of certain Vietnamese acts, policies and practices by three months.",
+    "importance": "Medium",
+    "impact_score": 44,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Trade",
+     "Supply chains",
+     "Manufacturing"
+    ],
+    "affected_regions": [
+     "United States",
+     "Vietnam"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-22385",
+     "fr-2026-22292",
+     "fr-2026-22735"
+    ],
+    "watch_next": "USTR findings and any proposed action at the end of the extension",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22868/notice-of-determination-to-extend-section-301-investigation-of-vietnams-acts-policies-and-practices",
+    "published_date": "2026-11-10",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22868/notice-of-determination-to-extend-section-301-investigation-of-vietnams-acts-policies-and-practices",
+     "kind": "official journal"
     },
     "reported_by": null
    }
@@ -258,6 +606,97 @@
      "name": "Global Affairs Canada",
      "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
      "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22784",
+   "published": "2026-11-09T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically…",
+   "body": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.\n\nKey dates: Send comments on or before December 9, 2026.\n\nDocument type: Proposed rule. Agency: Transportation, Federal Aviation Administration. Docket: Docket No.: FAA-2026-9942, Notice No. 26-20.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Federal Aviation Administration",
+    "Comments close Dec 9, 2026",
+    "Docket Docket No.: FAA-2026-9942"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-09",
+     "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-12-09",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return"
+    }
+   ],
+   "titleMarkup": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+   "soWhat": {
+    "changed": "Federal Aviation Administration proposed a rule: Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+    "who": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for…",
+    "watch": "Comments close Dec 9, 2026 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Launch providers with upper stages that reenter uncontrolled could face a cheaper licensing case if the rule is finalized.",
+    "n_sources": 1,
+    "signal_title": "FAA moves to ease reentry safety proofs for launch operators",
+    "crux": "FAA proposed letting launch and reentry operators meet the high-consequence safety test for uncontrolled atmospheric returns by showing the vehicle breaks up enough. Two companion proposals filed the same day clarify flight safety limits.",
+    "importance": "Medium",
+    "impact_score": 48,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Space launch",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22789",
+     "6adbb54da4c20d730fe656c5",
+     "fr-2026-21818"
+    ],
+    "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+    "published_date": "2026-11-09",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+     "kind": "official journal"
     },
     "reported_by": null
    }
@@ -493,97 +932,6 @@
    }
   },
   {
-   "id": "fr-2026-22784",
-   "published": "2026-11-09T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically…",
-   "body": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.\n\nKey dates: Send comments on or before December 9, 2026.\n\nDocument type: Proposed rule. Agency: Transportation, Federal Aviation Administration. Docket: Docket No.: FAA-2026-9942, Notice No. 26-20.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Proposed rule from Federal Aviation Administration",
-    "Comments close Dec 9, 2026",
-    "Docket Docket No.: FAA-2026-9942"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-09",
-     "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "comment",
-     "label": "Comments close",
-     "date": "2026-12-09",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return"
-    }
-   ],
-   "titleMarkup": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-   "soWhat": {
-    "changed": "Federal Aviation Administration proposed a rule: Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-    "who": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for…",
-    "watch": "Comments close Dec 9, 2026 on federalregister.gov"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "Launch providers with upper stages that reenter uncontrolled could face a cheaper licensing case if the rule is finalized.",
-    "n_sources": 1,
-    "signal_title": "FAA moves to ease reentry safety proofs for launch operators",
-    "crux": "FAA proposed letting launch and reentry operators meet the high-consequence safety test for uncontrolled atmospheric returns by showing the vehicle breaks up enough. Two companion proposals filed the same day clarify flight safety limits.",
-    "importance": "Medium",
-    "impact_score": 48,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Space launch",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22789",
-     "6adbb54da4c20d730fe656c5",
-     "fr-2026-21818"
-    ],
-    "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-    "published_date": "2026-11-09",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
    "published": "2026-11-06T15:00:00Z",
    "kicker": "Arctic · National Defence",
@@ -662,6 +1010,90 @@
      "name": "National Defence",
      "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
      "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22789",
+   "published": "2026-11-06T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "The American Declaration of Freedom in Space",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
+   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-06",
+     "title": "The American Declaration of Freedom in Space",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "The American Declaration of Freedom in Space",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
+    "n_sources": 1,
+    "signal_title": "Washington declares outer space open to permanent American presence",
+    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Space",
+     "Space resources",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States",
+     "Global"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22784",
+     "fr-2026-21818",
+     "gg-364032"
+    ],
+    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official journal"
     },
     "reported_by": null
    }
@@ -761,90 +1193,6 @@
    }
   },
   {
-   "id": "fr-2026-22789",
-   "published": "2026-11-06T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "The American Declaration of Freedom in Space",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
-   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Presidential document from Executive Office of the President"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-06",
-     "title": "The American Declaration of Freedom in Space",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "The American Declaration of Freedom in Space",
-   "soWhat": {
-    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
-    "n_sources": 1,
-    "signal_title": "Washington declares outer space open to permanent American presence",
-    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
-    "importance": "Medium",
-    "impact_score": 45,
-    "time_horizon": "Long term",
-    "affected_sectors": [
-     "Space",
-     "Space resources",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States",
-     "Global"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22784",
-     "fr-2026-21818",
-     "gg-364032"
-    ],
-    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-    "published_date": "2026-11-06",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "eu-32026h2394",
    "published": "2026-11-06T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -911,8 +1259,7 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6ad66e84a07c63635f9885f2",
-     "6ad66e84a07c63635f988615",
-     "gg-363268"
+     "6ad66e84a07c63635f988615"
     ],
     "watch_next": "Uptake of the clauses in EU cloud procurement and contract renewals.",
     "confidence_score": 67,
@@ -1265,8 +1612,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "6adbb54da4c20d730fe656c5",
-     "6acab8dbf6dba531c0671d1b"
+     "fr-2026-22868",
+     "6adbb54da4c20d730fe656c5"
     ],
     "watch_next": "Follow-up commitments from the Canada-China Joint Economic and Trade Commission.",
     "confidence_score": 67,
@@ -1800,6 +2147,88 @@
    }
   },
   {
+   "id": "fr-2026-22386",
+   "published": "2026-11-02T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Memorandum for the Secretary of State [and] the Secretary of the Treasury By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby direct…",
+   "body": "Memorandum for the Secretary of State [and] the Secretary of the Treasury By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby direct: Section 1. (a) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by section 8335(a) of the National Defense Authorization Act for Fiscal Year 2026 (the ``Act'') (22 U.S.C. 10704(a)). Once sanctionable foreign persons are identified by the Secretary of State, I delegate to the heads of relevant executive departments and agencies, commensurate...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-02",
+     "title": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
+     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: Delegation of Authority Under Section 8335 of the National Defense Authorization Act for…",
+    "who": "Once sanctionable foreign persons are identified by the Secretary of State, I delegate to the heads of relevant executive departments and agencies…",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "An administrative step: designations under this section can now follow, so watch OFAC actions citing it.",
+    "n_sources": 1,
+    "signal_title": "Treasury and State get the new NDAA section 8335 sanctions powers",
+    "crux": "A presidential memorandum delegates the sanctions authorities in section 8335 of the FY2026 NDAA to the Treasury Secretary, with State identifying the foreign persons to be sanctioned.",
+    "importance": "Low",
+    "impact_score": 38,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Compliance",
+     "Banking"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
+     "eu-32026r2490",
+     "fr-2026-22861"
+    ],
+    "watch_next": "The first designations or OFAC regulations issued under section 8335.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
+    "published_date": "2026-11-02",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "fr-2026-22385",
    "published": "2026-11-02T12:00:00Z",
    "kicker": "Geoeconomics · Federal Register",
@@ -1880,88 +2309,6 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "fr-2026-22386",
-   "published": "2026-11-02T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Memorandum for the Secretary of State [and] the Secretary of the Treasury By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby direct…",
-   "body": "Memorandum for the Secretary of State [and] the Secretary of the Treasury By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby direct: Section 1. (a) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by section 8335(a) of the National Defense Authorization Act for Fiscal Year 2026 (the ``Act'') (22 U.S.C. 10704(a)). Once sanctionable foreign persons are identified by the Secretary of State, I delegate to the heads of relevant executive departments and agencies, commensurate...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Presidential document from Executive Office of the President"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-02",
-     "title": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
-     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
-   "soWhat": {
-    "changed": "Executive Office of the President published a presidential document: Delegation of Authority Under Section 8335 of the National Defense Authorization Act for…",
-    "who": "Once sanctionable foreign persons are identified by the Secretary of State, I delegate to the heads of relevant executive departments and agencies…",
-    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "An administrative step: designations under this section can now follow, so watch OFAC actions citing it.",
-    "n_sources": 1,
-    "signal_title": "Treasury and State get the new NDAA section 8335 sanctions powers",
-    "crux": "A presidential memorandum delegates the sanctions authorities in section 8335 of the FY2026 NDAA to the Treasury Secretary, with State identifying the foreign persons to be sanctioned.",
-    "importance": "Low",
-    "impact_score": 38,
-    "time_horizon": "Medium term",
-    "affected_sectors": [
-     "Compliance",
-     "Banking"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
-     "eu-32026r2490",
-     "6ad0c1add38f38895d8ec75b"
-    ],
-    "watch_next": "The first designations or OFAC regulations issued under section 8335.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
-    "published_date": "2026-11-02",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
      "kind": "official journal"
     },
     "reported_by": null
@@ -2071,7 +2418,7 @@
    ],
    "primary": "geo",
    "summary": "National Energy Technology Laboratory is taking applications until Feb 8, 2027 for Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED).",
-   "body": "National Energy Technology Laboratory (Department of Energy) posted funding opportunity DE-FOA-0003641, \"Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)\", on Grants.gov on Oct 30, 2026. Applications close Feb 8, 2027.\n\nGrid Supply Chain Alternatives to Lead Energy Dominance (SCALED) This initiative will deploy a multi-faceted approach to bolster domestic capabilities to withstand supply chain shocks, ensure a reliable energy infrastructure, and position the U.S. as a global leader in foundational grid technologies.\n\nEstimated total funding: $237,000,000. Award ceiling: $237,000,000. Expected awards: 70.\n\nWhy it matters: Federal funding calls show where Washington is paying for research and capacity. Check the full notice of funding opportunity for eligibility, cost-share rules and how to apply.",
+   "body": "National Energy Technology Laboratory (Department of Energy) posted funding opportunity DE-FOA-0003641, \"Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)\", on Grants.gov on Oct 30, 2026. Applications close Feb 8, 2027.\n\nGrid Supply Chain Alternatives to Lead Energy Dominance (SCALED) This initiative will deploy a multi-faceted approach to bolster domestic capabilities to withstand supply chain shocks, ensure a reliable energy infrastructure, and position the U.S. as a global leader in foundational grid technologies. Modification 000001: Issued to update NOFO, Part 1 Section II.A. Eligibility - Participant Limitations to clarify that Tennessee Valley Authority (TVA) and Department of Energy Power Marketing Administrations (PMAs) as eligible (prime) applicants for Topic Area 2, only.\n\nEstimated total funding: $237,000,000. Award ceiling: $237,000,000. Expected awards: 70.\n\nWhy it matters: Federal funding calls show where Washington is paying for research and capacity. Check the full notice of funding opportunity for eligibility, cost-share rules and how to apply.",
    "stat": {
     "value": "$237,000,000",
     "label": "estimated total funding, applications due Feb 8, 2027"
@@ -4191,11 +4538,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.58M km²",
+    "value": "8.66M km²",
     "unit": "daily extent",
-    "change": "-1.56M km² vs the 1981–2010 average for the date",
+    "change": "-1.55M km² vs the 1981–2010 average for the date",
     "series": [
-     6.076,
      6.178,
      6.297,
      6.33,
@@ -4224,14 +4570,11 @@
      8.311,
      8.425,
      8.547,
-     8.58
+     8.58,
+     8.658
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-11",
-      5.829
-     ],
      [
       "2026-08-12",
       5.726
@@ -4587,11 +4930,15 @@
      [
       "2026-11-08",
       8.58
+     ],
+     [
+      "2026-11-09",
+      8.658
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-08",
-    "asOfLabel": "Nov 8, 2026",
+    "asOf": "2026-11-09",
+    "asOfLabel": "Nov 9, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -6085,11 +6432,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.58M km²",
+    "value": "8.66M km²",
     "unit": "daily extent",
-    "change": "-1.56M km² vs the 1981–2010 average for the date",
+    "change": "-1.55M km² vs the 1981–2010 average for the date",
     "series": [
-     6.076,
      6.178,
      6.297,
      6.33,
@@ -6118,14 +6464,11 @@
      8.311,
      8.425,
      8.547,
-     8.58
+     8.58,
+     8.658
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-11",
-      5.829
-     ],
      [
       "2026-08-12",
       5.726
@@ -6481,11 +6824,15 @@
      [
       "2026-11-08",
       8.58
+     ],
+     [
+      "2026-11-09",
+      8.658
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-08",
-    "asOfLabel": "Nov 8, 2026",
+    "asOf": "2026-11-09",
+    "asOfLabel": "Nov 9, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -7020,11 +7367,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.58M km²",
+    "value": "8.66M km²",
     "unit": "daily extent",
-    "change": "-1.56M km² vs the 1981–2010 average for the date",
+    "change": "-1.55M km² vs the 1981–2010 average for the date",
     "series": [
-     6.076,
      6.178,
      6.297,
      6.33,
@@ -7053,14 +7399,11 @@
      8.311,
      8.425,
      8.547,
-     8.58
+     8.58,
+     8.658
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-11",
-      5.829
-     ],
      [
       "2026-08-12",
       5.726
@@ -7416,11 +7759,15 @@
      [
       "2026-11-08",
       8.58
+     ],
+     [
+      "2026-11-09",
+      8.658
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-08",
-    "asOfLabel": "Nov 8, 2026",
+    "asOf": "2026-11-09",
+    "asOfLabel": "Nov 9, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -7770,11 +8117,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.58M km²",
+    "value": "8.66M km²",
     "unit": "daily extent",
-    "change": "-1.56M km² vs the 1981–2010 average for the date",
+    "change": "-1.55M km² vs the 1981–2010 average for the date",
     "series": [
-     6.076,
      6.178,
      6.297,
      6.33,
@@ -7803,14 +8149,11 @@
      8.311,
      8.425,
      8.547,
-     8.58
+     8.58,
+     8.658
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-11",
-      5.829
-     ],
      [
       "2026-08-12",
       5.726
@@ -8166,11 +8509,15 @@
      [
       "2026-11-08",
       8.58
+     ],
+     [
+      "2026-11-09",
+      8.658
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-08",
-    "asOfLabel": "Nov 8, 2026",
+    "asOf": "2026-11-09",
+    "asOfLabel": "Nov 9, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -8416,11 +8763,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.58M km²",
+    "value": "8.66M km²",
     "unit": "daily extent",
-    "change": "-1.56M km² vs the 1981–2010 average for the date",
+    "change": "-1.55M km² vs the 1981–2010 average for the date",
     "series": [
-     6.076,
      6.178,
      6.297,
      6.33,
@@ -8449,14 +8795,11 @@
      8.311,
      8.425,
      8.547,
-     8.58
+     8.58,
+     8.658
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-11",
-      5.829
-     ],
      [
       "2026-08-12",
       5.726
@@ -8812,11 +9155,15 @@
      [
       "2026-11-08",
       8.58
+     ],
+     [
+      "2026-11-09",
+      8.658
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-08",
-    "asOfLabel": "Nov 8, 2026",
+    "asOf": "2026-11-09",
+    "asOfLabel": "Nov 9, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -9972,9 +10319,9 @@
     "risk_level": "Low",
     "opportunity_level": "Medium",
     "related_signals": [
+     "gg-364247",
      "fr-2026-21818",
-     "fr-2026-22789",
-     "6ad66e84a07c63635f98860f"
+     "fr-2026-22789"
     ],
     "watch_next": "Step-1 proposals due November 20, 2026; step-2 cannot be filed without one.",
     "confidence_score": 67,
@@ -9996,11 +10343,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "8.58M km²",
+   "value": "8.66M km²",
    "unit": "daily extent",
-   "change": "-1.56M km² vs the 1981–2010 average for the date",
+   "change": "-1.55M km² vs the 1981–2010 average for the date",
    "series": [
-    6.076,
     6.178,
     6.297,
     6.33,
@@ -10029,19 +10375,16 @@
     8.311,
     8.425,
     8.547,
-    8.58
+    8.58,
+    8.658
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-08",
-   "asOfLabel": "Nov 8, 2026",
+   "asOf": "2026-11-09",
+   "asOfLabel": "Nov 9, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-11",
-     5.829
-    ],
     [
      "2026-08-12",
      5.726
@@ -10397,6 +10740,10 @@
     [
      "2026-11-08",
      8.58
+    ],
+    [
+     "2026-11-09",
+     8.658
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -10643,7 +10990,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-10T11:04:01+00:00",
+  "asOf": "2026-11-10T18:57:59+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -10661,7 +11008,7 @@
     },
     "90": {
      "cur": 17,
-     "prev": 2,
+     "prev": 1,
      "dir": "up",
      "reliable": false
     }
@@ -10768,9 +11115,9 @@
    },
    "energy-power": {
     "7": {
-     "cur": 3,
-     "prev": 1,
-     "dir": "up",
+     "cur": 1,
+     "prev": 3,
+     "dir": "down",
      "reliable": true
     },
     "30": {
@@ -10788,20 +11135,20 @@
    },
    "geo": {
     "7": {
-     "cur": 14,
+     "cur": 16,
      "prev": 12,
-     "dir": "steady",
+     "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 44,
+     "cur": 48,
      "prev": 2,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 46,
-     "prev": 3,
+     "cur": 50,
+     "prev": 2,
      "dir": "up",
      "reliable": false
     }
@@ -10809,7 +11156,7 @@
    "minerals": {
     "7": {
      "cur": 0,
-     "prev": 5,
+     "prev": 2,
      "dir": "down",
      "reliable": true
     },
@@ -10848,19 +11195,19 @@
    },
    "space-satellites": {
     "7": {
-     "cur": 3,
+     "cur": 4,
      "prev": 0,
      "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 5,
+     "cur": 6,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 6,
+     "cur": 7,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -10888,19 +11235,19 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 6,
+     "cur": 9,
      "prev": 5,
-     "dir": "steady",
+     "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 13,
+     "cur": 16,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 14,
+     "cur": 17,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -10909,21 +11256,21 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-10T11:04:08+00:00",
+  "asOf": "2026-11-10T18:58:14+00:00",
   "counts": {
    "arctic": 15,
    "ai": 17,
    "minerals": 16,
-   "geo": 48,
+   "geo": 52,
    "ai-investment-infrastructure": 7,
    "energy-power": 9,
-   "trade-sanctions": 16,
+   "trade-sanctions": 19,
    "strategic-supply-chains": 7,
    "defense-technology": 6,
    "semiconductors": 4,
    "economic-security": 3,
    "cyber-digital-sovereignty": 2,
-   "space-satellites": 6
+   "space-satellites": 7
   },
   "live": [
    "arctic",
