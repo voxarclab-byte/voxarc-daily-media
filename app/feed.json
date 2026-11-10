@@ -1,8 +1,941 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-06T11:08:52+00:00",
+ "generated": "2026-11-10T05:29:28+00:00",
  "items": [
+  {
+   "id": "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
+   "published": "2026-11-09T15:00:00Z",
+   "kicker": "Geoeconomics · Department of Finance Canada",
+   "title": "Canada modifies tariff relief measures to better support workers and businesses",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "On Nov 9, 2026, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, announced changes to Canada’s tariff relief measures to better support Canadian businesses and workers affected by U.S. tariffs…",
+   "body": "On Nov 9, 2026, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, announced changes to Canada’s tariff relief measures to better support Canadian businesses and workers affected by U.S. tariffs, while encouraging the use of Canadian-made goods wherever possible.\n\nDepartment of Finance Canada published this news release on Nov 9, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from Department of Finance Canada"
+   ],
+   "sources": [
+    {
+     "publisher": "Department of Finance Canada",
+     "date": "2026-11-09",
+     "title": "Canada modifies tariff relief measures to better support workers and businesses",
+     "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-modifies-tariff-relief-measures-to-better-support-workers-and-businesses.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "Department of Finance Canada",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Canada modifies tariff relief measures to better support workers and businesses",
+   "soWhat": {
+    "changed": "On Nov 9, 2026, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on regulations, orders or funding details from Department of Finance Canada"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "Importers of trailers, aluminum wire and extrusions and paperboard lose relief and should line up Canadian suppliers or file case-by-case remission requests.",
+    "n_sources": 1,
+    "signal_title": "Ottawa extends US tariff relief to mid-2028 but pulls it where Canada makes the goods",
+    "crux": "Finance Canada extended horizontal remission on US tariffs by one year to June 30, 2028, added non-steel mining, quarrying and oil and gas inputs, and will remove relief for goods with domestic production from Dec 1, 2026 and Feb 1, 2027.",
+    "importance": "Medium",
+    "impact_score": 62,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Manufacturing",
+     "Mining",
+     "Oil and gas",
+     "Trade compliance"
+    ],
+    "affected_regions": [
+     "Canada",
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22292",
+     "fr-2026-22735",
+     "fr-2026-22385"
+    ],
+    "watch_next": "Product schedules on the Finance Canada website and the Dec 1, 2026 removal for certain trailers.",
+    "confidence_score": 67,
+    "source_name": "Department of Finance Canada",
+    "source_url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-modifies-tariff-relief-measures-to-better-support-workers-and-businesses.html",
+    "published_date": "2026-11-09",
+    "key_number": null,
+    "primary_source": {
+     "name": "Department of Finance Canada",
+     "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-modifies-tariff-relief-measures-to-better-support-workers-and-businesses.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
+   "published": "2026-11-09T15:00:00Z",
+   "kicker": "Geoeconomics · Global Affairs Canada",
+   "title": "Minister Anand announces additional sanctions to reduce Russia’s missile capabilities and raise economic costs",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced on the margins of the G7 Foreign Ministers’ Meeting in Paris, France, that Canada is imposing additional sanctions on Russia under the Special Economic Measures (Russia) Regulations.",
+   "body": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced on the margins of the G7 Foreign Ministers’ Meeting in Paris, France, that Canada is imposing additional sanctions on Russia under the Special Economic Measures (Russia) Regulations.\n\nGlobal Affairs Canada published this news release on Nov 9, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from Global Affairs Canada"
+   ],
+   "sources": [
+    {
+     "publisher": "Global Affairs Canada",
+     "date": "2026-11-09",
+     "title": "Minister Anand announces additional sanctions to reduce Russia’s missile capabilities and raise economic costs",
+     "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "Global Affairs Canada",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Minister Anand announces additional sanctions to reduce Russia’s missile capabilities and raise economic costs",
+   "soWhat": {
+    "changed": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced on the margins of the G7 Foreign Ministers’ Meeting in Paris, France…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on regulations, orders or funding details from Global Affairs Canada"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Canadian banks, exchanges and exporters need to rescreen counterparties now, with crypto platforms newly in scope.",
+    "n_sources": 1,
+    "signal_title": "Canada targets Russia's missile, cyber and crypto enablers",
+    "crux": "Canada listed 38 more entities and 24 individuals under its Russia sanctions regulations, aimed at the defence industrial base, ballistic missile development, cyber activity and financial enablers including crypto exchanges.",
+    "importance": "Medium",
+    "impact_score": 58,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Compliance",
+     "Defence",
+     "Crypto",
+     "Banking"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Russia"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-22386",
+     "eu-32026r2490",
+     "6ad66e84a07c63635f9885ef"
+    ],
+    "watch_next": "Matching G7 listings and the updated schedule of the Special Economic Measures (Russia) Regulations.",
+    "confidence_score": 67,
+    "source_name": "Global Affairs Canada",
+    "source_url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
+    "published_date": "2026-11-09",
+    "key_number": {
+     "value": "38",
+     "unit": "more entities",
+     "label": "",
+     "kind": "count"
+    },
+    "primary_source": {
+     "name": "Global Affairs Canada",
+     "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22793",
+   "published": "2026-11-09T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Extension of the Suspension of Expansion of End-User Controls for Affiliates of Certain Listed Entities",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "The Bureau of Industry and Security (BIS) is extending the suspension of the interim final rule (IFR), \"Expansion of End-User Controls to Cover Affiliates of Certain Listed Entities.\" The suspension was set to end November 9…",
+   "body": "The Bureau of Industry and Security (BIS) is extending the suspension of the interim final rule (IFR), \"Expansion of End-User Controls to Cover Affiliates of Certain Listed Entities.\" The suspension was set to end November 9, 2026. This final rule extends the suspension through January 10, 2027.\n\nKey dates: Effective November 9, 2026, the amendments to 15 CFR parts 732, 734, 736, 744, and 748 in the interim final rule published at 90 FR 47201, on September 30, 2025, and stayed on November 10, 2025, at 90 FR 50857, are further stayed until January 10, 2027.\n\nDocument type: Final rule. Agency: Commerce, Industry and Security Bureau. Docket: Docket No. 261027-0002.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Industry and Security Bureau",
+    "Takes effect Nov 9, 2026",
+    "Docket Docket No. 261027-0002"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-09",
+     "title": "Extension of the Suspension of Expansion of End-User Controls for Affiliates of Certain Listed Entities",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-11-09",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed"
+    }
+   ],
+   "titleMarkup": "Extension of the Suspension of Expansion of End-User Controls for Affiliates of Certain Listed Entities",
+   "soWhat": {
+    "changed": "The Commerce Department's Bureau of Industry and Security (BIS) issued a final rule: Extension of the Suspension of Expansion of End-User Controls for…",
+    "who": "The Bureau of Industry and Security (BIS) is extending the suspension of the interim final rule (IFR)…",
+    "watch": "Takes effect Nov 9, 2026"
+   },
+   "dataCard": {
+    "id": "bis-rules",
+    "kind": "count",
+    "title": "US export-control rules (BIS)",
+    "value": "13",
+    "unit": "final rules in 2026 so far",
+    "change": "14 in the last 12 months",
+    "series": [
+     1,
+     2,
+     1,
+     0,
+     1,
+     0,
+     0,
+     2,
+     5,
+     1,
+     0,
+     1
+    ],
+    "seriesLabel": "Final rules per month, last 12 months",
+    "weekly": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     1,
+     0,
+     1,
+     1,
+     2,
+     1,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "weeklyEntityList": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "weeklyLabel": "Final rules per week, last 52 weeks",
+    "asOf": "2026-11-10",
+    "asOfLabel": "Nov 10, 2026",
+    "source": "Federal Register API, Bureau of Industry and Security",
+    "license": "Public domain (US government work)",
+    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Exporters get a two-month reprieve on screening the affiliates of Entity List parties, but should keep ownership mapping ready.",
+    "n_sources": 1,
+    "signal_title": "BIS keeps the affiliates rule frozen until January 10",
+    "crux": "BIS extended the stay on its rule expanding end-user controls to affiliates of listed entities, so the expansion cannot apply before January 10, 2027.",
+    "importance": "High",
+    "impact_score": 66,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Trade compliance",
+     "Semiconductors",
+     "Logistics"
+    ],
+    "affected_regions": [
+     "United States",
+     "China"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22094",
+     "6ad66e84a07c63635f9885ed",
+     "6adbb54da4c20d730fe656c5"
+    ],
+    "watch_next": "Whether BIS lets the stay lapse, extends it again or rewrites the rule before January 10, 2027.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
+    "published_date": "2026-11-09",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22784",
+   "published": "2026-11-09T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically…",
+   "body": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.\n\nKey dates: Send comments on or before December 9, 2026.\n\nDocument type: Proposed rule. Agency: Transportation, Federal Aviation Administration. Docket: Docket No.: FAA-2026-9942, Notice No. 26-20.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Federal Aviation Administration",
+    "Comments close Dec 9, 2026",
+    "Docket Docket No.: FAA-2026-9942"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-09",
+     "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-12-09",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return"
+    }
+   ],
+   "titleMarkup": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+   "soWhat": {
+    "changed": "Federal Aviation Administration proposed a rule: Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+    "who": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for…",
+    "watch": "Comments close Dec 9, 2026 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Launch providers with upper stages that reenter uncontrolled could face a cheaper licensing case if the rule is finalized.",
+    "n_sources": 1,
+    "signal_title": "FAA moves to ease reentry safety proofs for launch operators",
+    "crux": "FAA proposed letting launch and reentry operators meet the high-consequence safety test for uncontrolled atmospheric returns by showing the vehicle breaks up enough. Two companion proposals filed the same day clarify flight safety limits.",
+    "importance": "Medium",
+    "impact_score": 48,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Space launch",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22789",
+     "6adbb54da4c20d730fe656c5",
+     "fr-2026-21818"
+    ],
+    "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+    "published_date": "2026-11-09",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
+   "published": "2026-11-06T15:00:00Z",
+   "kicker": "Arctic · National Defence",
+   "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+   "topics": [
+    "arctic"
+   ],
+   "primary": "arctic",
+   "summary": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago…",
+   "body": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago, which demonstrated the capabilities of the ship and crew.\n\nNational Defence published this news release on Nov 6, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from National Defence"
+   ],
+   "sources": [
+    {
+     "publisher": "National Defence",
+     "date": "2026-11-06",
+     "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "National Defence",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+   "soWhat": {
+    "changed": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia…",
+    "who": "Arctic governments, Indigenous communities, shipping and defence planners",
+    "watch": "Follow-on regulations, orders or funding details from National Defence"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "Ottawa is treating the Northwest Passage as a routine naval route, which strengthens its sovereignty position with allies and shippers.",
+    "n_sources": 1,
+    "signal_title": "Canadian Navy now moves warships between oceans through the Arctic",
+    "crux": "HMCS Robert Hampton Gray finished an 83-day deployment through the Canadian Arctic Archipelago, the first such voyage used to move a ship from the Atlantic to the Pacific fleet, after leading a multinational task group in Operation NANOOK.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Arctic",
+     "Greenland"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ad7c0a0a69d84a91a2bf0be",
+     "6ad66e84a07c63635f9885ef",
+     "6acab8dbf6dba531c0671d32"
+    ],
+    "watch_next": "Next summer's NANOOK deployments and how often the navy repeats the Arctic transfer route.",
+    "confidence_score": 67,
+    "source_name": "National Defence",
+    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "National Defence",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22735",
+   "published": "2026-11-06T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Heightened Requirements for Foreign Importers of Record",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "This document amends the U.S. Customs and Border Protection (CBP) regulations, consistent with Section 2 of Executive Order 14411, \"Strengthening Customs Enforcement,\" by establishing new requirements for foreign importers of record (IORs) when making entry…",
+   "body": "This document amends the U.S. Customs and Border Protection (CBP) regulations, consistent with Section 2 of Executive Order 14411, \"Strengthening Customs Enforcement,\" by establishing new requirements for foreign importers of record (IORs) when making entry, and corresponding responsibilities for licensed customs brokers with regard to their clients. The new regulations also set forth consequences for foreign IORs and customs brokers who fail to comply with the new requirements.\n\nKey dates: This interim final rule is effective on January 5, 2027. As explained in Section VII, licensed customs brokers may submit requests for delayed compliance with the changes in Sec. 111.29 of title 19 of the Code of Federal Regulations (19 CFR 111.29) prior to January 5, 2027. All customs brokers are expected to be in full compliance with the requirements of this rule no later than May 6, 2027.\n\nDocument type: Final rule. Agency: Homeland Security, U.S. Customs and Border Protection. Docket: USCBP-2026-1387, CBP Dec. 26-19.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from U.S. Customs and Border Protection",
+    "Takes effect Jan 5, 2027",
+    "Docket USCBP-2026-1387"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-06",
+     "title": "Heightened Requirements for Foreign Importers of Record",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2027-01-05",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record"
+    }
+   ],
+   "titleMarkup": "Heightened Requirements for Foreign Importers of Record",
+   "soWhat": {
+    "changed": "U.S. Customs and Border Protection issued a final rule: Heightened Requirements for Foreign Importers of Record",
+    "who": "This document amends the U.S. Customs and Border Protection (CBP) regulations, consistent with Section 2 of Executive Order 14411…",
+    "watch": "Takes effect Jan 5, 2027"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "Non-US companies that act as importer of record, and the brokers who file for them, should review their arrangements before January.",
+    "n_sources": 1,
+    "signal_title": "CBP raises the bar for foreign importers of record",
+    "crux": "CBP issued an interim final rule setting new entry requirements for foreign importers of record and new client duties for licensed customs brokers, with penalties for non-compliance. It takes effect January 5, 2027.",
+    "importance": "Medium",
+    "impact_score": 63,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Customs and trade compliance",
+     "Logistics",
+     "Retail",
+     "Manufacturing"
+    ],
+    "affected_regions": [
+     "United States",
+     "Canada"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-22292",
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
+     "fr-2026-22385"
+    ],
+    "watch_next": "Effective January 5, 2027; brokers must be fully compliant by May 6, 2027.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22789",
+   "published": "2026-11-06T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "The American Declaration of Freedom in Space",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
+   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-06",
+     "title": "The American Declaration of Freedom in Space",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "The American Declaration of Freedom in Space",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
+    "n_sources": 1,
+    "signal_title": "Washington declares outer space open to permanent American presence",
+    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Space",
+     "Space resources",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States",
+     "Global"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22784",
+     "fr-2026-21818",
+     "gg-364032"
+    ],
+    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026h2394",
+   "published": "2026-11-06T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Commission Recommendation (EU) 2026/2394: On non-binding model contractual terms on data access and use and…",
+   "topics": [
+    "geo",
+    "cyber-digital-sovereignty"
+   ],
+   "primary": "geo",
+   "summary": "Commission Recommendation (EU) 2026/2394 of 29 October 2026 on non-binding model contractual terms on data access and use and non-binding standard contractual clauses for cloud computing contracts",
+   "body": "Commission Recommendation (EU) 2026/2394 of 29 October 2026 on non-binding model contractual terms on data access and use and non-binding standard contractual clauses for cloud computing contracts.\n\nPublished in the Official Journal of the European Union, L series, on Nov 6, 2026. CELEX number 32026H2394. Act type: Commission Recommendation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Commission Recommendation (EU) 2026/2394",
+    "Published Nov 6, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-06",
+     "title": "Commission Recommendation (EU) 2026/2394 of 29 October 2026 on non-binding model contractual terms on data access and use and non-binding standard contractual clauses for cloud computing contracts",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026H2394",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Commission Recommendation (EU) 2026/2394: On non-binding model contractual terms on data access and use and…",
+   "soWhat": {
+    "changed": "The EU published Commission Recommendation (EU) 2026/2394 in the Official Journal on Nov 6, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "EU cloud customers gain a ready template for negotiating cloud and data access terms with providers.",
+    "n_sources": 1,
+    "signal_title": "Brussels publishes model contract terms for data sharing and cloud deals",
+    "crux": "The Commission issued a recommendation with non-binding model terms for data access and use and standard contractual clauses for cloud computing contracts.",
+    "importance": "Medium",
+    "impact_score": 46,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Cloud",
+     "Data",
+     "Software"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ad66e84a07c63635f9885f2",
+     "6ad66e84a07c63635f988615",
+     "gg-363268"
+    ],
+    "watch_next": "Uptake of the clauses in EU cloud procurement and contract renewals.",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026H2394",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026H2394",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22617",
+   "published": "2026-11-05T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Deepwater Port Application Processing and Licensing",
+   "topics": [
+    "geo",
+    "strategic-supply-chains"
+   ],
+   "primary": "geo",
+   "summary": "This document proposes procedures for the processing of applications for the licensing of deepwater ports. The proposed rule reflects the transfer of deepwater port license application processing management under the Deepwater Port Act from the United States…",
+   "body": "This document proposes procedures for the processing of applications for the licensing of deepwater ports. The proposed rule reflects the transfer of deepwater port license application processing management under the Deepwater Port Act from the United States Coast Guard (USCG) to MARAD. Pursuant to the National Defense Authorization Act for Fiscal Year 2026 (2026 NDAA), MARAD is the Federal lead agency for purposes of the National Environmental Policy Act of 1969 (NEPA) for all deepwater port license applications. USCG responsibility for authorities pertaining to design, construction, equipment, operation of deepwater ports, and navigational safety are not affected by the 2026 NDAA statutory changes, or this proposed rule and will continue to be administered by USCG.\n\nKey dates: Comments should be filed on or before January 4, 2027. Late comments will be considered to the extent practicable.\n\nDocument type: Proposed rule. Agency: Transportation, Maritime Administration. Docket: Docket Number MARAD-2026-0728.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Maritime Administration",
+    "Comments close Jan 4, 2027",
+    "Docket Docket Number MARAD-2026-0728"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-05",
+     "title": "Deepwater Port Application Processing and Licensing",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2027-01-04",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing"
+    }
+   ],
+   "titleMarkup": "Deepwater Port Application Processing and Licensing",
+   "soWhat": {
+    "changed": "Maritime Administration proposed a rule: Deepwater Port Application Processing and Licensing",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Comments close Jan 4, 2027 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Offshore export terminal developers will deal with one lead agency for licensing and environmental review.",
+    "n_sources": 1,
+    "signal_title": "Deepwater port licensing moves from the Coast Guard to MARAD",
+    "crux": "MARAD proposed procedures for processing deepwater port license applications after the 2026 NDAA moved that role from the Coast Guard and made MARAD the lead NEPA agency. Coast Guard safety duties stay in place.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Ports",
+     "Oil and gas",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22052",
+     "gc-roberts-bank-terminal-2-listed-as-a-project-of-national-inte",
+     "6ad7c0a0a69d84a91a2bf0be"
+    ],
+    "watch_next": "Comments close January 4, 2027 on docket MARAD-2026-0728.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
+    "published_date": "2026-11-05",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "fr-2026-22593",
    "published": "2026-11-05T12:00:00Z",
@@ -91,12 +1024,1155 @@
    }
   },
   {
+   "id": "fr-2026-22600",
+   "published": "2026-11-05T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Modernizing Spectrum Sharing for Satellite Broadband",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "In this document, the Space Bureau (Bureau or we) within the Federal Communications Commission (Commission) updates the initial set of geostationary…",
+   "body": "In this document, the Space Bureau (Bureau or we) within the Federal Communications Commission (Commission) updates the initial set of geostationary (GSO) satellite network reference links adopted in the Modernizing Spectrum Sharing for Satellite Broadband Report and Order (Order). Ensuring the GSO reference links appropriately reflect typical and widespread GSO satellite operations in the United States will promote efficient spectrum sharing among today's broadband satellite systems.\n\nKey dates: Effective December 7, 2026.\n\nDocument type: Final rule. Agency: Federal Communications Commission. Docket: SB Docket No. 25-157, DA 26-973, FR ID 375524.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Federal Communications Commission",
+    "Takes effect Dec 7, 2026",
+    "Docket SB Docket No. 25-157"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-05",
+     "title": "Modernizing Spectrum Sharing for Satellite Broadband",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22600/modernizing-spectrum-sharing-for-satellite-broadband",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-12-07",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22600/modernizing-spectrum-sharing-for-satellite-broadband"
+    }
+   ],
+   "titleMarkup": "Modernizing Spectrum Sharing for Satellite Broadband",
+   "soWhat": {
+    "changed": "Federal Communications Commission issued a final rule: Modernizing Spectrum Sharing for Satellite Broadband",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Takes effect Dec 7, 2026"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Operators of large non-geostationary constellations and GSO incumbents both have their interference baseline reset.",
+    "n_sources": 1,
+    "signal_title": "FCC updates reference links for satellite broadband spectrum sharing",
+    "crux": "The FCC Space Bureau updated the set of geostationary satellite reference links used to govern spectrum sharing with newer broadband satellite systems. The change takes effect December 7, 2026.",
+    "importance": "Medium",
+    "impact_score": 44,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Satellite communications",
+     "Telecom"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-21818",
+     "6ad66e84a07c63635f9885ed",
+     "6ad66e84a07c63635f98860f"
+    ],
+    "watch_next": "Effective December 7, 2026 and any petitions from GSO or NGSO operators.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22600/modernizing-spectrum-sharing-for-satellite-broadband",
+    "published_date": "2026-11-05",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22600/modernizing-spectrum-sharing-for-satellite-broadband",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gc-minister-sidhu-announces-extension-of-favourable-market-acce",
+   "published": "2026-11-04T15:00:00Z",
+   "kicker": "Geoeconomics · Global Affairs Canada",
+   "title": "Minister Sidhu announces extension of favourable market access for Canadian canola meal, peas…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "On Nov 4, 2026, the Honourable Maninder Sidhu, Minister of International Trade, announced that Canada and China have agreed to a two-year extension until the end of 2028 of the favourable market access provided under the Preliminary Joint Arrangement for…",
+   "body": "On Nov 4, 2026, the Honourable Maninder Sidhu, Minister of International Trade, announced that Canada and China have agreed to a two-year extension until the end of 2028 of the favourable market access provided under the Preliminary Joint Arrangement for Canadian canola meal, peas, lobsters and crab.\n\nGlobal Affairs Canada published this news release on Nov 4, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from Global Affairs Canada"
+   ],
+   "sources": [
+    {
+     "publisher": "Global Affairs Canada",
+     "date": "2026-11-04",
+     "title": "Minister Sidhu announces extension of favourable market access for Canadian canola meal, peas, lobsters and crab through 2028",
+     "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-sidhu-announces-extension-of-favourable-market-access-for-canadian-canola-meal-peas-lobsters-and-crab-through-2028.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "Global Affairs Canada",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Minister Sidhu announces extension of favourable market access for Canadian canola meal, peas…",
+   "soWhat": {
+    "changed": "On Nov 4, 2026, the Honourable Maninder Sidhu, Minister of International Trade, announced that Canada and China have agreed to a two-year extension until the…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on regulations, orders or funding details from Global Affairs Canada"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "Exporters of these products get two years of certainty to sign longer Chinese contracts.",
+    "n_sources": 1,
+    "signal_title": "China extends Canadian canola meal and seafood access to 2028",
+    "crux": "Canada and China agreed to extend favourable market access for Canadian canola meal, peas, lobsters and crab until the end of 2028, at the first ministerial-level Joint Economic and Trade Commission.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Agriculture",
+     "Seafood",
+     "Trade"
+    ],
+    "affected_regions": [
+     "Canada",
+     "China"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "6adbb54da4c20d730fe656c5",
+     "6acab8dbf6dba531c0671d1b",
+     "6ad66e84a07c63635f9885f2"
+    ],
+    "watch_next": "Follow-up commitments from the Canada-China Joint Economic and Trade Commission.",
+    "confidence_score": 67,
+    "source_name": "Global Affairs Canada",
+    "source_url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-sidhu-announces-extension-of-favourable-market-access-for-canadian-canola-meal-peas-lobsters-and-crab-through-2028.html",
+    "published_date": "2026-11-04",
+    "key_number": null,
+    "primary_source": {
+     "name": "Global Affairs Canada",
+     "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-sidhu-announces-extension-of-favourable-market-access-for-canadian-canola-meal-peas-lobsters-and-crab-through-2028.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gc-commission-authorizes-operation-of-bruce-b-nuclear-generatin",
+   "published": "2026-11-04T15:00:00Z",
+   "kicker": "Geoeconomics · Canadian Nuclear Safety Commission",
+   "title": "Commission authorizes operation of Bruce B Nuclear Generating Station Units 7 and 8 up to 310,000 effective…",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "On Nov 4, 2026, the Canadian Nuclear Safety Commission announced the Commission’s decision to amend the licensing basis for the Bruce Nuclear Generating Station.",
+   "body": "On Nov 4, 2026, the Canadian Nuclear Safety Commission announced the Commission’s decision to amend the licensing basis for the Bruce Nuclear Generating Station.\n\nCanadian Nuclear Safety Commission published this news release on Nov 4, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from Canadian Nuclear Safety Commission"
+   ],
+   "sources": [
+    {
+     "publisher": "Canadian Nuclear Safety Commission",
+     "date": "2026-11-04",
+     "title": "Commission authorizes operation of Bruce B Nuclear Generating Station Units 7 and 8 up to 310,000 effective full power hours",
+     "url": "https://www.canada.ca/en/nuclear-safety-commission/news/2026/11/commission-authorizes-operation-of-bruce-b-nuclear-generating-station-units-7-and-8-up-to-310000-effective-full-power-hours.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "Canadian Nuclear Safety Commission",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Commission authorizes operation of Bruce B Nuclear Generating Station Units 7 and 8 up to 310,000 effective…",
+   "soWhat": {
+    "changed": "On Nov 4, 2026, the Canadian Nuclear Safety Commission announced the Commission’s decision to amend the licensing basis for the Bruce Nuclear Generating…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on regulations, orders or funding details from Canadian Nuclear Safety Commission"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Two Bruce B units are cleared to run longer, keeping Ontario baseload output on the grid.",
+    "n_sources": 1,
+    "signal_title": "Regulator lets two Bruce B reactors run longer",
+    "crux": "The Canadian Nuclear Safety Commission amended Bruce Power's licensing basis so Bruce B Units 7 and 8 can operate up to 310,000 effective full power hours, up from 300,000.",
+    "importance": "Medium",
+    "impact_score": 47,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Nuclear power",
+     "Utilities"
+    ],
+    "affected_regions": [
+     "Canada"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22443",
+     "6ac8edbd6722b5b4db1fbb14",
+     "6adbb54da4c20d730fe656b9"
+    ],
+    "watch_next": "Publication of the CNSC record of decision on its website.",
+    "confidence_score": 67,
+    "source_name": "Canadian Nuclear Safety Commission",
+    "source_url": "https://www.canada.ca/en/nuclear-safety-commission/news/2026/11/commission-authorizes-operation-of-bruce-b-nuclear-generating-station-units-7-and-8-up-to-310000-effective-full-power-hours.html",
+    "published_date": "2026-11-04",
+    "key_number": null,
+    "primary_source": {
+     "name": "Canadian Nuclear Safety Commission",
+     "url": "https://www.canada.ca/en/nuclear-safety-commission/news/2026/11/commission-authorizes-operation-of-bruce-b-nuclear-generating-station-units-7-and-8-up-to-310000-effective-full-power-hours.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2490",
+   "published": "2026-11-04T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Commission Implementing Regulation (EU) 2026/2490: Amending for the 364th time Council Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Commission Implementing Regulation (EU) 2026/2490 of 3 November 2026 amending for the 364th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the ISIL…",
+   "body": "Commission Implementing Regulation (EU) 2026/2490 of 3 November 2026 amending for the 364th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations.\n\nPublished in the Official Journal of the European Union, L series, on Nov 4, 2026. CELEX number 32026R2490. Act type: Commission Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Commission Implementing Regulation (EU) 2026/2490",
+    "Published Nov 4, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-04",
+     "title": "Commission Implementing Regulation (EU) 2026/2490 of 3 November 2026 amending for the 364th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2490",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Commission Implementing Regulation (EU) 2026/2490: Amending for the 364th time Council Regulation…",
+   "soWhat": {
+    "changed": "The EU published Commission Implementing Regulation (EU) 2026/2490 in the Official Journal on Nov 4, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Routine but binding: EU payment and onboarding screens need the updated annex.",
+    "n_sources": 1,
+    "signal_title": "EU updates its ISIL and Al-Qaida sanctions list again",
+    "crux": "The Commission amended the EU's ISIL (Da'esh) and Al-Qaida restrictive measures regulation for the 364th time, changing the persons and entities it covers.",
+    "importance": "Low",
+    "impact_score": 30,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Compliance",
+     "Banking"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
+     "fr-2026-22386",
+     "6ad0c1add38f38895d8ec75b"
+    ],
+    "watch_next": "The annex changes on EUR-Lex for names added or removed.",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2490",
+    "published_date": "2026-11-04",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2490",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22396",
+   "published": "2026-11-03T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Pipeline Safety: Amendments to Liquefied Natural Gas Facilities",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "PHMSA proposes updating its regulations for liquefied natural gas (LNG) facilities to incorporate by reference the most recent industry safety standards and to make other changes to account for more than two decades of improvements and technological…",
+   "body": "PHMSA proposes updating its regulations for liquefied natural gas (LNG) facilities to incorporate by reference the most recent industry safety standards and to make other changes to account for more than two decades of improvements and technological advancements. This rulemaking also responds to congressional mandates directing PHMSA to integrate risk-based regulatory approaches for certain LNG facilities.\n\nKey dates: Comments on this NPRM must be submitted by January 4, 2027. A public meeting of PHMSA's statutory advisory committees will be held on a date to be announced in the Federal Register.\n\nDocument type: Proposed rule. Agency: Transportation, Pipeline and Hazardous Materials Safety Administration. Docket: Docket No. PHMSA-2019-0091.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Pipeline and Hazardous Materials Safety Administration",
+    "Comments close Jan 4, 2027",
+    "Docket Docket No. PHMSA-2019-0091"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-03",
+     "title": "Pipeline Safety: Amendments to Liquefied Natural Gas Facilities",
+     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22396/pipeline-safety-amendments-to-liquefied-natural-gas-facilities",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2027-01-04",
+     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22396/pipeline-safety-amendments-to-liquefied-natural-gas-facilities"
+    }
+   ],
+   "titleMarkup": "Pipeline Safety: Amendments to Liquefied Natural Gas Facilities",
+   "soWhat": {
+    "changed": "Pipeline and Hazardous Materials Safety Administration proposed a rule: Pipeline Safety: Amendments to Liquefied Natural Gas Facilities",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Comments close Jan 4, 2027 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-tanker.webp",
+    "credit": "Photo: Jernej Furman from Slovenia, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Oil_tanker,_gas_tanker_in_the_high_sea_Refinery_Industry_cargo_ship_(52848038105).jpg",
+    "key": "geo-tanker"
+   },
+   "signal": {
+    "so_what": "LNG terminal and peak-shaving operators could see design and inspection rules change for the first time in about two decades.",
+    "n_sources": 1,
+    "signal_title": "PHMSA proposes a modern safety rulebook for LNG plants",
+    "crux": "PHMSA proposed updating LNG facility rules to current industry safety standards and adding risk-based approaches required by Congress for some facilities.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "LNG",
+     "Oil and gas",
+     "Utilities"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ac8edbd6722b5b4db1fbb06",
+     "fr-2026-21443",
+     "gg-364174"
+    ],
+    "watch_next": "Comments close January 4, 2027 on docket PHMSA-2019-0091.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/03/2026-22396/pipeline-safety-amendments-to-liquefied-natural-gas-facilities",
+    "published_date": "2026-11-03",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22396/pipeline-safety-amendments-to-liquefied-natural-gas-facilities",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22443",
+   "published": "2026-11-03T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Streamlining Contested Adjudications in Licensing Proceedings",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile…",
+   "body": "The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024 (ADVANCE Act) and Executive Order 14300, Ordering the Reform of the Nuclear Regulatory Commission.\n\nKey dates: This final rule is effective on December 3, 2026, and applies to contested adjudicatory proceedings noticed on or after the effective date.\n\nDocument type: Final rule. Agency: Nuclear Regulatory Commission. Docket: NRC-2025-1501.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Nuclear Regulatory Commission",
+    "Takes effect Dec 3, 2026",
+    "Docket NRC-2025-1501"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-03",
+     "title": "Streamlining Contested Adjudications in Licensing Proceedings",
+     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-12-03",
+     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings"
+    }
+   ],
+   "titleMarkup": "Streamlining Contested Adjudications in Licensing Proceedings",
+   "soWhat": {
+    "changed": "Nuclear Regulatory Commission issued a final rule: Streamlining Contested Adjudications in Licensing Proceedings",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Takes effect Dec 3, 2026"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Reactor developers can expect shorter contested hearings on their licence applications.",
+    "n_sources": 1,
+    "signal_title": "NRC shortens the hearing path for contested reactor licences",
+    "crux": "The NRC revised its procedures to streamline contested adjudications in licensing cases, responding to the ADVANCE Act and the executive order on NRC reform. It applies to proceedings noticed from December 3, 2026.",
+    "importance": "Medium",
+    "impact_score": 55,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Nuclear power",
+     "Advanced reactors",
+     "Utilities"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "fr-2026-21801",
+     "gc-commission-authorizes-operation-of-bruce-b-nuclear-generatin",
+     "6ac8edbd6722b5b4db1fbb06"
+    ],
+    "watch_next": "Effective December 3, 2026 and the first advanced reactor dockets heard under it.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings",
+    "published_date": "2026-11-03",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2382",
+   "published": "2026-11-03T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Regulation (EU) 2026/2382: Amending Regulations (EC) No 1907/2006, (EC) No 1272/2008, (EU) No 528/2012…",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Regulation (EU) 2026/2382 of the European Parliament and of the Council of 21 October 2026 amending Regulations (EC) No 1907/2006, (EC) No 1272/2008, (EU) No 528/2012…",
+   "body": "Regulation (EU) 2026/2382 of the European Parliament and of the Council of 21 October 2026 amending Regulations (EC) No 1907/2006, (EC) No 1272/2008, (EU) No 528/2012, (EU) 2019/1021 and (EU) 2021/697 as regards defence readiness and facilitating defence investments and conditions for defence industry.\n\nPublished in the Official Journal of the European Union, L series, on Nov 3, 2026. CELEX number 32026R2382. Act type: Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Regulation (EU) 2026/2382",
+    "Published Nov 3, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-03",
+     "title": "Regulation (EU) 2026/2382 of the European Parliament and of the Council of 21 October 2026 amending Regulations (EC) No 1907/2006, (EC) No 1272/2008, (EU) No 528/2012, (EU) 2019/1021 and (EU) 2021/697 as regards defence readiness and facilitating defence investments and conditions for defence industry",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2382",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Regulation (EU) 2026/2382: Amending Regulations (EC) No 1907/2006, (EC) No 1272/2008, (EU) No 528/2012…",
+   "soWhat": {
+    "changed": "The EU published Regulation (EU) 2026/2382 in the Official Journal on Nov 3, 2026, amending Regulations (EC) No 1907/2006, (EC) No 1272/2008, (EU) No 528/2012…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Defence manufacturers in the EU should check the act for new defence-related derogations and funding conditions.",
+    "n_sources": 1,
+    "signal_title": "EU rewrites chemicals and defence fund rules for its arms industry",
+    "crux": "A new EU regulation amends REACH, the CLP and biocides rules, the persistent organic pollutants regulation and the European Defence Fund regulation for defence readiness and defence investment.",
+    "importance": "Medium",
+    "impact_score": 60,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Chemicals",
+     "Manufacturing"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "High",
+    "related_signals": [
+     "eu-32026r2381",
+     "6ace51427d6da06c8ebdbdd1",
+     "fr-2026-22052"
+    ],
+    "watch_next": "The defence exemptions in the act and the dates they apply from on EUR-Lex.",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2382",
+    "published_date": "2026-11-03",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2382",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2381",
+   "published": "2026-11-03T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Regulation (EU) 2026/2381: On the acceleration of permit-granting processes for defence readiness projects",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Regulation (EU) 2026/2381 of the European Parliament and of the Council of 21 October 2026 on the acceleration of permit-granting processes for defence readiness projects",
+   "body": "Regulation (EU) 2026/2381 of the European Parliament and of the Council of 21 October 2026 on the acceleration of permit-granting processes for defence readiness projects.\n\nPublished in the Official Journal of the European Union, L series, on Nov 3, 2026. CELEX number 32026R2381. Act type: Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Regulation (EU) 2026/2381",
+    "Published Nov 3, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-03",
+     "title": "Regulation (EU) 2026/2381 of the European Parliament and of the Council of 21 October 2026 on the acceleration of permit-granting processes for defence readiness projects",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2381",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Regulation (EU) 2026/2381: On the acceleration of permit-granting processes for defence readiness projects",
+   "soWhat": {
+    "changed": "The EU published Regulation (EU) 2026/2381 in the Official Journal on Nov 3, 2026, on the acceleration of permit-granting processes for defence readiness…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Builders of munitions plants and military infrastructure in the EU should expect shorter permitting timelines.",
+    "n_sources": 1,
+    "signal_title": "EU sets fast-track permits for defence readiness projects",
+    "crux": "A new EU regulation speeds up permit-granting for defence readiness projects.",
+    "importance": "Medium",
+    "impact_score": 58,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Construction",
+     "Manufacturing"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "eu-32026r2382",
+     "6ace51427d6da06c8ebdbdd1",
+     "fr-2026-22052"
+    ],
+    "watch_next": "Which projects qualify and the permit deadlines set in the act on EUR-Lex.",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2381",
+    "published_date": "2026-11-03",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2381",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22386",
+   "published": "2026-11-02T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Memorandum for the Secretary of State [and] the Secretary of the Treasury By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby direct…",
+   "body": "Memorandum for the Secretary of State [and] the Secretary of the Treasury By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby direct: Section 1. (a) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by section 8335(a) of the National Defense Authorization Act for Fiscal Year 2026 (the ``Act'') (22 U.S.C. 10704(a)). Once sanctionable foreign persons are identified by the Secretary of State, I delegate to the heads of relevant executive departments and agencies, commensurate...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-02",
+     "title": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
+     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: Delegation of Authority Under Section 8335 of the National Defense Authorization Act for…",
+    "who": "Once sanctionable foreign persons are identified by the Secretary of State, I delegate to the heads of relevant executive departments and agencies…",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "An administrative step: designations under this section can now follow, so watch OFAC actions citing it.",
+    "n_sources": 1,
+    "signal_title": "Treasury and State get the new NDAA section 8335 sanctions powers",
+    "crux": "A presidential memorandum delegates the sanctions authorities in section 8335 of the FY2026 NDAA to the Treasury Secretary, with State identifying the foreign persons to be sanctioned.",
+    "importance": "Low",
+    "impact_score": 38,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Compliance",
+     "Banking"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
+     "eu-32026r2490",
+     "6ad0c1add38f38895d8ec75b"
+    ],
+    "watch_next": "The first designations or OFAC regulations issued under section 8335.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
+    "published_date": "2026-11-02",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22385",
+   "published": "2026-11-02T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Adjusting Imports of Robotics, Industrial Machinery, and Their Parts and Components Into the United States",
+   "topics": [
+    "geo",
+    "trade-sanctions",
+    "strategic-supply-chains"
+   ],
+   "primary": "geo",
+   "summary": "1. Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of robotics and industrial machinery, as well as their parts and components (together, components)…",
+   "body": "1. Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of robotics and industrial machinery, as well as their parts and components (together, components), on the national security of the United States under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. 1862 (section 232). Based on the facts considered in that investigation, and taking into account the close relation of the economic welfare of the Nation to our national security and other relevant factors, see section 232(d) (19 U.S.C. 1862(d)), the Secretary found and advised me of his opinion that robotics...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-02",
+     "title": "Adjusting Imports of Robotics, Industrial Machinery, and Their Parts and Components Into the United States",
+     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Adjusting Imports of Robotics, Industrial Machinery, and Their Parts and Components Into the United States",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: Adjusting Imports of Robotics, Industrial Machinery…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "Machinery exporters to the US face tariff risk if talks fail, which favours plans to build or assemble inside the US.",
+    "n_sources": 1,
+    "signal_title": "Robotics and machinery imports flagged as a national security risk",
+    "crux": "A section 232 proclamation finds that imports of robotics, industrial machinery and their components threaten US national security and orders Commerce and USTR to negotiate agreements, keeping tariffs, quotas, fees and a US investment incentive in reserve.",
+    "importance": "High",
+    "impact_score": 70,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Industrial machinery",
+     "Robotics",
+     "Manufacturing",
+     "Automotive"
+    ],
+    "affected_regions": [
+     "United States",
+     "Global"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22292",
+     "fr-2026-22735",
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor"
+    ],
+    "watch_next": "A negotiation update due within 180 days of October 28, 2026.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united",
+    "published_date": "2026-11-02",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gc-roberts-bank-terminal-2-listed-as-a-project-of-national-inte",
+   "published": "2026-10-30T15:00:00Z",
+   "kicker": "Geoeconomics · Transport Canada",
+   "title": "Roberts Bank Terminal 2 listed as a project of national interest to strengthen Canada's trade sovereignty",
+   "topics": [
+    "geo",
+    "trade-sanctions",
+    "strategic-supply-chains",
+    "economic-security"
+   ],
+   "primary": "geo",
+   "summary": "The world is increasingly more uncertain. Geopolitical tension is reshaping trade, supply chains are under pressure, and there is an increased global competition for capital, and market access.",
+   "body": "The world is increasingly more uncertain. Geopolitical tension is reshaping trade, supply chains are under pressure, and there is an increased global competition for capital, and market access.\n\nTransport Canada published this news release on Oct 30, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from Transport Canada"
+   ],
+   "sources": [
+    {
+     "publisher": "Transport Canada",
+     "date": "2026-10-30",
+     "title": "Roberts Bank Terminal 2 listed as a project of national interest to strengthen Canada's trade sovereignty",
+     "url": "https://www.canada.ca/en/transport-canada/news/2026/10/roberts-bank-terminal-2-listed-as-a-project-of-national-interest-to-strengthen-canadas-trade-sovereignty.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "Transport Canada",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Roberts Bank Terminal 2 listed as a project of national interest to strengthen Canada's trade sovereignty",
+   "soWhat": {
+    "changed": "The world is increasingly more uncertain.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on regulations, orders or funding details from Transport Canada"
+   },
+   "photo": {
+    "src": "img/photos/ai-supercomputer.webp",
+    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
+    "key": "ai-supercomputer"
+   },
+   "signal": {
+    "so_what": "Shippers and builders on Indo-Pacific routes gain a clearer timeline for new West Coast container capacity.",
+    "n_sources": 1,
+    "signal_title": "Ottawa fast-tracks a $5.9B container terminal to cut US dependence",
+    "crux": "Canada listed Roberts Bank Terminal 2 at the Port of Vancouver as a project of national interest. The $5.9 billion terminal would add 2.4 million containers of yearly capacity and could start operating in 2035 instead of 2039.",
+    "importance": "Medium",
+    "impact_score": 64,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Ports",
+     "Shipping",
+     "Logistics",
+     "Construction"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Indo-Pacific"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "fr-2026-22617",
+     "fr-2026-22735",
+     "6adfaa09c6ab4e86516a9cb3"
+    ],
+    "watch_next": "A final investment decision targeted by mid-2027.",
+    "confidence_score": 67,
+    "source_name": "Transport Canada",
+    "source_url": "https://www.canada.ca/en/transport-canada/news/2026/10/roberts-bank-terminal-2-listed-as-a-project-of-national-interest-to-strengthen-canadas-trade-sovereignty.html",
+    "published_date": "2026-10-30",
+    "key_number": {
+     "value": "$5.9 billion",
+     "unit": "",
+     "label": "terminal would add 2",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Transport Canada",
+     "url": "https://www.canada.ca/en/transport-canada/news/2026/10/roberts-bank-terminal-2-listed-as-a-project-of-national-interest-to-strengthen-canadas-trade-sovereignty.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22292",
+   "published": "2026-10-30T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "1. In Proclamation 11048 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles)…",
+   "body": "1. In Proclamation 11048 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles), I found as a fact that Canada is discriminating in fact against the commerce of the United States through Canada's motor vehicle tariff scheme; that this discrimination places the commerce of the United States at a disadvantage compared to the commerce of other countries; and that Canada's imposition is unreasonable, is not equally enforced upon the like articles of every foreign country, and places a burden on the commerce of the United States. To offset the burden or disadvantage on U.S. commerce from...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-10-30",
+     "title": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles",
+     "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian…",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Canadian exporters on the annex list can price US sales without the 50% surcharge; others remain exposed.",
+    "n_sources": 1,
+    "signal_title": "Washington drops its 50% duty on some Canadian products",
+    "crux": "A presidential proclamation removed certain products of Canada, listed in its annex, from the 50% additional duty imposed over Canada's motor vehicle tariff scheme, effective October 30, 2026.",
+    "importance": "High",
+    "impact_score": 66,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Automotive",
+     "Manufacturing",
+     "Trade compliance"
+    ],
+    "affected_regions": [
+     "United States",
+     "Canada"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "High",
+    "related_signals": [
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
+     "fr-2026-22385",
+     "fr-2026-22735"
+    ],
+    "watch_next": "The Annex I product list and any further changes to Proclamation 11048 duties.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
+    "published_date": "2026-10-30",
+    "key_number": {
+     "value": "50%",
+     "unit": "",
+     "label": "additional duty imposed over Canada's motor",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gg-364174",
+   "published": "2026-10-30T12:00:00Z",
+   "kicker": "Geoeconomics · Grants.gov",
+   "title": "Funding call: Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)",
+   "topics": [
+    "geo",
+    "energy-power",
+    "strategic-supply-chains"
+   ],
+   "primary": "geo",
+   "summary": "National Energy Technology Laboratory is taking applications until Feb 8, 2027 for Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED).",
+   "body": "National Energy Technology Laboratory (Department of Energy) posted funding opportunity DE-FOA-0003641, \"Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)\", on Grants.gov on Oct 30, 2026. Applications close Feb 8, 2027.\n\nGrid Supply Chain Alternatives to Lead Energy Dominance (SCALED) This initiative will deploy a multi-faceted approach to bolster domestic capabilities to withstand supply chain shocks, ensure a reliable energy infrastructure, and position the U.S. as a global leader in foundational grid technologies.\n\nEstimated total funding: $237,000,000. Award ceiling: $237,000,000. Expected awards: 70.\n\nWhy it matters: Federal funding calls show where Washington is paying for research and capacity. Check the full notice of funding opportunity for eligibility, cost-share rules and how to apply.",
+   "stat": {
+    "value": "$237,000,000",
+    "label": "estimated total funding, applications due Feb 8, 2027"
+   },
+   "keyPoints": [
+    "Funding call DE-FOA-0003641 from National Energy Technology Laboratory",
+    "Applications due Feb 8, 2027",
+    "Estimated total funding: $237,000,000"
+   ],
+   "sources": [
+    {
+     "publisher": "Grants.gov",
+     "date": "2026-10-30",
+     "title": "Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)",
+     "url": "https://www.grants.gov/search-results-detail/364174",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Grants.gov",
+   "primarySource": {
+    "name": "Grants.gov",
+    "kind": "US federal funding opportunity",
+    "terms": "Public US government data (no key)"
+   },
+   "deadlines": [
+    {
+     "type": "funding",
+     "label": "Applications due",
+     "date": "2027-02-08",
+     "url": "https://www.grants.gov/search-results-detail/364174"
+    }
+   ],
+   "titleMarkup": "Funding call: Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)",
+   "soWhat": {
+    "changed": "National Energy Technology Laboratory opened funding call DE-FOA-0003641, Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)",
+    "who": "Researchers, companies and institutions eligible for US federal awards",
+    "watch": "Applications due Feb 8, 2027 on Grants.gov"
+   },
+   "photo": {
+    "src": "img/photos/grid-power.webp",
+    "credit": "Photo: Foto3821, CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Electric_transmission_power_tower2.jpg",
+    "key": "grid-power"
+   },
+   "signal": {
+    "so_what": "Grid equipment makers can bid for federal money to add US production capacity.",
+    "n_sources": 1,
+    "signal_title": "DOE offers $237M to rebuild the US grid hardware supply chain",
+    "crux": "NETL opened the SCALED funding call, with $237 million and about 70 expected awards to build domestic capacity in foundational grid technologies. Applications close February 8, 2027.",
+    "importance": "Medium",
+    "impact_score": 55,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Utilities",
+     "Grid equipment",
+     "Manufacturing"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "6ac8edbd6722b5b4db1fbb0c",
+     "fr-2026-22385",
+     "6ac8edbd6722b5b4db1fbb06"
+    ],
+    "watch_next": "Applications due February 8, 2027 under DE-FOA-0003641.",
+    "confidence_score": 72,
+    "source_name": "Grants.gov",
+    "source_url": "https://www.grants.gov/search-results-detail/364174",
+    "published_date": "2026-10-30",
+    "key_number": {
+     "value": "$237 million",
+     "unit": "",
+     "label": "and about 70 expected awards to",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Grants.gov",
+     "url": "https://www.grants.gov/search-results-detail/364174",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "fr-2026-22094",
    "published": "2026-10-29T12:00:00Z",
    "kicker": "Geoeconomics · Federal Register",
    "title": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
    "topics": [
-    "geo"
+    "geo",
+    "trade-sanctions"
    ],
    "primary": "geo",
    "summary": "The U.S. Department of Homeland Security (DHS), as the Chair of the Forced Labor Enforcement Task Force (FLETF), announces the publication and availability of the updated Uyghur Forced Labor Prevention Act (UFLPA) Entity List…",
@@ -156,9 +2232,9 @@
     "risk_level": "High",
     "opportunity_level": "Low",
     "related_signals": [
-     "6ad66e84a07c63635f9885ed",
-     "6acab8dbf6dba531c0671d1b",
-     "6ae0fb95987facb4c57e55ac"
+     "fr-2026-22793",
+     "fr-2026-22735",
+     "6acab8dbf6dba531c0671d1b"
     ],
     "watch_next": "Watch for the final rule or implementing guidance from Homeland Security",
     "confidence_score": 67,
@@ -284,6 +2360,178 @@
      "name": "Natural Resources Canada",
      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/canada-invests-to-unlock-lithium-potential-and-improve-connectivity-and-industry-in-northern-quebec.html",
      "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22052",
+   "published": "2026-10-28T12:00:00Z",
+   "kicker": "Critical Minerals · Federal Register",
+   "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended…",
+   "topics": [
+    "minerals",
+    "geo",
+    "defense-technology",
+    "economic-security"
+   ],
+   "primary": "minerals",
+   "summary": "Memorandum for the Secretary of War On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that America's inadequate energy production, transportation, refining…",
+   "body": "Memorandum for the Secretary of War On January 20, 2025, I issued Executive Order 14156 (Declaring a National Energy Emergency), under the National Emergencies Act. That order found that America's inadequate energy production, transportation, refining, and generation capacity constitute an unusual and extraordinary threat to the Nation's economy, national security, and foreign policy. It emphasized that our Nation's current inadequate and intermittent energy supply leaves us vulnerable to hostile foreign actors and poses an imminent and growing threat to the prosperity and national security of the United States. Consistent with that declaration, I find that ensuring resilient domestic petroleum production, refining, and logistics capacity is central to United States defense...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-10-28",
+     "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity",
+     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22052/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended…",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950…",
+    "who": "Miners, processors, offtakers and investors in critical-mineral supply chains",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/minerals-openpit.webp",
+    "credit": "Photo: Doc Searls from Santa Barbara, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_mine_dumps,_2004.jpg",
+    "key": "minerals-openpit"
+   },
+   "signal": {
+    "so_what": "Refiners and midstream operators can now seek defence-backed financing and offtake that was not available before.",
+    "n_sources": 1,
+    "signal_title": "Defense Production Act money opens for US oil, refining and terminals",
+    "crux": "A presidential determination under section 303 of the Defense Production Act declares domestic petroleum production, refining, pipelines, storage and marine terminals essential to national defense and waives the usual conditions so the Secretary of War can fund them.",
+    "importance": "High",
+    "impact_score": 68,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Oil and gas",
+     "Refining",
+     "Defence",
+     "Ports"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "High",
+    "related_signals": [
+     "6ae0fb95987facb4c57e55ac",
+     "fr-2026-22617",
+     "6ad66e84a07c63635f9885ed"
+    ],
+    "watch_next": "The first purchase commitments or financing awards made under this determination.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/10/28/2026-22052/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
+    "published_date": "2026-10-28",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22052/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22049",
+   "published": "2026-10-28T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Adjusting Imports of Wind Turbines and Their Parts and Components Into the United States",
+   "topics": [
+    "geo",
+    "energy-power",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "1. Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of wind turbines and their parts and components on the national security of the United States under section 232 of…",
+   "body": "1. Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of wind turbines and their parts and components on the national security of the United States under section 232 of the Trade Expansion Act of 1962, as amended, 19 U.S.C. 1862 (section 232). Based on the facts considered in that investigation, and taking into account the close relation of the economic welfare of the Nation to our national security and other relevant factors, see section 232(d) (19 U.S.C. 1862(d)), the Secretary found and advised me of his opinion that wind turbines and their components and subcomponents...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-10-28",
+     "title": "Adjusting Imports of Wind Turbines and Their Parts and Components Into the United States",
+     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22049/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Adjusting Imports of Wind Turbines and Their Parts and Components Into the United States",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: Adjusting Imports of Wind Turbines and Their Parts and Components Into the United States",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "Wind developers relying on imported nacelles, blades or towers should price in possible new trade remedies.",
+    "n_sources": 1,
+    "signal_title": "Wind turbine imports declared a security threat, talks first",
+    "crux": "A section 232 proclamation finds that imports of wind turbines and their components threaten US national security and directs Commerce and USTR to negotiate agreements, while leaving existing 232 tariffs unchanged.",
+    "importance": "Medium",
+    "impact_score": 62,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Wind power",
+     "Utilities",
+     "Manufacturing"
+    ],
+    "affected_regions": [
+     "United States",
+     "Global"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "gg-364174",
+     "6ac8edbd6722b5b4db1fbb06",
+     "fr-2026-22292"
+    ],
+    "watch_next": "A negotiation update due within 180 days of October 22, 2026.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/10/28/2026-22049/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states",
+    "published_date": "2026-10-28",
+    "duplicate_of": "fr-2026-22385",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22049/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states",
+     "kind": "official journal"
     },
     "reported_by": null
    }
@@ -492,8 +2740,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "6ace51427d6da06c8ebdbdcd",
-     "nrcan-canada-invests-to-unlock-lithium-potential-and-improve-conne",
-     "6ace51427d6da06c8ebdbdf3"
+     "fr-2026-22052",
+     "nrcan-canada-invests-to-unlock-lithium-potential-and-improve-conne"
     ],
     "watch_next": "First stockpile purchases (antimony, gallium, rare earths) and the department's feedback on the update.",
     "confidence_score": 79,
@@ -614,7 +2862,9 @@
    "topics": [
     "ai",
     "minerals",
-    "geo"
+    "geo",
+    "strategic-supply-chains",
+    "semiconductors"
    ],
    "primary": "minerals",
    "summary": "3 countries produce 85% of the world's helium. Washington just made it a critical material. On 23 Oct, the U.S. Department of Energy (DOE) added helium to its Critical Material List, citing its role in making the chips behind AI and data centres. The…",
@@ -689,7 +2939,7 @@
     "related_signals": [
      "6ad66e84a07c63635f9885ed",
      "6adbb54da4c20d730fe656c5",
-     "6ad66e84a07c63635f9885f2"
+     "6adfaa09c6ab4e86516a9cb3"
     ],
     "watch_next": "Whether new processing capacity gets funded: DOE names refining and permitting, not geology, as the bottleneck.",
     "confidence_score": 95,
@@ -719,7 +2969,9 @@
    "topics": [
     "ai",
     "minerals",
-    "geo"
+    "geo",
+    "ai-investment-infrastructure",
+    "strategic-supply-chains"
    ],
    "primary": "minerals",
    "summary": "The US has 170+ days of copper on hand. The rest of the world has 48. That's the split in refined copper inventory cover, per Wood Mackenzie's latest base metals outlook (22 Oct). Copper has hit a record $14,759 a tonne, and much of that is about where the…",
@@ -809,8 +3061,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6ace51427d6da06c8ebdbdcd",
-     "fr-2026-21896",
-     "6adbb54da4c20d730fe656c5"
+     "6ad66e84a07c63635f9885eb",
+     "6ac8edbd6722b5b4db1fbb14"
     ],
     "watch_next": "Codelco's 2027 European premium ($350/t over LME) and whether the US stockpile flows back out.",
     "confidence_score": 63,
@@ -931,6 +3183,427 @@
    }
   },
   {
+   "id": "fr-2026-21786",
+   "published": "2026-10-26T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Outbound Investment Security Program Regulations",
+   "topics": [
+    "geo",
+    "defense-technology",
+    "economic-security"
+   ],
+   "primary": "geo",
+   "summary": "This proposed rule sets forth regulations that would implement Subtitle C of the Comprehensive Outbound Investment National Security Act, which is codified at Title VIII of the Defense Production Act. The proposed rule would require United States persons to…",
+   "body": "This proposed rule sets forth regulations that would implement Subtitle C of the Comprehensive Outbound Investment National Security Act, which is codified at Title VIII of the Defense Production Act. The proposed rule would require United States persons to provide notification to the U.S. Department of the Treasury regarding certain transactions involving foreign persons that are engaged in notifiable technologies; and prohibit United States persons from engaging in certain other transactions involving foreign persons that are engaged in prohibited technologies. Where consistent with Title VIII, the proposed rule incorporates certain definitions and concepts from the current regulations governing the Outbound Investment Security Program. The proposed rule also would add applicability dates to the regulations, such that those regulations would continue to apply to activities that occurred within the relevant timeframe.\n\nKey dates: Written comments must be received by December 7, 2026.\n\nDocument type: Proposed rule. Agency: Treasury, Investment Security Office. Docket: Docket No. TREAS-DO-2026-0595.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Investment Security Office",
+    "Comments close Dec 7, 2026",
+    "Docket Docket No. TREAS-DO-2026-0595"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-10-26",
+     "title": "Outbound Investment Security Program Regulations",
+     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-12-07",
+     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations"
+    }
+   ],
+   "titleMarkup": "Outbound Investment Security Program Regulations",
+   "soWhat": {
+    "changed": "Investment Security Office proposed a rule: Outbound Investment Security Program Regulations",
+    "who": "The proposed rule would require United States persons to provide notification to the U.S. Department of the Treasury regarding certain transactions involving…",
+    "watch": "Comments close Dec 7, 2026 on federalregister.gov"
+   },
+   "dataCard": {
+    "id": "bis-rules",
+    "kind": "count",
+    "title": "US export-control rules (BIS)",
+    "value": "13",
+    "unit": "final rules in 2026 so far",
+    "change": "14 in the last 12 months",
+    "series": [
+     1,
+     2,
+     1,
+     0,
+     1,
+     0,
+     0,
+     2,
+     5,
+     1,
+     0,
+     1
+    ],
+    "seriesLabel": "Final rules per month, last 12 months",
+    "weekly": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     1,
+     0,
+     1,
+     1,
+     2,
+     1,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "weeklyEntityList": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "weeklyLabel": "Final rules per week, last 52 weeks",
+    "asOf": "2026-11-10",
+    "asOfLabel": "Nov 10, 2026",
+    "source": "Federal Register API, Bureau of Industry and Security",
+    "license": "Public domain (US government work)",
+    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "Funds investing in Chinese chips, AI or quantum should review deals before Dec 7 comments close.",
+    "n_sources": 1,
+    "signal_title": "US outbound tech investment rules are tightening",
+    "crux": "Treasury proposed updated Outbound Investment Security Program rules; comments close Dec 7.",
+    "importance": "High",
+    "impact_score": 72,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Semiconductors",
+     "AI",
+     "Quantum",
+     "Private equity"
+    ],
+    "affected_regions": [
+     "United States",
+     "China"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "6ad66e84a07c63635f9885f2",
+     "6ad66e84a07c63635f9885ed",
+     "fr-2026-22793"
+    ],
+    "watch_next": "Comments close Dec 7, 2026 on federalregister.gov",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations",
+    "published_date": "2026-10-26",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-21801",
+   "published": "2026-10-26T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "NRC Reviews of Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations to facilitate direct leveraging of prior U.S. Department of Energy or Department of War authorizations of demonstration reactors into the NRC's licensing reviews of commercial reactor…",
+   "body": "The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations to facilitate direct leveraging of prior U.S. Department of Energy or Department of War authorizations of demonstration reactors into the NRC's licensing reviews of commercial reactor facility applications that reference those designs. This rulemaking improves NRC licensing review efficiency, where applicable, by explicitly establishing by regulation an additional means for reactor applicants to demonstrate the safety functions of their reactor designs, thereby contributing to the safe and secure use and deployment of civilian nuclear energy technologies.\n\nKey dates: This final rule is effective on November 25, 2026.\n\nDocument type: Final rule. Agency: Nuclear Regulatory Commission. Docket: NRC-2025-1503.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Nuclear Regulatory Commission",
+    "Takes effect Nov 25, 2026",
+    "Docket NRC-2025-1503"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-10-26",
+     "title": "NRC Reviews of Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War",
+     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21801/nrc-reviews-of-reactor-designs-previously-authorized-by-us-department-of-energy-or-department-of-war",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-11-25",
+     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21801/nrc-reviews-of-reactor-designs-previously-authorized-by-us-department-of-energy-or-department-of-war"
+    }
+   ],
+   "titleMarkup": "NRC Reviews of Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War",
+   "soWhat": {
+    "changed": "Nuclear Regulatory Commission issued a final rule: NRC Reviews of Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War",
+    "who": "This rulemaking improves NRC licensing review efficiency, where applicable, by explicitly establishing by regulation an additional means for reactor applicants…",
+    "watch": "Takes effect Nov 25, 2026"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Reactor developers that test designs with DOE or the military gain a shorter path to a commercial licence.",
+    "n_sources": 1,
+    "signal_title": "NRC lets reactors reuse DOE and military demonstration approvals",
+    "crux": "An NRC final rule lets commercial reactor applicants rely directly on prior Department of Energy or Department of War authorizations of demonstration reactors to show safety functions. It takes effect November 25, 2026.",
+    "importance": "Medium",
+    "impact_score": 60,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Nuclear power",
+     "Advanced reactors",
+     "Defence"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "fr-2026-22443",
+     "6ad66e84a07c63635f9885ed",
+     "6acab8dbf6dba531c0671d1b"
+    ],
+    "watch_next": "Effective November 25, 2026 and the first commercial applications that cite a DOE or military demonstration.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/10/26/2026-21801/nrc-reviews-of-reactor-designs-previously-authorized-by-us-department-of-energy-or-department-of-war",
+    "published_date": "2026-10-26",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21801/nrc-reviews-of-reactor-designs-previously-authorized-by-us-department-of-energy-or-department-of-war",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-21818",
+   "published": "2026-10-26T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Space Modernization for the 21st Century",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "In this document, the Federal Communications Commission (Commission or we) adopts a Further Notice of Proposed Rulemaking (FNPRM) that seeks comment on and/or proposes additional reforms.",
+   "body": "In this document, the Federal Communications Commission (Commission or we) adopts a Further Notice of Proposed Rulemaking (FNPRM) that seeks comment on and/or proposes additional reforms.\n\nKey dates: Comments are due November 25, 2026. Reply Comments are due December 28, 2026.\n\nDocument type: Proposed rule. Agency: Federal Communications Commission. Docket: SB Docket No. 25-306, FCC 26-47, FR ID 373984.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Federal Communications Commission",
+    "Comments close Nov 25, 2026",
+    "Docket SB Docket No. 25-306"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-10-26",
+     "title": "Space Modernization for the 21st Century",
+     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-11-25",
+     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century"
+    },
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-12-28",
+     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century"
+    }
+   ],
+   "titleMarkup": "Space Modernization for the 21st Century",
+   "soWhat": {
+    "changed": "Federal Communications Commission proposed a rule: Space Modernization for the 21st Century",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Comments close Nov 25, 2026 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Satellite operators can shape the details of the new licensing assembly line before it settles.",
+    "n_sources": 1,
+    "signal_title": "FCC seeks comment on the next round of satellite licensing reform",
+    "crux": "Alongside its new part 100 framework for space licensing, the FCC opened a further notice seeking comment on more reforms. Comments are due November 25, 2026 and replies December 28, 2026.",
+    "importance": "Medium",
+    "impact_score": 46,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Satellite communications",
+     "Space"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22789",
+     "fr-2026-22600",
+     "gg-364032"
+    ],
+    "watch_next": "Comments due November 25, 2026 in SB Docket 25-306.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century",
+    "published_date": "2026-10-26",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "6adbb54da4c20d730fe656d6",
    "published": "2026-10-23T19:27:26.909Z",
    "kicker": "AI Policy · Analysis",
@@ -1018,7 +3691,8 @@
    "title": "EU gas storage is 72% full against a 90% target",
    "titleMarkup": "EU gas storage is [[72% full]] against a 90% target",
    "topics": [
-    "geo"
+    "geo",
+    "energy-power"
    ],
    "primary": "geo",
    "summary": "72% full, against a 90% target. That's where EU gas storage stood on 1 October, per the Winter Supply Outlook from ENTSOG. A year earlier it was 83%. The legal 90% target falls due between 1 October and 1 December.",
@@ -1086,7 +3760,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "6ac8edbd6722b5b4db1fbb14",
-     "6ac8edbd6722b5b4db1fbb06"
+     "6ac8edbd6722b5b4db1fbb06",
+     "eu-32026r2382"
     ],
     "watch_next": "The three-year delay is Parliament's position and still needs a deal with EU governments in the Council.",
     "confidence_score": 80,
@@ -1116,7 +3791,9 @@
    "topics": [
     "ai",
     "minerals",
-    "geo"
+    "geo",
+    "trade-sanctions",
+    "semiconductors"
    ],
    "primary": "minerals",
    "summary": "4,000 kg. That's how much yttrium oxide China shipped to Japan in September, per Chinese customs data. A year earlier: 51,000 kg.",
@@ -1258,7 +3935,10 @@
    "title": "AI's bottleneck is the grid queue, not the chip",
    "titleMarkup": "AI's bottleneck is the [[grid queue]], not the chip",
    "topics": [
-    "ai"
+    "ai",
+    "ai-investment-infrastructure",
+    "energy-power",
+    "semiconductors"
    ],
    "primary": "ai",
    "summary": "73 GW. That's how much data centre demand sat in Britain's grid connection queue by mid-2025, per Ofgem. Peak national demand in 2025 was 45 GW.",
@@ -1427,14 +4107,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.24M km²",
+    "value": "8.58M km²",
     "unit": "daily extent",
-    "change": "-1.66M km² vs the 1981–2010 average for the date",
+    "change": "-1.56M km² vs the 1981–2010 average for the date",
     "series": [
-     5.959,
-     6.007,
-     6.073,
-     6.018,
      6.076,
      6.178,
      6.297,
@@ -1460,26 +4136,14 @@
      8.016,
      8.135,
      8.153,
-     8.241
+     8.241,
+     8.311,
+     8.425,
+     8.547,
+     8.58
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-07",
-      6.131
-     ],
-     [
-      "2026-08-08",
-      6.042
-     ],
-     [
-      "2026-08-09",
-      6.031
-     ],
-     [
-      "2026-08-10",
-      5.896
-     ],
      [
       "2026-08-11",
       5.829
@@ -1823,11 +4487,27 @@
      [
       "2026-11-04",
       8.241
+     ],
+     [
+      "2026-11-05",
+      8.311
+     ],
+     [
+      "2026-11-06",
+      8.425
+     ],
+     [
+      "2026-11-07",
+      8.547
+     ],
+     [
+      "2026-11-08",
+      8.58
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-04",
-    "asOfLabel": "Nov 4, 2026",
+    "asOf": "2026-11-08",
+    "asOfLabel": "Nov 8, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -1861,8 +4541,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "6ad66e84a07c63635f98860f",
-     "6ad66e84a07c63635f9885ef",
-     "6ad66e84a07c63635f9885ed"
+     "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
+     "6ad66e84a07c63635f9885ef"
     ],
     "watch_next": "A final route, budget and timeline for the Greenland cable; none is set yet.",
     "confidence_score": 88,
@@ -1881,6 +4561,188 @@
      "kind": "government or agency"
     },
     "reported_by": "European Commission (International Partnerships)"
+   }
+  },
+  {
+   "id": "fr-2026-21462",
+   "published": "2026-10-20T12:00:00Z",
+   "kicker": "Critical Minerals · Federal Register",
+   "title": "American Samoa Outer Continental Shelf Pacific Mineral Lease Sale 1",
+   "topics": [
+    "minerals"
+   ],
+   "primary": "minerals",
+   "summary": "The Marine Minerals Administration (MMA) will conduct an auction for lease areas offered in the American Samoa Outer Continental Shelf (OCS) Pacific Mineral Lease Sale 1 (Lease Sale PACM-1), in accordance with the Outer Continental Shelf Lands Act (OCSLA)…",
+   "body": "The Marine Minerals Administration (MMA) will conduct an auction for lease areas offered in the American Samoa Outer Continental Shelf (OCS) Pacific Mineral Lease Sale 1 (Lease Sale PACM-1), in accordance with the Outer Continental Shelf Lands Act (OCSLA), as amended, and its implementing regulations. The Final Leasing Notice (FLN) package for this lease sale contains information essential to potential bidders, including Information to Lessees and Lease Stipulations.\n\nKey dates: MMA will hold Lease Sale PACM-1 on Thursday, November 19, 2026, at 9:00 a.m. All times referred to in this document will be Pacific Time, unless otherwise specified. Lease areas will be awarded through an ascending oral auction. For more information on bid submission and auction rules, see Section VII of this document, \"Bidding Instructions.\"\n\nDocument type: Notice. Agency: Interior, Ocean Energy Management Bureau. Docket: Docket No. BOEM-2026-0331.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Notice from Ocean Energy Management Bureau",
+    "Key date Nov 19, 2026",
+    "Docket Docket No. BOEM-2026-0331"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-10-20",
+     "title": "American Samoa Outer Continental Shelf Pacific Mineral Lease Sale 1",
+     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21462/american-samoa-outer-continental-shelf-pacific-mineral-lease-sale-1",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "event",
+     "label": "Key date",
+     "date": "2026-11-19",
+     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21462/american-samoa-outer-continental-shelf-pacific-mineral-lease-sale-1"
+    }
+   ],
+   "titleMarkup": "American Samoa Outer Continental Shelf Pacific Mineral Lease Sale 1",
+   "soWhat": {
+    "changed": "Ocean Energy Management Bureau published a notice: American Samoa Outer Continental Shelf Pacific Mineral Lease Sale 1",
+    "who": "The Final Leasing Notice (FLN) package for this lease sale contains information essential to potential bidders…",
+    "watch": "Key date Nov 19, 2026"
+   },
+   "photo": {
+    "src": "img/photos/minerals-seabed.webp",
+    "credit": "Photo: James St. John, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Pelagite_(deep_seafloor_manganese_nodule)_(Pacific_Ocean)_2.jpg",
+    "key": "minerals-seabed"
+   },
+   "signal": {
+    "so_what": "Deep-sea miners can bid Nov 19 off American Samoa.",
+    "n_sources": 1,
+    "signal_title": "US seabed mining opens for bids",
+    "crux": "BOEM set the first Pacific OCS mineral lease sale off American Samoa for Nov 19.",
+    "importance": "High",
+    "impact_score": 70,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Deep-sea mining",
+     "Nickel",
+     "Cobalt"
+    ],
+    "affected_regions": [
+     "United States",
+     "Pacific"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "High",
+    "related_signals": [
+     "nrcan-thompson-mine-complex-transaction-closes-helping-secure-a-st"
+    ],
+    "watch_next": "Key date Nov 19, 2026",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/10/20/2026-21462/american-samoa-outer-continental-shelf-pacific-mineral-lease-sale-1",
+    "published_date": "2026-10-20",
+    "duplicate_of": "6ad7c0a0a69d84a91a2bf0c2",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21462/american-samoa-outer-continental-shelf-pacific-mineral-lease-sale-1",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-21443",
+   "published": "2026-10-20T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Authorizations for Certain Activities at Liquefied Natural Gas Plants",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "The Federal Energy Regulatory Commission proposes to revise its regulations to establish procedures for authorizing activities at liquefied natural gas plants without case-specific authorization orders under sections 3 or 7 of the Natural Gas Act.",
+   "body": "The Federal Energy Regulatory Commission proposes to revise its regulations to establish procedures for authorizing activities at liquefied natural gas plants without case-specific authorization orders under sections 3 or 7 of the Natural Gas Act.\n\nKey dates: Comments are due December 21, 2026.\n\nDocument type: Proposed rule. Agency: Energy, Federal Energy Regulatory Commission. Docket: Docket No. RM26-2-001.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Federal Energy Regulatory Commission",
+    "Comments close Dec 21, 2026",
+    "Docket Docket No. RM26-2-001"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-10-20",
+     "title": "Authorizations for Certain Activities at Liquefied Natural Gas Plants",
+     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21443/authorizations-for-certain-activities-at-liquefied-natural-gas-plants",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-12-21",
+     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21443/authorizations-for-certain-activities-at-liquefied-natural-gas-plants"
+    }
+   ],
+   "titleMarkup": "Authorizations for Certain Activities at Liquefied Natural Gas Plants",
+   "soWhat": {
+    "changed": "Federal Energy Regulatory Commission proposed a rule: Authorizations for Certain Activities at Liquefied Natural Gas Plants",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Comments close Dec 21, 2026 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "LNG terminal owners could make qualifying changes faster, without waiting for individual orders.",
+    "n_sources": 1,
+    "signal_title": "FERC proposes blanket approvals for routine LNG plant work",
+    "crux": "FERC proposed procedures to authorize certain activities at LNG plants without case-specific orders under sections 3 or 7 of the Natural Gas Act. Comments are due December 21, 2026.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "LNG",
+     "Oil and gas"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22396",
+     "6ac8edbd6722b5b4db1fbb06",
+     "fr-2026-22052"
+    ],
+    "watch_next": "Comments due December 21, 2026 on docket RM26-2-001.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/10/20/2026-21443/authorizations-for-certain-activities-at-liquefied-natural-gas-plants",
+    "published_date": "2026-10-20",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21443/authorizations-for-certain-activities-at-liquefied-natural-gas-plants",
+     "kind": "official journal"
+    },
+    "reported_by": null
    }
   },
   {
@@ -2008,7 +4870,8 @@
    "titleMarkup": "China holds [[99%]] of primary gallium. Three clocks are running",
    "topics": [
     "minerals",
-    "geo"
+    "geo",
+    "semiconductors"
    ],
    "primary": "minerals",
    "summary": "99%. That is China's share of the world's primary gallium, the metal inside the GaN and GaAs chips used in defence, telecom and high-performance computing (USGS, 2026).",
@@ -2054,9 +4917,9 @@
     "id": "bis-rules",
     "kind": "count",
     "title": "US export-control rules (BIS)",
-    "value": "12",
+    "value": "13",
     "unit": "final rules in 2026 so far",
-    "change": "13 in the last 12 months",
+    "change": "14 in the last 12 months",
     "series": [
      1,
      2,
@@ -2069,7 +4932,7 @@
      5,
      1,
      0,
-     0
+     1
     ],
     "seriesLabel": "Final rules per month, last 12 months",
     "weekly": [
@@ -2107,24 +4970,24 @@
      0,
      0,
      0,
-     0,
-     1,
      1,
      0,
      1,
+     0,
      1,
-     0,
-     3,
-     0,
-     0,
-     0,
+     1,
+     2,
      1,
      0,
      0,
      0,
+     1,
      0,
      0,
-     0
+     0,
+     0,
+     0,
+     1
     ],
     "weeklyEntityList": [
      0,
@@ -2167,8 +5030,8 @@
      0,
      0,
      0,
-     0,
      2,
+     0,
      0,
      0,
      0,
@@ -2181,8 +5044,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-06",
-    "asOfLabel": "Nov 6, 2026",
+    "asOf": "2026-11-10",
+    "asOfLabel": "Nov 10, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -2215,7 +5078,7 @@
     "related_signals": [
      "6adbb54da4c20d730fe656c5",
      "6acab8dbf6dba531c0671d1b",
-     "6ad7c0a0a69d84a91a2bf0be"
+     "6adfaa09c6ab4e86516a9cb5"
     ],
     "watch_next": "A deadline: China's one-year suspension of its US-specific ban on gallium, germanium and antimony exports ends on Nov 27, 2026…",
     "confidence_score": 88,
@@ -2244,7 +5107,8 @@
    "titleMarkup": "China drafts export controls on the [[AI recipe]], not the app",
    "topics": [
     "ai",
-    "geo"
+    "geo",
+    "trade-sanctions"
    ],
    "primary": "ai",
    "summary": "10²⁶ FLOPs. That's the training-compute line China just proposed for controlling exports of frontier AI know-how. The EU AI Act's systemic-risk presumption starts at 10²⁵.",
@@ -2315,9 +5179,9 @@
     "id": "bis-rules",
     "kind": "count",
     "title": "US export-control rules (BIS)",
-    "value": "12",
+    "value": "13",
     "unit": "final rules in 2026 so far",
-    "change": "13 in the last 12 months",
+    "change": "14 in the last 12 months",
     "series": [
      1,
      2,
@@ -2330,7 +5194,7 @@
      5,
      1,
      0,
-     0
+     1
     ],
     "seriesLabel": "Final rules per month, last 12 months",
     "weekly": [
@@ -2368,24 +5232,24 @@
      0,
      0,
      0,
-     0,
-     1,
      1,
      0,
      1,
+     0,
      1,
-     0,
-     3,
-     0,
-     0,
-     0,
+     1,
+     2,
      1,
      0,
      0,
      0,
+     1,
      0,
      0,
-     0
+     0,
+     0,
+     0,
+     1
     ],
     "weeklyEntityList": [
      0,
@@ -2428,8 +5292,8 @@
      0,
      0,
      0,
-     0,
      2,
+     0,
      0,
      0,
      0,
@@ -2442,8 +5306,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-06",
-    "asOfLabel": "Nov 6, 2026",
+    "asOf": "2026-11-10",
+    "asOfLabel": "Nov 10, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -2475,8 +5339,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "6adbb54da4c20d730fe656c5",
-     "6adbb54da4c20d730fe656d6",
-     "6acab8dbf6dba531c0671d0a"
+     "fr-2026-21786",
+     "fr-2026-22793"
     ],
     "watch_next": "Comments close Nov 15, 2026",
     "confidence_score": 88,
@@ -2498,13 +5362,516 @@
    }
   },
   {
+   "id": "fr-2026-21371",
+   "published": "2026-10-19T12:00:00Z",
+   "kicker": "Arctic · Federal Register",
+   "title": "Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of…",
+   "topics": [
+    "arctic",
+    "geo"
+   ],
+   "primary": "arctic",
+   "summary": "We, the U.S. Fish and Wildlife Service (FWS), in response to a request under the Marine Mammal Protection Act (MMPA) of 1972 from the Alaska Oil and Gas Association (AOGA), finalize regulations facilitating the authorization of incidental…",
+   "body": "We, the U.S. Fish and Wildlife Service (FWS), in response to a request under the Marine Mammal Protection Act (MMPA) of 1972 from the Alaska Oil and Gas Association (AOGA), finalize regulations facilitating the authorization of incidental, unintentional take of small numbers of polar bears (Ursus maritimus) and Pacific walruses (Odobenus rosmarus divergens) during year-round oil and gas industry activities in the Beaufort Sea (Alaska and the Outer Continental Shelf (OCS)) and adjacent northern coast of Alaska. Take may result from oil and gas exploration, development, production, and transportation activities occurring for a period of 5 years. Oil and gas industry operations include similar types of activities covered by the previous 5-year Beaufort Sea incidental take regulations effective from August 6, 2021, through August 5, 2026. We will issue letters of authorization, upon request, for specific activities in accordance with these regulations.\n\nKey dates: This rule is effective October 19, 2026 and remains effective through October 19, 2031.\n\nDocument type: Final rule. Agency: Interior, Fish and Wildlife Service. Docket: Docket No. FWS-R7-ES-2026-0694, FXES111607MRG01-267-FF07CAMM00.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Fish and Wildlife Service",
+    "Takes effect Oct 19, 2026",
+    "Docket Docket No. FWS-R7-ES-2026-0694"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-10-19",
+     "title": "Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska",
+     "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21371/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-10-19",
+     "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21371/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north"
+    }
+   ],
+   "titleMarkup": "Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of…",
+   "soWhat": {
+    "changed": "Fish and Wildlife Service issued a final rule: Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of…",
+    "who": "Arctic governments, Indigenous communities, shipping and defence planners",
+    "watch": "Takes effect Oct 19, 2026"
+   },
+   "dataCard": {
+    "id": "nsidc-ice",
+    "kind": "level",
+    "title": "Arctic sea-ice extent",
+    "value": "8.58M km²",
+    "unit": "daily extent",
+    "change": "-1.56M km² vs the 1981–2010 average for the date",
+    "series": [
+     6.076,
+     6.178,
+     6.297,
+     6.33,
+     6.538,
+     6.809,
+     6.731,
+     6.717,
+     6.777,
+     6.792,
+     6.817,
+     6.954,
+     7.178,
+     7.364,
+     7.344,
+     7.438,
+     7.525,
+     7.601,
+     7.673,
+     7.743,
+     7.755,
+     7.84,
+     8.016,
+     8.135,
+     8.153,
+     8.241,
+     8.311,
+     8.425,
+     8.547,
+     8.58
+    ],
+    "seriesLabel": "Daily, last 30 days",
+    "daily90": [
+     [
+      "2026-08-11",
+      5.829
+     ],
+     [
+      "2026-08-12",
+      5.726
+     ],
+     [
+      "2026-08-13",
+      5.676
+     ],
+     [
+      "2026-08-14",
+      5.513
+     ],
+     [
+      "2026-08-15",
+      5.354
+     ],
+     [
+      "2026-08-16",
+      5.334
+     ],
+     [
+      "2026-08-17",
+      5.382
+     ],
+     [
+      "2026-08-18",
+      5.414
+     ],
+     [
+      "2026-08-19",
+      5.387
+     ],
+     [
+      "2026-08-20",
+      5.303
+     ],
+     [
+      "2026-08-21",
+      5.265
+     ],
+     [
+      "2026-08-22",
+      5.117
+     ],
+     [
+      "2026-08-23",
+      5.107
+     ],
+     [
+      "2026-08-24",
+      5.087
+     ],
+     [
+      "2026-08-25",
+      4.998
+     ],
+     [
+      "2026-08-26",
+      4.983
+     ],
+     [
+      "2026-08-27",
+      5.028
+     ],
+     [
+      "2026-08-28",
+      4.96
+     ],
+     [
+      "2026-08-29",
+      4.911
+     ],
+     [
+      "2026-08-30",
+      4.849
+     ],
+     [
+      "2026-08-31",
+      4.838
+     ],
+     [
+      "2026-09-01",
+      4.733
+     ],
+     [
+      "2026-09-02",
+      4.674
+     ],
+     [
+      "2026-09-03",
+      4.656
+     ],
+     [
+      "2026-09-04",
+      4.69
+     ],
+     [
+      "2026-09-05",
+      4.668
+     ],
+     [
+      "2026-09-06",
+      4.632
+     ],
+     [
+      "2026-09-07",
+      4.596
+     ],
+     [
+      "2026-09-08",
+      4.59
+     ],
+     [
+      "2026-09-09",
+      4.615
+     ],
+     [
+      "2026-09-10",
+      4.609
+     ],
+     [
+      "2026-09-11",
+      4.6
+     ],
+     [
+      "2026-09-12",
+      4.574
+     ],
+     [
+      "2026-09-13",
+      4.595
+     ],
+     [
+      "2026-09-14",
+      4.651
+     ],
+     [
+      "2026-09-15",
+      4.724
+     ],
+     [
+      "2026-09-16",
+      4.656
+     ],
+     [
+      "2026-09-17",
+      4.634
+     ],
+     [
+      "2026-09-18",
+      4.666
+     ],
+     [
+      "2026-09-19",
+      4.708
+     ],
+     [
+      "2026-09-20",
+      4.709
+     ],
+     [
+      "2026-09-21",
+      4.772
+     ],
+     [
+      "2026-09-22",
+      4.868
+     ],
+     [
+      "2026-09-23",
+      4.95
+     ],
+     [
+      "2026-09-24",
+      4.993
+     ],
+     [
+      "2026-09-25",
+      5.169
+     ],
+     [
+      "2026-09-26",
+      5.164
+     ],
+     [
+      "2026-09-27",
+      5.228
+     ],
+     [
+      "2026-09-28",
+      5.333
+     ],
+     [
+      "2026-09-29",
+      5.378
+     ],
+     [
+      "2026-09-30",
+      5.478
+     ],
+     [
+      "2026-10-01",
+      5.65
+     ],
+     [
+      "2026-10-02",
+      5.714
+     ],
+     [
+      "2026-10-03",
+      5.771
+     ],
+     [
+      "2026-10-04",
+      5.8
+     ],
+     [
+      "2026-10-05",
+      5.86
+     ],
+     [
+      "2026-10-06",
+      5.959
+     ],
+     [
+      "2026-10-07",
+      6.007
+     ],
+     [
+      "2026-10-08",
+      6.073
+     ],
+     [
+      "2026-10-09",
+      6.018
+     ],
+     [
+      "2026-10-10",
+      6.076
+     ],
+     [
+      "2026-10-11",
+      6.178
+     ],
+     [
+      "2026-10-12",
+      6.297
+     ],
+     [
+      "2026-10-13",
+      6.33
+     ],
+     [
+      "2026-10-14",
+      6.538
+     ],
+     [
+      "2026-10-15",
+      6.809
+     ],
+     [
+      "2026-10-16",
+      6.731
+     ],
+     [
+      "2026-10-17",
+      6.717
+     ],
+     [
+      "2026-10-18",
+      6.777
+     ],
+     [
+      "2026-10-19",
+      6.792
+     ],
+     [
+      "2026-10-20",
+      6.817
+     ],
+     [
+      "2026-10-21",
+      6.954
+     ],
+     [
+      "2026-10-22",
+      7.178
+     ],
+     [
+      "2026-10-23",
+      7.364
+     ],
+     [
+      "2026-10-24",
+      7.344
+     ],
+     [
+      "2026-10-25",
+      7.438
+     ],
+     [
+      "2026-10-26",
+      7.525
+     ],
+     [
+      "2026-10-27",
+      7.601
+     ],
+     [
+      "2026-10-28",
+      7.673
+     ],
+     [
+      "2026-10-29",
+      7.743
+     ],
+     [
+      "2026-10-30",
+      7.755
+     ],
+     [
+      "2026-10-31",
+      7.84
+     ],
+     [
+      "2026-11-01",
+      8.016
+     ],
+     [
+      "2026-11-02",
+      8.135
+     ],
+     [
+      "2026-11-03",
+      8.153
+     ],
+     [
+      "2026-11-04",
+      8.241
+     ],
+     [
+      "2026-11-05",
+      8.311
+     ],
+     [
+      "2026-11-06",
+      8.425
+     ],
+     [
+      "2026-11-07",
+      8.547
+     ],
+     [
+      "2026-11-08",
+      8.58
+     ]
+    ],
+    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
+    "asOf": "2026-11-08",
+    "asOfLabel": "Nov 8, 2026",
+    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
+    "license": "Free to use with citation",
+    "url": "https://nsidc.org/data/g02135/versions/4"
+   },
+   "photo": {
+    "src": "img/photos/arctic-polar-bear.webp",
+    "credit": "Photo: USFWS, Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Polar_bears_on_the_Beaufort_Sea_coast.jpg",
+    "key": "arctic-polar-bear"
+   },
+   "signal": {
+    "so_what": "Oil and gas work in the Beaufort Sea area gains regulatory certainty.",
+    "n_sources": 1,
+    "signal_title": "North Slope operators get a five-year wildlife permit path",
+    "crux": "FWS finalised incidental take rules for polar bears and walruses on the Beaufort Sea and North Slope.",
+    "importance": "Low",
+    "impact_score": 38,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Oil and gas",
+     "Environment"
+    ],
+    "affected_regions": [
+     "United States",
+     "Alaska",
+     "Arctic"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ad7c0a0a69d84a91a2bf0be",
+     "fr-2026-22052",
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor"
+    ],
+    "watch_next": "Takes effect Oct 19, 2026",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21371/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north",
+    "published_date": "2026-10-19",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21371/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "cg-2026-10-17-reg1",
    "published": "2026-10-17T14:00:00Z",
    "kicker": "AI Policy · Canada Gazette",
    "title": "Proposed: Non-Financial Activities (Banks and Bank Holding Companies) Regulations",
    "topics": [
     "ai",
-    "geo"
+    "geo",
+    "cyber-digital-sovereignty"
    ],
    "primary": "ai",
    "summary": "Canada’s financial sector is facing a period of digital transformation where advances in software, hardware, cloud computing, and artificial intelligence…",
@@ -2634,14 +6001,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.24M km²",
+    "value": "8.58M km²",
     "unit": "daily extent",
-    "change": "-1.66M km² vs the 1981–2010 average for the date",
+    "change": "-1.56M km² vs the 1981–2010 average for the date",
     "series": [
-     5.959,
-     6.007,
-     6.073,
-     6.018,
      6.076,
      6.178,
      6.297,
@@ -2667,26 +6030,14 @@
      8.016,
      8.135,
      8.153,
-     8.241
+     8.241,
+     8.311,
+     8.425,
+     8.547,
+     8.58
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-07",
-      6.131
-     ],
-     [
-      "2026-08-08",
-      6.042
-     ],
-     [
-      "2026-08-09",
-      6.031
-     ],
-     [
-      "2026-08-10",
-      5.896
-     ],
      [
       "2026-08-11",
       5.829
@@ -3030,11 +6381,27 @@
      [
       "2026-11-04",
       8.241
+     ],
+     [
+      "2026-11-05",
+      8.311
+     ],
+     [
+      "2026-11-06",
+      8.425
+     ],
+     [
+      "2026-11-07",
+      8.547
+     ],
+     [
+      "2026-11-08",
+      8.58
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-04",
-    "asOfLabel": "Nov 4, 2026",
+    "asOf": "2026-11-08",
+    "asOfLabel": "Nov 8, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -3094,7 +6461,8 @@
    "title": "US AI investment hits $581 billion, and debt is paying for it",
    "titleMarkup": "US AI investment hits [[$581 billion]], and debt is paying for it",
    "topics": [
-    "ai"
+    "ai",
+    "ai-investment-infrastructure"
    ],
    "primary": "ai",
    "summary": "$581 billion. That is Goldman Sachs Research's estimate of U.S. AI investment in 2026 — about 1.8% of U.S. GDP. Globally, the same shop puts AI-related investment near $1 trillion this year. Cash flow no longer covers it. Bond markets and private credit do.",
@@ -3491,8 +6859,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6ad66e84a07c63635f9885f4",
-     "6ad66e84a07c63635f9885fa",
-     "6ad66e84a07c63635f98861a"
+     "eu-32026r2381",
+     "fr-2026-22292"
     ],
     "watch_next": "Delivery against Nunavut's own target of 3,000 new homes by 2030.",
     "confidence_score": 88,
@@ -3521,7 +6889,8 @@
    "titleMarkup": "Nunavut's food insecurity meets data-centre [[waste heat]]",
    "topics": [
     "arctic",
-    "ai"
+    "ai",
+    "ai-investment-infrastructure"
    ],
    "primary": "ai",
    "summary": "56.4%. That's the share of people in Nunavut living in a food-insecure household in 2025, the highest in Canada, according to Statistics Canada data. For children, it's 67.6%.",
@@ -3567,14 +6936,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.24M km²",
+    "value": "8.58M km²",
     "unit": "daily extent",
-    "change": "-1.66M km² vs the 1981–2010 average for the date",
+    "change": "-1.56M km² vs the 1981–2010 average for the date",
     "series": [
-     5.959,
-     6.007,
-     6.073,
-     6.018,
      6.076,
      6.178,
      6.297,
@@ -3600,26 +6965,14 @@
      8.016,
      8.135,
      8.153,
-     8.241
+     8.241,
+     8.311,
+     8.425,
+     8.547,
+     8.58
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-07",
-      6.131
-     ],
-     [
-      "2026-08-08",
-      6.042
-     ],
-     [
-      "2026-08-09",
-      6.031
-     ],
-     [
-      "2026-08-10",
-      5.896
-     ],
      [
       "2026-08-11",
       5.829
@@ -3963,11 +7316,27 @@
      [
       "2026-11-04",
       8.241
+     ],
+     [
+      "2026-11-05",
+      8.311
+     ],
+     [
+      "2026-11-06",
+      8.425
+     ],
+     [
+      "2026-11-07",
+      8.547
+     ],
+     [
+      "2026-11-08",
+      8.58
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-04",
-    "asOfLabel": "Nov 4, 2026",
+    "asOf": "2026-11-08",
+    "asOfLabel": "Nov 8, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -4025,7 +7394,8 @@
    "titleMarkup": "Arctic security becomes an [[infrastructure build]]",
    "topics": [
     "arctic",
-    "geo"
+    "geo",
+    "space-satellites"
    ],
    "primary": "geo",
    "summary": "C$2.3 billion. That's the initial contract Ottawa signed with Telesat in August to deliver secure military satellite links across the Arctic, north of the 65th parallel.",
@@ -4216,8 +7586,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "cg-2026-10-17-reg1",
-     "6ad66e84a07c63635f9885eb",
-     "6ad91237fa09b1e62e3c12ab"
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
+     "fr-2026-22386"
     ],
     "watch_next": "Consultation closes Nov 20, 2026",
     "confidence_score": 95,
@@ -4316,14 +7686,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.24M km²",
+    "value": "8.58M km²",
     "unit": "daily extent",
-    "change": "-1.66M km² vs the 1981–2010 average for the date",
+    "change": "-1.56M km² vs the 1981–2010 average for the date",
     "series": [
-     5.959,
-     6.007,
-     6.073,
-     6.018,
      6.076,
      6.178,
      6.297,
@@ -4349,26 +7715,14 @@
      8.016,
      8.135,
      8.153,
-     8.241
+     8.241,
+     8.311,
+     8.425,
+     8.547,
+     8.58
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-07",
-      6.131
-     ],
-     [
-      "2026-08-08",
-      6.042
-     ],
-     [
-      "2026-08-09",
-      6.031
-     ],
-     [
-      "2026-08-10",
-      5.896
-     ],
      [
       "2026-08-11",
       5.829
@@ -4712,11 +8066,27 @@
      [
       "2026-11-04",
       8.241
+     ],
+     [
+      "2026-11-05",
+      8.311
+     ],
+     [
+      "2026-11-06",
+      8.425
+     ],
+     [
+      "2026-11-07",
+      8.547
+     ],
+     [
+      "2026-11-08",
+      8.58
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-04",
-    "asOfLabel": "Nov 4, 2026",
+    "asOf": "2026-11-08",
+    "asOfLabel": "Nov 8, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -4781,7 +8151,8 @@
    "titleMarkup": "Ottawa adds $500M for AI adoption. Sovereignty runs on [[compute]].",
    "topics": [
     "ai",
-    "geo"
+    "geo",
+    "ai-investment-infrastructure"
    ],
    "primary": "ai",
    "summary": "12%. That is the share of Canadian businesses using AI today, according to the Prime Minister's June 4 launch of AI for All. Ottawa's target is 60% by 2034. Today it put another $500 million behind that goal.",
@@ -4875,7 +8246,7 @@
     "related_signals": [
      "6ac8edbd6722b5b4db1fbb12",
      "cg-2026-10-17-reg1",
-     "6ad66e84a07c63635f9885f2"
+     "6ad66e84a07c63635f9885eb"
     ],
     "watch_next": "60% adoption by 2034 and 250,000 jobs by 2031 are government targets, not forecasts.",
     "confidence_score": 95,
@@ -4961,14 +8332,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.24M km²",
+    "value": "8.58M km²",
     "unit": "daily extent",
-    "change": "-1.66M km² vs the 1981–2010 average for the date",
+    "change": "-1.56M km² vs the 1981–2010 average for the date",
     "series": [
-     5.959,
-     6.007,
-     6.073,
-     6.018,
      6.076,
      6.178,
      6.297,
@@ -4994,26 +8361,14 @@
      8.016,
      8.135,
      8.153,
-     8.241
+     8.241,
+     8.311,
+     8.425,
+     8.547,
+     8.58
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-07",
-      6.131
-     ],
-     [
-      "2026-08-08",
-      6.042
-     ],
-     [
-      "2026-08-09",
-      6.031
-     ],
-     [
-      "2026-08-10",
-      5.896
-     ],
      [
       "2026-08-11",
       5.829
@@ -5357,11 +8712,27 @@
      [
       "2026-11-04",
       8.241
+     ],
+     [
+      "2026-11-05",
+      8.311
+     ],
+     [
+      "2026-11-06",
+      8.425
+     ],
+     [
+      "2026-11-07",
+      8.547
+     ],
+     [
+      "2026-11-08",
+      8.58
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-04",
-    "asOfLabel": "Nov 4, 2026",
+    "asOf": "2026-11-08",
+    "asOfLabel": "Nov 8, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -5393,8 +8764,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "6ad7c0a0a69d84a91a2bf0be",
-     "6ad66e84a07c63635f98860f",
-     "6acf6f0f0708b0daf40ec136"
+     "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
+     "6ad66e84a07c63635f98860f"
     ],
     "watch_next": "The 2026 NWP count is published around Nov 1.",
     "confidence_score": 88,
@@ -5423,7 +8794,8 @@
    "titleMarkup": "What if Arctic farms ran on AI's [[waste heat]]?",
    "topics": [
     "arctic",
-    "ai"
+    "ai",
+    "ai-investment-infrastructure"
    ],
    "primary": "arctic",
    "summary": "What if the Arctic's next farms ran on AI's waste heat? A 3 GW hyperscaler campus throws off heat on the scale of a city. In the Canadian North, that heat could grow food that is now flown or shipped in.",
@@ -5506,7 +8878,8 @@
    "titleMarkup": "Arctic compute starts in [[kilowatts]], not gigawatts",
    "topics": [
     "arctic",
-    "ai"
+    "ai",
+    "ai-investment-infrastructure"
    ],
    "primary": "arctic",
    "summary": "Canada's first Arctic data-centre pitch is measured in kilowatts. Its biggest AI campus is measured in gigawatts, and it will run largely on gas.",
@@ -5619,7 +8992,8 @@
    "titleMarkup": "Owning the deposit isn't enough. States want the [[midstream]]",
    "topics": [
     "minerals",
-    "geo"
+    "geo",
+    "strategic-supply-chains"
    ],
    "primary": "minerals",
    "summary": "Owning the deposit is no longer the strategy. Governments now want the stockpile and the separation plant. Two moves in four days show critical minerals policy shifting from extraction to control of the midstream.",
@@ -5728,8 +9102,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "6ae0fb95987facb4c57e55ac",
-     "nrcan-canada-invests-to-unlock-lithium-potential-and-improve-conne",
-     "6ace51427d6da06c8ebdbdf3"
+     "6adfaa09c6ab4e86516a9cb3",
+     "nrcan-canada-invests-to-unlock-lithium-potential-and-improve-conne"
     ],
     "watch_next": "India's stockpile policy is still a proposal; Brazil's law is enacted, but the Lynas plant is not committed.",
     "confidence_score": 80,
@@ -5873,7 +9247,8 @@
    "titleMarkup": "Greenland’s defence pact is also an [[investment filter]]",
    "topics": [
     "arctic",
-    "geo"
+    "geo",
+    "defense-technology"
    ],
    "primary": "arctic",
    "summary": "Greenland’s new defence pact with the US just cleared its first debate in Nuuk. Read the fine print: it is also an investment filter.",
@@ -5954,8 +9329,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "6ae0fb95987facb4c57e55ac",
-     "6ad7c0a0a69d84a91a2bf0be",
-     "6ac8edbd6722b5b4db1fbb66"
+     "fr-2026-22052",
+     "6ad7c0a0a69d84a91a2bf0be"
     ],
     "watch_next": "The second reading in Inatsisartut (no date set) and approval in Denmark.",
     "confidence_score": 80,
@@ -6108,7 +9483,8 @@
    "titleMarkup": "Rare earth security is being [[bargained]], not just [[legislated]]",
    "topics": [
     "minerals",
-    "geo"
+    "geo",
+    "trade-sanctions"
    ],
    "primary": "minerals",
    "summary": "Rare earth security is being bargained in trade talks — not just written into domestic bills. On October 8–9 in Beijing, the EU and China turned their trade consultation mechanism into a first package tying critical materials to cars and tariffs.",
@@ -6218,7 +9594,7 @@
     "related_signals": [
      "6ad66e84a07c63635f9885ed",
      "6adbb54da4c20d730fe656c5",
-     "6ae0fb95987facb4c57e55ac"
+     "fr-2026-22052"
     ],
     "watch_next": "Treat Jan 10 as a political clock until MOFCOM updates Notice 70.",
     "confidence_score": 80,
@@ -6349,7 +9725,8 @@
    "title": "Canada is stacking Arctic diplomacy on top of Arctic operations",
    "titleMarkup": "Canada is stacking Arctic [[diplomacy]] on top of Arctic [[operations]]",
    "topics": [
-    "arctic"
+    "arctic",
+    "defense-technology"
    ],
    "primary": "arctic",
    "summary": "Three Arctic moves in one stretch of the calendar. Diplomacy, operations, and an alliance framework are lining up. In early October, Canada put Arctic posture on three tracks at once.",
@@ -6421,9 +9798,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Medium",
     "related_signals": [
-     "6ad7c0a0a69d84a91a2bf0be",
-     "6ad66e84a07c63635f98860f",
-     "6ad66e84a07c63635f9885ef"
+     "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
+     "6ace51427d6da06c8ebdbdd1",
+     "6ad7c0a0a69d84a91a2bf0be"
     ],
     "watch_next": "The JEF recommendation is not membership.",
     "confidence_score": 88,
@@ -6438,6 +9815,96 @@
     },
     "reported_by": "Department of National Defence (Defence Stories)"
    }
+  },
+  {
+   "id": "gg-364032",
+   "published": "2026-10-07T12:00:00Z",
+   "kicker": "Geoeconomics · Grants.gov",
+   "title": "Funding call: ROSES 2025: B.7 The Heliophysics Low-Cost Access to Space",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "NASA Headquarters is taking applications until Mar 16, 2027 for ROSES 2025: B.7 The Heliophysics Low-Cost Access to Space.",
+   "body": "NASA Headquarters (National Aeronautics and Space Administration) posted funding opportunity NNH25ZDA001N-LCAS, \"ROSES 2025: B.7 The Heliophysics Low-Cost Access to Space\", on Grants.gov on Oct 7, 2026. Applications close Mar 16, 2027.\n\nThe close date above is the date for the Step-2 proposal due date. The Step-1 proposal due date is November 20, 2026 . Step-2 proposals cannot be submitted if a Step-1 proposal was not submitted.\n\nWhy it matters: Federal funding calls show where Washington is paying for research and capacity. Check the full notice of funding opportunity for eligibility, cost-share rules and how to apply.",
+   "stat": null,
+   "keyPoints": [
+    "Funding call NNH25ZDA001N-LCAS from NASA Headquarters",
+    "Applications due Mar 16, 2027"
+   ],
+   "sources": [
+    {
+     "publisher": "Grants.gov",
+     "date": "2026-10-07",
+     "title": "ROSES 2025: B.7 The Heliophysics Low-Cost Access to Space",
+     "url": "https://www.grants.gov/search-results-detail/364032",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Grants.gov",
+   "primarySource": {
+    "name": "Grants.gov",
+    "kind": "US federal funding opportunity",
+    "terms": "Public US government data (no key)"
+   },
+   "deadlines": [
+    {
+     "type": "funding",
+     "label": "Applications due",
+     "date": "2027-03-16",
+     "url": "https://www.grants.gov/search-results-detail/364032"
+    }
+   ],
+   "titleMarkup": "Funding call: ROSES 2025: B.7 The Heliophysics Low-Cost Access to Space",
+   "soWhat": {
+    "changed": "NASA Headquarters opened funding call NNH25ZDA001N-LCAS, ROSES 2025: B.7 The Heliophysics Low-Cost Access to Space",
+    "who": "Researchers, companies and institutions eligible for US federal awards",
+    "watch": "Applications due Mar 16, 2027 on Grants.gov"
+   },
+   "photo": {
+    "src": "img/photos/minerals-openpit.webp",
+    "credit": "Photo: Doc Searls from Santa Barbara, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_mine_dumps,_2004.jpg",
+    "key": "minerals-openpit"
+   },
+   "signal": {
+    "so_what": "University and small payload teams need a step-1 entry this month to stay eligible.",
+    "n_sources": 1,
+    "signal_title": "NASA funds low-cost heliophysics flights, step one due Nov 20",
+    "crux": "NASA's ROSES 2025 Heliophysics Low-Cost Access to Space call is open. Step-1 proposals are due November 20, 2026 and step-2 proposals March 16, 2027.",
+    "importance": "Low",
+    "impact_score": 35,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Space",
+     "Research"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-21818",
+     "fr-2026-22789",
+     "6ad66e84a07c63635f98860f"
+    ],
+    "watch_next": "Step-1 proposals due November 20, 2026; step-2 cannot be filed without one.",
+    "confidence_score": 67,
+    "source_name": "Grants.gov",
+    "source_url": "https://www.grants.gov/search-results-detail/364032",
+    "published_date": "2026-10-07",
+    "key_number": null,
+    "primary_source": {
+     "name": "Grants.gov",
+     "url": "https://www.grants.gov/search-results-detail/364032",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
   }
  ],
  "dataCards": [
@@ -6445,14 +9912,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "8.24M km²",
+   "value": "8.58M km²",
    "unit": "daily extent",
-   "change": "-1.66M km² vs the 1981–2010 average for the date",
+   "change": "-1.56M km² vs the 1981–2010 average for the date",
    "series": [
-    5.959,
-    6.007,
-    6.073,
-    6.018,
     6.076,
     6.178,
     6.297,
@@ -6478,31 +9941,19 @@
     8.016,
     8.135,
     8.153,
-    8.241
+    8.241,
+    8.311,
+    8.425,
+    8.547,
+    8.58
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-04",
-   "asOfLabel": "Nov 4, 2026",
+   "asOf": "2026-11-08",
+   "asOfLabel": "Nov 8, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-07",
-     6.131
-    ],
-    [
-     "2026-08-08",
-     6.042
-    ],
-    [
-     "2026-08-09",
-     6.031
-    ],
-    [
-     "2026-08-10",
-     5.896
-    ],
     [
      "2026-08-11",
      5.829
@@ -6846,6 +10297,22 @@
     [
      "2026-11-04",
      8.241
+    ],
+    [
+     "2026-11-05",
+     8.311
+    ],
+    [
+     "2026-11-06",
+     8.425
+    ],
+    [
+     "2026-11-07",
+     8.547
+    ],
+    [
+     "2026-11-08",
+     8.58
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -6953,9 +10420,9 @@
    "id": "bis-rules",
    "kind": "count",
    "title": "US export-control rules (BIS)",
-   "value": "12",
+   "value": "13",
    "unit": "final rules in 2026 so far",
-   "change": "13 in the last 12 months",
+   "change": "14 in the last 12 months",
    "series": [
     1,
     2,
@@ -6968,11 +10435,11 @@
     5,
     1,
     0,
-    0
+    1
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-06",
-   "asOfLabel": "Nov 6, 2026",
+   "asOf": "2026-11-10",
+   "asOfLabel": "Nov 10, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -7011,24 +10478,24 @@
     0,
     0,
     0,
-    0,
-    1,
     1,
     0,
     1,
+    0,
     1,
-    0,
-    3,
-    0,
-    0,
-    0,
+    1,
+    2,
     1,
     0,
     0,
     0,
+    1,
     0,
     0,
-    0
+    0,
+    0,
+    0,
+    1
    ],
    "weeklyEntityList": [
     0,
@@ -7071,8 +10538,8 @@
     0,
     0,
     0,
-    0,
     2,
+    0,
     0,
     0,
     0,
@@ -7092,21 +10559,21 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-06T11:06:22+00:00",
+  "asOf": "2026-11-10T05:27:27+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
     "7": {
      "cur": 1,
-     "prev": 5,
-     "dir": "down",
-     "reliable": true
-    },
-    "30": {
-     "cur": 17,
      "prev": 0,
      "dir": "up",
      "reliable": true
+    },
+    "30": {
+     "cur": 16,
+     "prev": 1,
+     "dir": "up",
+     "reliable": false
     },
     "90": {
      "cur": 17,
@@ -7115,7 +10582,7 @@
      "reliable": false
     }
    },
-   "arctic": {
+   "ai-investment-infrastructure": {
     "7": {
      "cur": 0,
      "prev": 0,
@@ -7123,34 +10590,134 @@
      "reliable": true
     },
     "30": {
-     "cur": 13,
+     "cur": 7,
+     "prev": 0,
+     "dir": "up",
+     "reliable": false
+    },
+    "90": {
+     "cur": 7,
+     "prev": 1,
+     "dir": "up",
+     "reliable": false
+    }
+   },
+   "arctic": {
+    "7": {
+     "cur": 1,
      "prev": 0,
      "dir": "up",
      "reliable": true
     },
-    "90": {
-     "cur": 13,
+    "30": {
+     "cur": 14,
      "prev": 1,
+     "dir": "up",
+     "reliable": false
+    },
+    "90": {
+     "cur": 15,
+     "prev": 1,
+     "dir": "up",
+     "reliable": false
+    }
+   },
+   "cyber-digital-sovereignty": {
+    "7": {
+     "cur": 1,
+     "prev": 0,
+     "dir": "up",
+     "reliable": true
+    },
+    "30": {
+     "cur": 2,
+     "prev": 0,
+     "dir": "up",
+     "reliable": false
+    },
+    "90": {
+     "cur": 2,
+     "prev": 0,
+     "dir": "up",
+     "reliable": false
+    }
+   },
+   "defense-technology": {
+    "7": {
+     "cur": 2,
+     "prev": 1,
+     "dir": "up",
+     "reliable": true
+    },
+    "30": {
+     "cur": 5,
+     "prev": 1,
+     "dir": "up",
+     "reliable": false
+    },
+    "90": {
+     "cur": 6,
+     "prev": 1,
+     "dir": "up",
+     "reliable": false
+    }
+   },
+   "economic-security": {
+    "7": {
+     "cur": 0,
+     "prev": 2,
+     "dir": "down",
+     "reliable": true
+    },
+    "30": {
+     "cur": 3,
+     "prev": 0,
+     "dir": "up",
+     "reliable": false
+    },
+    "90": {
+     "cur": 3,
+     "prev": 0,
+     "dir": "up",
+     "reliable": false
+    }
+   },
+   "energy-power": {
+    "7": {
+     "cur": 3,
+     "prev": 1,
+     "dir": "up",
+     "reliable": true
+    },
+    "30": {
+     "cur": 8,
+     "prev": 0,
+     "dir": "up",
+     "reliable": false
+    },
+    "90": {
+     "cur": 8,
+     "prev": 0,
      "dir": "up",
      "reliable": false
     }
    },
    "geo": {
     "7": {
-     "cur": 0,
-     "prev": 8,
-     "dir": "down",
-     "reliable": true
-    },
-    "30": {
-     "cur": 18,
-     "prev": 0,
+     "cur": 16,
+     "prev": 10,
      "dir": "up",
      "reliable": true
     },
-    "90": {
-     "cur": 18,
+    "30": {
+     "cur": 44,
      "prev": 2,
+     "dir": "up",
+     "reliable": false
+    },
+    "90": {
+     "cur": 46,
+     "prev": 3,
      "dir": "up",
      "reliable": false
     }
@@ -7158,15 +10725,95 @@
    "minerals": {
     "7": {
      "cur": 0,
-     "prev": 7,
+     "prev": 5,
      "dir": "down",
      "reliable": true
     },
     "30": {
      "cur": 14,
+     "prev": 1,
+     "dir": "up",
+     "reliable": false
+    },
+    "90": {
+     "cur": 15,
+     "prev": 0,
+     "dir": "up",
+     "reliable": false
+    }
+   },
+   "semiconductors": {
+    "7": {
+     "cur": 0,
+     "prev": 0,
+     "dir": "steady",
+     "reliable": true
+    },
+    "30": {
+     "cur": 4,
+     "prev": 0,
+     "dir": "up",
+     "reliable": false
+    },
+    "90": {
+     "cur": 4,
+     "prev": 0,
+     "dir": "up",
+     "reliable": false
+    }
+   },
+   "space-satellites": {
+    "7": {
+     "cur": 3,
      "prev": 0,
      "dir": "up",
      "reliable": true
+    },
+    "30": {
+     "cur": 5,
+     "prev": 1,
+     "dir": "up",
+     "reliable": false
+    },
+    "90": {
+     "cur": 6,
+     "prev": 0,
+     "dir": "up",
+     "reliable": false
+    }
+   },
+   "strategic-supply-chains": {
+    "7": {
+     "cur": 1,
+     "prev": 3,
+     "dir": "down",
+     "reliable": true
+    },
+    "30": {
+     "cur": 7,
+     "prev": 0,
+     "dir": "up",
+     "reliable": false
+    },
+    "90": {
+     "cur": 7,
+     "prev": 1,
+     "dir": "up",
+     "reliable": false
+    }
+   },
+   "trade-sanctions": {
+    "7": {
+     "cur": 6,
+     "prev": 5,
+     "dir": "steady",
+     "reliable": true
+    },
+    "30": {
+     "cur": 13,
+     "prev": 1,
+     "dir": "up",
+     "reliable": false
     },
     "90": {
      "cur": 14,
@@ -7176,5 +10823,39 @@
     }
    }
   }
+ },
+ "topicCoverage": {
+  "asOf": "2026-11-10T05:29:28+00:00",
+  "counts": {
+   "arctic": 15,
+   "ai": 17,
+   "minerals": 16,
+   "geo": 47,
+   "ai-investment-infrastructure": 7,
+   "energy-power": 9,
+   "trade-sanctions": 15,
+   "strategic-supply-chains": 7,
+   "defense-technology": 6,
+   "semiconductors": 4,
+   "economic-security": 3,
+   "cyber-digital-sovereignty": 2,
+   "space-satellites": 6
+  },
+  "live": [
+   "arctic",
+   "ai",
+   "minerals",
+   "geo",
+   "ai-investment-infrastructure",
+   "energy-power",
+   "trade-sanctions",
+   "strategic-supply-chains",
+   "defense-technology",
+   "semiconductors",
+   "economic-security",
+   "cyber-digital-sovereignty",
+   "space-satellites"
+  ],
+  "basis": "items in this feed tagged with the topic id; a taxonomy group with at least one item has live coverage"
  }
 }
