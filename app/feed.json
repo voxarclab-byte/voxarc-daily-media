@@ -1,8 +1,92 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-10T05:29:28+00:00",
+ "generated": "2026-11-10T11:04:08+00:00",
  "items": [
+  {
+   "id": "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
+   "published": "2026-11-10T15:00:00Z",
+   "kicker": "Geoeconomics · Global Affairs Canada",
+   "title": "Minister Anand announces reimposition of sanctions against Iranian entities",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced that Canada is reimposing sanctions against 11 Iranian entities under the Special Economic Measures…",
+   "body": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced that Canada is reimposing sanctions against 11 Iranian entities under the Special Economic Measures (Iran) Regulations for contributing to the Iranian regime’s proliferation-sensitive nuclear activities and ballistic missile program or to the financing of its malign activities.\n\nGlobal Affairs Canada published this news release on Nov 10, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from Global Affairs Canada"
+   ],
+   "sources": [
+    {
+     "publisher": "Global Affairs Canada",
+     "date": "2026-11-10",
+     "title": "Minister Anand announces reimposition of sanctions against Iranian entities",
+     "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-reimposition-of-sanctions-against-iranian-entities.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "Global Affairs Canada",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Minister Anand announces reimposition of sanctions against Iranian entities",
+   "soWhat": {
+    "changed": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced that Canada is reimposing sanctions against 11 Iranian entities under the Special…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on regulations, orders or funding details from Global Affairs Canada"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Canadian firms and financial institutions need to rescreen counterparties and supply chains against the restored listings.",
+    "n_sources": 1,
+    "signal_title": "Canada restores sanctions on 11 Iranian entities",
+    "crux": "Global Affairs Canada is reimposing sanctions on 11 Iranian entities under the Special Economic Measures Act.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Compliance",
+     "Financial services",
+     "Trade"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Middle East"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
+     "gc-minister-sidhu-announces-extension-of-favourable-market-acce",
+     "fr-2026-22386"
+    ],
+    "watch_next": "Published regulations naming the 11 entities and any allied sanctions moves",
+    "confidence_score": 67,
+    "source_name": "Global Affairs Canada",
+    "source_url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-reimposition-of-sanctions-against-iranian-entities.html",
+    "published_date": "2026-11-10",
+    "key_number": null,
+    "primary_source": {
+     "name": "Global Affairs Canada",
+     "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-reimposition-of-sanctions-against-iranian-entities.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
    "published": "2026-11-09T15:00:00Z",
@@ -157,7 +241,7 @@
     "related_signals": [
      "fr-2026-22386",
      "eu-32026r2490",
-     "6ad66e84a07c63635f9885ef"
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
     ],
     "watch_next": "Matching G7 listings and the updated schedule of the Special Economic Measures (Russia) Regulations.",
     "confidence_score": 67,
@@ -1180,9 +1264,9 @@
     "risk_level": "Low",
     "opportunity_level": "High",
     "related_signals": [
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
      "6adbb54da4c20d730fe656c5",
-     "6acab8dbf6dba531c0671d1b",
-     "6ad66e84a07c63635f9885f2"
+     "6acab8dbf6dba531c0671d1b"
     ],
     "watch_next": "Follow-up commitments from the Canada-China Joint Economic and Trade Commission.",
     "confidence_score": 67,
@@ -1716,88 +1800,6 @@
    }
   },
   {
-   "id": "fr-2026-22386",
-   "published": "2026-11-02T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Memorandum for the Secretary of State [and] the Secretary of the Treasury By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby direct…",
-   "body": "Memorandum for the Secretary of State [and] the Secretary of the Treasury By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby direct: Section 1. (a) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by section 8335(a) of the National Defense Authorization Act for Fiscal Year 2026 (the ``Act'') (22 U.S.C. 10704(a)). Once sanctionable foreign persons are identified by the Secretary of State, I delegate to the heads of relevant executive departments and agencies, commensurate...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Presidential document from Executive Office of the President"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-02",
-     "title": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
-     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
-   "soWhat": {
-    "changed": "Executive Office of the President published a presidential document: Delegation of Authority Under Section 8335 of the National Defense Authorization Act for…",
-    "who": "Once sanctionable foreign persons are identified by the Secretary of State, I delegate to the heads of relevant executive departments and agencies…",
-    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "An administrative step: designations under this section can now follow, so watch OFAC actions citing it.",
-    "n_sources": 1,
-    "signal_title": "Treasury and State get the new NDAA section 8335 sanctions powers",
-    "crux": "A presidential memorandum delegates the sanctions authorities in section 8335 of the FY2026 NDAA to the Treasury Secretary, with State identifying the foreign persons to be sanctioned.",
-    "importance": "Low",
-    "impact_score": 38,
-    "time_horizon": "Medium term",
-    "affected_sectors": [
-     "Compliance",
-     "Banking"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
-     "eu-32026r2490",
-     "6ad0c1add38f38895d8ec75b"
-    ],
-    "watch_next": "The first designations or OFAC regulations issued under section 8335.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
-    "published_date": "2026-11-02",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "fr-2026-22385",
    "published": "2026-11-02T12:00:00Z",
    "kicker": "Geoeconomics · Federal Register",
@@ -1878,6 +1880,88 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22386",
+   "published": "2026-11-02T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Memorandum for the Secretary of State [and] the Secretary of the Treasury By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby direct…",
+   "body": "Memorandum for the Secretary of State [and] the Secretary of the Treasury By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby direct: Section 1. (a) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by section 8335(a) of the National Defense Authorization Act for Fiscal Year 2026 (the ``Act'') (22 U.S.C. 10704(a)). Once sanctionable foreign persons are identified by the Secretary of State, I delegate to the heads of relevant executive departments and agencies, commensurate...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-02",
+     "title": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
+     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: Delegation of Authority Under Section 8335 of the National Defense Authorization Act for…",
+    "who": "Once sanctionable foreign persons are identified by the Secretary of State, I delegate to the heads of relevant executive departments and agencies…",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "An administrative step: designations under this section can now follow, so watch OFAC actions citing it.",
+    "n_sources": 1,
+    "signal_title": "Treasury and State get the new NDAA section 8335 sanctions powers",
+    "crux": "A presidential memorandum delegates the sanctions authorities in section 8335 of the FY2026 NDAA to the Treasury Secretary, with State identifying the foreign persons to be sanctioned.",
+    "importance": "Low",
+    "impact_score": 38,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Compliance",
+     "Banking"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
+     "eu-32026r2490",
+     "6ad0c1add38f38895d8ec75b"
+    ],
+    "watch_next": "The first designations or OFAC regulations issued under section 8335.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
+    "published_date": "2026-11-02",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
      "kind": "official journal"
     },
     "reported_by": null
@@ -1971,95 +2055,6 @@
      "name": "Transport Canada",
      "url": "https://www.canada.ca/en/transport-canada/news/2026/10/roberts-bank-terminal-2-listed-as-a-project-of-national-interest-to-strengthen-canadas-trade-sovereignty.html",
      "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "fr-2026-22292",
-   "published": "2026-10-30T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "1. In Proclamation 11048 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles)…",
-   "body": "1. In Proclamation 11048 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles), I found as a fact that Canada is discriminating in fact against the commerce of the United States through Canada's motor vehicle tariff scheme; that this discrimination places the commerce of the United States at a disadvantage compared to the commerce of other countries; and that Canada's imposition is unreasonable, is not equally enforced upon the like articles of every foreign country, and places a burden on the commerce of the United States. To offset the burden or disadvantage on U.S. commerce from...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Presidential document from Executive Office of the President"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-10-30",
-     "title": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles",
-     "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian…",
-   "soWhat": {
-    "changed": "Executive Office of the President published a presidential document: Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "Canadian exporters on the annex list can price US sales without the 50% surcharge; others remain exposed.",
-    "n_sources": 1,
-    "signal_title": "Washington drops its 50% duty on some Canadian products",
-    "crux": "A presidential proclamation removed certain products of Canada, listed in its annex, from the 50% additional duty imposed over Canada's motor vehicle tariff scheme, effective October 30, 2026.",
-    "importance": "High",
-    "impact_score": 66,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Automotive",
-     "Manufacturing",
-     "Trade compliance"
-    ],
-    "affected_regions": [
-     "United States",
-     "Canada"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "High",
-    "related_signals": [
-     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
-     "fr-2026-22385",
-     "fr-2026-22735"
-    ],
-    "watch_next": "The Annex I product list and any further changes to Proclamation 11048 duties.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
-    "published_date": "2026-10-30",
-    "key_number": {
-     "value": "50%",
-     "unit": "",
-     "label": "additional duty imposed over Canada's motor",
-     "kind": "percent"
-    },
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
-     "kind": "official journal"
     },
     "reported_by": null
    }
@@ -2161,6 +2156,95 @@
      "name": "Grants.gov",
      "url": "https://www.grants.gov/search-results-detail/364174",
      "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22292",
+   "published": "2026-10-30T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "1. In Proclamation 11048 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles)…",
+   "body": "1. In Proclamation 11048 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles), I found as a fact that Canada is discriminating in fact against the commerce of the United States through Canada's motor vehicle tariff scheme; that this discrimination places the commerce of the United States at a disadvantage compared to the commerce of other countries; and that Canada's imposition is unreasonable, is not equally enforced upon the like articles of every foreign country, and places a burden on the commerce of the United States. To offset the burden or disadvantage on U.S. commerce from...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-10-30",
+     "title": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles",
+     "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian…",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Canadian exporters on the annex list can price US sales without the 50% surcharge; others remain exposed.",
+    "n_sources": 1,
+    "signal_title": "Washington drops its 50% duty on some Canadian products",
+    "crux": "A presidential proclamation removed certain products of Canada, listed in its annex, from the 50% additional duty imposed over Canada's motor vehicle tariff scheme, effective October 30, 2026.",
+    "importance": "High",
+    "impact_score": 66,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Automotive",
+     "Manufacturing",
+     "Trade compliance"
+    ],
+    "affected_regions": [
+     "United States",
+     "Canada"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "High",
+    "related_signals": [
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
+     "fr-2026-22385",
+     "fr-2026-22735"
+    ],
+    "watch_next": "The Annex I product list and any further changes to Proclamation 11048 duties.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
+    "published_date": "2026-10-30",
+    "key_number": {
+     "value": "50%",
+     "unit": "",
+     "label": "additional duty imposed over Canada's motor",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
+     "kind": "official journal"
     },
     "reported_by": null
    }
@@ -10559,7 +10643,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-10T05:27:27+00:00",
+  "asOf": "2026-11-10T11:04:01+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -10644,9 +10728,9 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 2,
-     "prev": 1,
-     "dir": "up",
+     "cur": 0,
+     "prev": 3,
+     "dir": "down",
      "reliable": true
     },
     "30": {
@@ -10704,9 +10788,9 @@
    },
    "geo": {
     "7": {
-     "cur": 16,
-     "prev": 10,
-     "dir": "up",
+     "cur": 14,
+     "prev": 12,
+     "dir": "steady",
      "reliable": true
     },
     "30": {
@@ -10825,15 +10909,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-10T05:29:28+00:00",
+  "asOf": "2026-11-10T11:04:08+00:00",
   "counts": {
    "arctic": 15,
    "ai": 17,
    "minerals": 16,
-   "geo": 47,
+   "geo": 48,
    "ai-investment-infrastructure": 7,
    "energy-power": 9,
-   "trade-sanctions": 15,
+   "trade-sanctions": 16,
    "strategic-supply-chains": 7,
    "defense-technology": 6,
    "semiconductors": 4,
