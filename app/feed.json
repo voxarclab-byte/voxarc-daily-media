@@ -1,8 +1,259 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-10T18:58:14+00:00",
+ "generated": "2026-11-11T02:55:58+00:00",
  "items": [
+  {
+   "id": "eu-32026d2507",
+   "published": "2026-11-11T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Decision (CFSP) 2026/2507: Amending Decision (CFSP) 2024/2840 on an assistance measure under the…",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Council Decision (CFSP) 2026/2507 of 9 November 2026 amending Decision (CFSP) 2024/2840 on an assistance measure under the European Peace Facility to strengthen the capacities of the Navy of the Republic of the Congo in the framework of the Yaoundé…",
+   "body": "Council Decision (CFSP) 2026/2507 of 9 November 2026 amending Decision (CFSP) 2024/2840 on an assistance measure under the European Peace Facility to strengthen the capacities of the Navy of the Republic of the Congo in the framework of the Yaoundé Architecture.\n\nPublished in the Official Journal of the European Union, L series, on Nov 11, 2026. CELEX number 32026D2507. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Decision (CFSP) 2026/2507",
+    "Published Nov 11, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-11",
+     "title": "Council Decision (CFSP) 2026/2507 of 9 November 2026 amending Decision (CFSP) 2024/2840 on an assistance measure under the European Peace Facility to strengthen the capacities of the Navy of the Republic of the Congo in the framework of the Yaoundé Architecture",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602507",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Decision (CFSP) 2026/2507: Amending Decision (CFSP) 2024/2840 on an assistance measure under the…",
+   "soWhat": {
+    "changed": "The EU published Council Decision (CFSP) 2026/2507 in the Official Journal on Nov 11, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Maritime security and defence suppliers working on Gulf of Guinea programmes may see EU-funded demand continue.",
+    "n_sources": 1,
+    "signal_title": "EU extends Peace Facility support to Congo's navy",
+    "crux": "The Council adopted Decision (CFSP) 2026/2507 on Nov 9, 2026, amending a European Peace Facility assistance measure to strengthen the Republic of the Congo's navy under the Yaounde maritime security framework.",
+    "importance": "Low",
+    "impact_score": 30,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Defence",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Africa"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "6ad7c0a0a69d84a91a2bf0be",
+     "eu-32026r2382",
+     "eu-32026r2381"
+    ],
+    "watch_next": "Amended funding amount and duration in the decision on EUR-Lex",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602507",
+    "published_date": "2026-11-11",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602507",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2487",
+   "published": "2026-11-11T09:00:00Z",
+   "kicker": "AI Policy · EU Official Journal",
+   "title": "Commission Implementing Regulation (EU) 2026/2487: Laying down rules for the application of Regulation…",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "Commission Implementing Regulation (EU) 2026/2487 of 10 November 2026 laying down rules for the application of Regulation (EU) 2024/1689 of the European Parliament and of the Council as regards the establishment, development, implementation…",
+   "body": "Commission Implementing Regulation (EU) 2026/2487 of 10 November 2026 laying down rules for the application of Regulation (EU) 2024/1689 of the European Parliament and of the Council as regards the establishment, development, implementation, operation and supervision of AI regulatory sandboxes.\n\nPublished in the Official Journal of the European Union, L series, on Nov 11, 2026. CELEX number 32026R2487. Act type: Commission Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Commission Implementing Regulation (EU) 2026/2487",
+    "Published Nov 11, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-11",
+     "title": "Commission Implementing Regulation (EU) 2026/2487 of 10 November 2026 laying down rules for the application of Regulation (EU) 2024/1689 of the European Parliament and of the Council as regards the establishment, development, implementation, operation and supervision of AI regulatory sandboxes",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602487",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Commission Implementing Regulation (EU) 2026/2487: Laying down rules for the application of Regulation…",
+   "soWhat": {
+    "changed": "The EU published Commission Implementing Regulation (EU) 2026/2487 in the Official Journal on Nov 11, 2026…",
+    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "AI providers and deployers active in the EU should check whether the new rules change their compliance setup or timelines.",
+    "n_sources": 1,
+    "signal_title": "EU adds implementing rules under the AI Act",
+    "crux": "The Commission adopted Implementing Regulation (EU) 2026/2487 on Nov 10, 2026, setting rules for applying the AI Act (Regulation 2024/1689) on the establishment, development and implementation of an AI Act mechanism.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "AI",
+     "Technology",
+     "Government"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ace51427d6da06c8ebdbde8",
+     "6ad66e84a07c63635f9885eb",
+     "6ad91237fa09b1e62e3c12ab"
+    ],
+    "watch_next": "The application date in the act's final article on EUR-Lex and which AI Act obligations the rules cover",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602487",
+    "published_date": "2026-11-11",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602487",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026d2508",
+   "published": "2026-11-11T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Decision (CFSP) 2026/2508: Amending Decision (CFSP) 2022/1968 on a European Union Military Assistance…",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Council Decision (CFSP) 2026/2508 of 9 November 2026 amending Decision (CFSP) 2022/1968 on a European Union Military Assistance Mission in support of Ukraine (EUMAM Ukraine)",
+   "body": "Council Decision (CFSP) 2026/2508 of 9 November 2026 amending Decision (CFSP) 2022/1968 on a European Union Military Assistance Mission in support of Ukraine (EUMAM Ukraine).\n\nPublished in the Official Journal of the European Union, L series, on Nov 11, 2026. CELEX number 32026D2508. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Decision (CFSP) 2026/2508",
+    "Published Nov 11, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-11",
+     "title": "Council Decision (CFSP) 2026/2508 of 9 November 2026 amending Decision (CFSP) 2022/1968 on a European Union Military Assistance Mission in support of Ukraine (EUMAM Ukraine)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602508",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Decision (CFSP) 2026/2508: Amending Decision (CFSP) 2022/1968 on a European Union Military Assistance…",
+   "soWhat": {
+    "changed": "The EU published Council Decision (CFSP) 2026/2508 in the Official Journal on Nov 11, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Defence suppliers and allied planners tracking European support to Ukraine should note the mission's amended terms.",
+    "n_sources": 1,
+    "signal_title": "EU updates its Ukraine military assistance mission mandate",
+    "crux": "The Council adopted Decision (CFSP) 2026/2508 on Nov 9, 2026, amending Decision (CFSP) 2022/1968 on the EU Military Assistance Mission in support of Ukraine (EUMAM Ukraine).",
+    "importance": "Medium",
+    "impact_score": 42,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Government"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Ukraine"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026r2382",
+     "eu-32026r2381",
+     "eu-32026d2507"
+    ],
+    "watch_next": "The amended mission terms and any change to its budget or duration on EUR-Lex",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602508",
+    "published_date": "2026-11-11",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602508",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
    "published": "2026-11-10T15:00:00Z",
@@ -2045,8 +2296,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "eu-32026r2381",
-     "6ace51427d6da06c8ebdbdd1",
-     "fr-2026-22052"
+     "eu-32026d2508",
+     "eu-32026d2507"
     ],
     "watch_next": "The defence exemptions in the act and the dates they apply from on EUR-Lex.",
     "confidence_score": 67,
@@ -2129,8 +2380,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "eu-32026r2382",
-     "6ace51427d6da06c8ebdbdd1",
-     "fr-2026-22052"
+     "eu-32026d2508",
+     "eu-32026d2507"
     ],
     "watch_next": "Which projects qualify and the permit deadlines set in the act on EUR-Lex.",
     "confidence_score": 67,
@@ -9648,8 +9899,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "6adbb54da4c20d730fe656d6",
-     "6ad66e84a07c63635f9885eb",
-     "6ad91237fa09b1e62e3c12ab"
+     "eu-32026r2487",
+     "6ad66e84a07c63635f9885eb"
     ],
     "watch_next": "Feedback closed Nov 9; adoption is planned for Q4 2026.",
     "confidence_score": 88,
@@ -10990,7 +11241,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-10T18:57:59+00:00",
+  "asOf": "2026-11-11T02:55:46+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -11256,17 +11507,17 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-10T18:58:14+00:00",
+  "asOf": "2026-11-11T02:55:58+00:00",
   "counts": {
    "arctic": 15,
-   "ai": 17,
+   "ai": 18,
    "minerals": 16,
-   "geo": 52,
+   "geo": 54,
    "ai-investment-infrastructure": 7,
    "energy-power": 9,
    "trade-sanctions": 19,
    "strategic-supply-chains": 7,
-   "defense-technology": 6,
+   "defense-technology": 8,
    "semiconductors": 4,
    "economic-security": 3,
    "cyber-digital-sovereignty": 2,
