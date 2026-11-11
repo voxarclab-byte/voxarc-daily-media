@@ -1,8 +1,90 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-11T02:55:58+00:00",
+ "generated": "2026-11-11T10:55:03+00:00",
  "items": [
+  {
+   "id": "fr-C1-2026-22802",
+   "published": "2026-11-12T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Notice of OFAC Sanctions Actions",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Correction Notice document 2026-22802, appearing on pages 70987, in the issue of Monday, November 9, 2026, published in error and should not have appeared in the Federal Register. [FR Doc. C1-2026-22802 Filed 11-10-26; 8:45 am] BILLING CODE 0099-10-D",
+   "body": "Correction Notice document 2026-22802, appearing on pages 70987, in the issue of Monday, November 9, 2026, published in error and should not have appeared in the Federal Register. [FR Doc. C1-2026-22802 Filed 11-10-26; 8:45 am] BILLING CODE 0099-10-D\n\nDocument type: Notice. Agency: Treasury, Foreign Assets Control Office.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Notice from Foreign Assets Control Office"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-12",
+     "title": "Notice of OFAC Sanctions Actions",
+     "url": "https://www.federalregister.gov/documents/2026/11/12/C1-2026-22802/notice-of-ofac-sanctions-actions",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Notice of OFAC Sanctions Actions",
+   "soWhat": {
+    "changed": "Foreign Assets Control Office published a notice: OFAC Sanctions Actions",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Foreign Assets Control Office"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Compliance teams that acted on the November 9 notice should recheck it against the official record; no new sanctions action is created by this correction.",
+    "n_sources": 1,
+    "signal_title": "OFAC withdraws a sanctions notice printed in error",
+    "crux": "The Federal Register issued a correction stating that OFAC sanctions notice 2026-22802, in the November 9, 2026 issue, was published in error and should not have appeared.",
+    "importance": "Low",
+    "impact_score": 22,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Compliance",
+     "Financial services"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-22861",
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
+     "fr-2026-22386"
+    ],
+    "watch_next": "Watch whether OFAC republishes the withdrawn notice in corrected form.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/12/C1-2026-22802/notice-of-ofac-sanctions-actions",
+    "published_date": "2026-11-12",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/12/C1-2026-22802/notice-of-ofac-sanctions-actions",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "eu-32026d2507",
    "published": "2026-11-11T09:00:00Z",
@@ -25,7 +107,7 @@
      "publisher": "EUR-Lex (Official Journal of the EU)",
      "date": "2026-11-11",
      "title": "Council Decision (CFSP) 2026/2507 of 9 November 2026 amending Decision (CFSP) 2024/2840 on an assistance measure under the European Peace Facility to strengthen the capacities of the Navy of the Republic of the Congo in the framework of the Yaoundé Architecture",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602507",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2507",
      "kind": "official"
     }
    ],
@@ -76,12 +158,12 @@
     "watch_next": "Amended funding amount and duration in the decision on EUR-Lex",
     "confidence_score": 67,
     "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602507",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2507",
     "published_date": "2026-11-11",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602507",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2507",
      "kind": "official journal"
     },
     "reported_by": null
@@ -108,7 +190,7 @@
      "publisher": "EUR-Lex (Official Journal of the EU)",
      "date": "2026-11-11",
      "title": "Commission Implementing Regulation (EU) 2026/2487 of 10 November 2026 laying down rules for the application of Regulation (EU) 2024/1689 of the European Parliament and of the Council as regards the establishment, development, implementation, operation and supervision of AI regulatory sandboxes",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602487",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2487",
      "kind": "official"
     }
    ],
@@ -159,12 +241,12 @@
     "watch_next": "The application date in the act's final article on EUR-Lex and which AI Act obligations the rules cover",
     "confidence_score": 67,
     "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602487",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2487",
     "published_date": "2026-11-11",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602487",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2487",
      "kind": "official journal"
     },
     "reported_by": null
@@ -192,7 +274,7 @@
      "publisher": "EUR-Lex (Official Journal of the EU)",
      "date": "2026-11-11",
      "title": "Council Decision (CFSP) 2026/2508 of 9 November 2026 amending Decision (CFSP) 2022/1968 on a European Union Military Assistance Mission in support of Ukraine (EUMAM Ukraine)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602508",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2508",
      "kind": "official"
     }
    ],
@@ -243,12 +325,12 @@
     "watch_next": "The amended mission terms and any change to its budget or duration on EUR-Lex",
     "confidence_score": 67,
     "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602508",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2508",
     "published_date": "2026-11-11",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602508",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2508",
      "kind": "official journal"
     },
     "reported_by": null
@@ -321,8 +403,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "fr-2026-22861",
-     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
-     "gc-minister-sidhu-announces-extension-of-favourable-market-acce"
+     "fr-C1-2026-22802",
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ"
     ],
     "watch_next": "Published regulations naming the 11 entities and any allied sanctions moves",
     "confidence_score": 67,
@@ -498,9 +580,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
+     "fr-C1-2026-22802",
      "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "fr-2026-22386",
-     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ"
+     "fr-2026-22386"
     ],
     "watch_next": "The named persons and the sanctions program they fall under",
     "confidence_score": 67,
@@ -5627,10 +5709,10 @@
      0,
      0,
      0,
-     1,
-     1,
+     2,
      0,
      1,
+     0,
      0,
      0,
      0,
@@ -5726,8 +5808,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-10",
-    "asOfLabel": "Nov 10, 2026",
+    "asOf": "2026-11-11",
+    "asOfLabel": "Nov 11, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -5889,10 +5971,10 @@
      0,
      0,
      0,
-     1,
-     1,
+     2,
      0,
      1,
+     0,
      0,
      0,
      0,
@@ -5988,8 +6070,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-10",
-    "asOfLabel": "Nov 10, 2026",
+    "asOf": "2026-11-11",
+    "asOfLabel": "Nov 11, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -11120,8 +11202,8 @@
     1
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-10",
-   "asOfLabel": "Nov 10, 2026",
+   "asOf": "2026-11-11",
+   "asOfLabel": "Nov 11, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -11135,10 +11217,10 @@
     0,
     0,
     0,
-    1,
-    1,
+    2,
     0,
     1,
+    0,
     0,
     0,
     0,
@@ -11241,24 +11323,24 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-11T02:55:46+00:00",
+  "asOf": "2026-11-11T10:54:48+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
     "7": {
-     "cur": 1,
+     "cur": 2,
      "prev": 0,
      "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 16,
+     "cur": 17,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 17,
+     "cur": 18,
      "prev": 1,
      "dir": "up",
      "reliable": false
@@ -11326,19 +11408,19 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 0,
+     "cur": 2,
      "prev": 3,
      "dir": "down",
      "reliable": true
     },
     "30": {
-     "cur": 5,
+     "cur": 7,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 6,
+     "cur": 8,
      "prev": 1,
      "dir": "up",
      "reliable": false
@@ -11386,19 +11468,19 @@
    },
    "geo": {
     "7": {
-     "cur": 16,
-     "prev": 12,
+     "cur": 17,
+     "prev": 13,
      "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 48,
+     "cur": 50,
      "prev": 2,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 50,
+     "cur": 52,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -11486,8 +11568,8 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 9,
-     "prev": 5,
+     "cur": 8,
+     "prev": 6,
      "dir": "up",
      "reliable": true
     },
@@ -11507,15 +11589,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-11T02:55:58+00:00",
+  "asOf": "2026-11-11T10:55:03+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
    "minerals": 16,
-   "geo": 54,
+   "geo": 55,
    "ai-investment-infrastructure": 7,
    "energy-power": 9,
-   "trade-sanctions": 19,
+   "trade-sanctions": 20,
    "strategic-supply-chains": 7,
    "defense-technology": 8,
    "semiconductors": 4,
