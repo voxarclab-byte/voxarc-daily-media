@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-11T10:55:03+00:00",
+ "generated": "2026-11-11T19:03:20+00:00",
  "items": [
   {
    "id": "fr-C1-2026-22802",
@@ -11323,7 +11323,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-11T10:54:48+00:00",
+  "asOf": "2026-11-11T19:03:15+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -11374,8 +11374,8 @@
      "reliable": true
     },
     "30": {
-     "cur": 14,
-     "prev": 1,
+     "cur": 13,
+     "prev": 2,
      "dir": "up",
      "reliable": false
     },
@@ -11409,13 +11409,13 @@
    "defense-technology": {
     "7": {
      "cur": 2,
-     "prev": 3,
-     "dir": "down",
+     "prev": 2,
+     "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 7,
-     "prev": 1,
+     "cur": 6,
+     "prev": 2,
      "dir": "up",
      "reliable": false
     },
@@ -11429,7 +11429,7 @@
    "economic-security": {
     "7": {
      "cur": 0,
-     "prev": 2,
+     "prev": 1,
      "dir": "down",
      "reliable": true
     },
@@ -11448,8 +11448,8 @@
    },
    "energy-power": {
     "7": {
-     "cur": 1,
-     "prev": 3,
+     "cur": 0,
+     "prev": 4,
      "dir": "down",
      "reliable": true
     },
@@ -11468,14 +11468,14 @@
    },
    "geo": {
     "7": {
-     "cur": 17,
+     "cur": 15,
      "prev": 13,
-     "dir": "up",
+     "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 50,
-     "prev": 2,
+     "cur": 49,
+     "prev": 3,
      "dir": "up",
      "reliable": false
     },
@@ -11489,13 +11489,13 @@
    "minerals": {
     "7": {
      "cur": 0,
-     "prev": 2,
-     "dir": "down",
+     "prev": 0,
+     "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 14,
-     "prev": 1,
+     "cur": 13,
+     "prev": 2,
      "dir": "up",
      "reliable": false
     },
@@ -11568,9 +11568,9 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 8,
-     "prev": 6,
-     "dir": "up",
+     "cur": 7,
+     "prev": 7,
+     "dir": "steady",
      "reliable": true
     },
     "30": {
@@ -11589,7 +11589,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-11T10:55:03+00:00",
+  "asOf": "2026-11-11T19:03:20+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
