@@ -1,8 +1,92 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-12T19:03:41+00:00",
+ "generated": "2026-11-13T02:55:06+00:00",
  "items": [
+  {
+   "id": "eu-32026d2557",
+   "published": "2026-11-13T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Decision (EU) 2026/2557: On the position to be taken on behalf of the European Union within the…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Decision (EU) 2026/2557 of 9 November 2026 on the position to be taken on behalf of the European Union within the Customs Cooperation Committee established under the Agreement establishing an Association between the European Community and Turkey…",
+   "body": "Council Decision (EU) 2026/2557 of 9 November 2026 on the position to be taken on behalf of the European Union within the Customs Cooperation Committee established under the Agreement establishing an Association between the European Community and Turkey concerning the adoption of a decision laying down detailed rules for the application of Decision No 1/95 of the EC-Turkey Association Council.\n\nPublished in the Official Journal of the European Union, L series, on Nov 13, 2026. CELEX number 32026D2557. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Decision (EU) 2026/2557",
+    "Published Nov 13, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-13",
+     "title": "Council Decision (EU) 2026/2557 of 9 November 2026 on the position to be taken on behalf of the European Union within the Customs Cooperation Committee established under the Agreement establishing an Association between the European Community and Turkey concerning the adoption of a decision laying down detailed rules for the application of Decision No 1/95 of the EC-Turkey Association Council",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602557",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Decision (EU) 2026/2557: On the position to be taken on behalf of the European Union within the…",
+   "soWhat": {
+    "changed": "The EU published Council Decision (EU) 2026/2557 in the Official Journal on Nov 13, 2026, on the position to be taken on behalf of the European Union within…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Importers and exporters moving goods between the EU and Turkey should check whether customs procedures or rules change once the committee acts.",
+    "n_sources": 1,
+    "signal_title": "EU sets its line for the EU-Turkey customs committee",
+    "crux": "The Council adopted Decision (EU) 2026/2557 on Nov 9, 2026, fixing the EU position in the Customs Cooperation Committee under the EU-Turkey Association Agreement.",
+    "importance": "Low",
+    "impact_score": 30,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Trade and customs",
+     "Government"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Turkey"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2508",
+     "eu-32026r2487",
+     "eu-32026r2490"
+    ],
+    "watch_next": "The Customs Cooperation Committee decision itself and its application date on EUR-Lex",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602557",
+    "published_date": "2026-11-13",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602557",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "fr-C1-2026-22802",
    "published": "2026-11-12T12:00:00Z",
@@ -11323,7 +11407,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-12T19:03:37+00:00",
+  "asOf": "2026-11-13T02:54:55+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -11334,8 +11418,8 @@
      "reliable": true
     },
     "30": {
-     "cur": 14,
-     "prev": 4,
+     "cur": 13,
+     "prev": 5,
      "dir": "up",
      "reliable": false
     },
@@ -11354,8 +11438,8 @@
      "reliable": true
     },
     "30": {
-     "cur": 5,
-     "prev": 2,
+     "cur": 4,
+     "prev": 3,
      "dir": "up",
      "reliable": false
     },
@@ -11474,8 +11558,8 @@
      "reliable": true
     },
     "30": {
-     "cur": 48,
-     "prev": 5,
+     "cur": 47,
+     "prev": 6,
      "dir": "up",
      "reliable": false
     },
@@ -11589,15 +11673,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-12T19:03:41+00:00",
+  "asOf": "2026-11-13T02:55:06+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
    "minerals": 16,
-   "geo": 55,
+   "geo": 56,
    "ai-investment-infrastructure": 7,
    "energy-power": 9,
-   "trade-sanctions": 20,
+   "trade-sanctions": 21,
    "strategic-supply-chains": 7,
    "defense-technology": 8,
    "semiconductors": 4,
