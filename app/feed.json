@@ -1,8 +1,260 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-13T02:55:06+00:00",
+ "generated": "2026-11-13T11:03:25+00:00",
  "items": [
+  {
+   "id": "fr-2026-23196",
+   "published": "2026-11-13T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 55F and 115D",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two general licenses (GLs) issued pursuant to the Russian Harmful Foreign Activities Sanctions Regulations…",
+   "body": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two general licenses (GLs) issued pursuant to the Russian Harmful Foreign Activities Sanctions Regulations: GLs 55F and 115D, each of which was previously made available on OFAC's website.\n\nKey dates: GL 55F was issued on June 11, 2026. See SUPPLEMENTARY INFORMATION for additional relevant dates.\n\nDocument type: Final rule. Agency: Treasury, Foreign Assets Control Office.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Foreign Assets Control Office"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-13",
+     "title": "Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 55F and 115D",
+     "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23196/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55f-and",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 55F and 115D",
+   "soWhat": {
+    "changed": "Foreign Assets Control Office issued a final rule: Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 55F and 115D",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Foreign Assets Control Office"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Firms relying on these Russia sanctions carve-outs should confirm the published terms match what they already apply.",
+    "n_sources": 1,
+    "signal_title": "OFAC formally records two Russia sanctions general licenses",
+    "crux": "OFAC published Russian Harmful Foreign Activities Sanctions Regulations general licenses 55F and 115D in the Federal Register on Nov 13, 2026, after first issuing them on its website.",
+    "importance": "Low",
+    "impact_score": 35,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Compliance",
+     "Energy",
+     "Financial services"
+    ],
+    "affected_regions": [
+     "United States",
+     "Russia"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-22861",
+     "fr-C1-2026-22802",
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+    ],
+    "watch_next": "Further amendments, extensions or expiry of general licenses 55F and 115D on OFAC's site",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23196/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55f-and",
+    "published_date": "2026-11-13",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23196/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55f-and",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-23197",
+   "published": "2026-11-13T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Publication of Iran-Related Web General Licenses EE and FF",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two Iran-related general licenses (GLs): GLs EE and FF, which were made available on OFAC's website at the time of issuance.",
+   "body": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two Iran-related general licenses (GLs): GLs EE and FF, which were made available on OFAC's website at the time of issuance.\n\nKey dates: GL EE was issued on October 8, 2026. See SUPPLEMENTARY INFORMATION for additional relevant dates.\n\nDocument type: Final rule. Agency: Treasury, Foreign Assets Control Office.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Foreign Assets Control Office"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-13",
+     "title": "Publication of Iran-Related Web General Licenses EE and FF",
+     "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23197/publication-of-iran-related-web-general-licenses-ee-and-ff",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Publication of Iran-Related Web General Licenses EE and FF",
+   "soWhat": {
+    "changed": "Foreign Assets Control Office issued a final rule: Publication of Iran-Related Web General Licenses EE and FF",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Foreign Assets Control Office"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Compliance teams with Iran exposure should check the published scope of licenses EE and FF.",
+    "n_sources": 1,
+    "signal_title": "OFAC formally records two Iran general licenses",
+    "crux": "OFAC published Iran-related general licenses EE and FF in the Federal Register on Nov 13, 2026, after making them available on its website when issued.",
+    "importance": "Low",
+    "impact_score": 30,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Compliance",
+     "Financial services"
+    ],
+    "affected_regions": [
+     "United States",
+     "Iran"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-22861",
+     "fr-C1-2026-22802",
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+    ],
+    "watch_next": "Any follow-on Iran general licenses or amendments from OFAC",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23197/publication-of-iran-related-web-general-licenses-ee-and-ff",
+    "published_date": "2026-11-13",
+    "duplicate_of": "fr-2026-23196",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23197/publication-of-iran-related-web-general-licenses-ee-and-ff",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-23195",
+   "published": "2026-11-13T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Publication of a Cuba Sanctions Regulations Web General License",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued in the Cuba Sanctions program: GL 1. This GL was previously made available on OFAC's website.",
+   "body": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued in the Cuba Sanctions program: GL 1. This GL was previously made available on OFAC's website.\n\nKey dates: GL 1 was issued on May 7, 2026. See SUPPLEMENTARY INFORMATION for additional relevant dates.\n\nDocument type: Final rule. Agency: Treasury, Foreign Assets Control Office.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Foreign Assets Control Office"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-13",
+     "title": "Publication of a Cuba Sanctions Regulations Web General License",
+     "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23195/publication-of-a-cuba-sanctions-regulations-web-general-license",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Publication of a Cuba Sanctions Regulations Web General License",
+   "soWhat": {
+    "changed": "Foreign Assets Control Office issued a final rule: Publication of a Cuba Sanctions Regulations Web General License",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Foreign Assets Control Office"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Businesses with Cuba-related transactions should review the published terms of general license 1.",
+    "n_sources": 1,
+    "signal_title": "OFAC formally records a Cuba sanctions general license",
+    "crux": "OFAC published Cuba Sanctions Regulations general license 1 in the Federal Register on Nov 13, 2026, after first making it available on its website.",
+    "importance": "Low",
+    "impact_score": 28,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Compliance",
+     "Trade and customs"
+    ],
+    "affected_regions": [
+     "United States",
+     "Cuba"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-22861",
+     "fr-2026-22386",
+     "fr-C1-2026-22802"
+    ],
+    "watch_next": "Further Cuba program general licenses or regulatory amendments from OFAC",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23195/publication-of-a-cuba-sanctions-regulations-web-general-license",
+    "published_date": "2026-11-13",
+    "duplicate_of": "fr-2026-23196",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23195/publication-of-a-cuba-sanctions-regulations-web-general-license",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "eu-32026d2557",
    "published": "2026-11-13T09:00:00Z",
@@ -25,7 +277,7 @@
      "publisher": "EUR-Lex (Official Journal of the EU)",
      "date": "2026-11-13",
      "title": "Council Decision (EU) 2026/2557 of 9 November 2026 on the position to be taken on behalf of the European Union within the Customs Cooperation Committee established under the Agreement establishing an Association between the European Community and Turkey concerning the adoption of a decision laying down detailed rules for the application of Decision No 1/95 of the EC-Turkey Association Council",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602557",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2557",
      "kind": "official"
     }
    ],
@@ -76,12 +328,12 @@
     "watch_next": "The Customs Cooperation Committee decision itself and its application date on EUR-Lex",
     "confidence_score": 67,
     "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602557",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2557",
     "published_date": "2026-11-13",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602557",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2557",
      "kind": "official journal"
     },
     "reported_by": null
@@ -152,8 +404,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "fr-2026-22861",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "fr-2026-22386"
+     "fr-2026-23196",
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
     ],
     "watch_next": "Watch whether OFAC republishes the withdrawn notice in corrected form.",
     "confidence_score": 67,
@@ -487,8 +739,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "fr-2026-22861",
-     "fr-C1-2026-22802",
-     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ"
+     "fr-2026-23196",
+     "fr-C1-2026-22802"
     ],
     "watch_next": "Published regulations naming the 11 entities and any allied sanctions moves",
     "confidence_score": 67,
@@ -664,9 +916,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
+     "fr-2026-23196",
      "fr-C1-2026-22802",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "fr-2026-22386"
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
     ],
     "watch_next": "The named persons and the sanctions program they fall under",
     "confidence_score": 67,
@@ -1432,90 +1684,6 @@
    }
   },
   {
-   "id": "fr-2026-22789",
-   "published": "2026-11-06T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "The American Declaration of Freedom in Space",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
-   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Presidential document from Executive Office of the President"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-06",
-     "title": "The American Declaration of Freedom in Space",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "The American Declaration of Freedom in Space",
-   "soWhat": {
-    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
-    "n_sources": 1,
-    "signal_title": "Washington declares outer space open to permanent American presence",
-    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
-    "importance": "Medium",
-    "impact_score": 45,
-    "time_horizon": "Long term",
-    "affected_sectors": [
-     "Space",
-     "Space resources",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States",
-     "Global"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22784",
-     "fr-2026-21818",
-     "gg-364032"
-    ],
-    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-    "published_date": "2026-11-06",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "fr-2026-22735",
    "published": "2026-11-06T12:00:00Z",
    "kicker": "Geoeconomics · Federal Register",
@@ -1604,6 +1772,90 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22789",
+   "published": "2026-11-06T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "The American Declaration of Freedom in Space",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
+   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-06",
+     "title": "The American Declaration of Freedom in Space",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "The American Declaration of Freedom in Space",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
+    "n_sources": 1,
+    "signal_title": "Washington declares outer space open to permanent American presence",
+    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Space",
+     "Space resources",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States",
+     "Global"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22784",
+     "fr-2026-21818",
+     "gg-364032"
+    ],
+    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
      "kind": "official journal"
     },
     "reported_by": null
@@ -5786,33 +6038,7 @@
     "weekly": [
      0,
      0,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     1,
-     1,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      0,
@@ -5823,9 +6049,35 @@
      0,
      1,
      0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
      1,
-     2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
      1,
+     1,
+     0,
+     1,
+     1,
+     0,
+     3,
+     0,
      0,
      0,
      1,
@@ -5892,8 +6144,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-12",
-    "asOfLabel": "Nov 12, 2026",
+    "asOf": "2026-11-13",
+    "asOfLabel": "Nov 13, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -6048,33 +6300,7 @@
     "weekly": [
      0,
      0,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     1,
-     1,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      0,
@@ -6085,9 +6311,35 @@
      0,
      1,
      0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
      1,
-     2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
      1,
+     1,
+     0,
+     1,
+     1,
+     0,
+     3,
+     0,
      0,
      0,
      1,
@@ -6154,8 +6406,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-12",
-    "asOfLabel": "Nov 12, 2026",
+    "asOf": "2026-11-13",
+    "asOfLabel": "Nov 13, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -11286,41 +11538,15 @@
     1
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-12",
-   "asOfLabel": "Nov 12, 2026",
+   "asOf": "2026-11-13",
+   "asOfLabel": "Nov 13, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
    "weekly": [
     0,
     0,
-    0,
     1,
-    0,
-    0,
-    0,
-    0,
-    1,
-    1,
-    0,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
     0,
     0,
     0,
@@ -11331,9 +11557,35 @@
     0,
     1,
     0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     1,
-    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    3,
+    0,
     0,
     0,
     1,
@@ -11407,7 +11659,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-13T02:54:55+00:00",
+  "asOf": "2026-11-13T11:03:13+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -11472,9 +11724,9 @@
    },
    "cyber-digital-sovereignty": {
     "7": {
-     "cur": 1,
-     "prev": 0,
-     "dir": "up",
+     "cur": 0,
+     "prev": 1,
+     "dir": "down",
      "reliable": true
     },
     "30": {
@@ -11553,18 +11805,18 @@
    "geo": {
     "7": {
      "cur": 14,
-     "prev": 14,
+     "prev": 15,
      "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 47,
+     "cur": 48,
      "prev": 6,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 53,
+     "cur": 54,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -11652,19 +11904,19 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 8,
+     "cur": 9,
      "prev": 6,
      "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 17,
+     "cur": 18,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 18,
+     "cur": 19,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -11673,15 +11925,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-13T02:55:06+00:00",
+  "asOf": "2026-11-13T11:03:25+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
    "minerals": 16,
-   "geo": 56,
+   "geo": 59,
    "ai-investment-infrastructure": 7,
    "energy-power": 9,
-   "trade-sanctions": 21,
+   "trade-sanctions": 24,
    "strategic-supply-chains": 7,
    "defense-technology": 8,
    "semiconductors": 4,
