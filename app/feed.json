@@ -1,8 +1,97 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-13T11:03:25+00:00",
+ "generated": "2026-11-13T18:54:27+00:00",
  "items": [
+  {
+   "id": "nrcan-canada-invests-to-diversify-trade-create-jobs-and-lower-glob",
+   "published": "2026-11-13T15:00:00Z",
+   "kicker": "Geoeconomics · NRCan",
+   "title": "Canada invests to diversify trade, create jobs and lower global emissions by expanding low-carbon LNG exports",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "Building on the objectives of Budget 2026, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced a $200-million investment in Woodfibre LNG.",
+   "body": "Building on the objectives of Budget 2026, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced a $200-million investment in Woodfibre LNG.\n\nNatural Resources Canada published this news release on Nov 13, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the federal department responsible for mining, energy and the critical minerals strategy. Read the release for the project, the program and the conditions attached to the money.",
+   "stat": null,
+   "keyPoints": [
+    "News release from Natural Resources Canada"
+   ],
+   "sources": [
+    {
+     "publisher": "Natural Resources Canada",
+     "date": "2026-11-13",
+     "title": "Canada invests to diversify trade, create jobs and lower global emissions by expanding low-carbon LNG exports",
+     "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-diversify-trade-create-jobs-and-lower-global-emissions-by-expanding-low-carbon-lng-exports.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Natural Resources Canada",
+   "primarySource": {
+    "name": "NRCan",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Canada invests to diversify trade, create jobs and lower global emissions by expanding low-carbon LNG exports",
+   "soWhat": {
+    "changed": "Building on the objectives of Budget 2026, the Honourable Tim Hodgson, Minister of Energy and Natural Resources…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Project milestones and any follow-on funding announced by NRCan"
+   },
+   "photo": {
+    "src": "img/photos/geo-tanker.webp",
+    "credit": "Photo: Jernej Furman from Slovenia, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Oil_tanker,_gas_tanker_in_the_high_sea_Refinery_Industry_cargo_ship_(52848038105).jpg",
+    "key": "geo-tanker"
+   },
+   "signal": {
+    "so_what": "Small sum, but a signal Ottawa will fund access to northern battery-metal deposits.",
+    "n_sources": 1,
+    "signal_title": "Northern Quebec lithium gets early federal backing",
+    "crux": "NRCan put over $1.2M into lithium potential and connectivity in northern Quebec.",
+    "importance": "Low",
+    "impact_score": 34,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Mining",
+     "Batteries",
+     "Infrastructure"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Quebec"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "nrcan-canada-invests-to-unlock-lithium-potential-and-improve-conne",
+     "6ac8edbd6722b5b4db1fbb66",
+     "6ae0fb95987facb4c57e55ac"
+    ],
+    "watch_next": "Project milestones and any follow-on funding announced by NRCan",
+    "confidence_score": 67,
+    "source_name": "Natural Resources Canada",
+    "source_url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-diversify-trade-create-jobs-and-lower-global-emissions-by-expanding-low-carbon-lng-exports.html",
+    "published_date": "2026-11-13",
+    "key_number": {
+     "value": "$1.2M",
+     "unit": "",
+     "label": "into lithium potential and connectivity in",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Natural Resources Canada",
+     "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-diversify-trade-create-jobs-and-lower-global-emissions-by-expanding-low-carbon-lng-exports.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "fr-2026-23196",
    "published": "2026-11-13T12:00:00Z",
@@ -1684,6 +1773,90 @@
    }
   },
   {
+   "id": "fr-2026-22789",
+   "published": "2026-11-06T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "The American Declaration of Freedom in Space",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
+   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-06",
+     "title": "The American Declaration of Freedom in Space",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "The American Declaration of Freedom in Space",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
+    "n_sources": 1,
+    "signal_title": "Washington declares outer space open to permanent American presence",
+    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Space",
+     "Space resources",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States",
+     "Global"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22784",
+     "fr-2026-21818",
+     "gg-364032"
+    ],
+    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "fr-2026-22735",
    "published": "2026-11-06T12:00:00Z",
    "kicker": "Geoeconomics · Federal Register",
@@ -1772,90 +1945,6 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "fr-2026-22789",
-   "published": "2026-11-06T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "The American Declaration of Freedom in Space",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
-   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Presidential document from Executive Office of the President"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-06",
-     "title": "The American Declaration of Freedom in Space",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "The American Declaration of Freedom in Space",
-   "soWhat": {
-    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
-    "n_sources": 1,
-    "signal_title": "Washington declares outer space open to permanent American presence",
-    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
-    "importance": "Medium",
-    "impact_score": 45,
-    "time_horizon": "Long term",
-    "affected_sectors": [
-     "Space",
-     "Space resources",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States",
-     "Global"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22784",
-     "fr-2026-21818",
-     "gg-364032"
-    ],
-    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-    "published_date": "2026-11-06",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
      "kind": "official journal"
     },
     "reported_by": null
@@ -3441,9 +3530,9 @@
     "risk_level": "Low",
     "opportunity_level": "Medium",
     "related_signals": [
+     "nrcan-canada-invests-to-diversify-trade-create-jobs-and-lower-glob",
      "6ac8edbd6722b5b4db1fbb66",
-     "6ae0fb95987facb4c57e55ac",
-     "6ace51427d6da06c8ebdbdcd"
+     "6ae0fb95987facb4c57e55ac"
     ],
     "watch_next": "Project milestones and any follow-on funding announced by NRCan",
     "confidence_score": 72,
@@ -5207,11 +5296,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.84M km²",
+    "value": "8.85M km²",
     "unit": "daily extent",
-    "change": "-1.50M km² vs the 1981–2010 average for the date",
+    "change": "-1.55M km² vs the 1981–2010 average for the date",
     "series": [
-     6.33,
      6.538,
      6.809,
      6.731,
@@ -5240,14 +5328,11 @@
      8.58,
      8.658,
      8.713,
-     8.838
+     8.838,
+     8.852
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-14",
-      5.513
-     ],
      [
       "2026-08-15",
       5.354
@@ -5603,11 +5688,15 @@
      [
       "2026-11-11",
       8.838
+     ],
+     [
+      "2026-11-12",
+      8.852
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-11",
-    "asOfLabel": "Nov 11, 2026",
+    "asOf": "2026-11-12",
+    "asOfLabel": "Nov 12, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -7101,11 +7190,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.84M km²",
+    "value": "8.85M km²",
     "unit": "daily extent",
-    "change": "-1.50M km² vs the 1981–2010 average for the date",
+    "change": "-1.55M km² vs the 1981–2010 average for the date",
     "series": [
-     6.33,
      6.538,
      6.809,
      6.731,
@@ -7134,14 +7222,11 @@
      8.58,
      8.658,
      8.713,
-     8.838
+     8.838,
+     8.852
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-14",
-      5.513
-     ],
      [
       "2026-08-15",
       5.354
@@ -7497,11 +7582,15 @@
      [
       "2026-11-11",
       8.838
+     ],
+     [
+      "2026-11-12",
+      8.852
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-11",
-    "asOfLabel": "Nov 11, 2026",
+    "asOf": "2026-11-12",
+    "asOfLabel": "Nov 12, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -8036,11 +8125,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.84M km²",
+    "value": "8.85M km²",
     "unit": "daily extent",
-    "change": "-1.50M km² vs the 1981–2010 average for the date",
+    "change": "-1.55M km² vs the 1981–2010 average for the date",
     "series": [
-     6.33,
      6.538,
      6.809,
      6.731,
@@ -8069,14 +8157,11 @@
      8.58,
      8.658,
      8.713,
-     8.838
+     8.838,
+     8.852
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-14",
-      5.513
-     ],
      [
       "2026-08-15",
       5.354
@@ -8432,11 +8517,15 @@
      [
       "2026-11-11",
       8.838
+     ],
+     [
+      "2026-11-12",
+      8.852
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-11",
-    "asOfLabel": "Nov 11, 2026",
+    "asOf": "2026-11-12",
+    "asOfLabel": "Nov 12, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -8786,11 +8875,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.84M km²",
+    "value": "8.85M km²",
     "unit": "daily extent",
-    "change": "-1.50M km² vs the 1981–2010 average for the date",
+    "change": "-1.55M km² vs the 1981–2010 average for the date",
     "series": [
-     6.33,
      6.538,
      6.809,
      6.731,
@@ -8819,14 +8907,11 @@
      8.58,
      8.658,
      8.713,
-     8.838
+     8.838,
+     8.852
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-14",
-      5.513
-     ],
      [
       "2026-08-15",
       5.354
@@ -9182,11 +9267,15 @@
      [
       "2026-11-11",
       8.838
+     ],
+     [
+      "2026-11-12",
+      8.852
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-11",
-    "asOfLabel": "Nov 11, 2026",
+    "asOf": "2026-11-12",
+    "asOfLabel": "Nov 12, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -9432,11 +9521,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.84M km²",
+    "value": "8.85M km²",
     "unit": "daily extent",
-    "change": "-1.50M km² vs the 1981–2010 average for the date",
+    "change": "-1.55M km² vs the 1981–2010 average for the date",
     "series": [
-     6.33,
      6.538,
      6.809,
      6.731,
@@ -9465,14 +9553,11 @@
      8.58,
      8.658,
      8.713,
-     8.838
+     8.838,
+     8.852
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-14",
-      5.513
-     ],
      [
       "2026-08-15",
       5.354
@@ -9828,11 +9913,15 @@
      [
       "2026-11-11",
       8.838
+     ],
+     [
+      "2026-11-12",
+      8.852
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-11",
-    "asOfLabel": "Nov 11, 2026",
+    "asOf": "2026-11-12",
+    "asOfLabel": "Nov 12, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -11012,11 +11101,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "8.84M km²",
+   "value": "8.85M km²",
    "unit": "daily extent",
-   "change": "-1.50M km² vs the 1981–2010 average for the date",
+   "change": "-1.55M km² vs the 1981–2010 average for the date",
    "series": [
-    6.33,
     6.538,
     6.809,
     6.731,
@@ -11045,19 +11133,16 @@
     8.58,
     8.658,
     8.713,
-    8.838
+    8.838,
+    8.852
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-11",
-   "asOfLabel": "Nov 11, 2026",
+   "asOf": "2026-11-12",
+   "asOfLabel": "Nov 12, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-14",
-     5.513
-    ],
     [
      "2026-08-15",
      5.354
@@ -11413,6 +11498,10 @@
     [
      "2026-11-11",
      8.838
+    ],
+    [
+     "2026-11-12",
+     8.852
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -11659,7 +11748,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-13T11:03:13+00:00",
+  "asOf": "2026-11-13T18:54:23+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -11704,14 +11793,14 @@
    },
    "arctic": {
     "7": {
-     "cur": 1,
-     "prev": 0,
-     "dir": "up",
+     "cur": 0,
+     "prev": 1,
+     "dir": "down",
      "reliable": true
     },
     "30": {
-     "cur": 10,
-     "prev": 5,
+     "cur": 9,
+     "prev": 6,
      "dir": "up",
      "reliable": false
     },
@@ -11765,8 +11854,8 @@
    "economic-security": {
     "7": {
      "cur": 0,
-     "prev": 1,
-     "dir": "down",
+     "prev": 0,
+     "dir": "steady",
      "reliable": true
     },
     "30": {
@@ -11784,19 +11873,19 @@
    },
    "energy-power": {
     "7": {
-     "cur": 0,
-     "prev": 4,
+     "cur": 1,
+     "prev": 3,
      "dir": "down",
      "reliable": true
     },
     "30": {
-     "cur": 8,
+     "cur": 9,
      "prev": 0,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 8,
+     "cur": 9,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -11805,18 +11894,18 @@
    "geo": {
     "7": {
      "cur": 14,
-     "prev": 15,
+     "prev": 14,
      "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 48,
+     "cur": 50,
      "prev": 6,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 54,
+     "cur": 56,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -11864,9 +11953,9 @@
    },
    "space-satellites": {
     "7": {
-     "cur": 3,
-     "prev": 1,
-     "dir": "up",
+     "cur": 2,
+     "prev": 2,
+     "dir": "steady",
      "reliable": true
     },
     "30": {
@@ -11885,7 +11974,7 @@
    "strategic-supply-chains": {
     "7": {
      "cur": 0,
-     "prev": 4,
+     "prev": 2,
      "dir": "down",
      "reliable": true
     },
@@ -11905,18 +11994,18 @@
    "trade-sanctions": {
     "7": {
      "cur": 9,
-     "prev": 6,
+     "prev": 5,
      "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 18,
+     "cur": 19,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 19,
+     "cur": 20,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -11925,14 +12014,14 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-13T11:03:25+00:00",
+  "asOf": "2026-11-13T18:54:27+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
    "minerals": 16,
-   "geo": 59,
+   "geo": 60,
    "ai-investment-infrastructure": 7,
-   "energy-power": 9,
+   "energy-power": 10,
    "trade-sanctions": 24,
    "strategic-supply-chains": 7,
    "defense-technology": 8,
