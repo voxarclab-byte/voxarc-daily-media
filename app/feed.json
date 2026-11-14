@@ -1,8 +1,100 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-14T02:58:20+00:00",
+ "generated": "2026-11-14T10:57:25+00:00",
  "items": [
+  {
+   "id": "fr-2026-23255",
+   "published": "2026-11-16T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security…",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "On July 8, 2026, the Federal Communications Commission announced the effective date of the Commission's rules. That document inadvertently failed to update the effective date in amendatory instructions 13, 17…",
+   "body": "On July 8, 2026, the Federal Communications Commission announced the effective date of the Commission's rules. That document inadvertently failed to update the effective date in amendatory instructions 13, 17, and 19. This document corrects the final regulations.\n\nKey dates: Effective Date: November 16, 2026.\n\nDocument type: Final rule. Agency: Federal Communications Commission. Docket: OI Docket No. 24-523, MD Docket No. 24-524, FCC 25-49, FR ID 377177.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Federal Communications Commission",
+    "Takes effect Nov 16, 2026",
+    "Docket OI Docket No. 24-523, MD Docket No. 24-524"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-16",
+     "title": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks",
+     "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23255/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-11-16",
+     "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23255/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security"
+    }
+   ],
+   "titleMarkup": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security…",
+   "soWhat": {
+    "changed": "Federal Communications Commission issued a final rule: Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Takes effect Nov 16, 2026"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Cable landing licensees and applicants should confirm which amended provisions now apply and when.",
+    "n_sources": 1,
+    "signal_title": "FCC fixes effective dates in submarine cable security rules",
+    "crux": "The FCC published a correction to its submarine cable landing license national security rules, updating effective dates in amendatory instructions that the July 8, 2026 effective date notice failed to change.",
+    "importance": "Low",
+    "impact_score": 30,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Telecom",
+     "Subsea infrastructure",
+     "Compliance"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "6ad66e84a07c63635f9885ed",
+     "fr-2026-22861",
+     "fr-2026-22600"
+    ],
+    "watch_next": "Correction takes effect Nov 16, 2026; further FCC actions on submarine cable licensing",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23255/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23255/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "nrcan-canada-invests-to-diversify-trade-create-jobs-and-lower-glob",
    "published": "2026-11-13T15:00:00Z",
@@ -6233,8 +6325,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-13",
-    "asOfLabel": "Nov 13, 2026",
+    "asOf": "2026-11-14",
+    "asOfLabel": "Nov 14, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -6495,8 +6587,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-13",
-    "asOfLabel": "Nov 13, 2026",
+    "asOf": "2026-11-14",
+    "asOfLabel": "Nov 14, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -11627,8 +11719,8 @@
     1
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-13",
-   "asOfLabel": "Nov 13, 2026",
+   "asOf": "2026-11-14",
+   "asOfLabel": "Nov 14, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -11748,7 +11840,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-14T02:58:16+00:00",
+  "asOf": "2026-11-14T10:57:16+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -12014,17 +12106,17 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-14T02:58:20+00:00",
+  "asOf": "2026-11-14T10:57:25+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
    "minerals": 16,
-   "geo": 60,
+   "geo": 61,
    "ai-investment-infrastructure": 7,
    "energy-power": 10,
    "trade-sanctions": 24,
    "strategic-supply-chains": 7,
-   "defense-technology": 8,
+   "defense-technology": 9,
    "semiconductors": 4,
    "economic-security": 3,
    "cyber-digital-sovereignty": 2,
