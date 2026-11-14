@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-13T18:54:27+00:00",
+ "generated": "2026-11-14T02:58:20+00:00",
  "items": [
   {
    "id": "nrcan-canada-invests-to-diversify-trade-create-jobs-and-lower-glob",
@@ -11748,7 +11748,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-13T18:54:23+00:00",
+  "asOf": "2026-11-14T02:58:16+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -12014,7 +12014,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-13T18:54:27+00:00",
+  "asOf": "2026-11-14T02:58:20+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
