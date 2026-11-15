@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-15T11:02:44+00:00",
+ "generated": "2026-11-15T19:00:31+00:00",
  "items": [
   {
    "id": "fr-2026-23255",
@@ -5388,11 +5388,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.95M km²",
+    "value": "8.91M km²",
     "unit": "daily extent",
-    "change": "-1.52M km² vs the 1981–2010 average for the date",
+    "change": "-1.62M km² vs the 1981–2010 average for the date",
     "series": [
-     6.809,
      6.731,
      6.717,
      6.777,
@@ -5421,14 +5420,11 @@
      8.713,
      8.838,
      8.852,
-     8.951
+     8.951,
+     8.912
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-16",
-      5.334
-     ],
      [
       "2026-08-17",
       5.382
@@ -5784,11 +5780,15 @@
      [
       "2026-11-13",
       8.951
+     ],
+     [
+      "2026-11-14",
+      8.912
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-13",
-    "asOfLabel": "Nov 13, 2026",
+    "asOf": "2026-11-14",
+    "asOfLabel": "Nov 14, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -7282,11 +7282,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.95M km²",
+    "value": "8.91M km²",
     "unit": "daily extent",
-    "change": "-1.52M km² vs the 1981–2010 average for the date",
+    "change": "-1.62M km² vs the 1981–2010 average for the date",
     "series": [
-     6.809,
      6.731,
      6.717,
      6.777,
@@ -7315,14 +7314,11 @@
      8.713,
      8.838,
      8.852,
-     8.951
+     8.951,
+     8.912
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-16",
-      5.334
-     ],
      [
       "2026-08-17",
       5.382
@@ -7678,11 +7674,15 @@
      [
       "2026-11-13",
       8.951
+     ],
+     [
+      "2026-11-14",
+      8.912
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-13",
-    "asOfLabel": "Nov 13, 2026",
+    "asOf": "2026-11-14",
+    "asOfLabel": "Nov 14, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -8316,11 +8316,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.95M km²",
+    "value": "8.91M km²",
     "unit": "daily extent",
-    "change": "-1.52M km² vs the 1981–2010 average for the date",
+    "change": "-1.62M km² vs the 1981–2010 average for the date",
     "series": [
-     6.809,
      6.731,
      6.717,
      6.777,
@@ -8349,14 +8348,11 @@
      8.713,
      8.838,
      8.852,
-     8.951
+     8.951,
+     8.912
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-16",
-      5.334
-     ],
      [
       "2026-08-17",
       5.382
@@ -8712,11 +8708,15 @@
      [
       "2026-11-13",
       8.951
+     ],
+     [
+      "2026-11-14",
+      8.912
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-13",
-    "asOfLabel": "Nov 13, 2026",
+    "asOf": "2026-11-14",
+    "asOfLabel": "Nov 14, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -9066,11 +9066,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.95M km²",
+    "value": "8.91M km²",
     "unit": "daily extent",
-    "change": "-1.52M km² vs the 1981–2010 average for the date",
+    "change": "-1.62M km² vs the 1981–2010 average for the date",
     "series": [
-     6.809,
      6.731,
      6.717,
      6.777,
@@ -9099,14 +9098,11 @@
      8.713,
      8.838,
      8.852,
-     8.951
+     8.951,
+     8.912
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-16",
-      5.334
-     ],
      [
       "2026-08-17",
       5.382
@@ -9462,11 +9458,15 @@
      [
       "2026-11-13",
       8.951
+     ],
+     [
+      "2026-11-14",
+      8.912
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-13",
-    "asOfLabel": "Nov 13, 2026",
+    "asOf": "2026-11-14",
+    "asOfLabel": "Nov 14, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -9712,11 +9712,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.95M km²",
+    "value": "8.91M km²",
     "unit": "daily extent",
-    "change": "-1.52M km² vs the 1981–2010 average for the date",
+    "change": "-1.62M km² vs the 1981–2010 average for the date",
     "series": [
-     6.809,
      6.731,
      6.717,
      6.777,
@@ -9745,14 +9744,11 @@
      8.713,
      8.838,
      8.852,
-     8.951
+     8.951,
+     8.912
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-16",
-      5.334
-     ],
      [
       "2026-08-17",
       5.382
@@ -10108,11 +10104,15 @@
      [
       "2026-11-13",
       8.951
+     ],
+     [
+      "2026-11-14",
+      8.912
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-13",
-    "asOfLabel": "Nov 13, 2026",
+    "asOf": "2026-11-14",
+    "asOfLabel": "Nov 14, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -11292,11 +11292,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "8.95M km²",
+   "value": "8.91M km²",
    "unit": "daily extent",
-   "change": "-1.52M km² vs the 1981–2010 average for the date",
+   "change": "-1.62M km² vs the 1981–2010 average for the date",
    "series": [
-    6.809,
     6.731,
     6.717,
     6.777,
@@ -11325,19 +11324,16 @@
     8.713,
     8.838,
     8.852,
-    8.951
+    8.951,
+    8.912
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-13",
-   "asOfLabel": "Nov 13, 2026",
+   "asOf": "2026-11-14",
+   "asOfLabel": "Nov 14, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-16",
-     5.334
-    ],
     [
      "2026-08-17",
      5.382
@@ -11693,6 +11689,10 @@
     [
      "2026-11-13",
      8.951
+    ],
+    [
+     "2026-11-14",
+     8.912
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -11939,7 +11939,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-15T11:02:37+00:00",
+  "asOf": "2026-11-15T19:00:27+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -11950,8 +11950,8 @@
      "reliable": true
     },
     "30": {
-     "cur": 11,
-     "prev": 7,
+     "cur": 10,
+     "prev": 8,
      "dir": "up",
      "reliable": false
     },
@@ -11970,8 +11970,8 @@
      "reliable": true
     },
     "30": {
-     "cur": 3,
-     "prev": 4,
+     "cur": 2,
+     "prev": 5,
      "dir": "down",
      "reliable": false
     },
@@ -11990,8 +11990,8 @@
      "reliable": true
     },
     "30": {
-     "cur": 6,
-     "prev": 9,
+     "cur": 4,
+     "prev": 11,
      "dir": "down",
      "reliable": false
     },
@@ -12030,8 +12030,8 @@
      "reliable": true
     },
     "30": {
-     "cur": 7,
-     "prev": 2,
+     "cur": 6,
+     "prev": 3,
      "dir": "up",
      "reliable": false
     },
@@ -12090,8 +12090,8 @@
      "reliable": true
     },
     "30": {
-     "cur": 50,
-     "prev": 7,
+     "cur": 49,
+     "prev": 8,
      "dir": "up",
      "reliable": false
     },
@@ -12110,8 +12110,8 @@
      "reliable": true
     },
     "30": {
-     "cur": 12,
-     "prev": 3,
+     "cur": 10,
+     "prev": 5,
      "dir": "up",
      "reliable": false
     },
@@ -12205,7 +12205,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-15T11:02:44+00:00",
+  "asOf": "2026-11-15T19:00:31+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
