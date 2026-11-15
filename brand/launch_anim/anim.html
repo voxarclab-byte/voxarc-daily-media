@@ -1,0 +1,146 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:MS;src:url(fonts/Montserrat.ttf);font-weight:100 900}
+@font-face{font-family:IN;src:url(fonts/Inter-Medium.ttf)}
+html,body{margin:0;background:#000}canvas{display:block}
+</style></head><body><canvas id="c" width="1080" height="1920"></canvas>
+<span style="font-family:MS;font-weight:700;position:absolute;opacity:0">voxarc</span><span style="font-family:IN;position:absolute;opacity:0">Chaos</span>
+<script>
+const W=1080,H=1920,BG='#000000',CX=540;
+const ctx=document.getElementById('c').getContext('2d');
+// VA mark polygons traced from brand/official/voxarc-mark-new.png (source px)
+const MARK=[
+ [[5,9],[143,9],[164,46],[88,47],[136,132],[228,9],[291,9],[158,177],[108,177]],
+ [[312,9],[371,9],[413,174],[367,174],[359,148],[279,148],[304,117],[352,116],[334,53],[189,235],[142,235],[121,198],[163,197]]
+];
+const MCX=209,MCY=122,MS=1.10; // mark centre and scale -> ~449 px wide
+const clamp=x=>Math.max(0,Math.min(1,x)), seg=(t,a,b)=>clamp((t-a)/(b-a));
+const eo3=x=>1-Math.pow(1-x,3), ei3=x=>x*x*x, eio3=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2;
+const eo5=x=>1-Math.pow(1-x,5), lerp=(a,b,u)=>a+(b-a)*u;
+function rng(s){return()=>{s|=0;s=s+0x6D2B79F5|0;let t=Math.imul(s^s>>>15,1|s);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
+function markPath(cx,cy,s){const p=new Path2D();for(const poly of MARK){poly.forEach(([x,y],i)=>{const X=cx+(x-MCX)*s,Y=cy+(y-MCY)*s;i?p.lineTo(X,Y):p.moveTo(X,Y)});p.closePath()}return p}
+function markGrad(cx,cy,s){const g=ctx.createLinearGradient(cx-210*s,cy-120*s,cx+210*s,cy+120*s);
+ g.addColorStop(0,'#E9521C');g.addColorStop(.28,'#FF7E1E');g.addColorStop(.5,'#F86812');g.addColorStop(.72,'#FF8A24');g.addColorStop(1,'#E0461A');return g}
+function drawMark(cx,cy,s,alpha,glow){ctx.save();ctx.globalAlpha=alpha;const p=markPath(cx,cy,s);
+ if(glow>0){ctx.shadowColor='rgba(255,106,0,'+Math.min(1,glow)+')';ctx.shadowBlur=60*glow+10}
+ ctx.fillStyle=markGrad(cx,cy,s);ctx.fill(p);ctx.shadowBlur=0;
+ // subtle facet shading: darker lower-left half of each diagonal like the original
+ ctx.clip(p);const g=ctx.createLinearGradient(cx,cy-120*s,cx,cy+120*s);g.addColorStop(0,'rgba(255,200,140,0.10)');g.addColorStop(.5,'rgba(0,0,0,0)');g.addColorStop(1,'rgba(90,10,0,0.18)');ctx.fillStyle=g;ctx.fillRect(cx-260*s,cy-140*s,520*s,280*s);
+ ctx.restore()}
+function sweep(path,x0,x1,u,cy,a){ // diagonal specular band clipped to path
+ if(u<=0||u>=1)return;ctx.save();ctx.clip(path);const x=lerp(x0,x1,u);const g=ctx.createLinearGradient(x-90,cy,x+90,cy);
+ g.addColorStop(0,'rgba(255,255,255,0)');g.addColorStop(.5,'rgba(255,240,220,'+a+')');g.addColorStop(1,'rgba(255,255,255,0)');
+ ctx.setTransform(1,0,-0.35,1,0.35*cy,0);ctx.fillStyle=g;ctx.fillRect(x-100,cy-300,200,600);ctx.restore()}
+function wordmark(cx,base,alpha,reveal,track){ctx.save();ctx.font='700 168px MS';ctx.letterSpacing=(track||-3)+'px';
+ const w=ctx.measureText('voxarc').width;const x0=cx-w/2;
+ ctx.beginPath();ctx.rect(x0-20,base-200,(w+40)*reveal,260);ctx.clip();
+ ctx.globalAlpha=alpha;ctx.fillStyle='#F8F8F7';ctx.textBaseline='alphabetic';ctx.fillText('voxarc',x0,base);ctx.restore();
+ if(reveal>0&&reveal<1){const x=x0-20+(w+40)*reveal;ctx.save();const g=ctx.createLinearGradient(x-70,0,x+10,0);
+  g.addColorStop(0,'rgba(255,140,60,0)');g.addColorStop(.8,'rgba(255,200,150,.55)');g.addColorStop(1,'rgba(255,255,255,0)');
+  ctx.fillStyle=g;ctx.fillRect(x-70,base-170,80,200);ctx.fillStyle='rgba(255,230,200,.9)';ctx.shadowColor='#FF6A00';ctx.shadowBlur=30;ctx.fillRect(x-2,base-160,3,190);ctx.restore()}
+ return w}
+function tagline(txt,cx,y,alpha,track,col){ctx.save();ctx.globalAlpha=alpha;ctx.font='500 38px IN';ctx.letterSpacing=track+'px';ctx.fillStyle=col||'#C9B8AE';
+ const w=ctx.measureText(txt).width-track;ctx.fillText(txt,cx-w/2,y);ctx.restore()}
+// static film grain to kill banding
+const grain=document.createElement('canvas');grain.width=grain.height=512;{const g=grain.getContext('2d'),d=g.createImageData(512,512),r=rng(7);
+ for(let i=0;i<d.data.length;i+=4){const v=r()*255;d.data[i]=d.data[i+1]=d.data[i+2]=v;d.data[i+3]=255}g.putImageData(d,0,0)}
+function bg(vig){ctx.globalAlpha=1;ctx.fillStyle=BG;ctx.fillRect(0,0,W,H);}
+function finish(){ctx.save();ctx.globalAlpha=0.018;for(let y=0;y<H;y+=512)for(let x=0;x<W;x+=512)ctx.drawImage(grain,x,y);ctx.restore()}
+// layout of the end still (shared)
+const MY=800, WB=1092, TY=1172;
+const LK={ms:0.74, mx:0, my:960, tx:0, vb:0, lb:0, vf:136, lf:86};
+function layoutLockup(){ctx.save();ctx.font='700 '+LK.vf+'px MS';ctx.letterSpacing='-2px';const vw=ctx.measureText('voxarc').width;ctx.restore();
+ const mw=408*LK.ms, gap=26, total=mw+gap+vw; const x0=CX-total/2; LK.mx=x0+mw/2; LK.tx=x0+mw+gap; LK.vw=vw;
+ LK.vb=LK.my+8; LK.lb=LK.my+92; }
+function lockText(alphaV,revealV,alphaL,dy){ctx.save();ctx.translate(0,dy||0);ctx.font='700 '+LK.vf+'px MS';ctx.letterSpacing='-2px';
+ const w=LK.vw;ctx.beginPath();ctx.rect(LK.tx-10,LK.vb-170,(w+30)*revealV,200);ctx.save();ctx.clip();ctx.globalAlpha=alphaV;ctx.fillStyle='#F8F8F7';ctx.fillText('voxarc',LK.tx,LK.vb);ctx.restore();
+ if(revealV>0&&revealV<1){const x=LK.tx-10+(w+30)*revealV;const g=ctx.createLinearGradient(x-70,0,x+10,0);g.addColorStop(0,'rgba(255,140,60,0)');g.addColorStop(.8,'rgba(255,200,150,.5)');g.addColorStop(1,'rgba(255,255,255,0)');ctx.fillStyle=g;ctx.fillRect(x-70,LK.vb-120,80,140);ctx.fillStyle='rgba(255,230,200,.9)';ctx.shadowColor='#FF6A00';ctx.shadowBlur=30;ctx.fillRect(x-2,LK.vb-115,3,130)}
+ ctx.globalAlpha=alphaL;ctx.font='300 '+LK.lf+'px MS';ctx.letterSpacing='0px';ctx.fillStyle='#F8F8F7';ctx.fillText('lab',LK.tx+4,LK.lb);ctx.restore()}
+
+// ---------- Option A: Signal lock ----------
+let PA=null;
+function setupA(){const r=rng(42),cy=960,s=MS,p=markPath(CX,cy,s);const pts=[];
+ // sample perimeter
+ const segs=[];let L=0;for(const poly of MARK)for(let i=0;i<poly.length;i++){const a=poly[i],b=poly[(i+1)%poly.length];const A=[CX+(a[0]-MCX)*s,cy+(a[1]-MCY)*s],B=[CX+(b[0]-MCX)*s,cy+(b[1]-MCY)*s];const l=Math.hypot(B[0]-A[0],B[1]-A[1]);segs.push([A,B,l,L]);L+=l}
+ const NE=170;for(let k=0;k<NE;k++){let d=(k+0.5)/NE*L;for(const [A,B,l,o] of segs){if(d>=o&&d<o+l){const u=(d-o)/l;pts.push([lerp(A[0],B[0],u),lerp(A[1],B[1],u)]);break}}}
+ let tries=0;while(pts.length<260&&tries<20000){tries++;const x=CX-240+r()*480,y=cy-140+r()*280;if(ctx.isPointInPath(p,x,y))pts.push([x,y])}
+ const P=pts.map((t,i)=>{const ang=r()*6.283,rad=200+Math.pow(r(),0.7)*700;return{tx:t[0],ty:t[1],sx:CX+Math.cos(ang)*rad*0.85,sy:cy+Math.sin(ang)*rad*1.25,d:r()*0.22,ph:r()*6.28,sz:1.6+r()*2.6,edge:i<NE}});
+ // network: connect each to 2 nearest targets
+ const E=[];P.forEach((a,i)=>{const ds=P.map((b,j)=>[j,(a.tx-b.tx)**2+(a.ty-b.ty)**2]).filter(x=>x[0]!==i).sort((x,y)=>x[1]-y[1]);for(let k=0;k<2;k++)if(ds[k][0]>i)E.push([i,ds[k][0]])});
+ PA={P,E,L,path:p}}
+function renderA(t){if(!PA)setupA();bg();const {P,E}=PA;
+ const SNAP=1.32;
+ const move=eio3(seg(t,1.55,2.05)); const my=960, mxN=lerp(CX,LK.mx,move), msN=lerp(MS,LK.ms,move);
+ // particles + network
+ const pa=1-seg(t,SNAP,SNAP+0.22);
+ if(pa>0){const cur=P.map(q=>{const u=eio3(seg(t,0.12+q.d,1.08+q.d*0.6));const sw=(1-u)*0.9;
+   const dx=q.sx-CX,dy=q.sy-960,ca=Math.cos(sw),sa=Math.sin(sw);const sx=CX+dx*ca-dy*sa,sy=960+dx*sa+dy*ca;
+   const j=(1-u)*14;return[lerp(sx,q.tx,u)+Math.sin(t*23+q.ph)*j,lerp(sy,q.ty,u)+Math.cos(t*19+q.ph*1.7)*j,u]});
+  const la=seg(t,0.35,0.9)*pa*0.55;
+  if(la>0){ctx.save();ctx.lineWidth=1.4;for(const [i,j] of E){const a=cur[i],b=cur[j];const d=Math.hypot(a[0]-b[0],a[1]-b[1]);if(d>260)continue;
+    ctx.strokeStyle='rgba(255,122,40,'+(la*(1-d/260)).toFixed(3)+')';ctx.beginPath();ctx.moveTo(a[0],a[1]);ctx.lineTo(b[0],b[1]);ctx.stroke()}ctx.restore()}
+  const fi=seg(t,0,0.25);ctx.save();ctx.globalCompositeOperation='lighter';
+  P.forEach((q,i)=>{const c=cur[i];const fl=0.55+0.45*Math.sin(t*31+q.ph*3);const a=fi*pa*(0.35+0.65*c[2])*(c[2]<0.95?fl:1);
+   const sz=q.sz*(1+ (SNAP-t<0.15&&t<SNAP? (1-(SNAP-t)/0.15)*0.8:0));
+   ctx.fillStyle='rgba(255,106,0,'+(a*0.18).toFixed(3)+')';ctx.beginPath();ctx.arc(c[0],c[1],sz*4,0,6.283);ctx.fill();
+   ctx.fillStyle='rgba(255,170,90,'+a.toFixed(3)+')';ctx.beginPath();ctx.arc(c[0],c[1],sz,0,6.283);ctx.fill()});ctx.restore()}
+ // outline draw-on just before the snap
+ const od=seg(t,0.92,SNAP);const oa=1-seg(t,SNAP,SNAP+0.2);
+ if(od>0&&oa>0){ctx.save();ctx.strokeStyle='rgba(255,150,70,'+oa+')';ctx.lineWidth=3;ctx.shadowColor='#FF6A00';ctx.shadowBlur=24;
+  ctx.setLineDash([PA.L*eo3(od),PA.L]);ctx.stroke(markPath(CX,my,MS));ctx.restore()}
+ // snap
+ if(t>=SNAP-0.04){const k=t-SNAP;const sc=k>0?1+0.055*Math.exp(-k*9)*Math.cos(k*24):0.985;const fa=eo3(seg(t,SNAP-0.04,SNAP+0.08));
+  const glow=Math.max(0,Math.exp(-Math.max(0,k)*5))*1.0;
+  // flash halo
+  if(k>-0.04){const h=Math.exp(-Math.max(0,k)*6)*fa;const g=ctx.createRadialGradient(CX,my,0,CX,my,520);g.addColorStop(0,'rgba(255,120,30,'+(0.45*h)+')');g.addColorStop(1,'rgba(255,90,0,0)');ctx.fillStyle=g;ctx.fillRect(0,my-560,W,1120)}
+  drawMark(mxN,my,msN*sc,fa,glow);
+  sweep(markPath(mxN,my,msN*sc),mxN-300,mxN+300,seg(t,2.2,2.6),my,0.5)}
+ const rv=eo3(seg(t,1.82,2.35));const la2=eo3(seg(t,2.15,2.55));if(rv>0)lockText(1,rv,la2,(1-la2)*0);
+ finish()}
+
+// ---------- Option B: Globe ignite ----------
+const CITIES={tor:[43.65,-79.38],nyc:[40.71,-74.0],lon:[51.5,-0.12],fra:[50.1,8.68],dxb:[25.2,55.27],bom:[19.07,72.88],sin:[1.35,103.8],tyo:[35.68,139.7],syd:[-33.87,151.2],sao:[-23.55,-46.63],los:[6.52,3.38],jnb:[-26.2,28.04],nbo:[-1.29,36.82],osl:[59.91,10.75],nuuk:[64.18,-51.72],iqa:[63.75,-68.5],anc:[61.2,-149.9],rey:[64.15,-21.94],lax:[34.05,-118.24],mex:[19.43,-99.13],van:[49.28,-123.12],bru:[50.85,4.35],ott:[45.42,-75.7],yel:[62.45,-114.37],tro:[69.65,18.96]};
+const ARCS=[['tor','lon'],['nuuk','tor'],['iqa','osl'],['lon','dxb'],['ott','bru'],['nyc','sao'],['rey','tro'],['tor','van'],['fra','bom'],['yel','anc'],['lon','los'],['dxb','sin'],['van','tyo'],['nyc','fra'],['tor','mex'],['jnb','nbo'],['osl','nuuk'],['lax','syd']];
+function v3(lat,lon){const a=lat*Math.PI/180,b=lon*Math.PI/180;return[Math.cos(a)*Math.sin(b),Math.sin(a),Math.cos(a)*Math.cos(b)]}
+function rot(p,yaw,tilt){let[x,y,z]=p;const c=Math.cos(yaw),s=Math.sin(yaw);[x,z]=[x*c+z*s,-x*s+z*c];const c2=Math.cos(tilt),s2=Math.sin(tilt);[y,z]=[y*c2-z*s2,y*s2+z*c2];return[x,y,z]}
+function slerp(a,b,u){const d=Math.acos(Math.max(-1,Math.min(1,a[0]*b[0]+a[1]*b[1]+a[2]*b[2])));if(d<1e-6)return a;const s=Math.sin(d),k1=Math.sin((1-u)*d)/s,k2=Math.sin(u*d)/s;return[a[0]*k1+b[0]*k2,a[1]*k1+b[1]*k2,a[2]*k1+b[2]*k2]}
+let DOTS=null;
+function renderB(t){bg();if(!DOTS){const r=rng(9);DOTS=[];for(let i=0;i<420;i++){const u=r()*2-1,th=r()*6.283;DOTS.push([Math.sqrt(1-u*u)*Math.cos(th),u,Math.sqrt(1-u*u)*Math.sin(th),r()])}}
+ const zoom=1+3.2*ei3(seg(t,1.2,1.86)); const ga=eo3(seg(t,0,0.35))*(1-seg(t,1.62,1.86));
+ const R=430*lerp(0.94,1,eo3(seg(t,0,0.6)))*zoom; const gy=960+170*(zoom-1);
+ const yaw=0.42+t*0.2+0.15*ei3(seg(t,1.2,1.86)), tilt=0.52;
+ const P=(p,h)=>{const q=rot(p,yaw,tilt);const k=R*(1+(h||0));return[CX+q[0]*k,gy-q[1]*k,q[2]]};
+ if(ga>0){ctx.save();ctx.globalAlpha=ga;
+  // atmosphere + body
+  let g=ctx.createRadialGradient(CX,gy,R*0.9,CX,gy,R*1.22);g.addColorStop(0,'rgba(255,106,0,0.22)');g.addColorStop(1,'rgba(255,106,0,0)');ctx.fillStyle=g;ctx.beginPath();ctx.arc(CX,gy,R*1.22,0,6.283);ctx.fill();
+  g=ctx.createRadialGradient(CX-R*0.35,gy-R*0.4,R*0.1,CX,gy,R);g.addColorStop(0,'#2A140A');g.addColorStop(1,'#0C0503');ctx.fillStyle=g;ctx.beginPath();ctx.arc(CX,gy,R,0,6.283);ctx.fill();
+  // graticule
+  ctx.lineWidth=1.3;const line=(pts)=>{for(let i=1;i<pts.length;i++){const a=pts[i-1],b=pts[i];const z=(a[2]+b[2])/2;if(z<-0.05)continue;ctx.strokeStyle='rgba(255,120,50,'+(0.07+0.22*z).toFixed(3)+')';ctx.beginPath();ctx.moveTo(a[0],a[1]);ctx.lineTo(b[0],b[1]);ctx.stroke()}};
+  for(let la=-75;la<=75;la+=15){const pts=[];for(let lo=-180;lo<=180;lo+=4)pts.push(P(v3(la,lo)));line(pts)}
+  for(let lo=-180;lo<180;lo+=15){const pts=[];for(let la=-90;la<=90;la+=4)pts.push(P(v3(la,lo)));line(pts)}
+  // dots
+  for(const d of DOTS){const q=P(d);if(q[2]<0)continue;ctx.fillStyle='rgba(255,150,80,'+(0.12+0.4*q[2]*d[3]).toFixed(3)+')';ctx.fillRect(q[0]-1.2,q[1]-1.2,2.4,2.4)}
+  // rim light
+  ctx.strokeStyle='rgba(255,130,50,0.55)';ctx.lineWidth=2;ctx.shadowColor='#FF6A00';ctx.shadowBlur=30;ctx.beginPath();ctx.arc(CX,gy,R,Math.PI*1.05,Math.PI*1.75);ctx.stroke();ctx.shadowBlur=0;
+  // arcs
+  ctx.globalCompositeOperation='lighter';
+  ARCS.forEach(([a,b],i)=>{const st=0.18+i*0.055,dur=0.42;const u=eo3(seg(t,st,st+dur));if(u<=0)return;
+   const A=v3(...CITIES[a]),B=v3(...CITIES[b]);const N=48,pts=[];for(let k=0;k<=N;k++){const w=k/N;pts.push(P(slerp(A,B,w),0.18*Math.sin(Math.PI*w)))}
+   const head=Math.floor(u*N);ctx.lineCap='round';
+   for(let k=1;k<=head;k++){const p0=pts[k-1],p1=pts[k];if(p1[2]<-0.15&&Math.hypot(p1[0]-CX,p1[1]-gy)<R)continue;const fade=0.35+0.65*(k/Math.max(1,head));
+    ctx.strokeStyle='rgba(255,110,20,'+(0.28*fade)+')';ctx.lineWidth=7;ctx.beginPath();ctx.moveTo(p0[0],p0[1]);ctx.lineTo(p1[0],p1[1]);ctx.stroke();
+    ctx.strokeStyle='rgba(255,170,90,'+(0.85*fade)+')';ctx.lineWidth=2.2;ctx.beginPath();ctx.moveTo(p0[0],p0[1]);ctx.lineTo(p1[0],p1[1]);ctx.stroke()}
+   for(const e of [pts[0],u>=1?pts[N]:null])if(e&&e[2]>0){ctx.fillStyle='rgba(255,190,120,0.95)';ctx.beginPath();ctx.arc(e[0],e[1],4,0,6.283);ctx.fill()}
+   if(u<1){const h=pts[head];const g2=ctx.createRadialGradient(h[0],h[1],0,h[0],h[1],22);g2.addColorStop(0,'rgba(255,230,190,1)');g2.addColorStop(1,'rgba(255,106,0,0)');ctx.fillStyle=g2;ctx.beginPath();ctx.arc(h[0],h[1],22,0,6.283);ctx.fill()}});
+  ctx.restore()}
+ // flare
+ const FP=1.84;const f=t<FP?Math.pow(seg(t,1.45,FP),2.2):Math.exp(-(t-FP)*6.5);
+ if(f>0.002){ctx.save();ctx.globalCompositeOperation='lighter';let g=ctx.createRadialGradient(CX,960,0,CX,960,700);g.addColorStop(0,'rgba(255,236,210,'+(0.95*f)+')');g.addColorStop(0.12,'rgba(255,140,50,'+(0.75*f)+')');g.addColorStop(0.5,'rgba(255,90,0,'+(0.25*f)+')');g.addColorStop(1,'rgba(255,80,0,0)');ctx.fillStyle=g;ctx.fillRect(0,260,W,1400);
+  ctx.translate(CX,960);ctx.scale(1,0.035);g=ctx.createRadialGradient(0,0,0,0,0,620);g.addColorStop(0,'rgba(255,220,180,'+(0.9*f)+')');g.addColorStop(1,'rgba(255,106,0,0)');ctx.fillStyle=g;ctx.beginPath();ctx.arc(0,0,620,0,6.283);ctx.fill();ctx.restore()}
+ // mark
+ const mu=seg(t,1.8,2.15);const mv=eio3(seg(t,2.0,2.5));if(mu>0){const sc=lerp(MS*lerp(1.22,1,eo5(mu)),LK.ms,mv);const mx=lerp(CX,LK.mx,mv);drawMark(mx,960,sc,eo3(seg(t,1.8,1.95)),Math.max(0,1-seg(t,1.8,2.4))*1.2);sweep(markPath(mx,960,sc),mx-300,mx+300,seg(t,2.55,2.95),960,0.45)}
+ const wa=eo3(seg(t,2.2,2.6));const lb=eo3(seg(t,2.35,2.75));if(wa>0)lockText(wa,1,lb,0);
+ finish()}
+window.render=(o,t)=>{ctx.setTransform(1,0,0,1,0,0);ctx.globalCompositeOperation='source-over';ctx.globalAlpha=1;(o==='A'?renderA:renderB)(t)};
+window.ready=document.fonts.ready.then(()=>Promise.all([document.fonts.load('700 168px MS'),document.fonts.load('300 86px MS'),document.fonts.load('500 38px IN')])).then(layoutLockup);
+</script></body></html>
