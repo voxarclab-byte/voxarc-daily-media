@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-15T02:56:31+00:00",
+ "generated": "2026-11-15T02:56:53+00:00",
  "items": [
   {
    "id": "fr-2026-23255",
@@ -91,87 +91,6 @@
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23255/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
      "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "gc-fifth-canadian-armed-forces-member-dies-following-incident-a",
-   "published": "2026-11-14T15:00:00Z",
-   "kicker": "Geoeconomics · National Defence",
-   "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
-   "topics": [
-    "geo",
-    "defense-technology"
-   ],
-   "primary": "geo",
-   "summary": "It is with profound sadness that the Canadian Armed Forces (CAF) confirms the death of a fifth soldier who was receiving medical care in Ontario following the tragic incident that occurred at Canadian Forces Base Wainwright on October 17, 2026.",
-   "body": "It is with profound sadness that the Canadian Armed Forces (CAF) confirms the death of a fifth soldier who was receiving medical care in Ontario following the tragic incident that occurred at Canadian Forces Base Wainwright on October 17, 2026.\n\nNational Defence published this news release on Nov 14, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "News release from National Defence"
-   ],
-   "sources": [
-    {
-     "publisher": "National Defence",
-     "date": "2026-11-14",
-     "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
-     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/fifth-canadian-armed-forces-member-dies-following-incident-at-canadian-forces-base-wainwright.html",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Government of Canada",
-   "primarySource": {
-    "name": "National Defence",
-    "kind": "Government of Canada news release",
-    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
-   "soWhat": {
-    "changed": "It is with profound sadness that the Canadian Armed Forces (CAF) confirms the death of a fifth soldier who was receiving medical care in Ontario following the…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Follow-on regulations, orders or funding details from National Defence"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "Exporters, importers and investors exposed to trade and security policy are most exposed.",
-    "n_sources": 1,
-    "signal_title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Ba",
-    "crux": "It is with profound sadness that the Canadian Armed Forces (CAF) confirms the death of a fifth soldier who was receiving medical care in Ontario following the…",
-    "importance": "Medium",
-    "impact_score": 41,
-    "time_horizon": "Medium term",
-    "affected_sectors": [
-     "Defence"
-    ],
-    "affected_regions": [
-     "Canada"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "6ace51427d6da06c8ebdbdd1",
-     "fr-2026-22052",
-     "6ad66e84a07c63635f98860f"
-    ],
-    "watch_next": "Follow-on regulations, orders or funding details from National Defence",
-    "confidence_score": 67,
-    "source_name": "National Defence",
-    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/11/fifth-canadian-armed-forces-member-dies-following-incident-at-canadian-forces-base-wainwright.html",
-    "published_date": "2026-11-14",
-    "key_number": null,
-    "primary_source": {
-     "name": "National Defence",
-     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/fifth-canadian-armed-forces-member-dies-following-incident-at-canadian-forces-base-wainwright.html",
-     "kind": "government or agency"
     },
     "reported_by": null
    }
@@ -12006,19 +11925,19 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 3,
+     "cur": 2,
      "prev": 2,
-     "dir": "up",
+     "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 7,
+     "cur": 6,
      "prev": 2,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 9,
+     "cur": 8,
      "prev": 1,
      "dir": "up",
      "reliable": false
@@ -12066,19 +11985,19 @@
    },
    "geo": {
     "7": {
-     "cur": 15,
+     "cur": 14,
      "prev": 14,
      "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 50,
+     "cur": 49,
      "prev": 7,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 57,
+     "cur": 56,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -12187,17 +12106,17 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-15T02:56:31+00:00",
+  "asOf": "2026-11-15T02:56:53+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
    "minerals": 16,
-   "geo": 62,
+   "geo": 61,
    "ai-investment-infrastructure": 7,
    "energy-power": 10,
    "trade-sanctions": 24,
    "strategic-supply-chains": 7,
-   "defense-technology": 10,
+   "defense-technology": 9,
    "semiconductors": 4,
    "economic-security": 3,
    "cyber-digital-sovereignty": 2,
