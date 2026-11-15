@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-15T02:56:53+00:00",
+ "generated": "2026-11-15T11:02:44+00:00",
  "items": [
   {
    "id": "fr-2026-23255",
@@ -6325,8 +6325,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-14",
-    "asOfLabel": "Nov 14, 2026",
+    "asOf": "2026-11-15",
+    "asOfLabel": "Nov 15, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -6587,8 +6587,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-14",
-    "asOfLabel": "Nov 14, 2026",
+    "asOf": "2026-11-15",
+    "asOfLabel": "Nov 15, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -8062,6 +8062,105 @@
      "kind": "government or agency"
     },
     "reported_by": "Major Projects Office"
+   }
+  },
+  {
+   "id": "gg-364067",
+   "published": "2026-10-16T12:00:00Z",
+   "kicker": "Geoeconomics · Grants.gov",
+   "title": "Funding call: Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Department of Homeland Security - FEMA is taking applications until Nov 16, 2026 for Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program.",
+   "body": "Department of Homeland Security - FEMA posted funding opportunity DHS-27-GPD-161-01-99, \"Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program\", on Grants.gov on Oct 16, 2026. Applications close Nov 16, 2026.\n\nUsing C-UAS Grant Program funds, eligible governments and their subrecipients may purchase unmanned aircraft system (UAS) Detection, Identifying, Monitoring, Tracking, and Mitigation (DIMT-M) technologies to support public safety officials in the protection of the public and critical infrastructure from nefarious or unlawful use of UAS consistent with 6 U.S.C. § 124n and 6 C.F.R. 124. The operation of certain detection and all mitigation technologies will be limited to accredited law enforcement and correctional agencies that meet the training, certification, accreditation, and authorized technology requirements of 6 C.F.R.\n\nEstimated total funding: $250,000,000. Award ceiling: $18,665,396. Expected awards: 56.\n\nWhy it matters: Federal funding calls show where Washington is paying for research and capacity. Check the full notice of funding opportunity for eligibility, cost-share rules and how to apply.",
+   "stat": {
+    "value": "$250,000,000",
+    "label": "estimated total funding, applications due Nov 16, 2026"
+   },
+   "keyPoints": [
+    "Funding call DHS-27-GPD-161-01-99 from Department of Homeland Security - FEMA",
+    "Applications due Nov 16, 2026",
+    "Estimated total funding: $250,000,000"
+   ],
+   "sources": [
+    {
+     "publisher": "Grants.gov",
+     "date": "2026-10-16",
+     "title": "Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
+     "url": "https://www.grants.gov/search-results-detail/364067",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Grants.gov",
+   "primarySource": {
+    "name": "Grants.gov",
+    "kind": "US federal funding opportunity",
+    "terms": "Public US government data (no key)"
+   },
+   "deadlines": [
+    {
+     "type": "funding",
+     "label": "Applications due",
+     "date": "2026-11-16",
+     "url": "https://www.grants.gov/search-results-detail/364067"
+    }
+   ],
+   "titleMarkup": "Funding call: Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
+   "soWhat": {
+    "changed": "Department of Homeland Security - FEMA opened funding call DHS-27-GPD-161-01-99, Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
+    "who": "Researchers, companies and institutions eligible for US federal awards",
+    "watch": "Applications due Nov 16, 2026 on Grants.gov"
+   },
+   "photo": {
+    "src": "img/photos/minerals-openpit.webp",
+    "credit": "Photo: Doc Searls from Santa Barbara, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_mine_dumps,_2004.jpg",
+    "key": "minerals-openpit"
+   },
+   "signal": {
+    "so_what": "Eligible US applicants with counter-drone plans have a closing window; signals continued federal spending on drone detection and mitigation.",
+    "n_sources": 1,
+    "signal_title": "FEMA funds counter-drone capability for FY2027",
+    "crux": "DHS FEMA opened the FY2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program (DHS-27-GPD-161-01-99), with applications due Nov 16, 2026.",
+    "importance": "Low",
+    "impact_score": 32,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Defense and security",
+     "Public safety"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-21786",
+     "6ace51427d6da06c8ebdbdd1",
+     "fr-2026-22052"
+    ],
+    "watch_next": "Application deadline Nov 16, 2026 and later FEMA award announcements",
+    "confidence_score": 72,
+    "source_name": "Grants.gov",
+    "source_url": "https://www.grants.gov/search-results-detail/364067",
+    "published_date": "2026-10-16",
+    "key_number": {
+     "value": "$250,000,000",
+     "unit": "",
+     "label": "estimated total funding",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Grants.gov",
+     "url": "https://www.grants.gov/search-results-detail/364067",
+     "kind": "government or agency"
+    },
+    "reported_by": null
    }
   },
   {
@@ -11719,8 +11818,8 @@
     1
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-14",
-   "asOfLabel": "Nov 14, 2026",
+   "asOf": "2026-11-15",
+   "asOfLabel": "Nov 15, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -11840,7 +11939,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-15T02:56:31+00:00",
+  "asOf": "2026-11-15T11:02:37+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -11931,13 +12030,13 @@
      "reliable": true
     },
     "30": {
-     "cur": 6,
+     "cur": 7,
      "prev": 2,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 8,
+     "cur": 9,
      "prev": 1,
      "dir": "up",
      "reliable": false
@@ -11991,13 +12090,13 @@
      "reliable": true
     },
     "30": {
-     "cur": 49,
+     "cur": 50,
      "prev": 7,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 56,
+     "cur": 57,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -12106,17 +12205,17 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-15T02:56:53+00:00",
+  "asOf": "2026-11-15T11:02:44+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
    "minerals": 16,
-   "geo": 61,
+   "geo": 62,
    "ai-investment-infrastructure": 7,
    "energy-power": 10,
    "trade-sanctions": 24,
    "strategic-supply-chains": 7,
-   "defense-technology": 9,
+   "defense-technology": 10,
    "semiconductors": 4,
    "economic-security": 3,
    "cyber-digital-sovereignty": 2,
