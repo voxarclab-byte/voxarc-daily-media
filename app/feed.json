@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-16T03:00:44+00:00",
+ "generated": "2026-11-16T11:02:12+00:00",
  "items": [
   {
    "id": "fr-2026-23255",
@@ -90,6 +90,429 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23255/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026d2570",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Decision (CFSP) 2026/2570: Amending Decision (CFSP) 2024/385 establishing restrictive measures…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Decision (CFSP) 2026/2570 of 16 November 2026 amending Decision (CFSP) 2024/385 establishing restrictive measures against Hamas and the Palestinian Islamic Jihad and those who support, facilitate or enable their violent actions",
+   "body": "Council Decision (CFSP) 2026/2570 of 16 November 2026 amending Decision (CFSP) 2024/385 establishing restrictive measures against Hamas and the Palestinian Islamic Jihad and those who support, facilitate or enable their violent actions.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026D2570. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Decision (CFSP) 2026/2570",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Decision (CFSP) 2026/2570 of 16 November 2026 amending Decision (CFSP) 2024/385 establishing restrictive measures against Hamas and the Palestinian Islamic Jihad and those who support, facilitate or enable their violent actions",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602570",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Decision (CFSP) 2026/2570: Amending Decision (CFSP) 2024/385 establishing restrictive measures…",
+   "soWhat": {
+    "changed": "The EU published Council Decision (CFSP) 2026/2570 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Banks and payment firms with EU exposure should rescreen counterparties against the updated regime.",
+    "n_sources": 1,
+    "signal_title": "EU updates Hamas and PIJ sanctions framework",
+    "crux": "Council Decision (CFSP) 2026/2570 of Nov 16, 2026 amends the 2024 restrictive measures regime against Hamas, Palestinian Islamic Jihad and their supporters.",
+    "importance": "Low",
+    "impact_score": 30,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Financial Services",
+     "Government"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Middle East"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026r2569",
+     "eu-32026r2550"
+    ],
+    "watch_next": "Any matching implementing regulation and changes to the EU consolidated sanctions list",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602570",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602570",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2550",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2550: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions",
+    "cyber-digital-sovereignty"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2550 of 16 November 2026 implementing Regulation (EU) 2019/796 concerning restrictive measures against cyber-attacks threatening the Union or its Member States",
+   "body": "Council Implementing Regulation (EU) 2026/2550 of 16 November 2026 implementing Regulation (EU) 2019/796 concerning restrictive measures against cyber-attacks threatening the Union or its Member States.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2550. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2550",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2550 of 16 November 2026 implementing Regulation (EU) 2019/796 concerning restrictive measures against cyber-attacks threatening the Union or its Member States",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602550",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2550: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2550 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Tech, cloud and security firms serving EU clients should rescreen partners and suppliers against the updated cyber sanctions listings.",
+    "n_sources": 1,
+    "signal_title": "EU acts again under its cyber-attack sanctions regime",
+    "crux": "Council Implementing Regulation (EU) 2026/2550 of Nov 16, 2026 implements Regulation 2019/796, the EU framework for restrictive measures against cyber-attacks threatening the Union or its Member States.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Cybersecurity",
+     "Technology",
+     "Financial Services"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026r2569",
+     "eu-32026d2570"
+    ],
+    "watch_next": "The annex of listed persons and entities on EUR-Lex and any related Council press statement",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602550",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602550",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2569",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2569: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2569 of 16 November 2026 implementing Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses",
+   "body": "Council Implementing Regulation (EU) 2026/2569 of 16 November 2026 implementing Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2569. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2569",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2569 of 16 November 2026 implementing Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602569",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2569: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2569 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Compliance teams with EU exposure should rescreen counterparties against the updated listings.",
+    "n_sources": 1,
+    "signal_title": "EU updates global human rights sanctions listings",
+    "crux": "Council Implementing Regulation (EU) 2026/2569 of Nov 16, 2026 implements Regulation 2020/1998, the EU global human rights sanctions regime.",
+    "importance": "Low",
+    "impact_score": 30,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Financial Services",
+     "Government"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026d2570",
+     "eu-32026r2550"
+    ],
+    "watch_next": "The annex of listed persons and entities on EUR-Lex",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602569",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602569",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2558",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2558",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602558",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
+    "n_sources": 1,
+    "signal_title": "EU widens action on Russian hybrid threats",
+    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Government",
+     "Shipping",
+     "Cybersecurity",
+     "Financial Services"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026r2569",
+     "eu-32026d2570"
+    ],
+    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602558",
+    "published_date": "2026-11-16",
+    "duplicate_of": "eu-32026r2550",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602558",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026d2556",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Decision (CFSP) 2026/2556: Amending Decision (CFSP) 2024/2643 concerning restrictive measures in view…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities",
+   "body": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026D2556. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Decision (CFSP) 2026/2556",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602556",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Decision (CFSP) 2026/2556: Amending Decision (CFSP) 2024/2643 concerning restrictive measures in view…",
+   "soWhat": {
+    "changed": "The EU published Council Decision (CFSP) 2026/2556 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Sanctions compliance teams should track this paired decision and regulation as one package when updating screening lists.",
+    "n_sources": 1,
+    "signal_title": "EU amends legal basis for Russia destabilisation sanctions",
+    "crux": "Council Decision (CFSP) 2026/2556 of Nov 16, 2026 amends Decision 2024/2643, the CFSP basis for restrictive measures over Russia's destabilising activities, alongside implementing regulation 2026/2558.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Government",
+     "Financial Services"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026r2569",
+     "eu-32026d2570",
+     "eu-32026r2550"
+    ],
+    "watch_next": "Whether the decision extends the regime's scope or duration, set out in its articles on EUR-Lex",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602556",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602556",
      "kind": "official journal"
     },
     "reported_by": null
@@ -502,9 +925,9 @@
     "risk_level": "Low",
     "opportunity_level": "Low",
     "related_signals": [
-     "eu-32026d2508",
-     "eu-32026r2487",
-     "eu-32026r2490"
+     "eu-32026d2556",
+     "eu-32026r2569",
+     "eu-32026d2570"
     ],
     "watch_next": "The Customs Cooperation Committee decision itself and its application date on EUR-Lex",
     "confidence_score": 67,
@@ -2109,7 +2532,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6ad66e84a07c63635f9885f2",
-     "6ad66e84a07c63635f988615"
+     "6ad66e84a07c63635f988615",
+     "eu-32026r2550"
     ],
     "watch_next": "Uptake of the clauses in EU cloud procurement and contract renewals.",
     "confidence_score": 67,
@@ -2120,6 +2544,93 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026H2394",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22593",
+   "published": "2026-11-05T12:00:00Z",
+   "kicker": "AI Policy · Federal Register",
+   "title": "Medical Devices; Hematology and Pathology Devices",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II…",
+   "body": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.\n\nKey dates: This order is effective November 5, 2026. The classification was applicable on January 31, 2024.\n\nDocument type: Final rule. Agency: Health and Human Services, Food and Drug Administration. Docket: Docket No. FDA-2026-N-12384.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Food and Drug Administration",
+    "Takes effect Nov 5, 2026",
+    "Docket Docket No. FDA-2026-N-12384"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-05",
+     "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-11-05",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
+    }
+   ],
+   "titleMarkup": "Medical Devices; Hematology and Pathology Devices",
+   "soWhat": {
+    "changed": "Food and Drug Administration issued a final rule: Medical Devices; Hematology and Pathology Devices",
+    "who": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital…",
+    "watch": "Takes effect Nov 5, 2026"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital… are most exposed.",
+    "n_sources": 1,
+    "signal_title": "FDA Sets Class II Path for AI Cervical Cytology Imaging",
+    "crux": "FDA final rule classifies digital cervical cytology slide imaging systems with an AI algorithm into class II, giving the device type a defined regulatory pathway.",
+    "importance": "Medium",
+    "impact_score": 42,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Medical devices",
+     "Healthcare AI",
+     "Diagnostics"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [],
+    "watch_next": "Special controls attached to the classification and follow-on 510(k) clearances for similar AI pathology tools.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+    "published_date": "2026-11-05",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
      "kind": "official journal"
     },
     "reported_by": null
@@ -2212,93 +2723,6 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "fr-2026-22593",
-   "published": "2026-11-05T12:00:00Z",
-   "kicker": "AI Policy · Federal Register",
-   "title": "Medical Devices; Hematology and Pathology Devices",
-   "topics": [
-    "ai"
-   ],
-   "primary": "ai",
-   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II…",
-   "body": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.\n\nKey dates: This order is effective November 5, 2026. The classification was applicable on January 31, 2024.\n\nDocument type: Final rule. Agency: Health and Human Services, Food and Drug Administration. Docket: Docket No. FDA-2026-N-12384.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Final rule from Food and Drug Administration",
-    "Takes effect Nov 5, 2026",
-    "Docket Docket No. FDA-2026-N-12384"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-05",
-     "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "effective",
-     "label": "Takes effect",
-     "date": "2026-11-05",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
-    }
-   ],
-   "titleMarkup": "Medical Devices; Hematology and Pathology Devices",
-   "soWhat": {
-    "changed": "Food and Drug Administration issued a final rule: Medical Devices; Hematology and Pathology Devices",
-    "who": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital…",
-    "watch": "Takes effect Nov 5, 2026"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital… are most exposed.",
-    "n_sources": 1,
-    "signal_title": "FDA Sets Class II Path for AI Cervical Cytology Imaging",
-    "crux": "FDA final rule classifies digital cervical cytology slide imaging systems with an AI algorithm into class II, giving the device type a defined regulatory pathway.",
-    "importance": "Medium",
-    "impact_score": 42,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Medical devices",
-     "Healthcare AI",
-     "Diagnostics"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [],
-    "watch_next": "Special controls attached to the classification and follow-on 510(k) clearances for similar AI pathology tools.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-    "published_date": "2026-11-05",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
      "kind": "official journal"
     },
     "reported_by": null
@@ -6256,8 +6680,8 @@
      0,
      1,
      1,
-     0,
-     3,
+     2,
+     1,
      0,
      0,
      0,
@@ -6267,11 +6691,10 @@
      0,
      0,
      0,
-     0,
-     1
+     1,
+     0
     ],
     "weeklyEntityList": [
-     0,
      0,
      0,
      0,
@@ -6322,11 +6745,12 @@
      0,
      0,
      0,
+     0,
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-15",
-    "asOfLabel": "Nov 15, 2026",
+    "asOf": "2026-11-16",
+    "asOfLabel": "Nov 16, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -6518,8 +6942,8 @@
      0,
      1,
      1,
-     0,
-     3,
+     2,
+     1,
      0,
      0,
      0,
@@ -6529,11 +6953,10 @@
      0,
      0,
      0,
-     0,
-     1
+     1,
+     0
     ],
     "weeklyEntityList": [
-     0,
      0,
      0,
      0,
@@ -6584,11 +7007,12 @@
      0,
      0,
      0,
+     0,
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-15",
-    "asOfLabel": "Nov 15, 2026",
+    "asOf": "2026-11-16",
+    "asOfLabel": "Nov 16, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -11818,8 +12242,8 @@
     1
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-15",
-   "asOfLabel": "Nov 15, 2026",
+   "asOf": "2026-11-16",
+   "asOfLabel": "Nov 16, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -11863,8 +12287,8 @@
     0,
     1,
     1,
-    0,
-    3,
+    2,
+    1,
     0,
     0,
     0,
@@ -11874,11 +12298,10 @@
     0,
     0,
     0,
-    0,
-    1
+    1,
+    0
    ],
    "weeklyEntityList": [
-    0,
     0,
     0,
     0,
@@ -11929,6 +12352,7 @@
     0,
     0,
     0,
+    0,
     0
    ],
    "weeklyLabel": "Final rules per week, last 52 weeks",
@@ -11939,7 +12363,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-16T03:00:40+00:00",
+  "asOf": "2026-11-16T11:01:52+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -11957,7 +12381,7 @@
     },
     "90": {
      "cur": 18,
-     "prev": 1,
+     "prev": 2,
      "dir": "up",
      "reliable": false
     }
@@ -12004,19 +12428,19 @@
    },
    "cyber-digital-sovereignty": {
     "7": {
-     "cur": 0,
+     "cur": 1,
      "prev": 1,
-     "dir": "down",
+     "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 2,
+     "cur": 3,
      "prev": 0,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 2,
+     "cur": 3,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12037,7 +12461,7 @@
     },
     "90": {
      "cur": 9,
-     "prev": 1,
+     "prev": 0,
      "dir": "up",
      "reliable": false
     }
@@ -12084,19 +12508,19 @@
    },
    "geo": {
     "7": {
-     "cur": 14,
+     "cur": 18,
      "prev": 14,
-     "dir": "steady",
+     "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 49,
+     "cur": 53,
      "prev": 8,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 57,
+     "cur": 61,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -12177,26 +12601,26 @@
     },
     "90": {
      "cur": 7,
-     "prev": 1,
+     "prev": 0,
      "dir": "up",
      "reliable": false
     }
    },
    "trade-sanctions": {
     "7": {
-     "cur": 9,
+     "cur": 13,
      "prev": 5,
      "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 19,
+     "cur": 23,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 20,
+     "cur": 24,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12205,20 +12629,20 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-16T03:00:44+00:00",
+  "asOf": "2026-11-16T11:02:12+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
    "minerals": 16,
-   "geo": 62,
+   "geo": 67,
    "ai-investment-infrastructure": 7,
    "energy-power": 10,
-   "trade-sanctions": 24,
+   "trade-sanctions": 29,
    "strategic-supply-chains": 7,
    "defense-technology": 10,
    "semiconductors": 4,
    "economic-security": 3,
-   "cyber-digital-sovereignty": 2,
+   "cyber-digital-sovereignty": 3,
    "space-satellites": 7
   },
   "live": [
