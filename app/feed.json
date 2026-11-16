@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-16T11:02:12+00:00",
+ "generated": "2026-11-16T18:57:01+00:00",
  "items": [
   {
    "id": "fr-2026-23255",
@@ -96,6 +96,92 @@
    }
   },
   {
+   "id": "eu-32026r2574",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+   "body": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2574. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2574",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2574 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/ai-supercomputer.webp",
+    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
+    "key": "ai-supercomputer"
+   },
+   "signal": {
+    "so_what": "Firms with EU exposure, including resource and trading counterparties, should rescreen partners against the updated listings.",
+    "n_sources": 1,
+    "signal_title": "EU adjusts Ukraine-related sanctions listings again",
+    "crux": "The Council adopted Implementing Regulation 2026/2574 on Nov 16, 2026, implementing Regulation 269/2014, the EU's asset freeze regime over actions threatening Ukraine's territorial integrity.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Financial services",
+     "Trade and logistics",
+     "Mining"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia",
+     "Ukraine"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-23196",
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+    ],
+    "watch_next": "The annex of the act on EUR-Lex for which persons and entities were added, amended or removed",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "eu-32026d2570",
    "published": "2026-11-16T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -117,7 +203,7 @@
      "publisher": "EUR-Lex (Official Journal of the EU)",
      "date": "2026-11-16",
      "title": "Council Decision (CFSP) 2026/2570 of 16 November 2026 amending Decision (CFSP) 2024/385 establishing restrictive measures against Hamas and the Palestinian Islamic Jihad and those who support, facilitate or enable their violent actions",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602570",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2570",
      "kind": "official"
     }
    ],
@@ -168,12 +254,12 @@
     "watch_next": "Any matching implementing regulation and changes to the EU consolidated sanctions list",
     "confidence_score": 67,
     "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602570",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2570",
     "published_date": "2026-11-16",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602570",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2570",
      "kind": "official journal"
     },
     "reported_by": null
@@ -202,7 +288,7 @@
      "publisher": "EUR-Lex (Official Journal of the EU)",
      "date": "2026-11-16",
      "title": "Council Implementing Regulation (EU) 2026/2550 of 16 November 2026 implementing Regulation (EU) 2019/796 concerning restrictive measures against cyber-attacks threatening the Union or its Member States",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602550",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2550",
      "kind": "official"
     }
    ],
@@ -253,12 +339,183 @@
     "watch_next": "The annex of listed persons and entities on EUR-Lex and any related Council press statement",
     "confidence_score": 67,
     "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602550",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2550",
     "published_date": "2026-11-16",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602550",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2550",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2558",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2558",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
+    "n_sources": 1,
+    "signal_title": "EU widens action on Russian hybrid threats",
+    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Government",
+     "Shipping",
+     "Cybersecurity",
+     "Financial Services"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026r2569",
+     "eu-32026d2570"
+    ],
+    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+    "published_date": "2026-11-16",
+    "duplicate_of": "eu-32026r2550",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026d2556",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Decision (CFSP) 2026/2556: Amending Decision (CFSP) 2024/2643 concerning restrictive measures in view…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities",
+   "body": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026D2556. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Decision (CFSP) 2026/2556",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2556",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Decision (CFSP) 2026/2556: Amending Decision (CFSP) 2024/2643 concerning restrictive measures in view…",
+   "soWhat": {
+    "changed": "The EU published Council Decision (CFSP) 2026/2556 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Sanctions compliance teams should track this paired decision and regulation as one package when updating screening lists.",
+    "n_sources": 1,
+    "signal_title": "EU amends legal basis for Russia destabilisation sanctions",
+    "crux": "Council Decision (CFSP) 2026/2556 of Nov 16, 2026 amends Decision 2024/2643, the CFSP basis for restrictive measures over Russia's destabilising activities, alongside implementing regulation 2026/2558.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Government",
+     "Financial Services"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026r2569",
+     "eu-32026d2570",
+     "eu-32026r2550"
+    ],
+    "watch_next": "Whether the decision extends the regime's scope or duration, set out in its articles on EUR-Lex",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2556",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2556",
      "kind": "official journal"
     },
     "reported_by": null
@@ -342,177 +599,6 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602569",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "eu-32026r2558",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Implementing Regulation (EU) 2026/2558",
-    "Published Nov 16, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602558",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "soWhat": {
-    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
-    "n_sources": 1,
-    "signal_title": "EU widens action on Russian hybrid threats",
-    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
-    "importance": "Medium",
-    "impact_score": 52,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Government",
-     "Shipping",
-     "Cybersecurity",
-     "Financial Services"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Russia"
-    ],
-    "risk_level": "High",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "eu-32026d2556",
-     "eu-32026r2569",
-     "eu-32026d2570"
-    ],
-    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602558",
-    "published_date": "2026-11-16",
-    "duplicate_of": "eu-32026r2550",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602558",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "eu-32026d2556",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Decision (CFSP) 2026/2556: Amending Decision (CFSP) 2024/2643 concerning restrictive measures in view…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities",
-   "body": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026D2556. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Decision (CFSP) 2026/2556",
-    "Published Nov 16, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602556",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Decision (CFSP) 2026/2556: Amending Decision (CFSP) 2024/2643 concerning restrictive measures in view…",
-   "soWhat": {
-    "changed": "The EU published Council Decision (CFSP) 2026/2556 in the Official Journal on Nov 16, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Sanctions compliance teams should track this paired decision and regulation as one package when updating screening lists.",
-    "n_sources": 1,
-    "signal_title": "EU amends legal basis for Russia destabilisation sanctions",
-    "crux": "Council Decision (CFSP) 2026/2556 of Nov 16, 2026 amends Decision 2024/2643, the CFSP basis for restrictive measures over Russia's destabilising activities, alongside implementing regulation 2026/2558.",
-    "importance": "Medium",
-    "impact_score": 45,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Government",
-     "Financial Services"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Russia"
-    ],
-    "risk_level": "High",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "eu-32026r2569",
-     "eu-32026d2570",
-     "eu-32026r2550"
-    ],
-    "watch_next": "Whether the decision extends the regime's scope or duration, set out in its articles on EUR-Lex",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602556",
-    "published_date": "2026-11-16",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602556",
      "kind": "official journal"
     },
     "reported_by": null
@@ -5812,11 +5898,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.91M km²",
+    "value": "9.00M km²",
     "unit": "daily extent",
-    "change": "-1.62M km² vs the 1981–2010 average for the date",
+    "change": "-1.61M km² vs the 1981–2010 average for the date",
     "series": [
-     6.731,
      6.717,
      6.777,
      6.792,
@@ -5845,14 +5930,11 @@
      8.838,
      8.852,
      8.951,
-     8.912
+     8.912,
+     8.999
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-17",
-      5.382
-     ],
      [
       "2026-08-18",
       5.414
@@ -6208,11 +6290,15 @@
      [
       "2026-11-14",
       8.912
+     ],
+     [
+      "2026-11-15",
+      8.999
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-14",
-    "asOfLabel": "Nov 14, 2026",
+    "asOf": "2026-11-15",
+    "asOfLabel": "Nov 15, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -7706,11 +7792,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.91M km²",
+    "value": "9.00M km²",
     "unit": "daily extent",
-    "change": "-1.62M km² vs the 1981–2010 average for the date",
+    "change": "-1.61M km² vs the 1981–2010 average for the date",
     "series": [
-     6.731,
      6.717,
      6.777,
      6.792,
@@ -7739,14 +7824,11 @@
      8.838,
      8.852,
      8.951,
-     8.912
+     8.912,
+     8.999
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-17",
-      5.382
-     ],
      [
       "2026-08-18",
       5.414
@@ -8102,11 +8184,15 @@
      [
       "2026-11-14",
       8.912
+     ],
+     [
+      "2026-11-15",
+      8.999
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-14",
-    "asOfLabel": "Nov 14, 2026",
+    "asOf": "2026-11-15",
+    "asOfLabel": "Nov 15, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -8740,11 +8826,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.91M km²",
+    "value": "9.00M km²",
     "unit": "daily extent",
-    "change": "-1.62M km² vs the 1981–2010 average for the date",
+    "change": "-1.61M km² vs the 1981–2010 average for the date",
     "series": [
-     6.731,
      6.717,
      6.777,
      6.792,
@@ -8773,14 +8858,11 @@
      8.838,
      8.852,
      8.951,
-     8.912
+     8.912,
+     8.999
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-17",
-      5.382
-     ],
      [
       "2026-08-18",
       5.414
@@ -9136,11 +9218,15 @@
      [
       "2026-11-14",
       8.912
+     ],
+     [
+      "2026-11-15",
+      8.999
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-14",
-    "asOfLabel": "Nov 14, 2026",
+    "asOf": "2026-11-15",
+    "asOfLabel": "Nov 15, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -9490,11 +9576,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.91M km²",
+    "value": "9.00M km²",
     "unit": "daily extent",
-    "change": "-1.62M km² vs the 1981–2010 average for the date",
+    "change": "-1.61M km² vs the 1981–2010 average for the date",
     "series": [
-     6.731,
      6.717,
      6.777,
      6.792,
@@ -9523,14 +9608,11 @@
      8.838,
      8.852,
      8.951,
-     8.912
+     8.912,
+     8.999
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-17",
-      5.382
-     ],
      [
       "2026-08-18",
       5.414
@@ -9886,11 +9968,15 @@
      [
       "2026-11-14",
       8.912
+     ],
+     [
+      "2026-11-15",
+      8.999
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-14",
-    "asOfLabel": "Nov 14, 2026",
+    "asOf": "2026-11-15",
+    "asOfLabel": "Nov 15, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -10136,11 +10222,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "8.91M km²",
+    "value": "9.00M km²",
     "unit": "daily extent",
-    "change": "-1.62M km² vs the 1981–2010 average for the date",
+    "change": "-1.61M km² vs the 1981–2010 average for the date",
     "series": [
-     6.731,
      6.717,
      6.777,
      6.792,
@@ -10169,14 +10254,11 @@
      8.838,
      8.852,
      8.951,
-     8.912
+     8.912,
+     8.999
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-17",
-      5.382
-     ],
      [
       "2026-08-18",
       5.414
@@ -10532,11 +10614,15 @@
      [
       "2026-11-14",
       8.912
+     ],
+     [
+      "2026-11-15",
+      8.999
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-14",
-    "asOfLabel": "Nov 14, 2026",
+    "asOf": "2026-11-15",
+    "asOfLabel": "Nov 15, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -11716,11 +11802,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "8.91M km²",
+   "value": "9.00M km²",
    "unit": "daily extent",
-   "change": "-1.62M km² vs the 1981–2010 average for the date",
+   "change": "-1.61M km² vs the 1981–2010 average for the date",
    "series": [
-    6.731,
     6.717,
     6.777,
     6.792,
@@ -11749,19 +11834,16 @@
     8.838,
     8.852,
     8.951,
-    8.912
+    8.912,
+    8.999
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-14",
-   "asOfLabel": "Nov 14, 2026",
+   "asOf": "2026-11-15",
+   "asOfLabel": "Nov 15, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-17",
-     5.382
-    ],
     [
      "2026-08-18",
      5.414
@@ -12117,6 +12199,10 @@
     [
      "2026-11-14",
      8.912
+    ],
+    [
+     "2026-11-15",
+     8.999
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -12363,7 +12449,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-16T11:01:52+00:00",
+  "asOf": "2026-11-16T18:56:53+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -12374,9 +12460,9 @@
      "reliable": true
     },
     "30": {
-     "cur": 10,
-     "prev": 8,
-     "dir": "up",
+     "cur": 9,
+     "prev": 9,
+     "dir": "steady",
      "reliable": false
     },
     "90": {
@@ -12434,8 +12520,8 @@
      "reliable": true
     },
     "30": {
-     "cur": 3,
-     "prev": 0,
+     "cur": 2,
+     "prev": 1,
      "dir": "up",
      "reliable": false
     },
@@ -12448,19 +12534,19 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 2,
+     "cur": 3,
      "prev": 2,
-     "dir": "steady",
+     "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 6,
+     "cur": 7,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 9,
+     "cur": 10,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12508,19 +12594,19 @@
    },
    "geo": {
     "7": {
-     "cur": 18,
-     "prev": 14,
-     "dir": "up",
+     "cur": 16,
+     "prev": 16,
+     "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 53,
-     "prev": 8,
+     "cur": 54,
+     "prev": 9,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 61,
+     "cur": 63,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -12568,9 +12654,9 @@
    },
    "space-satellites": {
     "7": {
-     "cur": 2,
-     "prev": 2,
-     "dir": "steady",
+     "cur": 1,
+     "prev": 3,
+     "dir": "down",
      "reliable": true
     },
     "30": {
@@ -12589,7 +12675,7 @@
    "strategic-supply-chains": {
     "7": {
      "cur": 0,
-     "prev": 2,
+     "prev": 1,
      "dir": "down",
      "reliable": true
     },
@@ -12608,19 +12694,19 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 13,
-     "prev": 5,
+     "cur": 11,
+     "prev": 6,
      "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 23,
+     "cur": 24,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 24,
+     "cur": 25,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12629,15 +12715,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-16T11:02:12+00:00",
+  "asOf": "2026-11-16T18:57:01+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
    "minerals": 16,
-   "geo": 67,
+   "geo": 68,
    "ai-investment-infrastructure": 7,
    "energy-power": 10,
-   "trade-sanctions": 29,
+   "trade-sanctions": 30,
    "strategic-supply-chains": 7,
    "defense-technology": 10,
    "semiconductors": 4,
