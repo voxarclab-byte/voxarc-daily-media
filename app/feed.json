@@ -1,8 +1,92 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-16T18:57:01+00:00",
+ "generated": "2026-11-17T02:59:11+00:00",
  "items": [
+  {
+   "id": "eu-32026d2554",
+   "published": "2026-11-17T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Decision (CFSP) 2026/2554: Amending Decision (CFSP) 2023/2682 on an assistance measure under the…",
+   "topics": [
+    "geo",
+    "strategic-supply-chains",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Council Decision (CFSP) 2026/2554 of 16 November 2026 amending Decision (CFSP) 2023/2682 on an assistance measure under the European Peace Facility to support military actors and navies of coastal states involved in maritime security operations in the Gulf of…",
+   "body": "Council Decision (CFSP) 2026/2554 of 16 November 2026 amending Decision (CFSP) 2023/2682 on an assistance measure under the European Peace Facility to support military actors and navies of coastal states involved in maritime security operations in the Gulf of Guinea.\n\nPublished in the Official Journal of the European Union, L series, on Nov 17, 2026. CELEX number 32026D2554. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Decision (CFSP) 2026/2554",
+    "Published Nov 17, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-17",
+     "title": "Council Decision (CFSP) 2026/2554 of 16 November 2026 amending Decision (CFSP) 2023/2682 on an assistance measure under the European Peace Facility to support military actors and navies of coastal states involved in maritime security operations in the Gulf of Guinea",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602554",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Decision (CFSP) 2026/2554: Amending Decision (CFSP) 2023/2682 on an assistance measure under the…",
+   "soWhat": {
+    "changed": "The EU published Council Decision (CFSP) 2026/2554 in the Official Journal on Nov 17, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Defence suppliers and maritime security partners should check whether scope, funding or beneficiaries of the EPF measure changed.",
+    "n_sources": 1,
+    "signal_title": "EU adjusts Peace Facility support for coastal maritime security",
+    "crux": "The EU Council amended Decision (CFSP) 2023/2682, its European Peace Facility assistance measure for military actors and navies of coastal states running maritime security operations.",
+    "importance": "Low",
+    "impact_score": 34,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "6ad7c0a0a69d84a91a2bf0be",
+     "eu-32026r2382",
+     "eu-32026r2381"
+    ],
+    "watch_next": "The amended terms in the act's articles on EUR-Lex and any follow-on EPF assistance measures",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602554",
+    "published_date": "2026-11-17",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602554",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "fr-2026-23255",
    "published": "2026-11-16T12:00:00Z",
@@ -90,92 +174,6 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23255/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "eu-32026r2574",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
-   "body": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2574. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Implementing Regulation (EU) 2026/2574",
-    "Published Nov 16, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
-   "soWhat": {
-    "changed": "The EU published Council Implementing Regulation (EU) 2026/2574 in the Official Journal on Nov 16, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/ai-supercomputer.webp",
-    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
-    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
-    "key": "ai-supercomputer"
-   },
-   "signal": {
-    "so_what": "Firms with EU exposure, including resource and trading counterparties, should rescreen partners against the updated listings.",
-    "n_sources": 1,
-    "signal_title": "EU adjusts Ukraine-related sanctions listings again",
-    "crux": "The Council adopted Implementing Regulation 2026/2574 on Nov 16, 2026, implementing Regulation 269/2014, the EU's asset freeze regime over actions threatening Ukraine's territorial integrity.",
-    "importance": "Medium",
-    "impact_score": 45,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Financial services",
-     "Trade and logistics",
-     "Mining"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Russia",
-     "Ukraine"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "fr-2026-23196",
-     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
-    ],
-    "watch_next": "The annex of the act on EUR-Lex for which persons and entities were added, amended or removed",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
-    "published_date": "2026-11-16",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
      "kind": "official journal"
     },
     "reported_by": null
@@ -599,6 +597,92 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602569",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2574",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+   "body": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2574. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2574",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2574 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/ai-supercomputer.webp",
+    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
+    "key": "ai-supercomputer"
+   },
+   "signal": {
+    "so_what": "Firms with EU exposure, including resource and trading counterparties, should rescreen partners against the updated listings.",
+    "n_sources": 1,
+    "signal_title": "EU adjusts Ukraine-related sanctions listings again",
+    "crux": "The Council adopted Implementing Regulation 2026/2574 on Nov 16, 2026, implementing Regulation 269/2014, the EU's asset freeze regime over actions threatening Ukraine's territorial integrity.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Financial services",
+     "Trade and logistics",
+     "Mining"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia",
+     "Ukraine"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-23196",
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+    ],
+    "watch_next": "The annex of the act on EUR-Lex for which persons and entities were added, amended or removed",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
      "kind": "official journal"
     },
     "reported_by": null
@@ -1186,6 +1270,7 @@
     "source_name": "EUR-Lex (Official Journal of the EU)",
     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2507",
     "published_date": "2026-11-11",
+    "duplicate_of": "eu-32026d2554",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
@@ -1346,7 +1431,7 @@
     "related_signals": [
      "eu-32026r2382",
      "eu-32026r2381",
-     "eu-32026d2507"
+     "eu-32026d2554"
     ],
     "watch_next": "The amended mission terms and any change to its budget or duration on EUR-Lex",
     "confidence_score": 67,
@@ -3406,7 +3491,7 @@
     "related_signals": [
      "eu-32026r2381",
      "eu-32026d2508",
-     "eu-32026d2507"
+     "eu-32026d2554"
     ],
     "watch_next": "The defence exemptions in the act and the dates they apply from on EUR-Lex.",
     "confidence_score": 67,
@@ -3490,7 +3575,7 @@
     "related_signals": [
      "eu-32026r2382",
      "eu-32026d2508",
-     "eu-32026d2507"
+     "eu-32026d2554"
     ],
     "watch_next": "Which projects qualify and the permit deadlines set in the act on EUR-Lex.",
     "confidence_score": 67,
@@ -12449,7 +12534,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-16T18:56:53+00:00",
+  "asOf": "2026-11-17T02:59:04+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -12534,19 +12619,19 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 3,
+     "cur": 2,
      "prev": 2,
-     "dir": "up",
+     "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 7,
+     "cur": 6,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 10,
+     "cur": 9,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12594,19 +12679,19 @@
    },
    "geo": {
     "7": {
-     "cur": 16,
+     "cur": 15,
      "prev": 16,
      "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 54,
+     "cur": 53,
      "prev": 9,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 63,
+     "cur": 62,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -12715,17 +12800,17 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-16T18:57:01+00:00",
+  "asOf": "2026-11-17T02:59:11+00:00",
   "counts": {
    "arctic": 15,
    "ai": 18,
    "minerals": 16,
-   "geo": 68,
+   "geo": 69,
    "ai-investment-infrastructure": 7,
    "energy-power": 10,
    "trade-sanctions": 30,
-   "strategic-supply-chains": 7,
-   "defense-technology": 10,
+   "strategic-supply-chains": 8,
+   "defense-technology": 11,
    "semiconductors": 4,
    "economic-security": 3,
    "cyber-digital-sovereignty": 3,
