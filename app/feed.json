@@ -1,8 +1,92 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-17T10:57:40+00:00",
+ "generated": "2026-11-17T19:03:36+00:00",
  "items": [
+  {
+   "id": "gc-canada-and-japan-reaffirm-commitment-to-strengthening-batter",
+   "published": "2026-11-17T15:00:00Z",
+   "kicker": "Geoeconomics · Global Affairs Canada",
+   "title": "Canada and Japan reaffirm commitment to strengthening battery supply chains",
+   "topics": [
+    "geo",
+    "strategic-supply-chains"
+   ],
+   "primary": "geo",
+   "summary": "Yesterday, Canadian and Japanese government and industry leaders met in Ottawa for the third meeting of the Canada-Japan Battery Supply Chain Dialogue and Industry Roundtable, reaffirming their shared commitment to strengthening resilient…",
+   "body": "Yesterday, Canadian and Japanese government and industry leaders met in Ottawa for the third meeting of the Canada-Japan Battery Supply Chain Dialogue and Industry Roundtable, reaffirming their shared commitment to strengthening resilient, secure and sustainable battery supply chains.\n\nGlobal Affairs Canada published this news release on Nov 17, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from Global Affairs Canada"
+   ],
+   "sources": [
+    {
+     "publisher": "Global Affairs Canada",
+     "date": "2026-11-17",
+     "title": "Canada and Japan reaffirm commitment to strengthening battery supply chains",
+     "url": "https://www.canada.ca/en/global-affairs/news/2026/11/canada-and-japan-reaffirm-commitment-to-strengthening-battery-supply-chains.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "Global Affairs Canada",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Canada and Japan reaffirm commitment to strengthening battery supply chains",
+   "soWhat": {
+    "changed": "Yesterday, Canadian and Japanese government and industry leaders met in Ottawa for the third meeting of the Canada-Japan Battery Supply Chain Dialogue and…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on regulations, orders or funding details from Global Affairs Canada"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Signals continued Japanese interest in Canadian battery materials and manufacturing, a potential opening for Canadian critical minerals and cell supply partners.",
+    "n_sources": 1,
+    "signal_title": "Canada and Japan keep battery supply chain cooperation on track",
+    "crux": "Government and industry leaders from both countries held the third Canada-Japan Battery Supply Chain Dialogue and Industry Roundtable in Ottawa and reaffirmed their commitment to resilient battery supply chains.",
+    "importance": "Medium",
+    "impact_score": 44,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Batteries",
+     "Critical minerals",
+     "Electric vehicles"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Japan"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ace51427d6da06c8ebdbdcd",
+     "nrcan-canada-invests-to-unlock-lithium-potential-and-improve-conne",
+     "nrcan-canada-invests-in-critical-mineral-mining-in-the-yukon"
+    ],
+    "watch_next": "Any specific investment, offtake or project announcements from Global Affairs Canada or Japanese partners following the dialogue",
+    "confidence_score": 67,
+    "source_name": "Global Affairs Canada",
+    "source_url": "https://www.canada.ca/en/global-affairs/news/2026/11/canada-and-japan-reaffirm-commitment-to-strengthening-battery-supply-chains.html",
+    "published_date": "2026-11-17",
+    "key_number": null,
+    "primary_source": {
+     "name": "Global Affairs Canada",
+     "url": "https://www.canada.ca/en/global-affairs/news/2026/11/canada-and-japan-reaffirm-commitment-to-strengthening-battery-supply-chains.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "eu-32026d2554",
    "published": "2026-11-17T09:00:00Z",
@@ -83,6 +167,100 @@
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2554",
      "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "nrcan-canada-invests-in-critical-mineral-mining-in-the-yukon",
+   "published": "2026-11-16T15:00:00Z",
+   "kicker": "Critical Minerals · NRCan",
+   "title": "Canada invests in critical mineral mining in the Yukon",
+   "topics": [
+    "arctic",
+    "minerals",
+    "geo"
+   ],
+   "primary": "minerals",
+   "summary": "On Nov 16, 2026, Parliamentary Secretary to the Minister of Northern and Arctic Affairs and Member of Parliament for Yukon, Brendan Hanley, announced an investment of up to $14 million for Fireweed Metals Corp. This funding will support engineering…",
+   "body": "On Nov 16, 2026, Parliamentary Secretary to the Minister of Northern and Arctic Affairs and Member of Parliament for Yukon, Brendan Hanley, announced an investment of up to $14 million for Fireweed Metals Corp. This funding will support engineering, validation and technical work to advance the Mactung Mine as it moves toward a Final Investment Decision, a key step toward the production of domestic tungsten concentrates for the North American industrial base.\n\nNatural Resources Canada published this news release on Nov 16, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the federal department responsible for mining, energy and the critical minerals strategy. Read the release for the project, the program and the conditions attached to the money.",
+   "stat": {
+    "value": "$14 million",
+    "label": "federal investment announced by Natural Resources Canada (Nov 16, 2026)"
+   },
+   "keyPoints": [
+    "News release from Natural Resources Canada",
+    "up to $14 million announced"
+   ],
+   "sources": [
+    {
+     "publisher": "Natural Resources Canada",
+     "date": "2026-11-16",
+     "title": "Canada invests in critical mineral mining in the Yukon",
+     "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-in-critical-mineral-mining-in-the-yukon.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Natural Resources Canada",
+   "primarySource": {
+    "name": "NRCan",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Canada invests in critical mineral mining in the Yukon",
+   "soWhat": {
+    "changed": "On Nov 16, 2026, Parliamentary Secretary to the Minister of Northern and Arctic Affairs and Member of Parliament for Yukon, Brendan Hanley…",
+    "who": "Miners, processors, offtakers and investors in critical-mineral supply chains",
+    "watch": "Project milestones and any follow-on funding announced by NRCan"
+   },
+   "photo": {
+    "src": "img/photos/minerals-openpit.webp",
+    "credit": "Photo: Doc Searls from Santa Barbara, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_mine_dumps,_2004.jpg",
+    "key": "minerals-openpit"
+   },
+   "signal": {
+    "so_what": "Small sum, but a signal Ottawa will fund access to northern battery-metal deposits.",
+    "n_sources": 1,
+    "signal_title": "Northern Quebec lithium gets early federal backing",
+    "crux": "NRCan put over $1.2M into lithium potential and connectivity in northern Quebec.",
+    "importance": "Low",
+    "impact_score": 34,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Mining",
+     "Batteries",
+     "Infrastructure"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Quebec"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "nrcan-canada-invests-to-unlock-lithium-potential-and-improve-conne",
+     "6ac8edbd6722b5b4db1fbb66",
+     "nrcan-thompson-mine-complex-transaction-closes-helping-secure-a-st"
+    ],
+    "watch_next": "Project milestones and any follow-on funding announced by NRCan",
+    "confidence_score": 72,
+    "source_name": "Natural Resources Canada",
+    "source_url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-in-critical-mineral-mining-in-the-yukon.html",
+    "published_date": "2026-11-16",
+    "key_number": {
+     "value": "$1.2M",
+     "unit": "",
+     "label": "into lithium potential and connectivity in",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "Natural Resources Canada",
+     "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-in-critical-mineral-mining-in-the-yukon.html",
+     "kind": "government or agency"
     },
     "reported_by": null
    }
@@ -763,6 +941,7 @@
     "source_name": "Natural Resources Canada",
     "source_url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-diversify-trade-create-jobs-and-lower-global-emissions-by-expanding-low-carbon-lng-exports.html",
     "published_date": "2026-11-13",
+    "duplicate_of": "nrcan-canada-invests-in-critical-mineral-mining-in-the-yukon",
     "key_number": {
      "value": "$1.2M",
      "unit": "",
@@ -4217,7 +4396,7 @@
     "risk_level": "Low",
     "opportunity_level": "Medium",
     "related_signals": [
-     "nrcan-canada-invests-to-diversify-trade-create-jobs-and-lower-glob",
+     "nrcan-canada-invests-in-critical-mineral-mining-in-the-yukon",
      "6ac8edbd6722b5b4db1fbb66",
      "6ae0fb95987facb4c57e55ac"
     ],
@@ -5983,11 +6162,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.00M km²",
+    "value": "9.02M km²",
     "unit": "daily extent",
-    "change": "-1.61M km² vs the 1981–2010 average for the date",
+    "change": "-1.65M km² vs the 1981–2010 average for the date",
     "series": [
-     6.717,
      6.777,
      6.792,
      6.817,
@@ -6016,14 +6194,11 @@
      8.852,
      8.951,
      8.912,
-     8.999
+     8.999,
+     9.019
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-18",
-      5.414
-     ],
      [
       "2026-08-19",
       5.387
@@ -6379,11 +6554,15 @@
      [
       "2026-11-15",
       8.999
+     ],
+     [
+      "2026-11-16",
+      9.019
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-15",
-    "asOfLabel": "Nov 15, 2026",
+    "asOf": "2026-11-16",
+    "asOfLabel": "Nov 16, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -7877,11 +8056,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.00M km²",
+    "value": "9.02M km²",
     "unit": "daily extent",
-    "change": "-1.61M km² vs the 1981–2010 average for the date",
+    "change": "-1.65M km² vs the 1981–2010 average for the date",
     "series": [
-     6.717,
      6.777,
      6.792,
      6.817,
@@ -7910,14 +8088,11 @@
      8.852,
      8.951,
      8.912,
-     8.999
+     8.999,
+     9.019
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-18",
-      5.414
-     ],
      [
       "2026-08-19",
       5.387
@@ -8273,11 +8448,15 @@
      [
       "2026-11-15",
       8.999
+     ],
+     [
+      "2026-11-16",
+      9.019
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-15",
-    "asOfLabel": "Nov 15, 2026",
+    "asOf": "2026-11-16",
+    "asOfLabel": "Nov 16, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -8513,9 +8692,9 @@
     "risk_level": "Low",
     "opportunity_level": "Medium",
     "related_signals": [
+     "nrcan-canada-invests-in-critical-mineral-mining-in-the-yukon",
      "nrcan-canada-invests-to-unlock-lithium-potential-and-improve-conne",
-     "6ae0fb95987facb4c57e55ac",
-     "6ad7c0a0a69d84a91a2bf0c2"
+     "6ae0fb95987facb4c57e55ac"
     ],
     "watch_next": "Project milestones and any follow-on funding announced by NRCan",
     "confidence_score": 67,
@@ -8636,9 +8815,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Medium",
     "related_signals": [
+     "nrcan-canada-invests-in-critical-mineral-mining-in-the-yukon",
      "6ac8edbd6722b5b4db1fbb66",
-     "nrcan-canada-invests-to-unlock-lithium-potential-and-improve-conne",
-     "6ace51427d6da06c8ebdbdd1"
+     "nrcan-canada-invests-to-unlock-lithium-potential-and-improve-conne"
     ],
     "watch_next": "Grays Bay preconstruction milestones and progress on Nunavut 3000's 3,000-home target for 2030.",
     "confidence_score": 95,
@@ -8911,11 +9090,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.00M km²",
+    "value": "9.02M km²",
     "unit": "daily extent",
-    "change": "-1.61M km² vs the 1981–2010 average for the date",
+    "change": "-1.65M km² vs the 1981–2010 average for the date",
     "series": [
-     6.717,
      6.777,
      6.792,
      6.817,
@@ -8944,14 +9122,11 @@
      8.852,
      8.951,
      8.912,
-     8.999
+     8.999,
+     9.019
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-18",
-      5.414
-     ],
      [
       "2026-08-19",
       5.387
@@ -9307,11 +9482,15 @@
      [
       "2026-11-15",
       8.999
+     ],
+     [
+      "2026-11-16",
+      9.019
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-15",
-    "asOfLabel": "Nov 15, 2026",
+    "asOf": "2026-11-16",
+    "asOfLabel": "Nov 16, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -9661,11 +9840,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.00M km²",
+    "value": "9.02M km²",
     "unit": "daily extent",
-    "change": "-1.61M km² vs the 1981–2010 average for the date",
+    "change": "-1.65M km² vs the 1981–2010 average for the date",
     "series": [
-     6.717,
      6.777,
      6.792,
      6.817,
@@ -9694,14 +9872,11 @@
      8.852,
      8.951,
      8.912,
-     8.999
+     8.999,
+     9.019
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-18",
-      5.414
-     ],
      [
       "2026-08-19",
       5.387
@@ -10057,11 +10232,15 @@
      [
       "2026-11-15",
       8.999
+     ],
+     [
+      "2026-11-16",
+      9.019
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-15",
-    "asOfLabel": "Nov 15, 2026",
+    "asOf": "2026-11-16",
+    "asOfLabel": "Nov 16, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -10307,11 +10486,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.00M km²",
+    "value": "9.02M km²",
     "unit": "daily extent",
-    "change": "-1.61M km² vs the 1981–2010 average for the date",
+    "change": "-1.65M km² vs the 1981–2010 average for the date",
     "series": [
-     6.717,
      6.777,
      6.792,
      6.817,
@@ -10340,14 +10518,11 @@
      8.852,
      8.951,
      8.912,
-     8.999
+     8.999,
+     9.019
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-18",
-      5.414
-     ],
      [
       "2026-08-19",
       5.387
@@ -10703,11 +10878,15 @@
      [
       "2026-11-15",
       8.999
+     ],
+     [
+      "2026-11-16",
+      9.019
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-15",
-    "asOfLabel": "Nov 15, 2026",
+    "asOf": "2026-11-16",
+    "asOfLabel": "Nov 16, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -11303,9 +11482,9 @@
     "risk_level": "Medium",
     "opportunity_level": "High",
     "related_signals": [
+     "nrcan-canada-invests-in-critical-mineral-mining-in-the-yukon",
      "6ae0fb95987facb4c57e55ac",
-     "fr-2026-22052",
-     "6ad7c0a0a69d84a91a2bf0be"
+     "fr-2026-22052"
     ],
     "watch_next": "The second reading in Inatsisartut (no date set) and approval in Denmark.",
     "confidence_score": 80,
@@ -11887,11 +12066,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "9.00M km²",
+   "value": "9.02M km²",
    "unit": "daily extent",
-   "change": "-1.61M km² vs the 1981–2010 average for the date",
+   "change": "-1.65M km² vs the 1981–2010 average for the date",
    "series": [
-    6.717,
     6.777,
     6.792,
     6.817,
@@ -11920,19 +12098,16 @@
     8.852,
     8.951,
     8.912,
-    8.999
+    8.999,
+    9.019
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-15",
-   "asOfLabel": "Nov 15, 2026",
+   "asOf": "2026-11-16",
+   "asOfLabel": "Nov 16, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-18",
-     5.414
-    ],
     [
      "2026-08-19",
      5.387
@@ -12288,6 +12463,10 @@
     [
      "2026-11-15",
      8.999
+    ],
+    [
+     "2026-11-16",
+     9.019
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -12534,7 +12713,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-17T10:57:35+00:00",
+  "asOf": "2026-11-17T19:03:28+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -12579,19 +12758,19 @@
    },
    "arctic": {
     "7": {
-     "cur": 0,
+     "cur": 1,
      "prev": 1,
-     "dir": "down",
+     "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 3,
+     "cur": 4,
      "prev": 12,
      "dir": "down",
      "reliable": false
     },
     "90": {
-     "cur": 15,
+     "cur": 16,
      "prev": 1,
      "dir": "up",
      "reliable": false
@@ -12659,19 +12838,19 @@
    },
    "energy-power": {
     "7": {
-     "cur": 1,
-     "prev": 3,
+     "cur": 0,
+     "prev": 1,
      "dir": "down",
      "reliable": true
     },
     "30": {
-     "cur": 9,
+     "cur": 8,
      "prev": 0,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 9,
+     "cur": 8,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12679,19 +12858,19 @@
    },
    "geo": {
     "7": {
-     "cur": 16,
-     "prev": 14,
+     "cur": 13,
+     "prev": 16,
      "dir": "steady",
      "reliable": true
     },
     "30": {
-     "cur": 54,
+     "cur": 55,
      "prev": 9,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 63,
+     "cur": 64,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -12699,19 +12878,19 @@
    },
    "minerals": {
     "7": {
-     "cur": 0,
+     "cur": 1,
      "prev": 0,
-     "dir": "steady",
+     "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 10,
+     "cur": 11,
      "prev": 5,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 15,
+     "cur": 16,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12739,8 +12918,8 @@
    },
    "space-satellites": {
     "7": {
-     "cur": 1,
-     "prev": 3,
+     "cur": 0,
+     "prev": 4,
      "dir": "down",
      "reliable": true
     },
@@ -12759,19 +12938,19 @@
    },
    "strategic-supply-chains": {
     "7": {
-     "cur": 1,
+     "cur": 2,
      "prev": 1,
-     "dir": "steady",
+     "dir": "up",
      "reliable": true
     },
     "30": {
-     "cur": 7,
+     "cur": 8,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 8,
+     "cur": 9,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12779,9 +12958,9 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 11,
-     "prev": 6,
-     "dir": "up",
+     "cur": 8,
+     "prev": 9,
+     "dir": "steady",
      "reliable": true
     },
     "30": {
@@ -12800,16 +12979,16 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-17T10:57:40+00:00",
+  "asOf": "2026-11-17T19:03:36+00:00",
   "counts": {
-   "arctic": 15,
+   "arctic": 16,
    "ai": 18,
-   "minerals": 16,
-   "geo": 69,
+   "minerals": 17,
+   "geo": 71,
    "ai-investment-infrastructure": 7,
    "energy-power": 10,
    "trade-sanctions": 30,
-   "strategic-supply-chains": 8,
+   "strategic-supply-chains": 9,
    "defense-technology": 11,
    "semiconductors": 4,
    "economic-security": 3,
