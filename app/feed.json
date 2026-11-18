@@ -1,8 +1,103 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-18T11:23:59+00:00",
+ "generated": "2026-11-18T12:22:12+00:00",
  "items": [
+  {
+   "id": "ecpress-ip-26-2499",
+   "published": "2026-11-18T15:00:00Z",
+   "kicker": "Geoeconomics · European Commission",
+   "title": "Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise on the entire sanctions lifecycle, from policy design to implementation, enforcement…",
+   "body": "European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise on the entire sanctions lifecycle, from policy design to implementation, enforcement, and anti-circumvention, including outreach to and engagement with third countries.\n\nEuropean Commission published this on Nov 18, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from European Commission",
+    "Published Nov 18, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "European Commission",
+     "date": "2026-11-18",
+     "title": "Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
+     "kind": "official"
+    },
+    {
+     "publisher": "European Commission",
+     "date": "2026-11-18",
+     "title": "Daily News 18 / 11 / 2026",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2497",
+     "note": "Official document (merged duplicate ecpress-mex-26-2497)",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "European Commission",
+   "primarySource": {
+    "name": "European Commission",
+    "kind": "European Commission press release",
+    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
+   },
+   "deadlines": [],
+   "titleMarkup": "Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy",
+   "soWhat": {
+    "changed": "European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from European Commission"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Firms exposed to Russia, Belarus, Iran and North Korea sanctions should expect faster EU compliance guidance and tougher pressure on circumvention through third countries, trade routes and financial channels.",
+    "n_sources": 2,
+    "signal_title": "EU creates a Sanctions Office and names Lars Danielsson as sanctions envoy",
+    "crux": "The Commission created an EU Sanctions Office in its Secretariat-General covering the full sanctions lifecycle, from design to enforcement and anti-circumvention, and appointed Swedish diplomat Lars Danielsson as Sanctions Envoy from Feb 6, 2027; the changes take effect Jan 16, 2027.",
+    "importance": "Medium",
+    "impact_score": 56,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Compliance",
+     "Trade",
+     "Finance",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia",
+     "Global"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
+     "fr-2026-23196"
+    ],
+    "watch_next": "Office setup on Jan 16, 2027 and the first anti-circumvention outreach missions under the new envoy",
+    "confidence_score": 79,
+    "source_name": "European Commission",
+    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
+    "published_date": "2026-11-18",
+    "key_number": null,
+    "primary_source": {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "fr-2026-23450",
    "published": "2026-11-18T12:00:00Z",
@@ -1203,7 +1298,7 @@
     "related_signals": [
      "fr-2026-23196",
      "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+     "ecpress-ip-26-2499"
     ],
     "watch_next": "The annex of the act on EUR-Lex for which persons and entities were added, amended or removed",
     "confidence_score": 67,
@@ -3096,9 +3191,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
+     "ecpress-ip-26-2499",
      "fr-2026-22861",
-     "fr-2026-23196",
-     "fr-2026-23193"
+     "fr-2026-23196"
     ],
     "watch_next": "Published regulations naming the 11 entities and any allied sanctions moves",
     "confidence_score": 67,
@@ -3616,7 +3711,7 @@
     "related_signals": [
      "fr-2026-22386",
      "eu-32026r2490",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+     "ecpress-ip-26-2499"
     ],
     "watch_next": "Matching G7 listings and the updated schedule of the Special Economic Measures (Russia) Regulations.",
     "confidence_score": 67,
@@ -4809,7 +4904,7 @@
     "related_signals": [
      "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
      "fr-2026-23193",
-     "fr-2026-22868"
+     "ecpress-ip-26-2499"
     ],
     "watch_next": "Follow-up commitments from the Canada-China Joint Economic and Trade Commission.",
     "confidence_score": 67,
@@ -4974,7 +5069,7 @@
     "related_signals": [
      "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
      "fr-2026-22386",
-     "6ad0c1add38f38895d8ec75b"
+     "ecpress-ip-26-2499"
     ],
     "watch_next": "The annex changes on EUR-Lex for names added or removed.",
     "confidence_score": 67,
@@ -7734,11 +7829,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.02M km²",
+    "value": "8.99M km²",
     "unit": "daily extent",
-    "change": "-1.65M km² vs the 1981–2010 average for the date",
+    "change": "-1.74M km² vs the 1981–2010 average for the date",
     "series": [
-     6.777,
      6.792,
      6.817,
      6.954,
@@ -7767,14 +7861,11 @@
      8.951,
      8.912,
      8.999,
-     9.019
+     9.019,
+     8.995
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-19",
-      5.387
-     ],
      [
       "2026-08-20",
       5.303
@@ -8130,11 +8221,15 @@
      [
       "2026-11-16",
       9.019
+     ],
+     [
+      "2026-11-17",
+      8.995
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-16",
-    "asOfLabel": "Nov 16, 2026",
+    "asOf": "2026-11-17",
+    "asOfLabel": "Nov 17, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -9628,11 +9723,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.02M km²",
+    "value": "8.99M km²",
     "unit": "daily extent",
-    "change": "-1.65M km² vs the 1981–2010 average for the date",
+    "change": "-1.74M km² vs the 1981–2010 average for the date",
     "series": [
-     6.777,
      6.792,
      6.817,
      6.954,
@@ -9661,14 +9755,11 @@
      8.951,
      8.912,
      8.999,
-     9.019
+     9.019,
+     8.995
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-19",
-      5.387
-     ],
      [
       "2026-08-20",
       5.303
@@ -10024,11 +10115,15 @@
      [
       "2026-11-16",
       9.019
+     ],
+     [
+      "2026-11-17",
+      8.995
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-16",
-    "asOfLabel": "Nov 16, 2026",
+    "asOf": "2026-11-17",
+    "asOfLabel": "Nov 17, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -10662,11 +10757,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.02M km²",
+    "value": "8.99M km²",
     "unit": "daily extent",
-    "change": "-1.65M km² vs the 1981–2010 average for the date",
+    "change": "-1.74M km² vs the 1981–2010 average for the date",
     "series": [
-     6.777,
      6.792,
      6.817,
      6.954,
@@ -10695,14 +10789,11 @@
      8.951,
      8.912,
      8.999,
-     9.019
+     9.019,
+     8.995
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-19",
-      5.387
-     ],
      [
       "2026-08-20",
       5.303
@@ -11058,11 +11149,15 @@
      [
       "2026-11-16",
       9.019
+     ],
+     [
+      "2026-11-17",
+      8.995
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-16",
-    "asOfLabel": "Nov 16, 2026",
+    "asOf": "2026-11-17",
+    "asOfLabel": "Nov 17, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -11412,11 +11507,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.02M km²",
+    "value": "8.99M km²",
     "unit": "daily extent",
-    "change": "-1.65M km² vs the 1981–2010 average for the date",
+    "change": "-1.74M km² vs the 1981–2010 average for the date",
     "series": [
-     6.777,
      6.792,
      6.817,
      6.954,
@@ -11445,14 +11539,11 @@
      8.951,
      8.912,
      8.999,
-     9.019
+     9.019,
+     8.995
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-19",
-      5.387
-     ],
      [
       "2026-08-20",
       5.303
@@ -11808,11 +11899,15 @@
      [
       "2026-11-16",
       9.019
+     ],
+     [
+      "2026-11-17",
+      8.995
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-16",
-    "asOfLabel": "Nov 16, 2026",
+    "asOf": "2026-11-17",
+    "asOfLabel": "Nov 17, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -12058,11 +12153,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.02M km²",
+    "value": "8.99M km²",
     "unit": "daily extent",
-    "change": "-1.65M km² vs the 1981–2010 average for the date",
+    "change": "-1.74M km² vs the 1981–2010 average for the date",
     "series": [
-     6.777,
      6.792,
      6.817,
      6.954,
@@ -12091,14 +12185,11 @@
      8.951,
      8.912,
      8.999,
-     9.019
+     9.019,
+     8.995
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-19",
-      5.387
-     ],
      [
       "2026-08-20",
       5.303
@@ -12454,11 +12545,15 @@
      [
       "2026-11-16",
       9.019
+     ],
+     [
+      "2026-11-17",
+      8.995
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-16",
-    "asOfLabel": "Nov 16, 2026",
+    "asOf": "2026-11-17",
+    "asOfLabel": "Nov 17, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -13638,11 +13733,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "9.02M km²",
+   "value": "8.99M km²",
    "unit": "daily extent",
-   "change": "-1.65M km² vs the 1981–2010 average for the date",
+   "change": "-1.74M km² vs the 1981–2010 average for the date",
    "series": [
-    6.777,
     6.792,
     6.817,
     6.954,
@@ -13671,19 +13765,16 @@
     8.951,
     8.912,
     8.999,
-    9.019
+    9.019,
+    8.995
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-16",
-   "asOfLabel": "Nov 16, 2026",
+   "asOf": "2026-11-17",
+   "asOfLabel": "Nov 17, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-19",
-     5.387
-    ],
     [
      "2026-08-20",
      5.303
@@ -14039,6 +14130,10 @@
     [
      "2026-11-16",
      9.019
+    ],
+    [
+     "2026-11-17",
+     8.995
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -14285,7 +14380,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-18T11:23:25+00:00",
+  "asOf": "2026-11-18T12:21:54+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -14336,8 +14431,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 4,
-     "prev": 12,
+     "cur": 3,
+     "prev": 13,
      "dir": "down",
      "reliable": false
     },
@@ -14370,19 +14465,19 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 9,
+     "cur": 10,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 14,
+     "cur": 15,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 17,
+     "cur": 18,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -14430,19 +14525,19 @@
    },
    "geo": {
     "7": {
-     "cur": 25,
+     "cur": 26,
      "prev": 18,
      "dir": "up",
      "reliable": false
     },
     "30": {
      "cur": 70,
-     "prev": 9,
+     "prev": 10,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 79,
+     "cur": 80,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -14551,15 +14646,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-18T11:23:59+00:00",
+  "asOf": "2026-11-18T12:22:12+00:00",
   "counts": {
    "arctic": 16,
    "ai": 20,
    "minerals": 18,
-   "geo": 87,
+   "geo": 88,
    "ai-investment-infrastructure": 7,
    "energy-power": 14,
-   "trade-sanctions": 31,
+   "trade-sanctions": 32,
    "strategic-supply-chains": 10,
    "defense-technology": 19,
    "semiconductors": 4,
