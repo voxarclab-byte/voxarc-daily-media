@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-18T22:19:53+00:00",
+ "generated": "2026-11-18T23:19:47+00:00",
  "items": [
   {
    "id": "ecpress-ip-26-2499",
@@ -14554,7 +14554,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-18T22:19:48+00:00",
+  "asOf": "2026-11-18T23:19:42+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -14820,7 +14820,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-18T22:19:53+00:00",
+  "asOf": "2026-11-18T23:19:47+00:00",
   "counts": {
    "arctic": 16,
    "ai": 21,
