@@ -1,8 +1,97 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-18T02:55:46+00:00",
+ "generated": "2026-11-18T04:11:57+00:00",
  "items": [
+  {
+   "id": "doe-energy-department-announces-28-billion-loan-strengthen-grid",
+   "published": "2026-11-17T15:00:00Z",
+   "kicker": "Geoeconomics · US Department of Energy",
+   "title": "Energy Department Announces $2.8 Billion Loan to Strengthen Grid Reliability and Help Lower Costs in Wyoming",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $2.8 billion for Grid United’s Wyoming Intertie project to lower electricity costs and strengthen grid reliability in Wyoming",
+   "body": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $2.8 billion for Grid United’s Wyoming Intertie project to lower electricity costs and strengthen grid reliability in Wyoming\n\nUS Department of Energy published this on Nov 17, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Department of Energy. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from US Department of Energy",
+    "Published Nov 17, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "US Department of Energy",
+     "date": "2026-11-17",
+     "title": "Energy Department Announces $2.8 Billion Loan to Strengthen Grid Reliability and Help Lower Costs in Wyoming",
+     "url": "https://www.energy.gov/articles/energy-department-announces-28-billion-loan-strengthen-grid-reliability-and-help-lower",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "US Department of Energy",
+   "primarySource": {
+    "name": "US Department of Energy",
+    "kind": "Department of Energy news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Energy Department Announces $2.8 Billion Loan to Strengthen Grid Reliability and Help Lower Costs in Wyoming",
+   "soWhat": {
+    "changed": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $2.8 billion for Grid United’s…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from US Department of Energy"
+   },
+   "photo": {
+    "src": "img/photos/grid-power.webp",
+    "credit": "Photo: Foto3821, CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Electric_transmission_power_tower2.jpg",
+    "key": "grid-power"
+   },
+   "signal": {
+    "so_what": "Grid developers and utilities in the Western and SPP markets should treat this as a financing signal for interregional transmission, not a closed loan, until definitive documents are signed.",
+    "n_sources": 1,
+    "signal_title": "DOE offers $2.8 billion loan for Wyoming Intertie grid link",
+    "crux": "DOE's Office of Energy Dominance Financing announced a conditional loan commitment of up to $2.8 billion for Grid United's Wyoming Intertie project, which is intended to add about 1.8 GW of transfer capacity between the SPP and WECC regions. Funding still depends on technical, legal, environmental and financial conditions being met.",
+    "importance": "Medium",
+    "impact_score": 54,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Utilities",
+     "Investment",
+     "Energy"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "eia-68445",
+     "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
+     "govuk-prime-minister-hails-major-investment-in-uk-renewables"
+    ],
+    "watch_next": "Whether Grid United satisfies DOE's conditions and the loan is funded",
+    "confidence_score": 67,
+    "source_name": "US Department of Energy",
+    "source_url": "https://www.energy.gov/articles/energy-department-announces-28-billion-loan-strengthen-grid-reliability-and-help-lower",
+    "published_date": "2026-11-17",
+    "key_number": {
+     "value": "$2.8 billion",
+     "unit": "",
+     "label": "for Grid United's Wyoming Intertie project",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "US Department of Energy",
+     "url": "https://www.energy.gov/articles/energy-department-announces-28-billion-loan-strengthen-grid-reliability-and-help-lower",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "gc-minister-mcguinty-announces-new-military-aid-to-ukraine-at-u",
    "published": "2026-11-17T15:00:00Z",
@@ -68,9 +157,9 @@
     "risk_level": "Low",
     "opportunity_level": "Low",
     "related_signals": [
-     "eu-32026d2508",
-     "6ace51427d6da06c8ebdbdd1",
-     "fr-2026-22052"
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d"
     ],
     "watch_next": "Details of the aid package and any follow-on contracts from National Defence",
     "confidence_score": 67,
@@ -171,6 +260,351 @@
    }
   },
   {
+   "id": "ecpress-ac-26-2477",
+   "published": "2026-11-17T15:00:00Z",
+   "kicker": "AI Policy · European Commission",
+   "title": "EU Leaders discuss AI and Europe's role in Ukraine peace negotiations during informal summit in Dublin",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "European Commission News Brussels, 17 Nov 2026 President of the European Commission, Ursula von der Leyen, was in Dublin on 12 and 13 November to attend the informal EUCO hosted by the Irish Presidency. Lea...",
+   "body": "European Commission News Brussels, 17 Nov 2026 President of the European Commission, Ursula von der Leyen, was in Dublin on 12 and 13 November to attend the informal EUCO hosted by the Irish Presidency. Lea...\n\nEuropean Commission published this on Nov 17, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from European Commission",
+    "Published Nov 17, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "European Commission",
+     "date": "2026-11-17",
+     "title": "EU Leaders discuss AI and Europe's role in Ukraine peace negotiations during informal summit in Dublin",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2477",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "European Commission",
+   "primarySource": {
+    "name": "European Commission",
+    "kind": "European Commission press release",
+    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
+   },
+   "deadlines": [],
+   "titleMarkup": "EU Leaders discuss AI and Europe's role in Ukraine peace negotiations during informal summit in Dublin",
+   "soWhat": {
+    "changed": "European Commission News Brussels, 17 Nov 2026 President of the European Commission, Ursula von der Leyen…",
+    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
+    "watch": "Follow-on measures or implementation details from European Commission"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "AI firms and governments should watch whether the informal discussion hardens into funding, standards or Council conclusions at the next formal European Council.",
+    "n_sources": 1,
+    "signal_title": "EU leaders discuss industrial AI and a role in Ukraine peace talks",
+    "crux": "Commission President Ursula von der Leyen attended the informal European Council in Dublin on 12 and 13 November 2026, hosted by the Irish Presidency, where EU leaders discussed artificial intelligence and Europe's role in Ukraine peace negotiations.",
+    "importance": "Low",
+    "impact_score": 38,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "AI",
+     "Government"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026r2487",
+     "6ace51427d6da06c8ebdbde8",
+     "6ad66e84a07c63635f9885eb"
+    ],
+    "watch_next": "Formal European Council conclusions or follow-up AI and Ukraine measures from the Commission and Council",
+    "confidence_score": 67,
+    "source_name": "European Commission",
+    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2477",
+    "published_date": "2026-11-17",
+    "key_number": null,
+    "primary_source": {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2477",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "govuk-strengthening-secure-and-resilient-economic-connectivity-uk",
+   "published": "2026-11-17T15:00:00Z",
+   "kicker": "Geoeconomics · UK Foreign, Commonwealth and Development Office",
+   "title": "Strengthening secure and resilient economic connectivity: UK statement to the OSCE",
+   "topics": [
+    "geo",
+    "strategic-supply-chains"
+   ],
+   "primary": "geo",
+   "summary": "The UK reaffirms its support for practical OSCE co-operation on secure and resilient economic connectivity, calling for open markets, free trade, good governance and diversified supply chains.",
+   "body": "The UK reaffirms its support for practical OSCE co-operation on secure and resilient economic connectivity, calling for open markets, free trade, good governance and diversified supply chains.\n\nUK Foreign, Commonwealth and Development Office published this on Nov 17, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Foreign, Commonwealth and Development Office. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Foreign, Commonwealth and Development Office",
+    "Published Nov 17, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Foreign, Commonwealth and Development Office",
+     "date": "2026-11-17",
+     "title": "Strengthening secure and resilient economic connectivity: UK statement to the OSCE",
+     "url": "https://www.gov.uk/government/speeches/strengthening-secure-and-resilient-economic-connectivity-uk-statement-to-the-osce",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Foreign, Commonwealth and Development Office",
+   "primarySource": {
+    "name": "UK Foreign, Commonwealth and Development Office",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Strengthening secure and resilient economic connectivity: UK statement to the OSCE",
+   "soWhat": {
+    "changed": "The UK reaffirms its support for practical OSCE co-operation on secure and resilient economic connectivity, calling for open markets, free trade…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from UK Foreign, Commonwealth and Development Office"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "This is a diplomatic stance, not a new UK trade or spending measure; firms should not treat it as a change in UK law or funding.",
+    "n_sources": 1,
+    "signal_title": "UK presses OSCE to focus on resilient economic connectivity",
+    "crux": "In a 17 November 2026 statement to the OSCE in Vienna, the UK reaffirmed support for practical OSCE cooperation on secure economic connectivity, citing open markets, free trade, good governance and diversified supply chains, and pointed to Russia's war against Ukraine as a source of trade, energy and supply-chain risk.",
+    "importance": "Low",
+    "impact_score": 28,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Trade",
+     "Supply chains"
+    ],
+    "affected_regions": [
+     "United Kingdom",
+     "Europe",
+     "Ukraine"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-22868",
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk"
+    ],
+    "watch_next": "Any practical OSCE work programmes or UK follow-on trade and connectivity initiatives",
+    "confidence_score": 67,
+    "source_name": "UK Foreign, Commonwealth and Development Office",
+    "source_url": "https://www.gov.uk/government/speeches/strengthening-secure-and-resilient-economic-connectivity-uk-statement-to-the-osce",
+    "published_date": "2026-11-17",
+    "key_number": null,
+    "primary_source": {
+     "name": "UK Foreign, Commonwealth and Development Office",
+     "url": "https://www.gov.uk/government/speeches/strengthening-secure-and-resilient-economic-connectivity-uk-statement-to-the-osce",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "govuk-army-buys-hundreds-more-drones-and-electronic-warfare-kit-in",
+   "published": "2026-11-17T15:00:00Z",
+   "kicker": "Geoeconomics · UK Ministry of Defence",
+   "title": "Army buys hundreds more drones and electronic warfare kit in £25 million boost to strengthen Britain’s…",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Britain’s Armed Forces will be better equipped to counter the rapidly changing threats facing the UK and its allies, following a £25 million boost in drones and cutting-edge battlefield technology.",
+   "body": "Britain’s Armed Forces will be better equipped to counter the rapidly changing threats facing the UK and its allies, following a £25 million boost in drones and cutting-edge battlefield technology.\n\nUK Ministry of Defence published this on Nov 17, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Ministry of Defence",
+    "Published Nov 17, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Ministry of Defence",
+     "date": "2026-11-17",
+     "title": "Army buys hundreds more drones and electronic warfare kit in £25 million boost to strengthen Britain’s defences on NATO’s eastern flank",
+     "url": "https://www.gov.uk/government/news/army-buys-hundreds-more-drones-and-electronic-warfare-kit-in-25-million-boost-to-strengthen-britains-defences-on-natos-eastern-flank",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Ministry of Defence",
+   "primarySource": {
+    "name": "UK Ministry of Defence",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Army buys hundreds more drones and electronic warfare kit in £25 million boost to strengthen Britain’s…",
+   "soWhat": {
+    "changed": "Britain’s Armed Forces will be better equipped to counter the rapidly changing threats facing the UK and its allies…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "UK and allied drone, electronic warfare and counter-drone suppliers should watch the RAPSTONE procurement path, as NATO eastern flank posture becomes more drone-centric.",
+    "n_sources": 1,
+    "signal_title": "UK Army adds drones and electronic warfare kit for Estonia",
+    "crux": "The UK Ministry of Defence announced a £25 million purchase of additional one-way attack and first-person view drones, a doubling of ISR drones, electronic warfare and counter-drone kit, and related protection gear for British forces on NATO's eastern flank in Estonia. The new capabilities are planned to reach 4th Light Brigade by April 2027, funded from a £50 million Project RAPSTONE allocation.",
+    "importance": "Medium",
+    "impact_score": 44,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Defence"
+    ],
+    "affected_regions": [
+     "United Kingdom",
+     "Estonia",
+     "Europe"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d"
+    ],
+    "watch_next": "Equipment delivery to 4th Light Brigade by April 2027 and further RAPSTONE purchases",
+    "confidence_score": 67,
+    "source_name": "UK Ministry of Defence",
+    "source_url": "https://www.gov.uk/government/news/army-buys-hundreds-more-drones-and-electronic-warfare-kit-in-25-million-boost-to-strengthen-britains-defences-on-natos-eastern-flank",
+    "published_date": "2026-11-17",
+    "key_number": {
+     "value": "£25 million",
+     "unit": "",
+     "label": "purchase of additional one-way attack and",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "UK Ministry of Defence",
+     "url": "https://www.gov.uk/government/news/army-buys-hundreds-more-drones-and-electronic-warfare-kit-in-25-million-boost-to-strengthen-britains-defences-on-natos-eastern-flank",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+   "published": "2026-11-17T15:00:00Z",
+   "kicker": "Geoeconomics · UK Ministry of Defence",
+   "title": "More than 1,000 air defence missiles for Ukraine as UK delivers £240 million in winter support",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "More than 1,000 new air defence systems proven against Russia’s jet-powered drones will be supplied by the UK to strengthen Ukraine&#39;s defences this winter.",
+   "body": "More than 1,000 new air defence systems proven against Russia’s jet-powered drones will be supplied by the UK to strengthen Ukraine&#39;s defences this winter.\n\nUK Ministry of Defence published this on Nov 17, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Ministry of Defence",
+    "Published Nov 17, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Ministry of Defence",
+     "date": "2026-11-17",
+     "title": "More than 1,000 air defence missiles for Ukraine as UK delivers £240 million in winter support",
+     "url": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Ministry of Defence",
+   "primarySource": {
+    "name": "UK Ministry of Defence",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "More than 1,000 air defence missiles for Ukraine as UK delivers £240 million in winter support",
+   "soWhat": {
+    "changed": "More than 1,000 new air defence systems proven against Russia’s jet-powered drones will be supplied by the UK to strengthen Ukraine&#39;s defences this winter.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "UK and European air defence suppliers, including Thales Belfast, gain near-term demand, while Ukraine's winter air defence depends on mid-December deliveries arriving on time.",
+    "n_sources": 1,
+    "signal_title": "UK commits £240 million winter air defence package for Ukraine",
+    "crux": "At the 37th Ukraine Defence Contact Group in Brussels on 17 November 2026, the UK announced a £240 million air defence package, including more than 1,000 short-range missiles and launchers and more than a dozen radars, with deliveries due to begin from mid-December. The package is part of £500 million announced at the Budget for Ukraine's winter air defences, and the missiles include systems from Thales Belfast.",
+    "importance": "Medium",
+    "impact_score": 54,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Defence"
+    ],
+    "affected_regions": [
+     "United Kingdom",
+     "Ukraine",
+     "Europe"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d",
+     "govuk-army-buys-hundreds-more-drones-and-electronic-warfare-kit-in"
+    ],
+    "watch_next": "Mid-December delivery start, remaining Budget support, and any follow-through on the UK-Sweden-Ukraine Gripen letter of intent",
+    "confidence_score": 67,
+    "source_name": "UK Ministry of Defence",
+    "source_url": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support",
+    "published_date": "2026-11-17",
+    "key_number": {
+     "value": "£240 million",
+     "unit": "",
+     "label": "air defence package",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "UK Ministry of Defence",
+     "url": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "eu-32026d2554",
    "published": "2026-11-17T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -237,8 +671,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "6ad7c0a0a69d84a91a2bf0be",
-     "eu-32026r2382",
-     "eu-32026r2381"
+     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d",
+     "eu-32026r2382"
     ],
     "watch_next": "The amended terms in the act's articles on EUR-Lex and any follow-on EPF assistance measures",
     "confidence_score": 67,
@@ -349,6 +783,89 @@
    }
   },
   {
+   "id": "govuk-king-opens-new-national-cyber-force-hq-boosting-north-west-g",
+   "published": "2026-11-16T15:00:00Z",
+   "kicker": "Geoeconomics · UK Ministry of Defence",
+   "title": "King opens new National Cyber Force HQ boosting North West growth",
+   "topics": [
+    "geo",
+    "cyber-digital-sovereignty"
+   ],
+   "primary": "geo",
+   "summary": "His Majesty King Charles III has officially opened Ribble House, the National Cyber Force’s (NCF) new headquarters in Samlesbury, Lancashire.",
+   "body": "His Majesty King Charles III has officially opened Ribble House, the National Cyber Force’s (NCF) new headquarters in Samlesbury, Lancashire.\n\nUK Ministry of Defence published this on Nov 16, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Ministry of Defence",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Ministry of Defence",
+     "date": "2026-11-16",
+     "title": "King opens new National Cyber Force HQ boosting North West growth",
+     "url": "https://www.gov.uk/government/news/king-opens-new-national-cyber-force-hq-boosting-north-west-growth",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Ministry of Defence",
+   "primarySource": {
+    "name": "UK Ministry of Defence",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "King opens new National Cyber Force HQ boosting North West growth",
+   "soWhat": {
+    "changed": "His Majesty King Charles III has officially opened Ribble House, the National Cyber Force’s (NCF) new headquarters in Samlesbury, Lancashire.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "The opening confirms a lasting UK offensive cyber footprint in the North West, with implications for regional cyber skills and for firms near the UK's classified cyber mission.",
+    "n_sources": 1,
+    "signal_title": "UK opens National Cyber Force headquarters in Lancashire",
+    "crux": "King Charles III officially opened Ribble House, the National Cyber Force's new headquarters in Samlesbury, Lancashire, on 16 November 2026. The NCF is a defence and intelligence partnership of GCHQ, the Ministry of Defence, SIS and Dstl that conducts cyber operations, and a Digital and Cyber Bursary already supports 500 students at local colleges.",
+    "importance": "Low",
+    "impact_score": 36,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Cybersecurity"
+    ],
+    "affected_regions": [
+     "United Kingdom"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d"
+    ],
+    "watch_next": "Further NCF hiring, the cyber bursary, and any public statements on the North West Cyber Corridor",
+    "confidence_score": 67,
+    "source_name": "UK Ministry of Defence",
+    "source_url": "https://www.gov.uk/government/news/king-opens-new-national-cyber-force-hq-boosting-north-west-growth",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "UK Ministry of Defence",
+     "url": "https://www.gov.uk/government/news/king-opens-new-national-cyber-force-hq-boosting-north-west-growth",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "fr-2026-23255",
    "published": "2026-11-16T12:00:00Z",
    "kicker": "Geoeconomics · Federal Register",
@@ -435,6 +952,92 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23255/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2574",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+   "body": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2574. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2574",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2574 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/ai-supercomputer.webp",
+    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
+    "key": "ai-supercomputer"
+   },
+   "signal": {
+    "so_what": "Firms with EU exposure, including resource and trading counterparties, should rescreen partners against the updated listings.",
+    "n_sources": 1,
+    "signal_title": "EU adjusts Ukraine-related sanctions listings again",
+    "crux": "The Council adopted Implementing Regulation 2026/2574 on Nov 16, 2026, implementing Regulation 269/2014, the EU's asset freeze regime over actions threatening Ukraine's territorial integrity.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Financial services",
+     "Trade and logistics",
+     "Mining"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia",
+     "Ukraine"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-23196",
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+    ],
+    "watch_next": "The annex of the act on EUR-Lex for which persons and entities were added, amended or removed",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
      "kind": "official journal"
     },
     "reported_by": null
@@ -604,6 +1207,89 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2550",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2569",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2569: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2569 of 16 November 2026 implementing Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses",
+   "body": "Council Implementing Regulation (EU) 2026/2569 of 16 November 2026 implementing Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2569. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2569",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2569 of 16 November 2026 implementing Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2569",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2569: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2569 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Compliance teams with EU exposure should rescreen counterparties against the updated listings.",
+    "n_sources": 1,
+    "signal_title": "EU updates global human rights sanctions listings",
+    "crux": "Council Implementing Regulation (EU) 2026/2569 of Nov 16, 2026 implements Regulation 2020/1998, the EU global human rights sanctions regime.",
+    "importance": "Low",
+    "impact_score": 30,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Financial Services",
+     "Government"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026d2570",
+     "eu-32026r2550"
+    ],
+    "watch_next": "The annex of listed persons and entities on EUR-Lex",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2569",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2569",
      "kind": "official journal"
     },
     "reported_by": null
@@ -781,170 +1467,90 @@
    }
   },
   {
-   "id": "eu-32026r2569",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Implementing Regulation (EU) 2026/2569: Implementing Regulation…",
+   "id": "eia-68445",
+   "published": "2026-11-13T15:00:00Z",
+   "kicker": "Geoeconomics · US Energy Information Administration",
+   "title": "Hydropower generation in the Southwest fell to record lows this summer",
    "topics": [
     "geo",
-    "trade-sanctions"
+    "energy-power"
    ],
    "primary": "geo",
-   "summary": "Council Implementing Regulation (EU) 2026/2569 of 16 November 2026 implementing Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses",
-   "body": "Council Implementing Regulation (EU) 2026/2569 of 16 November 2026 implementing Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2569. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "summary": "Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the Southwestern electricity supply region, which includes Arizona, New Mexico…",
+   "body": "Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the Southwestern electricity supply region, which includes Arizona, New Mexico, and small parts of Nevada and California. Hydropower generation from April through August 2026 was 19% lower than during the same period last year and 28% lower than the 10-year average, according to the latest data from our Form EIA-923 survey\n\nUS Energy Information Administration published this on Nov 13, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Energy Information Administration. Read the source for the measure, who it applies to and when it takes effect.",
    "stat": null,
    "keyPoints": [
-    "Council Implementing Regulation (EU) 2026/2569",
-    "Published Nov 16, 2026"
+    "Official publication from US Energy Information Administration",
+    "Published Nov 13, 2026"
    ],
    "sources": [
     {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Implementing Regulation (EU) 2026/2569 of 16 November 2026 implementing Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602569",
+     "publisher": "US Energy Information Administration",
+     "date": "2026-11-13",
+     "title": "Hydropower generation in the Southwest fell to record lows this summer",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
      "kind": "official"
     }
    ],
    "image": null,
    "readMinutes": 1,
-   "origin": "EUR-Lex",
+   "origin": "US Energy Information Administration",
    "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+    "name": "US Energy Information Administration",
+    "kind": "EIA Today in Energy",
+    "terms": "Public domain (US government work)"
    },
    "deadlines": [],
-   "titleMarkup": "Council Implementing Regulation (EU) 2026/2569: Implementing Regulation…",
+   "titleMarkup": "Hydropower generation in the Southwest fell to record lows this summer",
    "soWhat": {
-    "changed": "The EU published Council Implementing Regulation (EU) 2026/2569 in the Official Journal on Nov 16, 2026…",
+    "changed": "Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the Southwestern electricity supply…",
     "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+    "watch": "Follow-on measures or implementation details from US Energy Information Administration"
    },
    "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
+    "src": "img/photos/grid-power.webp",
+    "credit": "Photo: Foto3821, CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Electric_transmission_power_tower2.jpg",
+    "key": "grid-power"
    },
    "signal": {
-    "so_what": "Compliance teams with EU exposure should rescreen counterparties against the updated listings.",
+    "so_what": "Utilities and large power users in Arizona, New Mexico and neighbouring states should plan for tighter hydro supply and possible shifts to other generation through 2027.",
     "n_sources": 1,
-    "signal_title": "EU updates global human rights sanctions listings",
-    "crux": "Council Implementing Regulation (EU) 2026/2569 of Nov 16, 2026 implements Regulation 2020/1998, the EU global human rights sanctions regime.",
-    "importance": "Low",
-    "impact_score": 30,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Financial Services",
-     "Government"
-    ],
-    "affected_regions": [
-     "European Union"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "eu-32026d2556",
-     "eu-32026d2570",
-     "eu-32026r2550"
-    ],
-    "watch_next": "The annex of listed persons and entities on EUR-Lex",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602569",
-    "published_date": "2026-11-16",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602569",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "eu-32026r2574",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
-   "body": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2574. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Implementing Regulation (EU) 2026/2574",
-    "Published Nov 16, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
-   "soWhat": {
-    "changed": "The EU published Council Implementing Regulation (EU) 2026/2574 in the Official Journal on Nov 16, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/ai-supercomputer.webp",
-    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
-    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
-    "key": "ai-supercomputer"
-   },
-   "signal": {
-    "so_what": "Firms with EU exposure, including resource and trading counterparties, should rescreen partners against the updated listings.",
-    "n_sources": 1,
-    "signal_title": "EU adjusts Ukraine-related sanctions listings again",
-    "crux": "The Council adopted Implementing Regulation 2026/2574 on Nov 16, 2026, implementing Regulation 269/2014, the EU's asset freeze regime over actions threatening Ukraine's territorial integrity.",
+    "signal_title": "Southwest hydropower hits record lows after Colorado River drought",
+    "crux": "EIA reported that hydropower generation in the Southwestern electricity supply region from April through August 2026 was 19% lower than the same period a year earlier and 28% below the 10-year average, after prolonged drought in the Colorado River Basin. Lake Powell ended September less than 1% above the Glen Canyon Dam minimum power pool, and EIA's November Short-Term Energy Outlook expects 2026 Southwest hydropower at 6.13 billion kWh, 9% below last year. The Interior Department also decided to cut collective water use in California, Arizona and Nevada by 1.25 million acre-feet a year for the next two years.",
     "importance": "Medium",
-    "impact_score": 45,
+    "impact_score": 46,
     "time_horizon": "Near term",
     "affected_sectors": [
-     "Financial services",
-     "Trade and logistics",
-     "Mining"
+     "Utilities",
+     "Energy",
+     "Water"
     ],
     "affected_regions": [
-     "European Union",
-     "Russia",
-     "Ukraine"
+     "United States"
     ],
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
-     "fr-2026-23196",
-     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+     "doe-energy-department-announces-28-billion-loan-strengthen-grid",
+     "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
+     "6ac8edbd6722b5b4db1fbb06"
     ],
-    "watch_next": "The annex of the act on EUR-Lex for which persons and entities were added, amended or removed",
+    "watch_next": "Winter precipitation, Lake Powell elevation versus the 3,490-foot minimum power pool, and EIA's next Short-Term Energy Outlook",
     "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
-    "published_date": "2026-11-16",
-    "key_number": null,
+    "source_name": "US Energy Information Administration",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
+    "published_date": "2026-11-13",
+    "key_number": {
+     "value": "19%",
+     "unit": "",
+     "label": "lower than the same period a",
+     "kind": "percent"
+    },
     "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
-     "kind": "official journal"
+     "name": "US Energy Information Administration",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
+     "kind": "government or agency"
     },
     "reported_by": null
    }
@@ -1292,6 +1898,96 @@
    }
   },
   {
+   "id": "fr-2026-23193",
+   "published": "2026-11-13T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Publication of Iran-Related Web General License W",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing an Iran-related general license (GL): GL W. This GL was previously made available on OFAC's website.",
+   "body": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing an Iran-related general license (GL): GL W. This GL was previously made available on OFAC's website.\n\nKey dates: GL W was issued on May 1, 2026. See SUPPLEMENTARY INFORMATION for additional relevant dates.\n\nDocument type: Final rule. Agency: Treasury, Foreign Assets Control Office.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Foreign Assets Control Office"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-13",
+     "title": "Publication of Iran-Related Web General License W",
+     "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23193/publication-of-iran-related-web-general-license-w",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Publication of Iran-Related Web General License W",
+   "soWhat": {
+    "changed": "Foreign Assets Control Office issued a final rule: Publication of Iran-Related Web General License W",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Foreign Assets Control Office"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "This is a formal republication of an expired web license, not a new authorization; compliance teams should not treat GL W as currently in force.",
+    "n_sources": 1,
+    "signal_title": "OFAC publishes already-expired Iran wind-down license GL W",
+    "crux": "OFAC published Iran-related General License W in the Federal Register on 13 November 2026. The license, issued on 1 May 2026 and expired on 31 May 2026, had authorized wind-down transactions involving Qingdao Haiye Oil Terminal Co., Ltd., and entities it owns 50% or more, that would otherwise be prohibited by Executive Order 13846.",
+    "importance": "Low",
+    "impact_score": 24,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Oil and gas",
+     "Trade",
+     "Financial services"
+    ],
+    "affected_regions": [
+     "United States",
+     "Iran",
+     "China"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
+     "gc-minister-sidhu-announces-extension-of-favourable-market-acce"
+    ],
+    "watch_next": "Any successor Iran general licenses or new designations related to Qingdao Haiye Oil Terminal on OFAC's website",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23193/publication-of-iran-related-web-general-license-w",
+    "published_date": "2026-11-13",
+    "key_number": {
+     "value": "50%",
+     "unit": "",
+     "label": "or more",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23193/publication-of-iran-related-web-general-license-w",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "eu-32026d2557",
    "published": "2026-11-13T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -1371,6 +2067,366 @@
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2557",
      "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eia-68444",
+   "published": "2026-11-12T15:00:00Z",
+   "kicker": "Geoeconomics · US Energy Information Administration",
+   "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
+   "topics": [
+    "geo"
+   ],
+   "primary": "geo",
+   "summary": "After decades of decline, crude oil production in Alaska is growing, driven by two projects on Alaska's North Slope. In our latest Short-Term Energy Outlook, we expect a 23,000 barrels per day (b/d) (6%) increase in 2026…",
+   "body": "After decades of decline, crude oil production in Alaska is growing, driven by two projects on Alaska's North Slope. In our latest Short-Term Energy Outlook, we expect a 23,000 barrels per day (b/d) (6%) increase in 2026, followed by a 60,000 b/d (13%) rise in 2027. At a forecast 505,000 b/d in 2027, output would be the most since 2014.\n\nUS Energy Information Administration published this on Nov 12, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Energy Information Administration. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from US Energy Information Administration",
+    "Published Nov 12, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "US Energy Information Administration",
+     "date": "2026-11-12",
+     "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "US Energy Information Administration",
+   "primarySource": {
+    "name": "US Energy Information Administration",
+    "kind": "EIA Today in Energy",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
+   "soWhat": {
+    "changed": "After decades of decline, crude oil production in Alaska is growing, driven by two projects on Alaska's North Slope.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from US Energy Information Administration"
+   },
+   "photo": {
+    "src": "img/photos/arctic-port.webp",
+    "credit": "Photo: National Aeronautics and Space Administration. John H. Glenn Research Center at , Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:PRUDHOE_BAY_ALASKA_-_DPLA_-_6030bbb5743c3fbf8332937d9011cb81.jpg",
+    "key": "arctic-port"
+   },
+   "signal": {
+    "so_what": "North Slope producers, Trans-Alaska Pipeline shippers and Arctic service firms should plan around a near-term production upswing, while watching whether Pikka reaches the forecast peak.",
+    "n_sources": 1,
+    "signal_title": "EIA sees Alaska crude climbing 13% in 2027 on North Slope projects",
+    "crux": "In its November Short-Term Energy Outlook, EIA forecasts Alaska crude output to rise by 23,000 barrels a day (6%) in 2026 and by 60,000 barrels a day (13%) in 2027, reaching 505,000 barrels a day, the highest since 2014. The increase is tied to ConocoPhillips' Nuna project and the Santos-Repsol Pikka Phase 1 project, which EIA expects to peak at 80,000 barrels a day by winter 2026-27.",
+    "importance": "Medium",
+    "impact_score": 48,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Oil and gas"
+    ],
+    "affected_regions": [
+     "United States",
+     "Arctic"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-21371",
+     "fr-2026-22052",
+     "6ad7c0a0a69d84a91a2bf0be"
+    ],
+    "watch_next": "Pikka Phase 1 peak rates in winter 2026-27 and EIA's next Alaska production forecast",
+    "confidence_score": 67,
+    "source_name": "US Energy Information Administration",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
+    "published_date": "2026-11-12",
+    "key_number": {
+     "value": "6%",
+     "unit": "",
+     "label": "",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "US Energy Information Administration",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+   "published": "2026-11-12T15:00:00Z",
+   "kicker": "Geoeconomics · UK Ministry of Defence",
+   "title": "Ukraine’s drone pioneers bring battle-tested tech and high-skilled jobs to Britain",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "High-skilled jobs are coming to Britain as Ukrainian drone pioneers UFORCE expand their UK operations, bringing battle-tested technology developed on the frontline to the UK.",
+   "body": "High-skilled jobs are coming to Britain as Ukrainian drone pioneers UFORCE expand their UK operations, bringing battle-tested technology developed on the frontline to the UK.\n\nUK Ministry of Defence published this on Nov 12, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Ministry of Defence",
+    "Published Nov 12, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Ministry of Defence",
+     "date": "2026-11-12",
+     "title": "Ukraine’s drone pioneers bring battle-tested tech and high-skilled jobs to Britain",
+     "url": "https://www.gov.uk/government/news/ukraines-drone-pioneers-bring-battle-tested-tech-and-high-skilled-jobs-to-britain",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Ministry of Defence",
+   "primarySource": {
+    "name": "UK Ministry of Defence",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Ukraine’s drone pioneers bring battle-tested tech and high-skilled jobs to Britain",
+   "soWhat": {
+    "changed": "High-skilled jobs are coming to Britain as Ukrainian drone pioneers UFORCE expand their UK operations…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "UK marine, electronics and defence suppliers can compete for that content share, while Ukraine-linked autonomous systems become part of the UK industrial base.",
+    "n_sources": 1,
+    "signal_title": "UK National Wealth Fund puts £113 million into UFORCE drones",
+    "crux": "The UK National Wealth Fund is investing £113 million in Ukrainian-founded, UK-headquartered UFORCE as part of a $700 million Series A, to expand UK engineering, training and production of uncrewed systems. The company says more than 70% of the content of each UK-built boat will come from British suppliers, and the UK will be used as a base to support partners including Joint Expeditionary Force nations.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Manufacturing",
+     "Investment"
+    ],
+    "affected_regions": [
+     "United Kingdom",
+     "Ukraine",
+     "Europe"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+     "eu-32026r2382",
+     "eu-32026r2381"
+    ],
+    "watch_next": "UK production and hiring ramp-up, and any MoD or allied procurement of UFORCE systems",
+    "confidence_score": 67,
+    "source_name": "UK Ministry of Defence",
+    "source_url": "https://www.gov.uk/government/news/ukraines-drone-pioneers-bring-battle-tested-tech-and-high-skilled-jobs-to-britain",
+    "published_date": "2026-11-12",
+    "key_number": {
+     "value": "£113 million",
+     "unit": "",
+     "label": "in Ukrainian-founded",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "UK Ministry of Defence",
+     "url": "https://www.gov.uk/government/news/ukraines-drone-pioneers-bring-battle-tested-tech-and-high-skilled-jobs-to-britain",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "govuk-uk-commandos-to-get-ai-enabled-edge-from-british-scale-up-ar",
+   "published": "2026-11-12T15:00:00Z",
+   "kicker": "AI Policy · UK Ministry of Defence",
+   "title": "UK Commandos to get AI-enabled edge from British scale-up Arondite…",
+   "topics": [
+    "ai",
+    "defense-technology"
+   ],
+   "primary": "ai",
+   "summary": "The Royal Navy has agreed a multi-million pound deal with British scale-up Arondite to deploy its AI-enabled software across UK Commando Force,",
+   "body": "The Royal Navy has agreed a multi-million pound deal with British scale-up Arondite to deploy its AI-enabled software across UK Commando Force,\n\nUK Ministry of Defence published this on Nov 12, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Ministry of Defence",
+    "Published Nov 12, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Ministry of Defence",
+     "date": "2026-11-12",
+     "title": "UK Commandos to get AI-enabled edge from British scale-up Arondite, as company expands to NATO's northern flank",
+     "url": "https://www.gov.uk/government/news/uk-commandos-to-get-ai-enabled-edge-from-british-scale-up-arondite-as-company-expands-to-natos-northern-flank",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Ministry of Defence",
+   "primarySource": {
+    "name": "UK Ministry of Defence",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "UK Commandos to get AI-enabled edge from British scale-up Arondite…",
+   "soWhat": {
+    "changed": "The Royal Navy has agreed a multi-million pound deal with British scale-up Arondite to deploy its AI-enabled software across UK Commando Force,",
+    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
+    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
+   },
+   "photo": {
+    "src": "img/photos/ai-datacenter.webp",
+    "credit": "Photo: Carl Lender from Sunrise, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg",
+    "key": "ai-datacenter"
+   },
+   "signal": {
+    "so_what": "UK and Norwegian command units gain a shared AI command-and-control tool, and UK AI defence firms get a clearer export path onto NATO's northern flank.",
+    "n_sources": 1,
+    "signal_title": "Royal Navy buys Arondite AI software for UK Commando Force",
+    "crux": "The Royal Navy agreed a multi-million pound deal to deploy Arondite's Cobalt mission orchestration software across UK Commando Force, tying together sensors, autonomous platforms and data feeds. Arondite also announced a £35 million, five-year expansion to open its first international office in Oslo, and is on track to double its headcount to 150 employees by summer 2027.",
+    "importance": "Medium",
+    "impact_score": 48,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "AI",
+     "Defence"
+    ],
+    "affected_regions": [
+     "United Kingdom",
+     "Norway",
+     "Arctic"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d",
+     "6ad91237fa09b1e62e3c12ab",
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive"
+    ],
+    "watch_next": "Deployment of Cobalt to UK Commando Force, joint testing with Norwegian units, and the Oslo office build-out",
+    "confidence_score": 67,
+    "source_name": "UK Ministry of Defence",
+    "source_url": "https://www.gov.uk/government/news/uk-commandos-to-get-ai-enabled-edge-from-british-scale-up-arondite-as-company-expands-to-natos-northern-flank",
+    "published_date": "2026-11-12",
+    "key_number": {
+     "value": "£35 million",
+     "unit": "",
+     "label": "",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "UK Ministry of Defence",
+     "url": "https://www.gov.uk/government/news/uk-commandos-to-get-ai-enabled-edge-from-british-scale-up-arondite-as-company-expands-to-natos-northern-flank",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d",
+   "published": "2026-11-12T15:00:00Z",
+   "kicker": "Critical Minerals · UK Ministry of Defence",
+   "title": "UK growth and security boosted as Royal Navy agrees export deal for new mine-hunting motherships",
+   "topics": [
+    "minerals",
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "minerals",
+   "summary": "UK and European security will be bolstered by a new Royal Navy commitment to acquire three new mine-hunting motherships.",
+   "body": "UK and European security will be bolstered by a new Royal Navy commitment to acquire three new mine-hunting motherships.\n\nUK Ministry of Defence published this on Nov 12, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Ministry of Defence",
+    "Published Nov 12, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Ministry of Defence",
+     "date": "2026-11-12",
+     "title": "UK growth and security boosted as Royal Navy agrees export deal for new mine-hunting motherships",
+     "url": "https://www.gov.uk/government/news/uk-growth-and-security-boosted-as-royal-navy-agrees-export-deal-for-new-mine-hunting-motherships",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Ministry of Defence",
+   "primarySource": {
+    "name": "UK Ministry of Defence",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "UK growth and security boosted as Royal Navy agrees export deal for new mine-hunting motherships",
+   "soWhat": {
+    "changed": "UK and European security will be bolstered by a new Royal Navy commitment to acquire three new mine-hunting motherships.",
+    "who": "Miners, processors, offtakers and investors in critical-mineral supply chains",
+    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
+   },
+   "photo": {
+    "src": "img/photos/minerals-openpit.webp",
+    "credit": "Photo: Doc Searls from Santa Barbara, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_mine_dumps,_2004.jpg",
+    "key": "minerals-openpit"
+   },
+   "signal": {
+    "so_what": "UK-Norway naval interoperability deepens, and mine-hunting work shifts toward uncrewed systems on shared hulls, with first deliveries still five years out.",
+    "n_sources": 1,
+    "signal_title": "UK to buy three Norwegian mine-hunting motherships",
+    "crux": "The UK committed to acquire three Offshore Support Vessels as motherships for uncrewed mine-hunting systems, joining Norway's P1118 Standardised Vessel Programme, with the first ship due in 2031 and an option for three more. An additional £90 million was announced in the Defence Investment Plan for the acquisition. The deal sits alongside Norway's Type 26 frigate purchase, which the UK says supports 4,000 UK supply-chain jobs.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Defence",
+     "Shipping",
+     "Shipbuilding"
+    ],
+    "affected_regions": [
+     "United Kingdom",
+     "Norway",
+     "Europe"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "govuk-army-buys-hundreds-more-drones-and-electronic-warfare-kit-in"
+    ],
+    "watch_next": "Contracting under the UK-Norway Maritime Capability Partnership Framework and whether the option for three more vessels is exercised",
+    "confidence_score": 67,
+    "source_name": "UK Ministry of Defence",
+    "source_url": "https://www.gov.uk/government/news/uk-growth-and-security-boosted-as-royal-navy-agrees-export-deal-for-new-mine-hunting-motherships",
+    "published_date": "2026-11-12",
+    "key_number": {
+     "value": "£90 million",
+     "unit": "",
+     "label": "was announced in the Defence Investment",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "UK Ministry of Defence",
+     "url": "https://www.gov.uk/government/news/uk-growth-and-security-boosted-as-royal-navy-agrees-export-deal-for-new-mine-hunting-motherships",
+     "kind": "government or agency"
     },
     "reported_by": null
    }
@@ -1458,6 +2514,95 @@
    }
   },
   {
+   "id": "govuk-prime-minister-hails-major-investment-in-uk-renewables",
+   "published": "2026-11-11T15:00:00Z",
+   "kicker": "Geoeconomics · UK Department for Energy Security and Net Zero",
+   "title": "Prime Minister hails major investment in UK renewables",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "Thousands of jobs will be supported as two major offshore wind projects mark progress towards delivering clean homegrown energy for millions of homes, ahead of the Prime Minister’s travel to the COP31 Leaders’ Summit in Türk…",
+   "body": "Thousands of jobs will be supported as two major offshore wind projects mark progress towards delivering clean homegrown energy for millions of homes, ahead of the Prime Minister’s travel to the COP31 Leaders’ Summit in Türk…\n\nUK Department for Energy Security and Net Zero published this on Nov 11, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Department for Energy Security and Net Zero. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Department for Energy Security and Net Zero",
+    "Published Nov 11, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Department for Energy Security and Net Zero",
+     "date": "2026-11-11",
+     "title": "Prime Minister hails major investment in UK renewables",
+     "url": "https://www.gov.uk/government/news/prime-minister-hails-major-investment-in-uk-renewables",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Department for Energy Security and Net Zero",
+   "primarySource": {
+    "name": "UK Department for Energy Security and Net Zero",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Prime Minister hails major investment in UK renewables",
+   "soWhat": {
+    "changed": "Thousands of jobs will be supported as two major offshore wind projects mark progress towards delivering clean homegrown energy for millions of homes…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from UK Department for Energy Security and Net Zero"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "UK offshore wind supply-chain firms and coastal labour markets gain a firm construction timeline, while the National Wealth Fund's £1 billion stake ties public capital to these two projects.",
+    "n_sources": 1,
+    "signal_title": "RWE and KKR commit £12 billion to two UK offshore wind farms",
+    "crux": "RWE and KKR announced a £12 billion final investment commitment for the Vanguard West and Vanguard East offshore wind farms, expected to be operational by 2030 with capacity to supply the equivalent of around three million UK homes. Financing includes a £1 billion investment from the UK National Wealth Fund, and offshore construction is set to begin in early 2027.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Energy",
+     "Investment",
+     "Offshore wind"
+    ],
+    "affected_regions": [
+     "United Kingdom"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "doe-energy-department-announces-28-billion-loan-strengthen-grid",
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "eia-68445"
+    ],
+    "watch_next": "Start of offshore construction in early 2027 and any further National Wealth Fund allocations",
+    "confidence_score": 67,
+    "source_name": "UK Department for Energy Security and Net Zero",
+    "source_url": "https://www.gov.uk/government/news/prime-minister-hails-major-investment-in-uk-renewables",
+    "published_date": "2026-11-11",
+    "key_number": {
+     "value": "£12 billion",
+     "unit": "",
+     "label": "final investment commitment for the Vanguard",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "UK Department for Energy Security and Net Zero",
+     "url": "https://www.gov.uk/government/news/prime-minister-hails-major-investment-in-uk-renewables",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "eu-32026d2507",
    "published": "2026-11-11T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -1524,8 +2669,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "6ad7c0a0a69d84a91a2bf0be",
-     "eu-32026r2382",
-     "eu-32026r2381"
+     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d",
+     "eu-32026r2382"
     ],
     "watch_next": "Amended funding amount and duration in the decision on EUR-Lex",
     "confidence_score": 67,
@@ -1607,9 +2752,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Medium",
     "related_signals": [
+     "ecpress-ac-26-2477",
      "6ace51427d6da06c8ebdbde8",
-     "6ad66e84a07c63635f9885eb",
-     "6ad91237fa09b1e62e3c12ab"
+     "6ad66e84a07c63635f9885eb"
     ],
     "watch_next": "The application date in the act's final article on EUR-Lex and which AI Act obligations the rules cover",
     "confidence_score": 67,
@@ -1693,7 +2838,7 @@
     "related_signals": [
      "eu-32026r2382",
      "eu-32026r2381",
-     "gc-minister-mcguinty-announces-new-military-aid-to-ukraine-at-u"
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive"
     ],
     "watch_next": "The amended mission terms and any change to its budget or duration on EUR-Lex",
     "confidence_score": 67,
@@ -1777,7 +2922,7 @@
     "related_signals": [
      "fr-2026-22861",
      "fr-2026-23196",
-     "fr-C1-2026-22802"
+     "fr-2026-23193"
     ],
     "watch_next": "Published regulations naming the 11 entities and any allied sanctions moves",
     "confidence_score": 67,
@@ -2037,9 +3182,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Medium",
     "related_signals": [
+     "fr-2026-23193",
      "fr-2026-22385",
-     "fr-2026-22292",
-     "fr-2026-22735"
+     "fr-2026-22292"
     ],
     "watch_next": "Which exclusions were extended and their new expiry dates",
     "confidence_score": 67,
@@ -2311,6 +3456,90 @@
     "primary_source": {
      "name": "Global Affairs Canada",
      "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "cisa-cisa-announces-enhanced-reporting-form-cyber-incidents",
+   "published": "2026-11-09T15:00:00Z",
+   "kicker": "Geoeconomics · Cybersecurity and Infrastructure Security Agency",
+   "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+   "topics": [
+    "geo",
+    "cyber-digital-sovereignty"
+   ],
+   "primary": "geo",
+   "summary": "Cybersecurity and Infrastructure Security Agency published \"CISA Announces Enhanced Reporting Form for Cyber Incidents\" on Nov 9, 2026. The full official text is at the source link.",
+   "body": "Cybersecurity and Infrastructure Security Agency published \"CISA Announces Enhanced Reporting Form for Cyber Incidents\" on Nov 9, 2026. The full official text is at the source link.\n\nCybersecurity and Infrastructure Security Agency published this on Nov 9, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from Cybersecurity and Infrastructure Security Agency. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from Cybersecurity and Infrastructure Security Agency",
+    "Published Nov 9, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "Cybersecurity and Infrastructure Security Agency",
+     "date": "2026-11-09",
+     "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+     "url": "https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyber-incidents",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Cybersecurity and Infrastructure Security Agency",
+   "primarySource": {
+    "name": "Cybersecurity and Infrastructure Security Agency",
+    "kind": "CISA advisory or news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+   "soWhat": {
+    "changed": "Cybersecurity and Infrastructure Security Agency published \"CISA Announces Enhanced Reporting Form for Cyber Incidents\" on Nov 9, 2026.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from Cybersecurity and Infrastructure Security Agency"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "US critical infrastructure operators and cyber teams should update reporting playbooks to the new questionnaire, as CISA will use the richer data to correlate campaigns and prioritize response.",
+    "n_sources": 1,
+    "signal_title": "CISA tightens cyber incident reporting with a new form",
+    "crux": "On 9 November 2026, CISA launched an updated web-based cyber incident reporting form on its Incident Reporting Portal, with more granular questions on incident type and observed activity mapped to the MITRE ATT&CK framework. Federal civilian agencies and certain TSA- and US Coast Guard-regulated entities must report to CISA; other organizations are encouraged to report voluntarily.",
+    "importance": "Medium",
+    "impact_score": 44,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Cybersecurity",
+     "Government",
+     "Critical infrastructure"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026r2550",
+     "govuk-king-opens-new-national-cyber-force-hq-boosting-north-west-g",
+     "eu-32026d2556"
+    ],
+    "watch_next": "CISA's FAQ and any further mandate changes for who must use the new form",
+    "confidence_score": 67,
+    "source_name": "Cybersecurity and Infrastructure Security Agency",
+    "source_url": "https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyber-incidents",
+    "published_date": "2026-11-09",
+    "key_number": null,
+    "primary_source": {
+     "name": "Cybersecurity and Infrastructure Security Agency",
+     "url": "https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyber-incidents",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -2633,6 +3862,90 @@
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
      "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
+   "published": "2026-11-07T15:00:00Z",
+   "kicker": "Geoeconomics · US Department of Energy",
+   "title": "Energy Secretary Builds on Progress to Strengthen Puerto Rico’s Energy Reliability",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "As Puerto Rico faces rising electricity demand and energy reliability challenges, the Energy Department continues its efforts to strengthen the island’s electric grid.",
+   "body": "As Puerto Rico faces rising electricity demand and energy reliability challenges, the Energy Department continues its efforts to strengthen the island’s electric grid.\n\nUS Department of Energy published this on Nov 7, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Department of Energy. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from US Department of Energy",
+    "Published Nov 7, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "US Department of Energy",
+     "date": "2026-11-07",
+     "title": "Energy Secretary Builds on Progress to Strengthen Puerto Rico’s Energy Reliability",
+     "url": "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "US Department of Energy",
+   "primarySource": {
+    "name": "US Department of Energy",
+    "kind": "Department of Energy news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Energy Secretary Builds on Progress to Strengthen Puerto Rico’s Energy Reliability",
+   "soWhat": {
+    "changed": "As Puerto Rico faces rising electricity demand and energy reliability challenges, the Energy Department continues its efforts to strengthen the island’s…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from US Department of Energy"
+   },
+   "photo": {
+    "src": "img/photos/grid-power.webp",
+    "credit": "Photo: Foto3821, CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Electric_transmission_power_tower2.jpg",
+    "key": "grid-power"
+   },
+   "signal": {
+    "so_what": "PREPA, grid contractors and large users in Puerto Rico gain continued federal flexibility this winter, but the island's reliability issues remain subject to a short, time-limited authorization.",
+    "n_sources": 1,
+    "signal_title": "DOE renews Puerto Rico emergency grid orders into February 2027",
+    "crux": "DOE renewed two emergency orders, effective 8 November 2026 through 5 February 2027, authorizing the Puerto Rico Electric Power Authority to dispatch generation units needed to maintain critical capacity and to continue vegetation management near power lines. The orders are issued under Section 202(c) authorities.",
+    "importance": "Medium",
+    "impact_score": 42,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Utilities",
+     "Energy"
+    ],
+    "affected_regions": [
+     "United States",
+     "Puerto Rico"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "doe-energy-department-announces-28-billion-loan-strengthen-grid",
+     "eia-68445",
+     "6ac8edbd6722b5b4db1fbb06"
+    ],
+    "watch_next": "Whether the Section 202(c) orders are extended again after 5 February 2027, and any new federal funding for grid work",
+    "confidence_score": 67,
+    "source_name": "US Department of Energy",
+    "source_url": "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability",
+    "published_date": "2026-11-07",
+    "key_number": null,
+    "primary_source": {
+     "name": "US Department of Energy",
+     "url": "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability",
+     "kind": "government or agency"
     },
     "reported_by": null
    }
@@ -3319,8 +4632,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "fr-2026-22868",
-     "6adbb54da4c20d730fe656c5"
+     "fr-2026-23193",
+     "fr-2026-22868"
     ],
     "watch_next": "Follow-up commitments from the Canada-China Joint Economic and Trade Commission.",
     "confidence_score": 67,
@@ -3752,8 +5065,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "eu-32026r2381",
-     "eu-32026d2508",
-     "eu-32026d2554"
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "eu-32026d2508"
     ],
     "watch_next": "The defence exemptions in the act and the dates they apply from on EUR-Lex.",
     "confidence_score": 67,
@@ -3836,8 +5149,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "eu-32026r2382",
-     "eu-32026d2508",
-     "eu-32026d2554"
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "eu-32026d2508"
     ],
     "watch_next": "Which projects qualify and the permit deadlines set in the act on EUR-Lex.",
     "confidence_score": 67,
@@ -7984,8 +9297,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6ad7c0a0a69d84a91a2bf0be",
-     "fr-2026-22052",
-     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor"
+     "eia-68444",
+     "fr-2026-22052"
     ],
     "watch_next": "Takes effect Oct 19, 2026",
     "confidence_score": 67,
@@ -10482,8 +11795,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "6ac8edbd6722b5b4db1fbb12",
-     "cg-2026-10-17-reg1",
-     "6ad66e84a07c63635f9885eb"
+     "gg-363481",
+     "cg-2026-10-17-reg1"
     ],
     "watch_next": "60% adoption by 2034 and 250,000 jobs by 2031 are government targets, not forecasts.",
     "confidence_score": 95,
@@ -11455,7 +12768,7 @@
     "related_signals": [
      "6adbb54da4c20d730fe656d6",
      "eu-32026r2487",
-     "6ad66e84a07c63635f9885eb"
+     "ecpress-ac-26-2477"
     ],
     "watch_next": "Feedback closed Nov 9; adoption is planned for Q4 2026.",
     "confidence_score": 88,
@@ -12796,25 +14109,25 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-18T02:55:39+00:00",
+  "asOf": "2026-11-18T04:11:31+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
     "7": {
-     "cur": 1,
+     "cur": 3,
      "prev": 1,
-     "dir": "steady",
-     "reliable": true
+     "dir": "up",
+     "reliable": false
     },
     "30": {
-     "cur": 9,
+     "cur": 11,
      "prev": 9,
-     "dir": "steady",
+     "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 18,
-     "prev": 2,
+     "cur": 20,
+     "prev": 3,
      "dir": "up",
      "reliable": false
     }
@@ -12824,7 +14137,7 @@
      "cur": 0,
      "prev": 0,
      "dir": "steady",
-     "reliable": true
+     "reliable": false
     },
     "30": {
      "cur": 2,
@@ -12834,7 +14147,7 @@
     },
     "90": {
      "cur": 7,
-     "prev": 1,
+     "prev": 2,
      "dir": "up",
      "reliable": false
     }
@@ -12844,7 +14157,7 @@
      "cur": 1,
      "prev": 1,
      "dir": "steady",
-     "reliable": true
+     "reliable": false
     },
     "30": {
      "cur": 4,
@@ -12861,19 +14174,19 @@
    },
    "cyber-digital-sovereignty": {
     "7": {
-     "cur": 1,
-     "prev": 1,
+     "cur": 2,
+     "prev": 2,
      "dir": "steady",
-     "reliable": true
+     "reliable": false
     },
     "30": {
-     "cur": 2,
+     "cur": 4,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 3,
+     "cur": 5,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12881,19 +14194,19 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 4,
+     "cur": 9,
      "prev": 0,
      "dir": "up",
-     "reliable": true
+     "reliable": false
     },
     "30": {
-     "cur": 8,
+     "cur": 13,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 11,
+     "cur": 16,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12904,7 +14217,7 @@
      "cur": 0,
      "prev": 0,
      "dir": "steady",
-     "reliable": true
+     "reliable": false
     },
     "30": {
      "cur": 3,
@@ -12921,19 +14234,19 @@
    },
    "energy-power": {
     "7": {
-     "cur": 0,
-     "prev": 1,
-     "dir": "down",
-     "reliable": true
+     "cur": 3,
+     "prev": 2,
+     "dir": "up",
+     "reliable": false
     },
     "30": {
-     "cur": 8,
+     "cur": 12,
      "prev": 0,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 8,
+     "cur": 12,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12941,19 +14254,19 @@
    },
    "geo": {
     "7": {
-     "cur": 14,
-     "prev": 16,
-     "dir": "steady",
-     "reliable": true
+     "cur": 25,
+     "prev": 18,
+     "dir": "up",
+     "reliable": false
     },
     "30": {
-     "cur": 56,
+     "cur": 69,
      "prev": 9,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 65,
+     "cur": 78,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -12961,19 +14274,19 @@
    },
    "minerals": {
     "7": {
-     "cur": 1,
+     "cur": 2,
      "prev": 0,
      "dir": "up",
-     "reliable": true
+     "reliable": false
     },
     "30": {
-     "cur": 11,
+     "cur": 12,
      "prev": 5,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 16,
+     "cur": 17,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -12984,7 +14297,7 @@
      "cur": 0,
      "prev": 0,
      "dir": "steady",
-     "reliable": true
+     "reliable": false
     },
     "30": {
      "cur": 4,
@@ -13004,7 +14317,7 @@
      "cur": 0,
      "prev": 4,
      "dir": "down",
-     "reliable": true
+     "reliable": false
     },
     "30": {
      "cur": 5,
@@ -13021,19 +14334,19 @@
    },
    "strategic-supply-chains": {
     "7": {
-     "cur": 2,
+     "cur": 3,
      "prev": 1,
      "dir": "up",
-     "reliable": true
+     "reliable": false
     },
     "30": {
-     "cur": 8,
+     "cur": 9,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 9,
+     "cur": 10,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -13041,19 +14354,19 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 8,
+     "cur": 9,
      "prev": 9,
      "dir": "steady",
-     "reliable": true
+     "reliable": false
     },
     "30": {
-     "cur": 24,
+     "cur": 25,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 25,
+     "cur": 26,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -13062,20 +14375,20 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-18T02:55:46+00:00",
+  "asOf": "2026-11-18T04:11:57+00:00",
   "counts": {
    "arctic": 16,
-   "ai": 18,
-   "minerals": 17,
-   "geo": 72,
+   "ai": 20,
+   "minerals": 18,
+   "geo": 85,
    "ai-investment-infrastructure": 7,
-   "energy-power": 10,
-   "trade-sanctions": 30,
-   "strategic-supply-chains": 9,
-   "defense-technology": 12,
+   "energy-power": 14,
+   "trade-sanctions": 31,
+   "strategic-supply-chains": 10,
+   "defense-technology": 17,
    "semiconductors": 4,
    "economic-security": 3,
-   "cyber-digital-sovereignty": 3,
+   "cyber-digital-sovereignty": 5,
    "space-satellites": 7
   },
   "live": [
