@@ -1,8 +1,184 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-18T04:26:44+00:00",
+ "generated": "2026-11-18T11:23:59+00:00",
  "items": [
+  {
+   "id": "fr-2026-23450",
+   "published": "2026-11-18T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Takes of Marine Mammals Incidental to Specified Activities",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "NMFS has received a request from the U.S. Department of the Navy (including the U.S. Navy and the U.S. Marine Corps; Navy) and on behalf of the U.S. Coast Guard (Coast Guard), U.S. Army (Army), and U.S. Air Force (Air Force) (hereafter, Navy, Coast Guard…",
+   "body": "NMFS has received a request from the U.S. Department of the Navy (including the U.S. Navy and the U.S. Marine Corps; Navy) and on behalf of the U.S. Coast Guard (Coast Guard), U.S. Army (Army), and U.S. Air Force (Air Force) (hereafter, Navy, Coast Guard, Army, and Air Force are collectively referred to as the Action Proponents) for Incidental Take Regulations (ITR) and an associated Letter of Authorization (LOA) pursuant to the Marine Mammal Protection Act (MMPA). The requested regulations would govern the authorization of take of marine mammals incidental to training and testing activities and modernization and sustainment of ranges conducted in the Mariana Islands Training and Testing (MITT) Study Area over the course of 7 years from July 2027 through July 2034. NMFS requests comments on this proposed rule. NMFS will consider public comments prior to making any final decision on the promulgation of the requested ITR and issuance of the LOA; agency responses to public comments will be summarized in the final rule, if issued. The Action Proponents' activities are considered military readiness activities pursuant to the MMPA, as amended by the National Defense Authorization Act for Fiscal Year 2004 (2004 NDAA) and the NDAA for Fiscal Year 2019 (2019 NDAA).\n\nKey dates: Comments and information must be received no later than December 18, 2026.\n\nDocument type: Proposed rule. Agency: Commerce, National Oceanic and Atmospheric Administration. Docket: Docket No. 261113-0006.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from National Oceanic and Atmospheric Administration",
+    "Comments close Dec 18, 2026",
+    "Docket Docket No. 261113-0006"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-18",
+     "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing Study Area",
+     "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23450/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 2,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-12-18",
+     "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23450/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to"
+    }
+   ],
+   "titleMarkup": "Takes of Marine Mammals Incidental to Specified Activities",
+   "soWhat": {
+    "changed": "National Oceanic and Atmospheric Administration proposed a rule: Takes of Marine Mammals Incidental to Specified Activities",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Comments close Dec 18, 2026 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "The rule would lock in the regulatory basis for sustained US joint-force training around Guam and the Marianas, a key Indo-Pacific posture area, through 2034.",
+    "n_sources": 1,
+    "signal_title": "US military seeks 7-year marine mammal permit for Mariana Islands training",
+    "crux": "NMFS proposed incidental take regulations for Navy, Marine Corps, Coast Guard, Army and Air Force training, testing and range modernization in the Mariana Islands Training and Testing Study Area from July 2027 through July 2034.",
+    "importance": "Low",
+    "impact_score": 34,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Defence",
+     "Environment"
+    ],
+    "affected_regions": [
+     "United States",
+     "Indo-Pacific"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "6ace51427d6da06c8ebdbdd1",
+     "fr-2026-22052",
+     "6ad66e84a07c63635f9885ed"
+    ],
+    "watch_next": "Public comments close Dec 18, 2026, then a final rule and Letter of Authorization from NMFS",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23450/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to",
+    "published_date": "2026-11-18",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23450/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026d2539",
+   "published": "2026-11-18T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Commission Implementing Decision (EU) 2026/2539: Amending Implementing Decision…",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Commission Implementing Decision (EU) 2026/2539 of 17 November 2026 amending Implementing Decision (EU) 2024/2103 as regards harmonised standards for unmanned aircraft drafted in support of Delegated Regulation (EU) 2019/945",
+   "body": "Commission Implementing Decision (EU) 2026/2539 of 17 November 2026 amending Implementing Decision (EU) 2024/2103 as regards harmonised standards for unmanned aircraft drafted in support of Delegated Regulation (EU) 2019/945.\n\nPublished in the Official Journal of the European Union, L series, on Nov 18, 2026. CELEX number 32026D2539. Act type: Commission Implementing Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Commission Implementing Decision (EU) 2026/2539",
+    "Published Nov 18, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-18",
+     "title": "Commission Implementing Decision (EU) 2026/2539 of 17 November 2026 amending Implementing Decision (EU) 2024/2103 as regards harmonised standards for unmanned aircraft drafted in support of Delegated Regulation (EU) 2019/945",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2539",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Commission Implementing Decision (EU) 2026/2539: Amending Implementing Decision…",
+   "soWhat": {
+    "changed": "The EU published Commission Implementing Decision (EU) 2026/2539 in the Official Journal on Nov 18, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Drone makers selling into the EU get updated standards that can be used to show conformity with EU drone product rules.",
+    "n_sources": 1,
+    "signal_title": "EU updates harmonised standards for unmanned aircraft",
+    "crux": "The Commission amended Implementing Decision (EU) 2024/2103 on harmonised standards for unmanned aircraft drafted in support of Delegated Regulation (EU) 2019/945, published in the Official Journal on Nov 18, 2026.",
+    "importance": "Low",
+    "impact_score": 38,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Aerospace",
+     "Technology",
+     "Defence"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6adbb54da4c20d730fe656c5",
+     "eu-32026r2382",
+     "eu-32026r2381"
+    ],
+    "watch_next": "Which standards were added or withdrawn, and the date they apply from, in the act on EUR-Lex",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2539",
+    "published_date": "2026-11-18",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2539",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "doe-energy-department-announces-28-billion-loan-strengthen-grid",
    "published": "2026-11-17T15:00:00Z",
@@ -254,88 +430,6 @@
     "primary_source": {
      "name": "Global Affairs Canada",
      "url": "https://www.canada.ca/en/global-affairs/news/2026/11/canada-and-japan-reaffirm-commitment-to-strengthening-battery-supply-chains.html",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "ecpress-ac-26-2477",
-   "published": "2026-11-17T15:00:00Z",
-   "kicker": "AI Policy · European Commission",
-   "title": "EU Leaders discuss AI and Europe's role in Ukraine peace negotiations during informal summit in Dublin",
-   "topics": [
-    "ai"
-   ],
-   "primary": "ai",
-   "summary": "European Commission News Brussels, 17 Nov 2026 President of the European Commission, Ursula von der Leyen, was in Dublin on 12 and 13 November to attend the informal EUCO hosted by the Irish Presidency. Lea...",
-   "body": "European Commission News Brussels, 17 Nov 2026 President of the European Commission, Ursula von der Leyen, was in Dublin on 12 and 13 November to attend the informal EUCO hosted by the Irish Presidency. Lea...\n\nEuropean Commission published this on Nov 17, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "Official publication from European Commission",
-    "Published Nov 17, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "European Commission",
-     "date": "2026-11-17",
-     "title": "EU Leaders discuss AI and Europe's role in Ukraine peace negotiations during informal summit in Dublin",
-     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2477",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "European Commission",
-   "primarySource": {
-    "name": "European Commission",
-    "kind": "European Commission press release",
-    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
-   },
-   "deadlines": [],
-   "titleMarkup": "EU Leaders discuss AI and Europe's role in Ukraine peace negotiations during informal summit in Dublin",
-   "soWhat": {
-    "changed": "European Commission News Brussels, 17 Nov 2026 President of the European Commission, Ursula von der Leyen…",
-    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
-    "watch": "Follow-on measures or implementation details from European Commission"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "AI firms and governments should watch whether the informal discussion hardens into funding, standards or Council conclusions at the next formal European Council.",
-    "n_sources": 1,
-    "signal_title": "EU leaders discuss industrial AI and a role in Ukraine peace talks",
-    "crux": "Commission President Ursula von der Leyen attended the informal European Council in Dublin on 12 and 13 November 2026, hosted by the Irish Presidency, where EU leaders discussed artificial intelligence and Europe's role in Ukraine peace negotiations.",
-    "importance": "Low",
-    "impact_score": 38,
-    "time_horizon": "Medium term",
-    "affected_sectors": [
-     "AI",
-     "Government"
-    ],
-    "affected_regions": [
-     "European Union"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "eu-32026r2487",
-     "6ace51427d6da06c8ebdbde8",
-     "6ad66e84a07c63635f9885eb"
-    ],
-    "watch_next": "Formal European Council conclusions or follow-up AI and Ukraine measures from the Commission and Council",
-    "confidence_score": 67,
-    "source_name": "European Commission",
-    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2477",
-    "published_date": "2026-11-17",
-    "key_number": null,
-    "primary_source": {
-     "name": "European Commission",
-     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2477",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -599,6 +693,88 @@
     "primary_source": {
      "name": "UK Ministry of Defence",
      "url": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "ecpress-ac-26-2477",
+   "published": "2026-11-17T15:00:00Z",
+   "kicker": "AI Policy · European Commission",
+   "title": "EU Leaders discuss AI and Europe's role in Ukraine peace negotiations during informal summit in Dublin",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "European Commission News Brussels, 17 Nov 2026 President of the European Commission, Ursula von der Leyen, was in Dublin on 12 and 13 November to attend the informal EUCO hosted by the Irish Presidency. Lea...",
+   "body": "European Commission News Brussels, 17 Nov 2026 President of the European Commission, Ursula von der Leyen, was in Dublin on 12 and 13 November to attend the informal EUCO hosted by the Irish Presidency. Lea...\n\nEuropean Commission published this on Nov 17, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from European Commission",
+    "Published Nov 17, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "European Commission",
+     "date": "2026-11-17",
+     "title": "EU Leaders discuss AI and Europe's role in Ukraine peace negotiations during informal summit in Dublin",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2477",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "European Commission",
+   "primarySource": {
+    "name": "European Commission",
+    "kind": "European Commission press release",
+    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
+   },
+   "deadlines": [],
+   "titleMarkup": "EU Leaders discuss AI and Europe's role in Ukraine peace negotiations during informal summit in Dublin",
+   "soWhat": {
+    "changed": "European Commission News Brussels, 17 Nov 2026 President of the European Commission, Ursula von der Leyen…",
+    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
+    "watch": "Follow-on measures or implementation details from European Commission"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "AI firms and governments should watch whether the informal discussion hardens into funding, standards or Council conclusions at the next formal European Council.",
+    "n_sources": 1,
+    "signal_title": "EU leaders discuss industrial AI and a role in Ukraine peace talks",
+    "crux": "Commission President Ursula von der Leyen attended the informal European Council in Dublin on 12 and 13 November 2026, hosted by the Irish Presidency, where EU leaders discussed artificial intelligence and Europe's role in Ukraine peace negotiations.",
+    "importance": "Low",
+    "impact_score": 38,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "AI",
+     "Government"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026r2487",
+     "6ace51427d6da06c8ebdbde8",
+     "6ad66e84a07c63635f9885eb"
+    ],
+    "watch_next": "Formal European Council conclusions or follow-up AI and Ukraine measures from the Commission and Council",
+    "confidence_score": 67,
+    "source_name": "European Commission",
+    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2477",
+    "published_date": "2026-11-17",
+    "key_number": null,
+    "primary_source": {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2477",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -2603,6 +2779,90 @@
    }
   },
   {
+   "id": "eu-32026d2508",
+   "published": "2026-11-11T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Decision (CFSP) 2026/2508: Amending Decision (CFSP) 2022/1968 on a European Union Military Assistance…",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Council Decision (CFSP) 2026/2508 of 9 November 2026 amending Decision (CFSP) 2022/1968 on a European Union Military Assistance Mission in support of Ukraine (EUMAM Ukraine)",
+   "body": "Council Decision (CFSP) 2026/2508 of 9 November 2026 amending Decision (CFSP) 2022/1968 on a European Union Military Assistance Mission in support of Ukraine (EUMAM Ukraine).\n\nPublished in the Official Journal of the European Union, L series, on Nov 11, 2026. CELEX number 32026D2508. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Decision (CFSP) 2026/2508",
+    "Published Nov 11, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-11",
+     "title": "Council Decision (CFSP) 2026/2508 of 9 November 2026 amending Decision (CFSP) 2022/1968 on a European Union Military Assistance Mission in support of Ukraine (EUMAM Ukraine)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2508",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Decision (CFSP) 2026/2508: Amending Decision (CFSP) 2022/1968 on a European Union Military Assistance…",
+   "soWhat": {
+    "changed": "The EU published Council Decision (CFSP) 2026/2508 in the Official Journal on Nov 11, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Defence suppliers and allied planners tracking European support to Ukraine should note the mission's amended terms.",
+    "n_sources": 1,
+    "signal_title": "EU updates its Ukraine military assistance mission mandate",
+    "crux": "The Council adopted Decision (CFSP) 2026/2508 on Nov 9, 2026, amending Decision (CFSP) 2022/1968 on the EU Military Assistance Mission in support of Ukraine (EUMAM Ukraine).",
+    "importance": "Medium",
+    "impact_score": 42,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Government"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Ukraine"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026r2382",
+     "eu-32026r2381",
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive"
+    ],
+    "watch_next": "The amended mission terms and any change to its budget or duration on EUR-Lex",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2508",
+    "published_date": "2026-11-11",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2508",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "eu-32026d2507",
    "published": "2026-11-11T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -2765,90 +3025,6 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2487",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "eu-32026d2508",
-   "published": "2026-11-11T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Decision (CFSP) 2026/2508: Amending Decision (CFSP) 2022/1968 on a European Union Military Assistance…",
-   "topics": [
-    "geo",
-    "defense-technology"
-   ],
-   "primary": "geo",
-   "summary": "Council Decision (CFSP) 2026/2508 of 9 November 2026 amending Decision (CFSP) 2022/1968 on a European Union Military Assistance Mission in support of Ukraine (EUMAM Ukraine)",
-   "body": "Council Decision (CFSP) 2026/2508 of 9 November 2026 amending Decision (CFSP) 2022/1968 on a European Union Military Assistance Mission in support of Ukraine (EUMAM Ukraine).\n\nPublished in the Official Journal of the European Union, L series, on Nov 11, 2026. CELEX number 32026D2508. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Decision (CFSP) 2026/2508",
-    "Published Nov 11, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-11",
-     "title": "Council Decision (CFSP) 2026/2508 of 9 November 2026 amending Decision (CFSP) 2022/1968 on a European Union Military Assistance Mission in support of Ukraine (EUMAM Ukraine)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2508",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Decision (CFSP) 2026/2508: Amending Decision (CFSP) 2022/1968 on a European Union Military Assistance…",
-   "soWhat": {
-    "changed": "The EU published Council Decision (CFSP) 2026/2508 in the Official Journal on Nov 11, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Defence suppliers and allied planners tracking European support to Ukraine should note the mission's amended terms.",
-    "n_sources": 1,
-    "signal_title": "EU updates its Ukraine military assistance mission mandate",
-    "crux": "The Council adopted Decision (CFSP) 2026/2508 on Nov 9, 2026, amending Decision (CFSP) 2022/1968 on the EU Military Assistance Mission in support of Ukraine (EUMAM Ukraine).",
-    "importance": "Medium",
-    "impact_score": 42,
-    "time_horizon": "Medium term",
-    "affected_sectors": [
-     "Defence",
-     "Government"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Ukraine"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "eu-32026r2382",
-     "eu-32026r2381",
-     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive"
-    ],
-    "watch_next": "The amended mission terms and any change to its budget or duration on EUR-Lex",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2508",
-    "published_date": "2026-11-11",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2508",
      "kind": "official journal"
     },
     "reported_by": null
@@ -8395,10 +8571,10 @@
      0,
      0,
      0,
-     1,
-     1,
+     2,
      0,
      1,
+     0,
      0,
      0,
      0,
@@ -8495,8 +8671,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-17",
-    "asOfLabel": "Nov 17, 2026",
+    "asOf": "2026-11-18",
+    "asOfLabel": "Nov 18, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -8657,10 +8833,10 @@
      0,
      0,
      0,
-     1,
-     1,
+     2,
      0,
      1,
+     0,
      0,
      0,
      0,
@@ -8757,8 +8933,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-17",
-    "asOfLabel": "Nov 17, 2026",
+    "asOf": "2026-11-18",
+    "asOfLabel": "Nov 18, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -13988,8 +14164,8 @@
     1
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-17",
-   "asOfLabel": "Nov 17, 2026",
+   "asOf": "2026-11-18",
+   "asOfLabel": "Nov 18, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -14002,10 +14178,10 @@
     0,
     0,
     0,
-    1,
-    1,
+    2,
     0,
     1,
+    0,
     0,
     0,
     0,
@@ -14109,14 +14285,14 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-18T04:26:39+00:00",
+  "asOf": "2026-11-18T11:23:25+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
     "7": {
-     "cur": 3,
-     "prev": 1,
-     "dir": "up",
+     "cur": 2,
+     "prev": 2,
+     "dir": "steady",
      "reliable": false
     },
     "30": {
@@ -14195,18 +14371,18 @@
    "defense-technology": {
     "7": {
      "cur": 9,
-     "prev": 0,
+     "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 13,
+     "cur": 14,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 16,
+     "cur": 17,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -14260,13 +14436,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 69,
+     "cur": 70,
      "prev": 9,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 78,
+     "cur": 79,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -14355,7 +14531,7 @@
    "trade-sanctions": {
     "7": {
      "cur": 9,
-     "prev": 9,
+     "prev": 8,
      "dir": "steady",
      "reliable": false
     },
@@ -14375,17 +14551,17 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-18T04:26:44+00:00",
+  "asOf": "2026-11-18T11:23:59+00:00",
   "counts": {
    "arctic": 16,
    "ai": 20,
    "minerals": 18,
-   "geo": 85,
+   "geo": 87,
    "ai-investment-infrastructure": 7,
    "energy-power": 14,
    "trade-sanctions": 31,
    "strategic-supply-chains": 10,
-   "defense-technology": 17,
+   "defense-technology": 19,
    "semiconductors": 4,
    "economic-security": 3,
    "cyber-digital-sovereignty": 5,
