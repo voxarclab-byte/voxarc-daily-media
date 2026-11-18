@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-18T15:23:04+00:00",
+ "generated": "2026-11-18T16:18:34+00:00",
  "items": [
   {
    "id": "ecpress-ip-26-2499",
@@ -93,6 +93,90 @@
     "primary_source": {
      "name": "European Commission",
      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "nist-quantum-physics-can-verify-persons-location-nist-researchers",
+   "published": "2026-11-18T15:00:00Z",
+   "kicker": "AI Policy · National Institute of Standards and Technology",
+   "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "The technique offers the potential to protect infrastructure, safeguard financial institutions and prevent phishing.",
+   "body": "The technique offers the potential to protect infrastructure, safeguard financial institutions and prevent phishing.\n\nNational Institute of Standards and Technology published this on Nov 18, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from National Institute of Standards and Technology. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from National Institute of Standards and Technology",
+    "Published Nov 18, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "National Institute of Standards and Technology",
+     "date": "2026-11-18",
+     "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+     "url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "National Institute of Standards and Technology",
+   "primarySource": {
+    "name": "National Institute of Standards and Technology",
+    "kind": "NIST news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+   "soWhat": {
+    "changed": "The technique offers the potential to protect infrastructure, safeguard financial institutions and prevent phishing.",
+    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
+    "watch": "Follow-on measures or implementation details from National Institute of Standards and Technology"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "Points to future location-anchored access controls for banks and critical infrastructure, though NIST says real-world use is a decade or more away and depends on large-scale quantum networks.",
+    "n_sources": 1,
+    "signal_title": "Quantum location checks move from theory to first full demonstration",
+    "crux": "NIST and collaborators reported in Nature the first complete demonstration of quantum position verification, using entangled photons and a loophole-free Bell test to confirm a party's physical location.",
+    "importance": "Low",
+    "impact_score": 36,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Cybersecurity",
+     "Quantum technology",
+     "Financial services",
+     "Critical infrastructure"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "cisa-cisa-announces-enhanced-reporting-form-cyber-incidents",
+     "fr-2026-22861",
+     "fr-2026-23196"
+    ],
+    "watch_next": "Progress on NIST and industry quantum network technology needed to share entangled photons at scale",
+    "confidence_score": 67,
+    "source_name": "National Institute of Standards and Technology",
+    "source_url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+    "published_date": "2026-11-18",
+    "key_number": null,
+    "primary_source": {
+     "name": "National Institute of Standards and Technology",
+     "url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -3798,9 +3882,9 @@
     "risk_level": "Low",
     "opportunity_level": "Low",
     "related_signals": [
+     "nist-quantum-physics-can-verify-persons-location-nist-researchers",
      "eu-32026r2550",
-     "govuk-king-opens-new-national-cyber-force-hq-boosting-north-west-g",
-     "eu-32026d2556"
+     "govuk-king-opens-new-national-cyber-force-hq-boosting-north-west-g"
     ],
     "watch_next": "CISA's FAQ and any further mandate changes for who must use the new form",
     "confidence_score": 67,
@@ -14380,24 +14464,24 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-18T15:22:59+00:00",
+  "asOf": "2026-11-18T16:18:19+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
     "7": {
-     "cur": 2,
+     "cur": 3,
      "prev": 2,
-     "dir": "steady",
+     "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 10,
+     "cur": 11,
      "prev": 10,
      "dir": "steady",
      "reliable": false
     },
     "90": {
-     "cur": 20,
+     "cur": 21,
      "prev": 3,
      "dir": "up",
      "reliable": false
@@ -14646,10 +14730,10 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-18T15:23:04+00:00",
+  "asOf": "2026-11-18T16:18:34+00:00",
   "counts": {
    "arctic": 16,
-   "ai": 20,
+   "ai": 21,
    "minerals": 18,
    "geo": 88,
    "ai-investment-infrastructure": 7,
