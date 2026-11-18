@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-18T12:22:12+00:00",
+ "generated": "2026-11-18T13:26:44+00:00",
  "items": [
   {
    "id": "ecpress-ip-26-2499",
@@ -14380,7 +14380,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-18T12:21:54+00:00",
+  "asOf": "2026-11-18T13:26:39+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -14391,9 +14391,9 @@
      "reliable": false
     },
     "30": {
-     "cur": 11,
-     "prev": 9,
-     "dir": "up",
+     "cur": 10,
+     "prev": 10,
+     "dir": "steady",
      "reliable": false
     },
     "90": {
@@ -14531,8 +14531,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 70,
-     "prev": 10,
+     "cur": 69,
+     "prev": 11,
      "dir": "up",
      "reliable": false
     },
@@ -14631,8 +14631,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 25,
-     "prev": 1,
+     "cur": 24,
+     "prev": 2,
      "dir": "up",
      "reliable": false
     },
@@ -14646,7 +14646,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-18T12:22:12+00:00",
+  "asOf": "2026-11-18T13:26:44+00:00",
   "counts": {
    "arctic": 16,
    "ai": 20,
