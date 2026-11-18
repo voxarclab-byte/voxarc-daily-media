@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-18T17:21:00+00:00",
+ "generated": "2026-11-18T18:22:04+00:00",
  "items": [
   {
    "id": "ecpress-ip-26-2499",
@@ -93,6 +93,96 @@
     "primary_source": {
      "name": "European Commission",
      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "doe-energy-secretary-acts-protect-mid-atlantic-grid-0",
+   "published": "2026-11-18T15:00:00Z",
+   "kicker": "Geoeconomics · US Department of Energy",
+   "title": "Energy Secretary Acts to Protect Mid-Atlantic Grid",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "Secretary Wright issues emergency order to stabilize the mid-Atlantic grid and minimize the risk of energy shortfalls in 13 states and the District of Columbia.",
+   "body": "Secretary Wright issues emergency order to stabilize the mid-Atlantic grid and minimize the risk of energy shortfalls in 13 states and the District of Columbia.\n\nUS Department of Energy published this on Nov 18, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Department of Energy. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from US Department of Energy",
+    "Published Nov 18, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "US Department of Energy",
+     "date": "2026-11-18",
+     "title": "Energy Secretary Acts to Protect Mid-Atlantic Grid",
+     "url": "https://www.energy.gov/articles/energy-secretary-acts-protect-mid-atlantic-grid-0",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "US Department of Energy",
+   "primarySource": {
+    "name": "US Department of Energy",
+    "kind": "Department of Energy news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Energy Secretary Acts to Protect Mid-Atlantic Grid",
+   "soWhat": {
+    "changed": "Secretary Wright issues emergency order to stabilize the mid-Atlantic grid and minimize the risk of energy shortfalls in 13 states and the District of Columbia.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from US Department of Energy"
+   },
+   "photo": {
+    "src": "img/photos/grid-power.webp",
+    "credit": "Photo: Foto3821, CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Electric_transmission_power_tower2.jpg",
+    "key": "grid-power"
+   },
+   "signal": {
+    "so_what": "Exporters, importers and investors exposed to trade and security policy are most exposed.",
+    "n_sources": 1,
+    "signal_title": "US DOE issues emergency order to shore up Mid-Atlantic grid",
+    "crux": "Energy Secretary Wright used emergency powers to stabilize the Mid-Atlantic grid and cut shortfall risk across 13 states and DC.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Utilities",
+     "Power generation",
+     "Energy security"
+    ],
+    "affected_regions": [
+     "United States",
+     "North America"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ac8edbd6722b5b4db1fbb06",
+     "gg-364174",
+     "fr-2026-22443"
+    ],
+    "watch_next": "Order duration, which plants or resources it covers, and any grid operator or state response.",
+    "confidence_score": 67,
+    "source_name": "US Department of Energy",
+    "source_url": "https://www.energy.gov/articles/energy-secretary-acts-protect-mid-atlantic-grid-0",
+    "published_date": "2026-11-18",
+    "key_number": {
+     "value": "13",
+     "unit": "states",
+     "label": "",
+     "kind": "count"
+    },
+    "primary_source": {
+     "name": "US Department of Energy",
+     "url": "https://www.energy.gov/articles/energy-secretary-acts-protect-mid-atlantic-grid-0",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -14464,7 +14554,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-18T17:20:56+00:00",
+  "asOf": "2026-11-18T18:21:52+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -14589,19 +14679,19 @@
    },
    "energy-power": {
     "7": {
-     "cur": 2,
+     "cur": 3,
      "prev": 2,
-     "dir": "steady",
+     "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 12,
+     "cur": 13,
      "prev": 0,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 12,
+     "cur": 13,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -14609,19 +14699,19 @@
    },
    "geo": {
     "7": {
-     "cur": 26,
+     "cur": 27,
      "prev": 17,
      "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 69,
+     "cur": 70,
      "prev": 12,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 81,
+     "cur": 82,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -14730,14 +14820,14 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-18T17:21:00+00:00",
+  "asOf": "2026-11-18T18:22:04+00:00",
   "counts": {
    "arctic": 16,
    "ai": 21,
    "minerals": 18,
-   "geo": 88,
+   "geo": 89,
    "ai-investment-infrastructure": 7,
-   "energy-power": 14,
+   "energy-power": 15,
    "trade-sanctions": 32,
    "strategic-supply-chains": 10,
    "defense-technology": 19,
