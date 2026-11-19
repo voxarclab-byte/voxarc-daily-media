@@ -1,8 +1,244 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-19T04:18:38+00:00",
+ "generated": "2026-11-19T11:24:17+00:00",
  "items": [
+  {
+   "id": "fr-2026-23529",
+   "published": "2026-11-19T12:00:00Z",
+   "kicker": "AI Policy · Federal Register",
+   "title": "Addressing Remote Access to Advanced Semiconductors",
+   "topics": [
+    "ai",
+    "geo",
+    "ai-investment-infrastructure",
+    "trade-sanctions",
+    "semiconductors"
+   ],
+   "primary": "ai",
+   "summary": "In this interim final rule (IFR), the Department of Commerce is establishing new rules to prevent certain foreign actors from leveraging advanced computing power based on U.S. technology to threaten U.S. national security and foreign policy interests. First…",
+   "body": "In this interim final rule (IFR), the Department of Commerce is establishing new rules to prevent certain foreign actors from leveraging advanced computing power based on U.S. technology to threaten U.S. national security and foreign policy interests. First, this rule establishes new restrictions which will apply for exports, reexports, or transfers (in-country) to overseas data centers that remotely supply significant volumes of compute to companies headquartered in Country Group D:5 or Macau. These restrictions will undermine the ability of companies headquartered in countries of concern from using U.S. advanced Super Intelligence (SI) semiconductors to train advanced SI models. Data centers, foreign foundries, and chip exporters are required to perform robust due diligence on their customers, including any direct or indirect ownership or control by persons in Country Group D:5 or Macau, as part of complying with this new control. The license requirement will not apply to commercial recommender systems, such as those used by online retailers or social media companies, as these functions do not pose the same national security threat. Second, in addition to the current license requirements for advanced semiconductors, a license will be required to export, reexport, or transfer (in-country) advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil (and any additional country designated by the Secretary of Commerce, in consultation with the Secretary of State or the Assistant to the President for National Security Affairs)--countries which present a higher-than-normal risk of diversion. The license requirement for these five countries will not apply to semiconductors destined to companies headquartered in, or whose ultimate parent company is headquartered in, the United States, provided certain reporting requirements are met. Commerce will be actively monitoring for countries that tolerate evasion of this IFR and will consider a range of consequences for such countries, such as import restrictions, new license requirements on advanced semiconductor exports, downgrading the country's status in the U.S. export control regime, and Entity List designations and temporary export prohibitions for foreign persons involved in such activities. Third, this IFR amends the presumptions which front-end chips fabricators and chip packagers face when exporting advanced-node logic chips. These amendments reduce the number of pathways to overcome the presumptions for chip designers located in destinations which face a license requirement for SI chips. This change gives the U.S. government critical oversight over companies headquartered in certain countries that seek to leverage advanced semiconductor production capabilities in third countries. Finally, the IFR formally rescinds the regulations implementing the Biden-era AI Diffusion Rule. The AI Diffusion Rule has never been enforced. The regulatory changes in this rule formalize the rescission of the AI Diffusion Rule, which the Department of Commerce Bureau of Industry and Security (BIS) announced in May 2025.\n\nKey dates: Effective date: This rule is effective November 19, 2026.\n\nDocument type: Final rule. Agency: Commerce, Industry and Security Bureau. Docket: Docket No. 261116-0005.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Industry and Security Bureau",
+    "Takes effect Nov 19, 2026",
+    "Docket Docket No. 261116-0005"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-19",
+     "title": "Addressing Remote Access to Advanced Semiconductors",
+     "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 3,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-11-19",
+     "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+    }
+   ],
+   "titleMarkup": "Addressing Remote Access to Advanced Semiconductors",
+   "soWhat": {
+    "changed": "The Commerce Department's Bureau of Industry and Security (BIS) issued a final rule: Addressing Remote Access to Advanced Semiconductors",
+    "who": "First, this rule establishes new restrictions which will apply for exports, reexports, or transfers…",
+    "watch": "Takes effect Nov 19, 2026"
+   },
+   "dataCard": {
+    "id": "bis-rules",
+    "kind": "count",
+    "title": "US export-control rules (BIS)",
+    "value": "14",
+    "unit": "final rules in 2026 so far",
+    "change": "15 in the last 12 months",
+    "series": [
+     1,
+     2,
+     1,
+     0,
+     1,
+     0,
+     0,
+     2,
+     5,
+     1,
+     0,
+     2
+    ],
+    "seriesLabel": "Final rules per month, last 12 months",
+    "weekly": [
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     1,
+     2,
+     1,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1
+    ],
+    "weeklyEntityList": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "weeklyLabel": "Final rules per week, last 52 weeks",
+    "asOf": "2026-11-19",
+    "asOfLabel": "Nov 19, 2026",
+    "source": "Federal Register API, Bureau of Industry and Security",
+    "license": "Public domain (US government work)",
+    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "Cloud and data centre operators abroad must now run ownership due diligence on customers, and chip shipments to Southeast Asia and Brazil face new licensing unless bound for US-headquartered firms.",
+    "n_sources": 1,
+    "signal_title": "US extends AI chip controls to offshore data centres and five diversion-risk countries",
+    "crux": "A Commerce interim final rule restricts US advanced chips going to overseas data centres that supply significant compute to D:5 or Macau headquartered firms, and adds license requirements for Indonesia, Malaysia, Singapore, Thailand and Brazil.",
+    "importance": "High",
+    "impact_score": 82,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Semiconductors",
+     "Data centres",
+     "Cloud computing",
+     "AI"
+    ],
+    "affected_regions": [
+     "United States",
+     "Southeast Asia",
+     "Brazil",
+     "China"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ad66e84a07c63635f9885f2",
+     "6adbb54da4c20d730fe656c5",
+     "6ad66e84a07c63635f9885eb"
+    ],
+    "watch_next": "Comment period on the interim rule, any further countries the Secretary designates, and enforcement actions against evasion such as Entity List additions.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
+    "published_date": "2026-11-19",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "eu-32026r2288",
    "published": "2026-11-19T09:00:00Z",
@@ -25,7 +261,7 @@
      "publisher": "EUR-Lex (Official Journal of the EU)",
      "date": "2026-11-19",
      "title": "Commission Delegated Regulation (EU) 2026/2288 of 14 September 2026 amending Regulation (EU) 2021/821 of the European Parliament and of the Council as regards the list of dual-use items subject to controls on export",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602288",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2288",
      "kind": "official"
     }
    ],
@@ -71,114 +307,19 @@
     "opportunity_level": "Low",
     "related_signals": [
      "eu-32026r2550",
-     "6adbb54da4c20d730fe656c5",
-     "6ad66e84a07c63635f9885f2"
+     "fr-2026-23529",
+     "6adbb54da4c20d730fe656c5"
     ],
     "watch_next": "The date the amended list applies and which control entries were added or changed",
     "confidence_score": 67,
     "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602288",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2288",
     "published_date": "2026-11-19",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602288",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2288",
      "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "ecpress-ip-26-2499",
-   "published": "2026-11-18T15:00:00Z",
-   "kicker": "Geoeconomics · European Commission",
-   "title": "Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise on the entire sanctions lifecycle, from policy design to implementation, enforcement…",
-   "body": "European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise on the entire sanctions lifecycle, from policy design to implementation, enforcement, and anti-circumvention, including outreach to and engagement with third countries.\n\nEuropean Commission published this on Nov 18, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "Official publication from European Commission",
-    "Published Nov 18, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "European Commission",
-     "date": "2026-11-18",
-     "title": "Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy",
-     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
-     "kind": "official"
-    },
-    {
-     "publisher": "European Commission",
-     "date": "2026-11-18",
-     "title": "Daily News 18 / 11 / 2026",
-     "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2497",
-     "note": "Official document (merged duplicate ecpress-mex-26-2497)",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "European Commission",
-   "primarySource": {
-    "name": "European Commission",
-    "kind": "European Commission press release",
-    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
-   },
-   "deadlines": [],
-   "titleMarkup": "Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy",
-   "soWhat": {
-    "changed": "European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Follow-on measures or implementation details from European Commission"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Firms exposed to Russia, Belarus, Iran and North Korea sanctions should expect faster EU compliance guidance and tougher pressure on circumvention through third countries, trade routes and financial channels.",
-    "n_sources": 2,
-    "signal_title": "EU creates a Sanctions Office and names Lars Danielsson as sanctions envoy",
-    "crux": "The Commission created an EU Sanctions Office in its Secretariat-General covering the full sanctions lifecycle, from design to enforcement and anti-circumvention, and appointed Swedish diplomat Lars Danielsson as Sanctions Envoy from Feb 6, 2027; the changes take effect Jan 16, 2027.",
-    "importance": "Medium",
-    "impact_score": 56,
-    "time_horizon": "Medium term",
-    "affected_sectors": [
-     "Compliance",
-     "Trade",
-     "Finance",
-     "Shipping"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Russia",
-     "Global"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
-     "fr-2026-23196"
-    ],
-    "watch_next": "Office setup on Jan 16, 2027 and the first anti-circumvention outreach missions under the new envoy",
-    "confidence_score": 79,
-    "source_name": "European Commission",
-    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
-    "published_date": "2026-11-18",
-    "key_number": null,
-    "primary_source": {
-     "name": "European Commission",
-     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
-     "kind": "government or agency"
     },
     "reported_by": null
    }
@@ -352,6 +493,101 @@
     "primary_source": {
      "name": "National Institute of Standards and Technology",
      "url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "ecpress-ip-26-2499",
+   "published": "2026-11-18T15:00:00Z",
+   "kicker": "Geoeconomics · European Commission",
+   "title": "Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise on the entire sanctions lifecycle, from policy design to implementation, enforcement…",
+   "body": "European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise on the entire sanctions lifecycle, from policy design to implementation, enforcement, and anti-circumvention, including outreach to and engagement with third countries.\n\nEuropean Commission published this on Nov 18, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from European Commission",
+    "Published Nov 18, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "European Commission",
+     "date": "2026-11-18",
+     "title": "Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
+     "kind": "official"
+    },
+    {
+     "publisher": "European Commission",
+     "date": "2026-11-18",
+     "title": "Daily News 18 / 11 / 2026",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2497",
+     "note": "Official document (merged duplicate ecpress-mex-26-2497)",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "European Commission",
+   "primarySource": {
+    "name": "European Commission",
+    "kind": "European Commission press release",
+    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
+   },
+   "deadlines": [],
+   "titleMarkup": "Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy",
+   "soWhat": {
+    "changed": "European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from European Commission"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Firms exposed to Russia, Belarus, Iran and North Korea sanctions should expect faster EU compliance guidance and tougher pressure on circumvention through third countries, trade routes and financial channels.",
+    "n_sources": 2,
+    "signal_title": "EU creates a Sanctions Office and names Lars Danielsson as sanctions envoy",
+    "crux": "The Commission created an EU Sanctions Office in its Secretariat-General covering the full sanctions lifecycle, from design to enforcement and anti-circumvention, and appointed Swedish diplomat Lars Danielsson as Sanctions Envoy from Feb 6, 2027; the changes take effect Jan 16, 2027.",
+    "importance": "Medium",
+    "impact_score": 56,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Compliance",
+     "Trade",
+     "Finance",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia",
+     "Global"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
+     "fr-2026-23196"
+    ],
+    "watch_next": "Office setup on Jan 16, 2027 and the first anti-circumvention outreach missions under the new envoy",
+    "confidence_score": 79,
+    "source_name": "European Commission",
+    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
+    "published_date": "2026-11-18",
+    "key_number": null,
+    "primary_source": {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -1118,7 +1354,7 @@
     "related_signals": [
      "eu-32026r2487",
      "6ace51427d6da06c8ebdbde8",
-     "6ad66e84a07c63635f9885eb"
+     "fr-2026-23529"
     ],
     "watch_next": "Formal European Council conclusions or follow-up AI and Ukraine measures from the Commission and Council",
     "confidence_score": 67,
@@ -1482,6 +1718,100 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23255/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2574",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+   "body": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2574. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2574",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
+     "kind": "official"
+    },
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Decision (CFSP) 2026/2575 of 16 November 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2575",
+     "note": "Official document (merged duplicate eu-32026d2575)",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2574 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/ai-supercomputer.webp",
+    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
+    "key": "ai-supercomputer"
+   },
+   "signal": {
+    "so_what": "Firms with EU exposure, including resource and trading counterparties, should rescreen partners against the updated listings.",
+    "n_sources": 2,
+    "signal_title": "EU adjusts Ukraine-related sanctions listings again",
+    "crux": "The Council adopted Implementing Regulation 2026/2574 on Nov 16, 2026, implementing Regulation 269/2014, the EU's asset freeze regime over actions threatening Ukraine's territorial integrity.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Financial services",
+     "Trade and logistics",
+     "Mining"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia",
+     "Ukraine"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-23196",
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
+     "ecpress-ip-26-2499"
+    ],
+    "watch_next": "The annex of the act on EUR-Lex for which persons and entities were added, amended or removed",
+    "confidence_score": 79,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
      "kind": "official journal"
     },
     "reported_by": null
@@ -1905,100 +2235,6 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2556",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "eu-32026r2574",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
-   "body": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2574. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Implementing Regulation (EU) 2026/2574",
-    "Published Nov 16, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Implementing Regulation (EU) 2026/2574 of 16 November 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
-     "kind": "official"
-    },
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Decision (CFSP) 2026/2575 of 16 November 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2575",
-     "note": "Official document (merged duplicate eu-32026d2575)",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Implementing Regulation (EU) 2026/2574: Implementing Regulation…",
-   "soWhat": {
-    "changed": "The EU published Council Implementing Regulation (EU) 2026/2574 in the Official Journal on Nov 16, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/ai-supercomputer.webp",
-    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
-    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
-    "key": "ai-supercomputer"
-   },
-   "signal": {
-    "so_what": "Firms with EU exposure, including resource and trading counterparties, should rescreen partners against the updated listings.",
-    "n_sources": 2,
-    "signal_title": "EU adjusts Ukraine-related sanctions listings again",
-    "crux": "The Council adopted Implementing Regulation 2026/2574 on Nov 16, 2026, implementing Regulation 269/2014, the EU's asset freeze regime over actions threatening Ukraine's territorial integrity.",
-    "importance": "Medium",
-    "impact_score": 45,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Financial services",
-     "Trade and logistics",
-     "Mining"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Russia",
-     "Ukraine"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "fr-2026-23196",
-     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
-     "ecpress-ip-26-2499"
-    ],
-    "watch_next": "The annex of the act on EUR-Lex for which persons and entities were added, amended or removed",
-    "confidence_score": 79,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
-    "published_date": "2026-11-16",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2574",
      "kind": "official journal"
     },
     "reported_by": null
@@ -3292,7 +3528,7 @@
     "related_signals": [
      "ecpress-ac-26-2477",
      "6ace51427d6da06c8ebdbde8",
-     "6ad66e84a07c63635f9885eb"
+     "fr-2026-23529"
     ],
     "watch_next": "The application date in the act's final article on EUR-Lex and which AI Act obligations the rules cover",
     "confidence_score": 67,
@@ -4386,9 +4622,9 @@
     "risk_level": "High",
     "opportunity_level": "Medium",
     "related_signals": [
+     "fr-2026-23529",
      "fr-2026-22094",
-     "6ad66e84a07c63635f9885ed",
-     "6adbb54da4c20d730fe656c5"
+     "6ad66e84a07c63635f9885ed"
     ],
     "watch_next": "Whether BIS lets the stay lapse, extends it again or rewrites the rule before January 10, 2027.",
     "confidence_score": 67,
@@ -6223,7 +6459,7 @@
     "related_signals": [
      "fr-2026-22793",
      "fr-2026-22735",
-     "6acab8dbf6dba531c0671d1b"
+     "fr-2026-23529"
     ],
     "watch_next": "Watch for the final rule or implementing guidance from Homeland Security",
     "confidence_score": 67,
@@ -6927,8 +7163,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6ad66e84a07c63635f9885ed",
-     "6adbb54da4c20d730fe656c5",
-     "6adfaa09c6ab4e86516a9cb3"
+     "fr-2026-23529",
+     "6adbb54da4c20d730fe656c5"
     ],
     "watch_next": "Whether new processing capacity gets funded: DOE names refining and permitting, not geology, as the bottleneck.",
     "confidence_score": 95,
@@ -7049,9 +7285,9 @@
     "risk_level": "High",
     "opportunity_level": "Medium",
     "related_signals": [
+     "fr-2026-23529",
      "6ace51427d6da06c8ebdbdcd",
-     "6ad66e84a07c63635f9885eb",
-     "6ac8edbd6722b5b4db1fbb14"
+     "6ad66e84a07c63635f9885eb"
     ],
     "watch_next": "Codelco's 2027 European premium ($350/t over LME) and whether the US stockpile flows back out.",
     "confidence_score": 63,
@@ -7153,9 +7389,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
+     "fr-2026-23529",
      "6ad66e84a07c63635f9885f2",
-     "6ad66e84a07c63635f9885eb",
-     "6ad91237fa09b1e62e3c12ab"
+     "6ad66e84a07c63635f9885eb"
     ],
     "watch_next": "The real detail will come from ministries and provinces.",
     "confidence_score": 88,
@@ -7385,9 +7621,9 @@
     "risk_level": "High",
     "opportunity_level": "Low",
     "related_signals": [
+     "fr-2026-23529",
      "6ad66e84a07c63635f9885f2",
-     "6ad66e84a07c63635f9885ed",
-     "fr-2026-22793"
+     "6ad66e84a07c63635f9885ed"
     ],
     "watch_next": "Comments close Dec 7, 2026 on federalregister.gov",
     "confidence_score": 67,
@@ -7899,8 +8135,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6ad66e84a07c63635f9885ed",
-     "6ad66e84a07c63635f9885f2",
-     "6acab8dbf6dba531c0671d1b"
+     "fr-2026-23529",
+     "6ad66e84a07c63635f9885f2"
     ],
     "watch_next": "New supply from Lynas Rare Earths Ltd isn't expected until early 2028.",
     "confidence_score": 72,
@@ -8020,8 +8256,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6ad66e84a07c63635f9885eb",
-     "6ac8edbd6722b5b4db1fbb14",
-     "6ac8edbd6722b5b4db1fbb0c"
+     "fr-2026-23529",
+     "6ac8edbd6722b5b4db1fbb14"
     ],
     "watch_next": "Ofgem's final decision on its proposed £237,500, £712,500 per MW commitment fee for data centres above 40 MW.",
     "confidence_score": 95,
@@ -8906,9 +9142,9 @@
     "id": "bis-rules",
     "kind": "count",
     "title": "US export-control rules (BIS)",
-    "value": "13",
+    "value": "14",
     "unit": "final rules in 2026 so far",
-    "change": "14 in the last 12 months",
+    "change": "15 in the last 12 months",
     "series": [
      1,
      2,
@@ -8921,7 +9157,7 @@
      5,
      1,
      0,
-     1
+     2
     ],
     "seriesLabel": "Final rules per month, last 12 months",
     "weekly": [
@@ -8932,17 +9168,40 @@
      0,
      0,
      0,
+     1,
+     1,
      0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     1,
      2,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      1,
@@ -8952,31 +9211,8 @@
      0,
      0,
      0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      1,
-     0,
-     1,
-     0,
-     1,
-     1,
-     2,
-     1,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0
+     1
     ],
     "weeklyEntityList": [
      0,
@@ -9033,8 +9269,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-18",
-    "asOfLabel": "Nov 18, 2026",
+    "asOf": "2026-11-19",
+    "asOfLabel": "Nov 19, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -9066,8 +9302,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6adbb54da4c20d730fe656c5",
-     "6acab8dbf6dba531c0671d1b",
-     "6adfaa09c6ab4e86516a9cb5"
+     "fr-2026-23529",
+     "6acab8dbf6dba531c0671d1b"
     ],
     "watch_next": "A deadline: China's one-year suspension of its US-specific ban on gallium, germanium and antimony exports ends on Nov 27, 2026…",
     "confidence_score": 88,
@@ -9168,9 +9404,9 @@
     "id": "bis-rules",
     "kind": "count",
     "title": "US export-control rules (BIS)",
-    "value": "13",
+    "value": "14",
     "unit": "final rules in 2026 so far",
-    "change": "14 in the last 12 months",
+    "change": "15 in the last 12 months",
     "series": [
      1,
      2,
@@ -9183,7 +9419,7 @@
      5,
      1,
      0,
-     1
+     2
     ],
     "seriesLabel": "Final rules per month, last 12 months",
     "weekly": [
@@ -9194,17 +9430,40 @@
      0,
      0,
      0,
+     1,
+     1,
      0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     1,
      2,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      1,
@@ -9214,31 +9473,8 @@
      0,
      0,
      0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      1,
-     0,
-     1,
-     0,
-     1,
-     1,
-     2,
-     1,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0
+     1
     ],
     "weeklyEntityList": [
      0,
@@ -9295,8 +9531,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-18",
-    "asOfLabel": "Nov 18, 2026",
+    "asOf": "2026-11-19",
+    "asOfLabel": "Nov 19, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -9327,9 +9563,9 @@
     "risk_level": "High",
     "opportunity_level": "Low",
     "related_signals": [
+     "fr-2026-23529",
      "6adbb54da4c20d730fe656c5",
-     "fr-2026-21786",
-     "fr-2026-22793"
+     "fr-2026-21786"
     ],
     "watch_next": "Comments close Nov 15, 2026",
     "confidence_score": 88,
@@ -10513,8 +10749,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "6ad91237fa09b1e62e3c12ab",
-     "6ac8edbd6722b5b4db1fbb0c",
-     "6ac8edbd6722b5b4db1fbb14"
+     "fr-2026-23529",
+     "6ac8edbd6722b5b4db1fbb0c"
     ],
     "watch_next": "Hyperscaler bond issuance against Goldman's ~$250 billion forecast for 2026.",
     "confidence_score": 68,
@@ -12334,7 +12570,7 @@
     "related_signals": [
      "6ac8edbd6722b5b4db1fbb12",
      "gg-363481",
-     "cg-2026-10-17-reg1"
+     "fr-2026-23529"
     ],
     "watch_next": "60% adoption by 2034 and 250,000 jobs by 2031 are government targets, not forecasts.",
     "confidence_score": 95,
@@ -14508,9 +14744,9 @@
    "id": "bis-rules",
    "kind": "count",
    "title": "US export-control rules (BIS)",
-   "value": "13",
+   "value": "14",
    "unit": "final rules in 2026 so far",
-   "change": "14 in the last 12 months",
+   "change": "15 in the last 12 months",
    "series": [
     1,
     2,
@@ -14523,11 +14759,11 @@
     5,
     1,
     0,
-    1
+    2
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-18",
-   "asOfLabel": "Nov 18, 2026",
+   "asOf": "2026-11-19",
+   "asOfLabel": "Nov 19, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -14539,17 +14775,40 @@
     0,
     0,
     0,
+    1,
+    1,
     0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    0,
+    1,
     2,
-    0,
     1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
     0,
     0,
     1,
@@ -14559,31 +14818,8 @@
     0,
     0,
     0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
     1,
-    0,
-    1,
-    0,
-    1,
-    1,
-    2,
-    1,
-    0,
-    0,
-    0,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    1,
-    0
+    1
    ],
    "weeklyEntityList": [
     0,
@@ -14647,7 +14883,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-19T04:18:33+00:00",
+  "asOf": "2026-11-19T11:24:03+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -14792,19 +15028,19 @@
    },
    "geo": {
     "7": {
-     "cur": 27,
+     "cur": 28,
      "prev": 17,
      "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 70,
+     "cur": 71,
      "prev": 12,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 82,
+     "cur": 83,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -14892,19 +15128,19 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 10,
+     "cur": 11,
      "prev": 7,
      "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 25,
+     "cur": 26,
      "prev": 2,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 27,
+     "cur": 28,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -14913,18 +15149,18 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-19T04:18:38+00:00",
+  "asOf": "2026-11-19T11:24:17+00:00",
   "counts": {
    "arctic": 16,
-   "ai": 21,
+   "ai": 22,
    "minerals": 18,
-   "geo": 90,
-   "ai-investment-infrastructure": 7,
+   "geo": 91,
+   "ai-investment-infrastructure": 8,
    "energy-power": 15,
-   "trade-sanctions": 33,
+   "trade-sanctions": 34,
    "strategic-supply-chains": 10,
    "defense-technology": 19,
-   "semiconductors": 4,
+   "semiconductors": 5,
    "economic-security": 3,
    "cyber-digital-sovereignty": 5,
    "space-satellites": 7
