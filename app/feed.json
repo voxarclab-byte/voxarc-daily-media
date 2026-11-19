@@ -1,8 +1,93 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-19T02:19:46+00:00",
+ "generated": "2026-11-19T03:22:06+00:00",
  "items": [
+  {
+   "id": "eu-32026r2288",
+   "published": "2026-11-19T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Commission Delegated Regulation (EU) 2026/2288: Amending Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Commission Delegated Regulation (EU) 2026/2288 of 14 September 2026 amending Regulation (EU) 2021/821 of the European Parliament and of the Council as regards the list of dual-use items subject to controls on export",
+   "body": "Commission Delegated Regulation (EU) 2026/2288 of 14 September 2026 amending Regulation (EU) 2021/821 of the European Parliament and of the Council as regards the list of dual-use items subject to controls on export.\n\nPublished in the Official Journal of the European Union, L series, on Nov 19, 2026. CELEX number 32026R2288. Act type: Commission Delegated Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Commission Delegated Regulation (EU) 2026/2288",
+    "Published Nov 19, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-19",
+     "title": "Commission Delegated Regulation (EU) 2026/2288 of 14 September 2026 amending Regulation (EU) 2021/821 of the European Parliament and of the Council as regards the list of dual-use items subject to controls on export",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602288",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Commission Delegated Regulation (EU) 2026/2288: Amending Regulation…",
+   "soWhat": {
+    "changed": "The EU published Commission Delegated Regulation (EU) 2026/2288 in the Official Journal on Nov 19, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Exporters of sensitive technology from the EU must recheck product classifications and licence needs against the updated list.",
+    "n_sources": 1,
+    "signal_title": "EU refreshes its dual-use export control list",
+    "crux": "Commission Delegated Regulation (EU) 2026/2288, adopted Sep 14, 2026 and now in the Official Journal, amends the list of dual-use items subject to export controls under Regulation (EU) 2021/821.",
+    "importance": "Medium",
+    "impact_score": 55,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Semiconductors",
+     "Defense",
+     "Advanced Manufacturing",
+     "Technology"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026r2550",
+     "6adbb54da4c20d730fe656c5",
+     "6ad66e84a07c63635f9885f2"
+    ],
+    "watch_next": "The date the amended list applies and which control entries were added or changed",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602288",
+    "published_date": "2026-11-19",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602288",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "ecpress-ip-26-2499",
    "published": "2026-11-18T15:00:00Z",
@@ -1553,9 +1638,9 @@
     "risk_level": "High",
     "opportunity_level": "Low",
     "related_signals": [
+     "eu-32026r2288",
      "eu-32026d2556",
-     "eu-32026r2569",
-     "eu-32026d2570"
+     "eu-32026r2569"
     ],
     "watch_next": "The annex of listed persons and entities on EUR-Lex and any related Council press statement",
     "confidence_score": 67,
@@ -14562,7 +14647,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-19T02:19:18+00:00",
+  "asOf": "2026-11-19T03:21:41+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -14828,15 +14913,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-19T02:19:46+00:00",
+  "asOf": "2026-11-19T03:22:06+00:00",
   "counts": {
    "arctic": 16,
    "ai": 21,
    "minerals": 18,
-   "geo": 89,
+   "geo": 90,
    "ai-investment-infrastructure": 7,
    "energy-power": 15,
-   "trade-sanctions": 32,
+   "trade-sanctions": 33,
    "strategic-supply-chains": 10,
    "defense-technology": 19,
    "semiconductors": 4,
