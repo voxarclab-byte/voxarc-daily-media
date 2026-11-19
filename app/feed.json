@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-19T22:19:57+00:00",
+ "generated": "2026-11-19T23:26:23+00:00",
  "items": [
   {
    "id": "gc-ministers-miller-and-solomon-announce-members-of-the-advisor",
@@ -103,7 +103,7 @@
    "stat": null,
    "keyPoints": [
     "Final rule from Industry and Security Bureau",
-    "Takes effect Nov 19, 2026",
+    "Comments close Jan 19, 2027",
     "Docket Docket No. 261116-0005"
    ],
    "sources": [
@@ -129,13 +129,19 @@
      "label": "Takes effect",
      "date": "2026-11-19",
      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+    },
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2027-01-19",
+     "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
     }
    ],
    "titleMarkup": "Addressing Remote Access to Advanced Semiconductors",
    "soWhat": {
     "changed": "The Commerce Department's Bureau of Industry and Security (BIS) issued a final rule: Addressing Remote Access to Advanced Semiconductors",
     "who": "First, this rule establishes new restrictions which will apply for exports, reexports, or transfers…",
-    "watch": "Takes effect Nov 19, 2026"
+    "watch": "Comments close Jan 19, 2027 on federalregister.gov"
    },
    "dataCard": {
     "id": "bis-rules",
@@ -15343,7 +15349,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-19T22:19:51+00:00",
+  "asOf": "2026-11-19T23:26:18+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -15609,7 +15615,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-19T22:19:57+00:00",
+  "asOf": "2026-11-19T23:26:23+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
