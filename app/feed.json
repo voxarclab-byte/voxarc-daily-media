@@ -1,8 +1,90 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-19T19:18:20+00:00",
+ "generated": "2026-11-19T20:26:36+00:00",
  "items": [
+  {
+   "id": "gc-ministers-miller-and-solomon-announce-members-of-the-advisor",
+   "published": "2026-11-19T15:00:00Z",
+   "kicker": "AI Policy · Canadian Heritage",
+   "title": "Ministers Miller and Solomon announce members of the Advisory Council on Artificial Intelligence and Culture",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "Council will help government and the creative sector navigate the rapid changes driven by artificial intelligence.",
+   "body": "Council will help government and the creative sector navigate the rapid changes driven by artificial intelligence.\n\nCanadian Heritage published this news release on Nov 19, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from Canadian Heritage"
+   ],
+   "sources": [
+    {
+     "publisher": "Canadian Heritage",
+     "date": "2026-11-19",
+     "title": "Ministers Miller and Solomon announce members of the Advisory Council on Artificial Intelligence and Culture",
+     "url": "https://www.canada.ca/en/canadian-heritage/news/2026/11/ministers-miller-and-solomon-announce-members-of-the-advisory-council-on-artificial-intelligence-and-culture.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "Canadian Heritage",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Ministers Miller and Solomon announce members of the Advisory Council on Artificial Intelligence and Culture",
+   "soWhat": {
+    "changed": "Council will help government and the creative sector navigate the rapid changes driven by artificial intelligence.",
+    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
+    "watch": "Follow-on regulations, orders or funding details from Canadian Heritage"
+   },
+   "photo": {
+    "src": "img/photos/ai-datacenter.webp",
+    "credit": "Photo: Carl Lender from Sunrise, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg",
+    "key": "ai-datacenter"
+   },
+   "signal": {
+    "so_what": "Creative industries and AI developers in Canada gain a formal channel that may shape future AI rules on content and culture.",
+    "n_sources": 1,
+    "signal_title": "Canada names AI and culture advisory council",
+    "crux": "Canadian Heritage appointed members of a new Advisory Council on Artificial Intelligence and Culture to guide government and the creative sector through AI-driven change.",
+    "importance": "Medium",
+    "impact_score": 42,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "AI",
+     "Creative industries",
+     "Media"
+    ],
+    "affected_regions": [
+     "Canada"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ac8edbd6722b5b4db1fbb12",
+     "6ad66e84a07c63635f988615",
+     "cg-2026-10-17-reg1"
+    ],
+    "watch_next": "Council mandate, first meeting outputs and any AI and copyright policy proposals from Canadian Heritage",
+    "confidence_score": 67,
+    "source_name": "Canadian Heritage",
+    "source_url": "https://www.canada.ca/en/canadian-heritage/news/2026/11/ministers-miller-and-solomon-announce-members-of-the-advisory-council-on-artificial-intelligence-and-culture.html",
+    "published_date": "2026-11-19",
+    "key_number": null,
+    "primary_source": {
+     "name": "Canadian Heritage",
+     "url": "https://www.canada.ca/en/canadian-heritage/news/2026/11/ministers-miller-and-solomon-announce-members-of-the-advisory-council-on-artificial-intelligence-and-culture.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "fr-2026-23529",
    "published": "2026-11-19T12:00:00Z",
@@ -4816,90 +4898,6 @@
    }
   },
   {
-   "id": "fr-2026-22789",
-   "published": "2026-11-06T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "The American Declaration of Freedom in Space",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
-   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Presidential document from Executive Office of the President"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-06",
-     "title": "The American Declaration of Freedom in Space",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "The American Declaration of Freedom in Space",
-   "soWhat": {
-    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
-    "n_sources": 1,
-    "signal_title": "Washington declares outer space open to permanent American presence",
-    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
-    "importance": "Medium",
-    "impact_score": 45,
-    "time_horizon": "Long term",
-    "affected_sectors": [
-     "Space",
-     "Space resources",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States",
-     "Global"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22784",
-     "fr-2026-21818",
-     "gg-364032"
-    ],
-    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-    "published_date": "2026-11-06",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "fr-2026-22735",
    "published": "2026-11-06T12:00:00Z",
    "kicker": "Geoeconomics · Federal Register",
@@ -4994,6 +4992,90 @@
    }
   },
   {
+   "id": "fr-2026-22789",
+   "published": "2026-11-06T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "The American Declaration of Freedom in Space",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
+   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-06",
+     "title": "The American Declaration of Freedom in Space",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "The American Declaration of Freedom in Space",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
+    "n_sources": 1,
+    "signal_title": "Washington declares outer space open to permanent American presence",
+    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Space",
+     "Space resources",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States",
+     "Global"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22784",
+     "fr-2026-21818",
+     "gg-364032"
+    ],
+    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "eu-32026h2394",
    "published": "2026-11-06T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -5072,6 +5154,93 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026H2394",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22593",
+   "published": "2026-11-05T12:00:00Z",
+   "kicker": "AI Policy · Federal Register",
+   "title": "Medical Devices; Hematology and Pathology Devices",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II…",
+   "body": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.\n\nKey dates: This order is effective November 5, 2026. The classification was applicable on January 31, 2024.\n\nDocument type: Final rule. Agency: Health and Human Services, Food and Drug Administration. Docket: Docket No. FDA-2026-N-12384.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Food and Drug Administration",
+    "Takes effect Nov 5, 2026",
+    "Docket Docket No. FDA-2026-N-12384"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-05",
+     "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-11-05",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
+    }
+   ],
+   "titleMarkup": "Medical Devices; Hematology and Pathology Devices",
+   "soWhat": {
+    "changed": "Food and Drug Administration issued a final rule: Medical Devices; Hematology and Pathology Devices",
+    "who": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital…",
+    "watch": "Takes effect Nov 5, 2026"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital… are most exposed.",
+    "n_sources": 1,
+    "signal_title": "FDA Sets Class II Path for AI Cervical Cytology Imaging",
+    "crux": "FDA final rule classifies digital cervical cytology slide imaging systems with an AI algorithm into class II, giving the device type a defined regulatory pathway.",
+    "importance": "Medium",
+    "impact_score": 42,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Medical devices",
+     "Healthcare AI",
+     "Diagnostics"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [],
+    "watch_next": "Special controls attached to the classification and follow-on 510(k) clearances for similar AI pathology tools.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+    "published_date": "2026-11-05",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
      "kind": "official journal"
     },
     "reported_by": null
@@ -5164,93 +5333,6 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "fr-2026-22593",
-   "published": "2026-11-05T12:00:00Z",
-   "kicker": "AI Policy · Federal Register",
-   "title": "Medical Devices; Hematology and Pathology Devices",
-   "topics": [
-    "ai"
-   ],
-   "primary": "ai",
-   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II…",
-   "body": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.\n\nKey dates: This order is effective November 5, 2026. The classification was applicable on January 31, 2024.\n\nDocument type: Final rule. Agency: Health and Human Services, Food and Drug Administration. Docket: Docket No. FDA-2026-N-12384.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Final rule from Food and Drug Administration",
-    "Takes effect Nov 5, 2026",
-    "Docket Docket No. FDA-2026-N-12384"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-05",
-     "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "effective",
-     "label": "Takes effect",
-     "date": "2026-11-05",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
-    }
-   ],
-   "titleMarkup": "Medical Devices; Hematology and Pathology Devices",
-   "soWhat": {
-    "changed": "Food and Drug Administration issued a final rule: Medical Devices; Hematology and Pathology Devices",
-    "who": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital…",
-    "watch": "Takes effect Nov 5, 2026"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital… are most exposed.",
-    "n_sources": 1,
-    "signal_title": "FDA Sets Class II Path for AI Cervical Cytology Imaging",
-    "crux": "FDA final rule classifies digital cervical cytology slide imaging systems with an AI algorithm into class II, giving the device type a defined regulatory pathway.",
-    "importance": "Medium",
-    "impact_score": 42,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Medical devices",
-     "Healthcare AI",
-     "Diagnostics"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [],
-    "watch_next": "Special controls attached to the classification and follow-on 510(k) clearances for similar AI pathology tools.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-    "published_date": "2026-11-05",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
      "kind": "official journal"
     },
     "reported_by": null
@@ -15261,24 +15343,24 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-19T19:17:34+00:00",
+  "asOf": "2026-11-19T20:26:28+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
     "7": {
-     "cur": 3,
+     "cur": 4,
      "prev": 2,
      "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 13,
+     "cur": 14,
      "prev": 10,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 23,
+     "cur": 24,
      "prev": 3,
      "dir": "up",
      "reliable": false
@@ -15527,10 +15609,10 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-19T19:18:20+00:00",
+  "asOf": "2026-11-19T20:26:36+00:00",
   "counts": {
    "arctic": 17,
-   "ai": 23,
+   "ai": 24,
    "minerals": 19,
    "geo": 92,
    "ai-investment-infrastructure": 8,
