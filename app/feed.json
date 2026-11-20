@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-19T23:26:23+00:00",
+ "generated": "2026-11-20T00:18:10+00:00",
  "items": [
   {
    "id": "gc-ministers-miller-and-solomon-announce-members-of-the-advisor",
@@ -15349,7 +15349,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-19T23:26:18+00:00",
+  "asOf": "2026-11-20T00:18:04+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -15615,7 +15615,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-19T23:26:23+00:00",
+  "asOf": "2026-11-20T00:18:10+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
