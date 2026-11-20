@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-20T18:21:09+00:00",
+ "generated": "2026-11-20T19:25:53+00:00",
  "items": [
   {
    "id": "gc-the-government-of-canada-together-with-the-province-of-ontar",
@@ -3025,7 +3025,7 @@
     "related_signals": [
      "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
      "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
-     "gc-minister-sidhu-announces-extension-of-favourable-market-acce"
+     "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng"
     ],
     "watch_next": "Any successor Iran general licenses or new designations related to Qingdao Haiye Oil Terminal on OFAC's website",
     "confidence_score": 67,
@@ -4605,6 +4605,97 @@
    }
   },
   {
+   "id": "fr-2026-22784",
+   "published": "2026-11-09T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically…",
+   "body": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.\n\nKey dates: Send comments on or before December 9, 2026.\n\nDocument type: Proposed rule. Agency: Transportation, Federal Aviation Administration. Docket: Docket No.: FAA-2026-9942, Notice No. 26-20.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Federal Aviation Administration",
+    "Comments close Dec 9, 2026",
+    "Docket Docket No.: FAA-2026-9942"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-09",
+     "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-12-09",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return"
+    }
+   ],
+   "titleMarkup": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+   "soWhat": {
+    "changed": "Federal Aviation Administration proposed a rule: Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+    "who": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for…",
+    "watch": "Comments close Dec 9, 2026 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Launch providers with upper stages that reenter uncontrolled could face a cheaper licensing case if the rule is finalized.",
+    "n_sources": 1,
+    "signal_title": "FAA moves to ease reentry safety proofs for launch operators",
+    "crux": "FAA proposed letting launch and reentry operators meet the high-consequence safety test for uncontrolled atmospheric returns by showing the vehicle breaks up enough. Two companion proposals filed the same day clarify flight safety limits.",
+    "importance": "Medium",
+    "impact_score": 48,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Space launch",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22789",
+     "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
+     "6adbb54da4c20d730fe656c5"
+    ],
+    "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+    "published_date": "2026-11-09",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "fr-2026-22793",
    "published": "2026-11-09T12:00:00Z",
    "kicker": "Geoeconomics · Federal Register",
@@ -4835,97 +4926,6 @@
    }
   },
   {
-   "id": "fr-2026-22784",
-   "published": "2026-11-09T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically…",
-   "body": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.\n\nKey dates: Send comments on or before December 9, 2026.\n\nDocument type: Proposed rule. Agency: Transportation, Federal Aviation Administration. Docket: Docket No.: FAA-2026-9942, Notice No. 26-20.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Proposed rule from Federal Aviation Administration",
-    "Comments close Dec 9, 2026",
-    "Docket Docket No.: FAA-2026-9942"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-09",
-     "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "comment",
-     "label": "Comments close",
-     "date": "2026-12-09",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return"
-    }
-   ],
-   "titleMarkup": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-   "soWhat": {
-    "changed": "Federal Aviation Administration proposed a rule: Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-    "who": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for…",
-    "watch": "Comments close Dec 9, 2026 on federalregister.gov"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "Launch providers with upper stages that reenter uncontrolled could face a cheaper licensing case if the rule is finalized.",
-    "n_sources": 1,
-    "signal_title": "FAA moves to ease reentry safety proofs for launch operators",
-    "crux": "FAA proposed letting launch and reentry operators meet the high-consequence safety test for uncontrolled atmospheric returns by showing the vehicle breaks up enough. Two companion proposals filed the same day clarify flight safety limits.",
-    "importance": "Medium",
-    "impact_score": 48,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Space launch",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22789",
-     "6adbb54da4c20d730fe656c5",
-     "fr-2026-21818"
-    ],
-    "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-    "published_date": "2026-11-09",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
    "published": "2026-11-07T15:00:00Z",
    "kicker": "Geoeconomics · US Department of Energy",
@@ -5010,6 +5010,94 @@
    }
   },
   {
+   "id": "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
+   "published": "2026-11-06T15:00:00Z",
+   "kicker": "Critical Minerals · Office of the United States Trade Representative",
+   "title": "Readout of Ambassador Greer’s Call with China’s Vice Premier He Lifeng",
+   "topics": [
+    "minerals",
+    "geo"
+   ],
+   "primary": "minerals",
+   "summary": "<span id=\"pageTitle\" class=\"field field--name-title field--type-string field--label-hidden\">Readout of Ambassador Greer’s Call with China’s Vice Premier He Lifeng</span> <span class=\"field field--name-uid field--type-entity-reference…",
+   "body": "<span id=\"pageTitle\" class=\"field field--name-title field--type-string field--label-hidden\">Readout of Ambassador Greer’s Call with China’s Vice Premier He Lifeng</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://ustr.gov/users/myarbrough\" typeof=\"schema:Person\" property=\"schema:name\" datatype>myarbrough</span></span> <span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-06T13:42:20-05:00\" title=\"Friday, November 6, 2026 - 13:42\" class=\"datetime\">Fri…\n\nOffice of the United States Trade Representative published this on Nov 6, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from Office of the United States Trade Representative. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from Office of the United States Trade Representative",
+    "Published Nov 6, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "Office of the United States Trade Representative",
+     "date": "2026-11-06",
+     "title": "Readout of Ambassador Greer’s Call with China’s Vice Premier He Lifeng",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Office of the United States Trade Representative",
+   "primarySource": {
+    "name": "Office of the United States Trade Representative",
+    "kind": "USTR press release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Readout of Ambassador Greer’s Call with China’s Vice Premier He Lifeng",
+   "soWhat": {
+    "changed": "<span id=\"pageTitle\" class=\"field field--name-title field--type-string field--label-hidden\">Readout of Ambassador Greer’s Call with China’s Vice Premier He…",
+    "who": "Miners, processors, offtakers and investors in critical-mineral supply chains",
+    "watch": "Follow-on measures or implementation details from Office of the United States Trade Representative"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "Rare earth supply to US manufacturers now sits inside a compliance-monitoring track, so magnet, defence and EV buyers should watch for slippage or new trade measures.",
+    "n_sources": 1,
+    "signal_title": "US presses China to deliver on rare earth commitments",
+    "crux": "On Nov 6, USTR Greer and Treasury Secretary Bessent told Vice Premier He Lifeng that China must fully implement past commitments on agricultural purchases, rare earths and other critical minerals, with the US monitoring compliance.",
+    "importance": "Medium",
+    "impact_score": 58,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Critical minerals",
+     "Rare earths",
+     "Defence manufacturing",
+     "Automotive and EVs",
+     "Agriculture",
+     "Trade"
+    ],
+    "affected_regions": [
+     "United States",
+     "China"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "gc-minister-sidhu-announces-extension-of-favourable-market-acce",
+     "fr-2026-21896",
+     "fr-2026-23193"
+    ],
+    "watch_next": "Any USTR or Treasury statement on Chinese compliance, and new export licensing data on rare earths",
+    "confidence_score": 67,
+    "source_name": "Office of the United States Trade Representative",
+    "source_url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "Office of the United States Trade Representative",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
    "published": "2026-11-06T15:00:00Z",
    "kicker": "Arctic · National Defence",
@@ -5088,6 +5176,90 @@
      "name": "National Defence",
      "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
      "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22789",
+   "published": "2026-11-06T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "The American Declaration of Freedom in Space",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
+   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-06",
+     "title": "The American Declaration of Freedom in Space",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "The American Declaration of Freedom in Space",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
+    "n_sources": 1,
+    "signal_title": "Washington declares outer space open to permanent American presence",
+    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Space",
+     "Space resources",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States",
+     "Global"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22784",
+     "fr-2026-21818",
+     "gg-364032"
+    ],
+    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official journal"
     },
     "reported_by": null
    }
@@ -5187,90 +5359,6 @@
    }
   },
   {
-   "id": "fr-2026-22789",
-   "published": "2026-11-06T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "The American Declaration of Freedom in Space",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
-   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Presidential document from Executive Office of the President"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-06",
-     "title": "The American Declaration of Freedom in Space",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "The American Declaration of Freedom in Space",
-   "soWhat": {
-    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
-    "n_sources": 1,
-    "signal_title": "Washington declares outer space open to permanent American presence",
-    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
-    "importance": "Medium",
-    "impact_score": 45,
-    "time_horizon": "Long term",
-    "affected_sectors": [
-     "Space",
-     "Space resources",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States",
-     "Global"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22784",
-     "fr-2026-21818",
-     "gg-364032"
-    ],
-    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-    "published_date": "2026-11-06",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "eu-32026h2394",
    "published": "2026-11-06T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -5349,93 +5437,6 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026H2394",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "fr-2026-22593",
-   "published": "2026-11-05T12:00:00Z",
-   "kicker": "AI Policy · Federal Register",
-   "title": "Medical Devices; Hematology and Pathology Devices",
-   "topics": [
-    "ai"
-   ],
-   "primary": "ai",
-   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II…",
-   "body": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.\n\nKey dates: This order is effective November 5, 2026. The classification was applicable on January 31, 2024.\n\nDocument type: Final rule. Agency: Health and Human Services, Food and Drug Administration. Docket: Docket No. FDA-2026-N-12384.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Final rule from Food and Drug Administration",
-    "Takes effect Nov 5, 2026",
-    "Docket Docket No. FDA-2026-N-12384"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-05",
-     "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "effective",
-     "label": "Takes effect",
-     "date": "2026-11-05",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
-    }
-   ],
-   "titleMarkup": "Medical Devices; Hematology and Pathology Devices",
-   "soWhat": {
-    "changed": "Food and Drug Administration issued a final rule: Medical Devices; Hematology and Pathology Devices",
-    "who": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital…",
-    "watch": "Takes effect Nov 5, 2026"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital… are most exposed.",
-    "n_sources": 1,
-    "signal_title": "FDA Sets Class II Path for AI Cervical Cytology Imaging",
-    "crux": "FDA final rule classifies digital cervical cytology slide imaging systems with an AI algorithm into class II, giving the device type a defined regulatory pathway.",
-    "importance": "Medium",
-    "impact_score": 42,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Medical devices",
-     "Healthcare AI",
-     "Diagnostics"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [],
-    "watch_next": "Special controls attached to the classification and follow-on 510(k) clearances for similar AI pathology tools.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-    "published_date": "2026-11-05",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
      "kind": "official journal"
     },
     "reported_by": null
@@ -5528,6 +5529,93 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22593",
+   "published": "2026-11-05T12:00:00Z",
+   "kicker": "AI Policy · Federal Register",
+   "title": "Medical Devices; Hematology and Pathology Devices",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II…",
+   "body": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.\n\nKey dates: This order is effective November 5, 2026. The classification was applicable on January 31, 2024.\n\nDocument type: Final rule. Agency: Health and Human Services, Food and Drug Administration. Docket: Docket No. FDA-2026-N-12384.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Food and Drug Administration",
+    "Takes effect Nov 5, 2026",
+    "Docket Docket No. FDA-2026-N-12384"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-05",
+     "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-11-05",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
+    }
+   ],
+   "titleMarkup": "Medical Devices; Hematology and Pathology Devices",
+   "soWhat": {
+    "changed": "Food and Drug Administration issued a final rule: Medical Devices; Hematology and Pathology Devices",
+    "who": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital…",
+    "watch": "Takes effect Nov 5, 2026"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital… are most exposed.",
+    "n_sources": 1,
+    "signal_title": "FDA Sets Class II Path for AI Cervical Cytology Imaging",
+    "crux": "FDA final rule classifies digital cervical cytology slide imaging systems with an AI algorithm into class II, giving the device type a defined regulatory pathway.",
+    "importance": "Medium",
+    "impact_score": 42,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Medical devices",
+     "Healthcare AI",
+     "Diagnostics"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [],
+    "watch_next": "Special controls attached to the classification and follow-on 510(k) clearances for similar AI pathology tools.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+    "published_date": "2026-11-05",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
      "kind": "official journal"
     },
     "reported_by": null
@@ -5690,9 +5778,9 @@
     "risk_level": "Low",
     "opportunity_level": "High",
     "related_signals": [
+     "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
      "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "fr-2026-23193",
-     "ecpress-ip-26-2499"
+     "fr-2026-23193"
     ],
     "watch_next": "Follow-up commitments from the Canada-China Joint Economic and Trade Commission.",
     "confidence_score": 67,
@@ -6486,6 +6574,98 @@
    }
   },
   {
+   "id": "doe-energy-department-announces-over-230-million-funding-opportu",
+   "published": "2026-10-30T15:00:00Z",
+   "kicker": "Geoeconomics · US Department of Energy",
+   "title": "Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America's Grid Supply Chain…",
+   "topics": [
+    "geo",
+    "energy-power",
+    "strategic-supply-chains"
+   ],
+   "primary": "geo",
+   "summary": "Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and advance efforts to secure America&#039;s electric grid.",
+   "body": "Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and advance efforts to secure America&#039;s electric grid.\n\nUS Department of Energy published this on Oct 30, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Department of Energy. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from US Department of Energy",
+    "Published Oct 30, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "US Department of Energy",
+     "date": "2026-10-30",
+     "title": "Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America's Grid Supply Chain and Lower Electricity Costs",
+     "url": "https://www.energy.gov/articles/energy-department-announces-over-230-million-funding-opportunity-strengthen-americas-grid",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "US Department of Energy",
+   "primarySource": {
+    "name": "US Department of Energy",
+    "kind": "Department of Energy news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America's Grid Supply Chain…",
+   "soWhat": {
+    "changed": "Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and advance efforts to secure America&#039;s electric grid.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from US Department of Energy"
+   },
+   "photo": {
+    "src": "img/photos/grid-power.webp",
+    "credit": "Photo: Foto3821, CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Electric_transmission_power_tower2.jpg",
+    "key": "grid-power"
+   },
+   "signal": {
+    "so_what": "Transformer and grid component makers using US-sourced materials gain a funding edge as power demand rises, while foreign suppliers face a policy push against them.",
+    "n_sources": 1,
+    "signal_title": "US funds domestic grid component supply chain to cut import reliance",
+    "crux": "DOE opened the $237 million Grid SCALED funding opportunity: up to $187 million for US-made alternative materials and subcomponents and up to $50 million for refurbishing and reusing grid equipment, the first round of a program authorized up to $375 million.",
+    "importance": "Medium",
+    "impact_score": 55,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Utilities",
+     "Electrical equipment manufacturing",
+     "Transformers",
+     "Metals and materials",
+     "Data centres"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "6ac8edbd6722b5b4db1fbb14",
+     "6ac8edbd6722b5b4db1fbb0c",
+     "gg-364174"
+    ],
+    "watch_next": "Application deadline, selected projects and the next rounds of DOE's Grid Supply Chain Program",
+    "confidence_score": 67,
+    "source_name": "US Department of Energy",
+    "source_url": "https://www.energy.gov/articles/energy-department-announces-over-230-million-funding-opportunity-strengthen-americas-grid",
+    "published_date": "2026-10-30",
+    "key_number": {
+     "value": "$237 million",
+     "unit": "",
+     "label": "Grid SCALED funding opportunity",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "US Department of Energy",
+     "url": "https://www.energy.gov/articles/energy-department-announces-over-230-million-funding-opportunity-strengthen-americas-grid",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "gg-364174",
    "published": "2026-10-30T12:00:00Z",
    "kicker": "Geoeconomics · Grants.gov",
@@ -6564,8 +6744,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "6ac8edbd6722b5b4db1fbb0c",
-     "fr-2026-22385",
-     "6ac8edbd6722b5b4db1fbb06"
+     "doe-energy-department-announces-over-230-million-funding-opportu",
+     "fr-2026-22385"
     ],
     "watch_next": "Applications due February 8, 2027 under DE-FOA-0003641.",
     "confidence_score": 72,
@@ -7515,8 +7695,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6adfaa09c6ab4e86516a9cb3",
-     "6ae0fb95987facb4c57e55ac",
-     "6ace51427d6da06c8ebdbdd1"
+     "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
+     "6ae0fb95987facb4c57e55ac"
     ],
     "watch_next": "Applications due Dec 11, 2026",
     "confidence_score": 67,
@@ -7935,33 +8115,7 @@
     "seriesLabel": "Final rules per month, last 12 months",
     "weekly": [
      0,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     1,
-     1,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      0,
@@ -7972,9 +8126,35 @@
      0,
      1,
      0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
      1,
-     2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
      1,
+     1,
+     0,
+     1,
+     1,
+     0,
+     3,
+     0,
      0,
      0,
      1,
@@ -8042,8 +8222,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-19",
-    "asOfLabel": "Nov 19, 2026",
+    "asOf": "2026-11-20",
+    "asOfLabel": "Nov 20, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -8790,9 +8970,9 @@
     "risk_level": "Low",
     "opportunity_level": "High",
     "related_signals": [
+     "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
      "6ad66e84a07c63635f98860f",
-     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
-     "6ac8edbc6722b5b4db1fbae6"
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ"
     ],
     "watch_next": "Consultation deadline, draft legislation, and details of the PNT resilience measures.",
     "confidence_score": 67,
@@ -8803,6 +8983,98 @@
     "primary_source": {
      "name": "Innovation, Science and Economic Development Canada",
      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-launches-consultations-on-a-new-canadian-space-act-and-takes-action-to-strengthen-the-resiliency-of-canadas-space-infrastructu.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
+   "published": "2026-10-21T15:00:00Z",
+   "kicker": "Geoeconomics · National Defence",
+   "title": "Minister McGuinty announces strategic advancements for Canada’s sovereign space capabilities",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "Canada is taking bold actions to strengthen its sovereign space capabilities and invest in the development of a strong, competitive Canadian space sector.",
+   "body": "Canada is taking bold actions to strengthen its sovereign space capabilities and invest in the development of a strong, competitive Canadian space sector.\n\nNational Defence published this news release on Oct 21, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from National Defence"
+   ],
+   "sources": [
+    {
+     "publisher": "National Defence",
+     "date": "2026-10-21",
+     "title": "Minister McGuinty announces strategic advancements for Canada’s sovereign space capabilities",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-announces-strategic-advancements-for-canadas-sovereign-space-capabilities.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "National Defence",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Minister McGuinty announces strategic advancements for Canada’s sovereign space capabilities",
+   "soWhat": {
+    "changed": "Canada is taking bold actions to strengthen its sovereign space capabilities and invest in the development of a strong, competitive Canadian space sector.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on regulations, orders or funding details from National Defence"
+   },
+   "photo": {
+    "src": "img/photos/ai-supercomputer.webp",
+    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
+    "key": "ai-supercomputer"
+   },
+   "signal": {
+    "so_what": "Canadian launch and satellite communications firms gain a defence customer, and Arctic domain awareness gets a space layer that shapes northern security planning.",
+    "n_sources": 1,
+    "signal_title": "Canada builds sovereign space links for Arctic surveillance",
+    "crux": "National Defence signed a 10-year, $20 million spaceport agreement with NordSpace for the Atlantic Spaceport Complex and awarded Kepler Communications $4.7 million for optical inter-satellite links serving the Arctic and NORTHWATCH surveillance, with this year's space contracts, grants and contributions topping $3 billion.",
+    "importance": "Medium",
+    "impact_score": 56,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Defence",
+     "Space and satellites",
+     "Telecommunications",
+     "Arctic security",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Arctic",
+     "Newfoundland and Labrador"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "gc-government-of-canada-launches-consultations-on-a-new-canadia",
+     "6ad66e84a07c63635f98860f",
+     "6acab8dbf6dba531c0671d32"
+    ],
+    "watch_next": "NORTHWATCH program milestones and further sovereign launch contracts from National Defence",
+    "confidence_score": 67,
+    "source_name": "National Defence",
+    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-announces-strategic-advancements-for-canadas-sovereign-space-capabilities.html",
+    "published_date": "2026-10-21",
+    "key_number": {
+     "value": "$20 million",
+     "unit": "",
+     "label": "spaceport agreement with NordSpace for the",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "National Defence",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-announces-strategic-advancements-for-canadas-sovereign-space-capabilities.html",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -12443,8 +12715,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "6ad7c0a0a69d84a91a2bf0be",
-     "6ad66e84a07c63635f9885ef",
-     "6ad66e84a07c63635f9885ed"
+     "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
+     "6ad66e84a07c63635f9885ef"
     ],
     "watch_next": "Service start for the Enhanced Satellite Communications Project, Polar, expected in 2028.",
     "confidence_score": 88,
@@ -14777,9 +15049,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Medium",
     "related_signals": [
+     "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
      "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
-     "6ace51427d6da06c8ebdbdd1",
-     "6ad7c0a0a69d84a91a2bf0be"
+     "6ace51427d6da06c8ebdbdd1"
     ],
     "watch_next": "The JEF recommendation is not membership.",
     "confidence_score": 88,
@@ -15538,7 +15810,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-20T18:21:03+00:00",
+  "asOf": "2026-11-20T19:24:58+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -15669,13 +15941,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 11,
+     "cur": 12,
      "prev": 2,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 13,
+     "cur": 14,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -15689,13 +15961,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 73,
-     "prev": 14,
+     "cur": 75,
+     "prev": 15,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 87,
+     "cur": 90,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -15709,13 +15981,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 11,
+     "cur": 12,
      "prev": 7,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 18,
+     "cur": 19,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -15750,12 +16022,12 @@
     },
     "30": {
      "cur": 6,
-     "prev": 2,
+     "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 8,
+     "cur": 9,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -15769,13 +16041,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 10,
+     "cur": 11,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 11,
+     "cur": 12,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -15804,21 +16076,21 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-20T18:21:09+00:00",
+  "asOf": "2026-11-20T19:25:53+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
-   "minerals": 19,
-   "geo": 94,
+   "minerals": 20,
+   "geo": 97,
    "ai-investment-infrastructure": 8,
-   "energy-power": 15,
+   "energy-power": 16,
    "trade-sanctions": 34,
-   "strategic-supply-chains": 11,
+   "strategic-supply-chains": 12,
    "defense-technology": 21,
    "semiconductors": 5,
    "economic-security": 3,
    "cyber-digital-sovereignty": 5,
-   "space-satellites": 8
+   "space-satellites": 9
   },
   "live": [
    "arctic",
