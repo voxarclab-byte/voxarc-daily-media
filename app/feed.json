@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-20T22:27:10+00:00",
+ "generated": "2026-11-20T23:24:36+00:00",
  "items": [
   {
    "id": "gc-the-government-of-canada-together-with-the-province-of-ontar",
@@ -2178,93 +2178,6 @@
    }
   },
   {
-   "id": "eu-32026r2558",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Implementing Regulation (EU) 2026/2558",
-    "Published Nov 16, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "soWhat": {
-    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
-    "n_sources": 1,
-    "signal_title": "EU widens action on Russian hybrid threats",
-    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
-    "importance": "Medium",
-    "impact_score": 52,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Government",
-     "Shipping",
-     "Cybersecurity",
-     "Financial Services"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Russia"
-    ],
-    "risk_level": "High",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "eu-32026d2556",
-     "eu-32026r2569",
-     "eu-32026d2570"
-    ],
-    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-    "published_date": "2026-11-16",
-    "duplicate_of": "eu-32026r2550",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "eu-32026d2556",
    "published": "2026-11-16T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -2426,6 +2339,93 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2569",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2558",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2558",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
+    "n_sources": 1,
+    "signal_title": "EU widens action on Russian hybrid threats",
+    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Government",
+     "Shipping",
+     "Cybersecurity",
+     "Financial Services"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026r2569",
+     "eu-32026d2570"
+    ],
+    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+    "published_date": "2026-11-16",
+    "duplicate_of": "eu-32026r2550",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
      "kind": "official journal"
     },
     "reported_by": null
@@ -15810,7 +15810,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-20T22:27:01+00:00",
+  "asOf": "2026-11-20T23:24:29+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -16076,7 +16076,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-20T22:27:10+00:00",
+  "asOf": "2026-11-20T23:24:36+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
