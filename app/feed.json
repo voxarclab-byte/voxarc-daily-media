@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-20T11:25:21+00:00",
+ "generated": "2026-11-20T12:25:59+00:00",
  "items": [
   {
    "id": "govuk-grants-up-to-45-million-boost-uk-growth-as-ministry-of-defen",
@@ -15441,7 +15441,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-20T11:25:10+00:00",
+  "asOf": "2026-11-20T12:25:51+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -15586,9 +15586,9 @@
    },
    "geo": {
     "7": {
-     "cur": 24,
+     "cur": 22,
      "prev": 19,
-     "dir": "up",
+     "dir": "steady",
      "reliable": false
     },
     "30": {
@@ -15647,7 +15647,7 @@
    "space-satellites": {
     "7": {
      "cur": 0,
-     "prev": 3,
+     "prev": 2,
      "dir": "down",
      "reliable": false
     },
@@ -15686,8 +15686,8 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 10,
-     "prev": 9,
+     "cur": 8,
+     "prev": 10,
      "dir": "steady",
      "reliable": false
     },
@@ -15707,7 +15707,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-20T11:25:21+00:00",
+  "asOf": "2026-11-20T12:25:59+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
