@@ -1,8 +1,192 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-21T04:22:57+00:00",
+ "generated": "2026-11-21T11:23:39+00:00",
  "items": [
+  {
+   "id": "fr-2026-23812",
+   "published": "2026-11-23T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Cybersecurity Labeling for Internet of Things",
+   "topics": [
+    "geo",
+    "cyber-digital-sovereignty"
+   ],
+   "primary": "geo",
+   "summary": "In this document, the Public Safety and Homeland Security Bureau (Bureau) of the Federal Communications Commission (Commission or FCC) seeks comment on recommendations for the U.S. Cyber Trust Mark (USCTM) program…",
+   "body": "In this document, the Public Safety and Homeland Security Bureau (Bureau) of the Federal Communications Commission (Commission or FCC) seeks comment on recommendations for the U.S. Cyber Trust Mark (USCTM) program, a voluntary cybersecurity labeling program for wireless consumer Internet of Things (IoT) products. The Bureau seeks comment on the design and placement of the FCC IoT Label, display of product registry information, certification renewal, post-market surveillance, and procedures for complaints, noncompliant products, and program administrators that withdraw or whose authority is terminated. These actions would support the establishment and effective administration of the USCTM program and provide consumers with accessible cybersecurity information about certified IoT products.\n\nKey dates: Comments are due on or before December 23, 2026; reply comments are due on or before January 7, 2027.\n\nDocument type: Proposed rule. Agency: Federal Communications Commission. Docket: PS Docket No. 23-239, DA 26-1162, FR ID 377778.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Federal Communications Commission",
+    "Comments close Jan 7, 2027",
+    "Docket PS Docket No. 23-239, DA 26-1162"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-23",
+     "title": "Cybersecurity Labeling for Internet of Things",
+     "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23812/cybersecurity-labeling-for-internet-of-things",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-12-23",
+     "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23812/cybersecurity-labeling-for-internet-of-things"
+    },
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2027-01-07",
+     "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23812/cybersecurity-labeling-for-internet-of-things"
+    }
+   ],
+   "titleMarkup": "Cybersecurity Labeling for Internet of Things",
+   "soWhat": {
+    "changed": "Federal Communications Commission proposed a rule: Cybersecurity Labeling for Internet of Things",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Comments close Jan 7, 2027 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Makers and importers of connected devices selling into the US should track how label criteria evolve and file views before comments close.",
+    "n_sources": 1,
+    "signal_title": "FCC weighs next rules for the US Cyber Trust Mark on connected devices",
+    "crux": "The FCC Public Safety and Homeland Security Bureau is seeking comment on recommendations for the US Cyber Trust Mark IoT labeling program.",
+    "importance": "Medium",
+    "impact_score": 44,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Consumer electronics",
+     "Telecom",
+     "Cybersecurity",
+     "Semiconductors"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ad66e84a07c63635f9885ed",
+     "cisa-cisa-announces-enhanced-reporting-form-cyber-incidents",
+     "fr-2026-23529"
+    ],
+    "watch_next": "Comments close Jan 7, 2027 on federalregister.gov",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/23/2026-23812/cybersecurity-labeling-for-internet-of-things",
+    "published_date": "2026-11-23",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23812/cybersecurity-labeling-for-internet-of-things",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-23785",
+   "published": "2026-11-23T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Notice of OFAC Sanctions Action",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the name of one or more persons that have been placed on OFAC's Specially Designated Nationals and Blocked Persons List…",
+   "body": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the name of one or more persons that have been placed on OFAC's Specially Designated Nationals and Blocked Persons List (SDN List) based on OFAC's determination that one or more applicable legal criteria were satisfied. All property and interests in property subject to U.S. jurisdiction of these persons are blocked, and U.S. persons are generally prohibited from engaging in transactions with them.\n\nKey dates: This action was issued on November 19, 2026. See SUPPLEMENTARY INFORMATION for relevant dates.\n\nDocument type: Notice. Agency: Treasury, Foreign Assets Control Office.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Notice from Foreign Assets Control Office"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-23",
+     "title": "Notice of OFAC Sanctions Action",
+     "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23785/notice-of-ofac-sanctions-action",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Notice of OFAC Sanctions Action",
+   "soWhat": {
+    "changed": "Foreign Assets Control Office published a notice: OFAC Sanctions Action",
+    "who": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the name of one or more persons that have been placed on OFAC's…",
+    "watch": "Watch for the final rule or implementing guidance from Foreign Assets Control Office"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Firms with US nexus must screen counterparties against the updated SDN list now, since any assets of listed persons are blocked.",
+    "n_sources": 1,
+    "signal_title": "OFAC adds new names to the US sanctions blocklist",
+    "crux": "Treasury's OFAC published the names of one or more persons newly placed on the Specially Designated Nationals and Blocked Persons List.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Compliance",
+     "Banking and finance",
+     "Trade",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "United States",
+     "Global"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "ecpress-ip-26-2499",
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
+     "6ac8edbd6722b5b4db1fbb06"
+    ],
+    "watch_next": "Check the OFAC Recent Actions page for the named entries and any related general licenses",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/23/2026-23785/notice-of-ofac-sanctions-action",
+    "published_date": "2026-11-23",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23785/notice-of-ofac-sanctions-action",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "gc-the-government-of-canada-together-with-the-province-of-ontar",
    "published": "2026-11-20T15:00:00Z",
@@ -463,8 +647,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-20",
-    "asOfLabel": "Nov 20, 2026",
+    "asOf": "2026-11-21",
+    "asOfLabel": "Nov 21, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -852,9 +1036,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
+     "fr-2026-23785",
      "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
-     "fr-2026-23196"
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ"
     ],
     "watch_next": "Office setup on Jan 16, 2027 and the first anti-circumvention outreach missions under the new envoy",
     "confidence_score": 79,
@@ -1991,8 +2175,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "6ad66e84a07c63635f9885ed",
-     "fr-2026-22861",
-     "fr-2026-22600"
+     "fr-2026-23785",
+     "fr-2026-22861"
     ],
     "watch_next": "Correction takes effect Nov 16, 2026; further FCC actions on submarine cable licensing",
     "confidence_score": 67,
@@ -2178,93 +2362,6 @@
    }
   },
   {
-   "id": "eu-32026r2558",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Implementing Regulation (EU) 2026/2558",
-    "Published Nov 16, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "soWhat": {
-    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
-    "n_sources": 1,
-    "signal_title": "EU widens action on Russian hybrid threats",
-    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
-    "importance": "Medium",
-    "impact_score": 52,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Government",
-     "Shipping",
-     "Cybersecurity",
-     "Financial Services"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Russia"
-    ],
-    "risk_level": "High",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "eu-32026d2556",
-     "eu-32026r2569",
-     "eu-32026d2570"
-    ],
-    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-    "published_date": "2026-11-16",
-    "duplicate_of": "eu-32026r2550",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "eu-32026d2556",
    "published": "2026-11-16T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -2426,6 +2523,93 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2569",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2558",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2558",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
+    "n_sources": 1,
+    "signal_title": "EU widens action on Russian hybrid threats",
+    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Government",
+     "Shipping",
+     "Cybersecurity",
+     "Financial Services"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026r2569",
+     "eu-32026d2570"
+    ],
+    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+    "published_date": "2026-11-16",
+    "duplicate_of": "eu-32026r2550",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
      "kind": "official journal"
     },
     "reported_by": null
@@ -2937,9 +3121,9 @@
     "risk_level": "Low",
     "opportunity_level": "Low",
     "related_signals": [
+     "fr-2026-23785",
      "fr-2026-22861",
-     "fr-2026-22386",
-     "fr-C1-2026-22802"
+     "fr-2026-22386"
     ],
     "watch_next": "Further Cuba program general licenses or regulatory amendments from OFAC",
     "confidence_score": 67,
@@ -3980,8 +4164,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "ecpress-ip-26-2499",
-     "fr-2026-22861",
-     "fr-2026-23196"
+     "fr-2026-23785",
+     "fr-2026-22861"
     ],
     "watch_next": "Published regulations naming the 11 entities and any allied sanctions moves",
     "confidence_score": 67,
@@ -4586,9 +4770,9 @@
     "risk_level": "Low",
     "opportunity_level": "Low",
     "related_signals": [
+     "fr-2026-23812",
      "nist-quantum-physics-can-verify-persons-location-nist-researchers",
-     "eu-32026r2550",
-     "govuk-king-opens-new-national-cyber-force-hq-boosting-north-west-g"
+     "eu-32026r2550"
     ],
     "watch_next": "CISA's FAQ and any further mandate changes for who must use the new form",
     "confidence_score": 67,
@@ -6379,7 +6563,7 @@
     "related_signals": [
      "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
      "eu-32026r2490",
-     "fr-2026-22861"
+     "fr-2026-23785"
     ],
     "watch_next": "The first designations or OFAC regulations issued under section 8335.",
     "confidence_score": 67,
@@ -7495,7 +7679,7 @@
     "related_signals": [
      "nist-quantum-physics-can-verify-persons-location-nist-researchers",
      "fr-2026-22861",
-     "cisa-cisa-announces-enhanced-reporting-form-cyber-incidents"
+     "fr-2026-23812"
     ],
     "watch_next": "Agency deadlines for quantum-vulnerable algorithms and procurement requirements for vendors.",
     "confidence_score": 67,
@@ -9259,11 +9443,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.05M km²",
+    "value": "9.07M km²",
     "unit": "daily extent",
-    "change": "-1.81M km² vs the 1981–2010 average for the date",
+    "change": "-1.84M km² vs the 1981–2010 average for the date",
     "series": [
-     6.954,
      7.178,
      7.364,
      7.344,
@@ -9292,14 +9475,11 @@
      9.019,
      8.995,
      9.083,
-     9.048
+     9.048,
+     9.074
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-22",
-      5.117
-     ],
      [
       "2026-08-23",
       5.107
@@ -9655,11 +9835,15 @@
      [
       "2026-11-19",
       9.048
+     ],
+     [
+      "2026-11-20",
+      9.074
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-19",
-    "asOfLabel": "Nov 19, 2026",
+    "asOf": "2026-11-20",
+    "asOfLabel": "Nov 20, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -10196,8 +10380,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-20",
-    "asOfLabel": "Nov 20, 2026",
+    "asOf": "2026-11-21",
+    "asOfLabel": "Nov 21, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -10458,8 +10642,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-20",
-    "asOfLabel": "Nov 20, 2026",
+    "asOf": "2026-11-21",
+    "asOfLabel": "Nov 21, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -11153,11 +11337,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.05M km²",
+    "value": "9.07M km²",
     "unit": "daily extent",
-    "change": "-1.81M km² vs the 1981–2010 average for the date",
+    "change": "-1.84M km² vs the 1981–2010 average for the date",
     "series": [
-     6.954,
      7.178,
      7.364,
      7.344,
@@ -11186,14 +11369,11 @@
      9.019,
      8.995,
      9.083,
-     9.048
+     9.048,
+     9.074
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-22",
-      5.117
-     ],
      [
       "2026-08-23",
       5.107
@@ -11549,11 +11729,15 @@
      [
       "2026-11-19",
       9.048
+     ],
+     [
+      "2026-11-20",
+      9.074
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-19",
-    "asOfLabel": "Nov 19, 2026",
+    "asOf": "2026-11-20",
+    "asOfLabel": "Nov 20, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -12187,11 +12371,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.05M km²",
+    "value": "9.07M km²",
     "unit": "daily extent",
-    "change": "-1.81M km² vs the 1981–2010 average for the date",
+    "change": "-1.84M km² vs the 1981–2010 average for the date",
     "series": [
-     6.954,
      7.178,
      7.364,
      7.344,
@@ -12220,14 +12403,11 @@
      9.019,
      8.995,
      9.083,
-     9.048
+     9.048,
+     9.074
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-22",
-      5.117
-     ],
      [
       "2026-08-23",
       5.107
@@ -12583,11 +12763,15 @@
      [
       "2026-11-19",
       9.048
+     ],
+     [
+      "2026-11-20",
+      9.074
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-19",
-    "asOfLabel": "Nov 19, 2026",
+    "asOf": "2026-11-20",
+    "asOfLabel": "Nov 20, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -12937,11 +13121,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.05M km²",
+    "value": "9.07M km²",
     "unit": "daily extent",
-    "change": "-1.81M km² vs the 1981–2010 average for the date",
+    "change": "-1.84M km² vs the 1981–2010 average for the date",
     "series": [
-     6.954,
      7.178,
      7.364,
      7.344,
@@ -12970,14 +13153,11 @@
      9.019,
      8.995,
      9.083,
-     9.048
+     9.048,
+     9.074
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-22",
-      5.117
-     ],
      [
       "2026-08-23",
       5.107
@@ -13333,11 +13513,15 @@
      [
       "2026-11-19",
       9.048
+     ],
+     [
+      "2026-11-20",
+      9.074
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-19",
-    "asOfLabel": "Nov 19, 2026",
+    "asOf": "2026-11-20",
+    "asOfLabel": "Nov 20, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -13583,11 +13767,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.05M km²",
+    "value": "9.07M km²",
     "unit": "daily extent",
-    "change": "-1.81M km² vs the 1981–2010 average for the date",
+    "change": "-1.84M km² vs the 1981–2010 average for the date",
     "series": [
-     6.954,
      7.178,
      7.364,
      7.344,
@@ -13616,14 +13799,11 @@
      9.019,
      8.995,
      9.083,
-     9.048
+     9.048,
+     9.074
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-22",
-      5.117
-     ],
      [
       "2026-08-23",
       5.107
@@ -13979,11 +14159,15 @@
      [
       "2026-11-19",
       9.048
+     ],
+     [
+      "2026-11-20",
+      9.074
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-19",
-    "asOfLabel": "Nov 19, 2026",
+    "asOf": "2026-11-20",
+    "asOfLabel": "Nov 20, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -15163,11 +15347,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "9.05M km²",
+   "value": "9.07M km²",
    "unit": "daily extent",
-   "change": "-1.81M km² vs the 1981–2010 average for the date",
+   "change": "-1.84M km² vs the 1981–2010 average for the date",
    "series": [
-    6.954,
     7.178,
     7.364,
     7.344,
@@ -15196,19 +15379,16 @@
     9.019,
     8.995,
     9.083,
-    9.048
+    9.048,
+    9.074
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-19",
-   "asOfLabel": "Nov 19, 2026",
+   "asOf": "2026-11-20",
+   "asOfLabel": "Nov 20, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-22",
-     5.117
-    ],
     [
      "2026-08-23",
      5.107
@@ -15564,6 +15744,10 @@
     [
      "2026-11-19",
      9.048
+    ],
+    [
+     "2026-11-20",
+     9.074
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -15689,8 +15873,8 @@
     2
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-20",
-   "asOfLabel": "Nov 20, 2026",
+   "asOf": "2026-11-21",
+   "asOfLabel": "Nov 21, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -15810,7 +15994,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-21T04:22:50+00:00",
+  "asOf": "2026-11-21T11:23:21+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -16076,20 +16260,20 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-21T04:22:57+00:00",
+  "asOf": "2026-11-21T11:23:39+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
    "minerals": 20,
-   "geo": 97,
+   "geo": 99,
    "ai-investment-infrastructure": 8,
    "energy-power": 16,
-   "trade-sanctions": 34,
+   "trade-sanctions": 35,
    "strategic-supply-chains": 12,
    "defense-technology": 21,
    "semiconductors": 5,
    "economic-security": 3,
-   "cyber-digital-sovereignty": 5,
+   "cyber-digital-sovereignty": 6,
    "space-satellites": 9
   },
   "live": [
