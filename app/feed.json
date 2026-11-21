@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-21T15:25:09+00:00",
+ "generated": "2026-11-21T16:23:43+00:00",
  "items": [
   {
    "id": "fr-2026-23812",
@@ -183,6 +183,177 @@
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23785/notice-of-ofac-sanctions-action",
      "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gc-canada-to-join-the-nato-innovation-fund",
+   "published": "2026-11-21T15:00:00Z",
+   "kicker": "Geoeconomics · National Defence",
+   "title": "Canada to Join the NATO Innovation Fund",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "On Nov 21, 2026, the Minister of National Defence, the Honourable David J. McGuinty, announced that Canada has concluded negotiations and formally joined the North Atlantic Treaty Organization (NATO) Innovation Fund (NIF), becoming the 25th NATO Ally…",
+   "body": "On Nov 21, 2026, the Minister of National Defence, the Honourable David J. McGuinty, announced that Canada has concluded negotiations and formally joined the North Atlantic Treaty Organization (NATO) Innovation Fund (NIF), becoming the 25th NATO Ally, and the first in North America to join.\n\nNational Defence published this news release on Nov 21, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from National Defence"
+   ],
+   "sources": [
+    {
+     "publisher": "National Defence",
+     "date": "2026-11-21",
+     "title": "Canada to Join the NATO Innovation Fund",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/canada-to-join-the-nato-innovation-fund.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "National Defence",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Canada to Join the NATO Innovation Fund",
+   "soWhat": {
+    "changed": "On Nov 21, 2026, the Minister of National Defence, the Honourable David J.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on regulations, orders or funding details from National Defence"
+   },
+   "photo": {
+    "src": "img/photos/minerals-openpit.webp",
+    "credit": "Photo: Doc Searls from Santa Barbara, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_mine_dumps,_2004.jpg",
+    "key": "minerals-openpit"
+   },
+   "signal": {
+    "so_what": "Canadian dual-use and defence tech startups gain a new allied investment route; founders and investors should watch how the fund deploys capital in Canada.",
+    "n_sources": 1,
+    "signal_title": "Canada opens a NATO channel for defence deep tech investment",
+    "crux": "Canada has concluded negotiations and formally joined the NATO Innovation Fund, becoming the 25th Ally in the fund.",
+    "importance": "Medium",
+    "impact_score": 55,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Defence",
+     "Dual-use technology",
+     "Venture capital",
+     "AI and deep tech"
+    ],
+    "affected_regions": [
+     "Canada",
+     "NATO"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "gc-minister-mcguinty-announces-new-military-aid-to-ukraine-at-u",
+     "6ace51427d6da06c8ebdbdd1",
+     "fr-2026-22052"
+    ],
+    "watch_next": "Details from National Defence on Canada's commitment and first NIF investments involving Canadian firms",
+    "confidence_score": 67,
+    "source_name": "National Defence",
+    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/11/canada-to-join-the-nato-innovation-fund.html",
+    "published_date": "2026-11-21",
+    "key_number": null,
+    "primary_source": {
+     "name": "National Defence",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/canada-to-join-the-nato-innovation-fund.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "govuk-defence-secretary-meets-president-zelensky-and-minister-khma",
+   "published": "2026-11-21T15:00:00Z",
+   "kicker": "Geoeconomics · UK Ministry of Defence",
+   "title": "Defence Secretary meets President Zelensky and Minister Khmara in Kyiv as UK deepens industrial support for…",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Defence Secretary meets President Zelenskyy in Kyiv as new agreements strengthen UK industrial support for Ukraine and expand drone production",
+   "body": "Defence Secretary meets President Zelenskyy in Kyiv as new agreements strengthen UK industrial support for Ukraine and expand drone production\n\nUK Ministry of Defence published this on Nov 21, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Ministry of Defence",
+    "Published Nov 21, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Ministry of Defence",
+     "date": "2026-11-21",
+     "title": "Defence Secretary meets President Zelensky and Minister Khmara in Kyiv as UK deepens industrial support for Ukraine",
+     "url": "https://www.gov.uk/government/news/defence-secretary-meets-president-zelensky-and-minister-khmara-in-kyiv-as-uk-deepens-industrial-support-for-ukraine",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Ministry of Defence",
+   "primarySource": {
+    "name": "UK Ministry of Defence",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Defence Secretary meets President Zelensky and Minister Khmara in Kyiv as UK deepens industrial support for…",
+   "soWhat": {
+    "changed": "Defence Secretary meets President Zelenskyy in Kyiv as new agreements strengthen UK industrial support for Ukraine and expand drone production",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "UK and allied drone and defence suppliers may see new partnership and supply openings tied to Ukrainian production.",
+    "n_sources": 1,
+    "signal_title": "UK widens industrial backing for Ukraine's drone output",
+    "crux": "The UK Defence Secretary met President Zelenskyy in Kyiv as new agreements strengthen UK industrial support for Ukraine and expand drone production.",
+    "importance": "Medium",
+    "impact_score": 48,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Drones and unmanned systems",
+     "Advanced manufacturing"
+    ],
+    "affected_regions": [
+     "United Kingdom",
+     "Ukraine",
+     "Europe"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d"
+    ],
+    "watch_next": "Specific agreement terms and partner firms named by the UK Ministry of Defence",
+    "confidence_score": 67,
+    "source_name": "UK Ministry of Defence",
+    "source_url": "https://www.gov.uk/government/news/defence-secretary-meets-president-zelensky-and-minister-khmara-in-kyiv-as-uk-deepens-industrial-support-for-ukraine",
+    "published_date": "2026-11-21",
+    "key_number": null,
+    "primary_source": {
+     "name": "UK Ministry of Defence",
+     "url": "https://www.gov.uk/government/news/defence-secretary-meets-president-zelensky-and-minister-khmara-in-kyiv-as-uk-deepens-industrial-support-for-ukraine",
+     "kind": "government or agency"
     },
     "reported_by": null
    }
@@ -1394,7 +1565,7 @@
     "related_signals": [
      "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
      "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
-     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d"
+     "govuk-defence-secretary-meets-president-zelensky-and-minister-khma"
     ],
     "watch_next": "Details of the aid package and any follow-on contracts from National Defence",
     "confidence_score": 67,
@@ -1735,8 +1906,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
-     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d",
-     "govuk-army-buys-hundreds-more-drones-and-electronic-warfare-kit-in"
+     "govuk-defence-secretary-meets-president-zelensky-and-minister-khma",
+     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d"
     ],
     "watch_next": "Mid-December delivery start, remaining Budget support, and any follow-through on the UK-Sweden-Ukraine Gripen letter of intent",
     "confidence_score": 67,
@@ -3470,8 +3641,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
-     "eu-32026r2382",
-     "eu-32026r2381"
+     "govuk-defence-secretary-meets-president-zelensky-and-minister-khma",
+     "eu-32026r2382"
     ],
     "watch_next": "UK production and hiring ramp-up, and any MoD or allied procurement of UFORCE systems",
     "confidence_score": 67,
@@ -3487,98 +3658,6 @@
     "primary_source": {
      "name": "UK Ministry of Defence",
      "url": "https://www.gov.uk/government/news/ukraines-drone-pioneers-bring-battle-tested-tech-and-high-skilled-jobs-to-britain",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d",
-   "published": "2026-11-12T15:00:00Z",
-   "kicker": "Critical Minerals · UK Ministry of Defence",
-   "title": "UK growth and security boosted as Royal Navy agrees export deal for new mine-hunting motherships",
-   "topics": [
-    "minerals",
-    "geo",
-    "defense-technology"
-   ],
-   "primary": "minerals",
-   "summary": "UK and European security will be bolstered by a new Royal Navy commitment to acquire three new mine-hunting motherships.",
-   "body": "UK and European security will be bolstered by a new Royal Navy commitment to acquire three new mine-hunting motherships.\n\nUK Ministry of Defence published this on Nov 12, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "Official publication from UK Ministry of Defence",
-    "Published Nov 12, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "UK Ministry of Defence",
-     "date": "2026-11-12",
-     "title": "UK growth and security boosted as Royal Navy agrees export deal for new mine-hunting motherships",
-     "url": "https://www.gov.uk/government/news/uk-growth-and-security-boosted-as-royal-navy-agrees-export-deal-for-new-mine-hunting-motherships",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "UK Ministry of Defence",
-   "primarySource": {
-    "name": "UK Ministry of Defence",
-    "kind": "GOV.UK news or communication",
-    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
-   },
-   "deadlines": [],
-   "titleMarkup": "UK growth and security boosted as Royal Navy agrees export deal for new mine-hunting motherships",
-   "soWhat": {
-    "changed": "UK and European security will be bolstered by a new Royal Navy commitment to acquire three new mine-hunting motherships.",
-    "who": "Miners, processors, offtakers and investors in critical-mineral supply chains",
-    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
-   },
-   "photo": {
-    "src": "img/photos/minerals-openpit.webp",
-    "credit": "Photo: Doc Searls from Santa Barbara, USA, CC BY 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_mine_dumps,_2004.jpg",
-    "key": "minerals-openpit"
-   },
-   "signal": {
-    "so_what": "UK-Norway naval interoperability deepens, and mine-hunting work shifts toward uncrewed systems on shared hulls, with first deliveries still five years out.",
-    "n_sources": 1,
-    "signal_title": "UK to buy three Norwegian mine-hunting motherships",
-    "crux": "The UK committed to acquire three Offshore Support Vessels as motherships for uncrewed mine-hunting systems, joining Norway's P1118 Standardised Vessel Programme, with the first ship due in 2031 and an option for three more. An additional £90 million was announced in the Defence Investment Plan for the acquisition. The deal sits alongside Norway's Type 26 frigate purchase, which the UK says supports 4,000 UK supply-chain jobs.",
-    "importance": "Medium",
-    "impact_score": 50,
-    "time_horizon": "Long term",
-    "affected_sectors": [
-     "Defence",
-     "Shipping",
-     "Shipbuilding"
-    ],
-    "affected_regions": [
-     "United Kingdom",
-     "Norway",
-     "Europe"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
-     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
-     "govuk-army-buys-hundreds-more-drones-and-electronic-warfare-kit-in"
-    ],
-    "watch_next": "Contracting under the UK-Norway Maritime Capability Partnership Framework and whether the option for three more vessels is exercised",
-    "confidence_score": 67,
-    "source_name": "UK Ministry of Defence",
-    "source_url": "https://www.gov.uk/government/news/uk-growth-and-security-boosted-as-royal-navy-agrees-export-deal-for-new-mine-hunting-motherships",
-    "published_date": "2026-11-12",
-    "key_number": {
-     "value": "£90 million",
-     "unit": "",
-     "label": "was announced in the Defence Investment",
-     "kind": "money"
-    },
-    "primary_source": {
-     "name": "UK Ministry of Defence",
-     "url": "https://www.gov.uk/government/news/uk-growth-and-security-boosted-as-royal-navy-agrees-export-deal-for-new-mine-hunting-motherships",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -3669,6 +3748,98 @@
     "primary_source": {
      "name": "UK Ministry of Defence",
      "url": "https://www.gov.uk/government/news/uk-commandos-to-get-ai-enabled-edge-from-british-scale-up-arondite-as-company-expands-to-natos-northern-flank",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d",
+   "published": "2026-11-12T15:00:00Z",
+   "kicker": "Critical Minerals · UK Ministry of Defence",
+   "title": "UK growth and security boosted as Royal Navy agrees export deal for new mine-hunting motherships",
+   "topics": [
+    "minerals",
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "minerals",
+   "summary": "UK and European security will be bolstered by a new Royal Navy commitment to acquire three new mine-hunting motherships.",
+   "body": "UK and European security will be bolstered by a new Royal Navy commitment to acquire three new mine-hunting motherships.\n\nUK Ministry of Defence published this on Nov 12, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Ministry of Defence",
+    "Published Nov 12, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Ministry of Defence",
+     "date": "2026-11-12",
+     "title": "UK growth and security boosted as Royal Navy agrees export deal for new mine-hunting motherships",
+     "url": "https://www.gov.uk/government/news/uk-growth-and-security-boosted-as-royal-navy-agrees-export-deal-for-new-mine-hunting-motherships",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Ministry of Defence",
+   "primarySource": {
+    "name": "UK Ministry of Defence",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "UK growth and security boosted as Royal Navy agrees export deal for new mine-hunting motherships",
+   "soWhat": {
+    "changed": "UK and European security will be bolstered by a new Royal Navy commitment to acquire three new mine-hunting motherships.",
+    "who": "Miners, processors, offtakers and investors in critical-mineral supply chains",
+    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
+   },
+   "photo": {
+    "src": "img/photos/minerals-openpit.webp",
+    "credit": "Photo: Doc Searls from Santa Barbara, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_mine_dumps,_2004.jpg",
+    "key": "minerals-openpit"
+   },
+   "signal": {
+    "so_what": "UK-Norway naval interoperability deepens, and mine-hunting work shifts toward uncrewed systems on shared hulls, with first deliveries still five years out.",
+    "n_sources": 1,
+    "signal_title": "UK to buy three Norwegian mine-hunting motherships",
+    "crux": "The UK committed to acquire three Offshore Support Vessels as motherships for uncrewed mine-hunting systems, joining Norway's P1118 Standardised Vessel Programme, with the first ship due in 2031 and an option for three more. An additional £90 million was announced in the Defence Investment Plan for the acquisition. The deal sits alongside Norway's Type 26 frigate purchase, which the UK says supports 4,000 UK supply-chain jobs.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Defence",
+     "Shipping",
+     "Shipbuilding"
+    ],
+    "affected_regions": [
+     "United Kingdom",
+     "Norway",
+     "Europe"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "govuk-defence-secretary-meets-president-zelensky-and-minister-khma"
+    ],
+    "watch_next": "Contracting under the UK-Norway Maritime Capability Partnership Framework and whether the option for three more vessels is exercised",
+    "confidence_score": 67,
+    "source_name": "UK Ministry of Defence",
+    "source_url": "https://www.gov.uk/government/news/uk-growth-and-security-boosted-as-royal-navy-agrees-export-deal-for-new-mine-hunting-motherships",
+    "published_date": "2026-11-12",
+    "key_number": {
+     "value": "£90 million",
+     "unit": "",
+     "label": "was announced in the Defence Investment",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "UK Ministry of Defence",
+     "url": "https://www.gov.uk/government/news/uk-growth-and-security-boosted-as-royal-navy-agrees-export-deal-for-new-mine-hunting-motherships",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -15994,7 +16165,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-21T15:25:02+00:00",
+  "asOf": "2026-11-21T16:23:24+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -16079,19 +16250,19 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 8,
+     "cur": 10,
      "prev": 4,
      "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 17,
+     "cur": 19,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 20,
+     "cur": 22,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -16139,19 +16310,19 @@
    },
    "geo": {
     "7": {
-     "cur": 23,
+     "cur": 25,
      "prev": 19,
      "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 74,
+     "cur": 76,
      "prev": 16,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 90,
+     "cur": 92,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -16260,17 +16431,17 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-21T15:25:09+00:00",
+  "asOf": "2026-11-21T16:23:43+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
    "minerals": 20,
-   "geo": 99,
+   "geo": 101,
    "ai-investment-infrastructure": 8,
    "energy-power": 16,
    "trade-sanctions": 35,
    "strategic-supply-chains": 12,
-   "defense-technology": 21,
+   "defense-technology": 23,
    "semiconductors": 5,
    "economic-security": 3,
    "cyber-digital-sovereignty": 6,
