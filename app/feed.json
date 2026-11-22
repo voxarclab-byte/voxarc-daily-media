@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-22T04:18:49+00:00",
+ "generated": "2026-11-22T11:21:58+00:00",
  "items": [
   {
    "id": "fr-2026-23812",
@@ -906,8 +906,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-21",
-    "asOfLabel": "Nov 21, 2026",
+    "asOf": "2026-11-22",
+    "asOfLabel": "Nov 22, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -10639,8 +10639,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-21",
-    "asOfLabel": "Nov 21, 2026",
+    "asOf": "2026-11-22",
+    "asOfLabel": "Nov 22, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -10901,8 +10901,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-21",
-    "asOfLabel": "Nov 21, 2026",
+    "asOf": "2026-11-22",
+    "asOfLabel": "Nov 22, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -16132,8 +16132,8 @@
     2
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-21",
-   "asOfLabel": "Nov 21, 2026",
+   "asOf": "2026-11-22",
+   "asOfLabel": "Nov 22, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -16253,7 +16253,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-22T04:18:42+00:00",
+  "asOf": "2026-11-22T11:21:50+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -16519,7 +16519,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-22T04:18:49+00:00",
+  "asOf": "2026-11-22T11:21:58+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
