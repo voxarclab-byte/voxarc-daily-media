@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-22T19:29:25+00:00",
+ "generated": "2026-11-22T20:23:46+00:00",
  "items": [
   {
    "id": "fr-2026-23812",
@@ -1565,7 +1565,7 @@
     "related_signals": [
      "eia-68445",
      "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
-     "govuk-bringing-clean-solar-power-to-communities-in-bangladesh"
+     "govuk-prime-minister-hails-major-investment-in-uk-renewables"
     ],
     "watch_next": "Whether Grid United satisfies DOE's conditions and the loan is funded",
     "confidence_score": 79,
@@ -2621,6 +2621,93 @@
    }
   },
   {
+   "id": "eu-32026r2558",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2558",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
+    "n_sources": 1,
+    "signal_title": "EU widens action on Russian hybrid threats",
+    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Government",
+     "Shipping",
+     "Cybersecurity",
+     "Financial Services"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026r2569",
+     "eu-32026d2570"
+    ],
+    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+    "published_date": "2026-11-16",
+    "duplicate_of": "eu-32026r2550",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "eu-32026d2556",
    "published": "2026-11-16T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -2782,93 +2869,6 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2569",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "eu-32026r2558",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Implementing Regulation (EU) 2026/2558",
-    "Published Nov 16, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "soWhat": {
-    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
-    "n_sources": 1,
-    "signal_title": "EU widens action on Russian hybrid threats",
-    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
-    "importance": "Medium",
-    "impact_score": 52,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Government",
-     "Shipping",
-     "Cybersecurity",
-     "Financial Services"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Russia"
-    ],
-    "risk_level": "High",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "eu-32026d2556",
-     "eu-32026r2569",
-     "eu-32026d2570"
-    ],
-    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-    "published_date": "2026-11-16",
-    "duplicate_of": "eu-32026r2550",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
      "kind": "official journal"
     },
     "reported_by": null
@@ -4082,8 +4082,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "doe-energy-department-announces-28-billion-loan-strengthen-grid",
-     "govuk-bringing-clean-solar-power-to-communities-in-bangladesh",
-     "govuk-giant-12-tonne-box-lowered-into-place-for-fusion-upgrade"
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "eia-68445"
     ],
     "watch_next": "Start of offshore construction in early 2027 and any further National Wealth Fund allocations",
     "confidence_score": 67,
@@ -5048,97 +5048,6 @@
    }
   },
   {
-   "id": "fr-2026-22784",
-   "published": "2026-11-09T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically…",
-   "body": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.\n\nKey dates: Send comments on or before December 9, 2026.\n\nDocument type: Proposed rule. Agency: Transportation, Federal Aviation Administration. Docket: Docket No.: FAA-2026-9942, Notice No. 26-20.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Proposed rule from Federal Aviation Administration",
-    "Comments close Dec 9, 2026",
-    "Docket Docket No.: FAA-2026-9942"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-09",
-     "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "comment",
-     "label": "Comments close",
-     "date": "2026-12-09",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return"
-    }
-   ],
-   "titleMarkup": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-   "soWhat": {
-    "changed": "Federal Aviation Administration proposed a rule: Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-    "who": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for…",
-    "watch": "Comments close Dec 9, 2026 on federalregister.gov"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "Launch providers with upper stages that reenter uncontrolled could face a cheaper licensing case if the rule is finalized.",
-    "n_sources": 1,
-    "signal_title": "FAA moves to ease reentry safety proofs for launch operators",
-    "crux": "FAA proposed letting launch and reentry operators meet the high-consequence safety test for uncontrolled atmospheric returns by showing the vehicle breaks up enough. Two companion proposals filed the same day clarify flight safety limits.",
-    "importance": "Medium",
-    "impact_score": 48,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Space launch",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22789",
-     "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
-     "govuk-uk-reaches-for-stars-with-nato-space-launch-plan"
-    ],
-    "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-    "published_date": "2026-11-09",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "fr-2026-22793",
    "published": "2026-11-09T12:00:00Z",
    "kicker": "Geoeconomics · Federal Register",
@@ -5369,6 +5278,97 @@
    }
   },
   {
+   "id": "fr-2026-22784",
+   "published": "2026-11-09T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically…",
+   "body": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.\n\nKey dates: Send comments on or before December 9, 2026.\n\nDocument type: Proposed rule. Agency: Transportation, Federal Aviation Administration. Docket: Docket No.: FAA-2026-9942, Notice No. 26-20.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Federal Aviation Administration",
+    "Comments close Dec 9, 2026",
+    "Docket Docket No.: FAA-2026-9942"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-09",
+     "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-12-09",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return"
+    }
+   ],
+   "titleMarkup": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+   "soWhat": {
+    "changed": "Federal Aviation Administration proposed a rule: Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+    "who": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for…",
+    "watch": "Comments close Dec 9, 2026 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Launch providers with upper stages that reenter uncontrolled could face a cheaper licensing case if the rule is finalized.",
+    "n_sources": 1,
+    "signal_title": "FAA moves to ease reentry safety proofs for launch operators",
+    "crux": "FAA proposed letting launch and reentry operators meet the high-consequence safety test for uncontrolled atmospheric returns by showing the vehicle breaks up enough. Two companion proposals filed the same day clarify flight safety limits.",
+    "importance": "Medium",
+    "impact_score": 48,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Space launch",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22789",
+     "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
+     "govuk-uk-reaches-for-stars-with-nato-space-launch-plan"
+    ],
+    "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+    "published_date": "2026-11-09",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
    "published": "2026-11-07T15:00:00Z",
    "kicker": "Geoeconomics · US Department of Energy",
@@ -5447,6 +5447,89 @@
     "primary_source": {
      "name": "US Department of Energy",
      "url": "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
+   "published": "2026-11-06T15:00:00Z",
+   "kicker": "Arctic · National Defence",
+   "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+   "topics": [
+    "arctic"
+   ],
+   "primary": "arctic",
+   "summary": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago…",
+   "body": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago, which demonstrated the capabilities of the ship and crew.\n\nNational Defence published this news release on Nov 6, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from National Defence"
+   ],
+   "sources": [
+    {
+     "publisher": "National Defence",
+     "date": "2026-11-06",
+     "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "National Defence",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+   "soWhat": {
+    "changed": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia…",
+    "who": "Arctic governments, Indigenous communities, shipping and defence planners",
+    "watch": "Follow-on regulations, orders or funding details from National Defence"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "Ottawa is treating the Northwest Passage as a routine naval route, which strengthens its sovereignty position with allies and shippers.",
+    "n_sources": 1,
+    "signal_title": "Canadian Navy now moves warships between oceans through the Arctic",
+    "crux": "HMCS Robert Hampton Gray finished an 83-day deployment through the Canadian Arctic Archipelago, the first such voyage used to move a ship from the Atlantic to the Pacific fleet, after leading a multinational task group in Operation NANOOK.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Arctic",
+     "Greenland"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ad7c0a0a69d84a91a2bf0be",
+     "6ad66e84a07c63635f9885ef",
+     "6acab8dbf6dba531c0671d32"
+    ],
+    "watch_next": "Next summer's NANOOK deployments and how often the navy repeats the Arctic transfer route.",
+    "confidence_score": 67,
+    "source_name": "National Defence",
+    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "National Defence",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -5541,89 +5624,6 @@
    }
   },
   {
-   "id": "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
-   "published": "2026-11-06T15:00:00Z",
-   "kicker": "Arctic · National Defence",
-   "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
-   "topics": [
-    "arctic"
-   ],
-   "primary": "arctic",
-   "summary": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago…",
-   "body": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago, which demonstrated the capabilities of the ship and crew.\n\nNational Defence published this news release on Nov 6, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "News release from National Defence"
-   ],
-   "sources": [
-    {
-     "publisher": "National Defence",
-     "date": "2026-11-06",
-     "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
-     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Government of Canada",
-   "primarySource": {
-    "name": "National Defence",
-    "kind": "Government of Canada news release",
-    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
-   },
-   "deadlines": [],
-   "titleMarkup": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
-   "soWhat": {
-    "changed": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia…",
-    "who": "Arctic governments, Indigenous communities, shipping and defence planners",
-    "watch": "Follow-on regulations, orders or funding details from National Defence"
-   },
-   "photo": {
-    "src": "img/photos/ai-chip.webp",
-    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
-    "key": "ai-chip"
-   },
-   "signal": {
-    "so_what": "Ottawa is treating the Northwest Passage as a routine naval route, which strengthens its sovereignty position with allies and shippers.",
-    "n_sources": 1,
-    "signal_title": "Canadian Navy now moves warships between oceans through the Arctic",
-    "crux": "HMCS Robert Hampton Gray finished an 83-day deployment through the Canadian Arctic Archipelago, the first such voyage used to move a ship from the Atlantic to the Pacific fleet, after leading a multinational task group in Operation NANOOK.",
-    "importance": "Medium",
-    "impact_score": 50,
-    "time_horizon": "Medium term",
-    "affected_sectors": [
-     "Defence",
-     "Shipping"
-    ],
-    "affected_regions": [
-     "Canada",
-     "Arctic",
-     "Greenland"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "6ad7c0a0a69d84a91a2bf0be",
-     "6ad66e84a07c63635f9885ef",
-     "6acab8dbf6dba531c0671d32"
-    ],
-    "watch_next": "Next summer's NANOOK deployments and how often the navy repeats the Arctic transfer route.",
-    "confidence_score": 67,
-    "source_name": "National Defence",
-    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
-    "published_date": "2026-11-06",
-    "key_number": null,
-    "primary_source": {
-     "name": "National Defence",
-     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "eia-68425",
    "published": "2026-11-06T15:00:00Z",
    "kicker": "Geoeconomics · US Energy Information Administration",
@@ -5703,90 +5703,6 @@
      "name": "US Energy Information Administration",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
      "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "fr-2026-22789",
-   "published": "2026-11-06T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "The American Declaration of Freedom in Space",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
-   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Presidential document from Executive Office of the President"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-06",
-     "title": "The American Declaration of Freedom in Space",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "The American Declaration of Freedom in Space",
-   "soWhat": {
-    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
-    "n_sources": 1,
-    "signal_title": "Washington declares outer space open to permanent American presence",
-    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
-    "importance": "Medium",
-    "impact_score": 45,
-    "time_horizon": "Long term",
-    "affected_sectors": [
-     "Space",
-     "Space resources",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States",
-     "Global"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22784",
-     "fr-2026-21818",
-     "gg-364032"
-    ],
-    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-    "published_date": "2026-11-06",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official journal"
     },
     "reported_by": null
    }
@@ -5886,6 +5802,90 @@
    }
   },
   {
+   "id": "fr-2026-22789",
+   "published": "2026-11-06T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "The American Declaration of Freedom in Space",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
+   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-06",
+     "title": "The American Declaration of Freedom in Space",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "The American Declaration of Freedom in Space",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
+    "n_sources": 1,
+    "signal_title": "Washington declares outer space open to permanent American presence",
+    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Space",
+     "Space resources",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States",
+     "Global"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22784",
+     "fr-2026-21818",
+     "gg-364032"
+    ],
+    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "eu-32026h2394",
    "published": "2026-11-06T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -5964,6 +5964,93 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026H2394",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22593",
+   "published": "2026-11-05T12:00:00Z",
+   "kicker": "AI Policy · Federal Register",
+   "title": "Medical Devices; Hematology and Pathology Devices",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II…",
+   "body": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.\n\nKey dates: This order is effective November 5, 2026. The classification was applicable on January 31, 2024.\n\nDocument type: Final rule. Agency: Health and Human Services, Food and Drug Administration. Docket: Docket No. FDA-2026-N-12384.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Food and Drug Administration",
+    "Takes effect Nov 5, 2026",
+    "Docket Docket No. FDA-2026-N-12384"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-05",
+     "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-11-05",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
+    }
+   ],
+   "titleMarkup": "Medical Devices; Hematology and Pathology Devices",
+   "soWhat": {
+    "changed": "Food and Drug Administration issued a final rule: Medical Devices; Hematology and Pathology Devices",
+    "who": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital…",
+    "watch": "Takes effect Nov 5, 2026"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital… are most exposed.",
+    "n_sources": 1,
+    "signal_title": "FDA Sets Class II Path for AI Cervical Cytology Imaging",
+    "crux": "FDA final rule classifies digital cervical cytology slide imaging systems with an AI algorithm into class II, giving the device type a defined regulatory pathway.",
+    "importance": "Medium",
+    "impact_score": 42,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Medical devices",
+     "Healthcare AI",
+     "Diagnostics"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [],
+    "watch_next": "Special controls attached to the classification and follow-on 510(k) clearances for similar AI pathology tools.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+    "published_date": "2026-11-05",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
      "kind": "official journal"
     },
     "reported_by": null
@@ -6056,93 +6143,6 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "fr-2026-22593",
-   "published": "2026-11-05T12:00:00Z",
-   "kicker": "AI Policy · Federal Register",
-   "title": "Medical Devices; Hematology and Pathology Devices",
-   "topics": [
-    "ai"
-   ],
-   "primary": "ai",
-   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II…",
-   "body": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.\n\nKey dates: This order is effective November 5, 2026. The classification was applicable on January 31, 2024.\n\nDocument type: Final rule. Agency: Health and Human Services, Food and Drug Administration. Docket: Docket No. FDA-2026-N-12384.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Final rule from Food and Drug Administration",
-    "Takes effect Nov 5, 2026",
-    "Docket Docket No. FDA-2026-N-12384"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-05",
-     "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "effective",
-     "label": "Takes effect",
-     "date": "2026-11-05",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
-    }
-   ],
-   "titleMarkup": "Medical Devices; Hematology and Pathology Devices",
-   "soWhat": {
-    "changed": "Food and Drug Administration issued a final rule: Medical Devices; Hematology and Pathology Devices",
-    "who": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital…",
-    "watch": "Takes effect Nov 5, 2026"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital… are most exposed.",
-    "n_sources": 1,
-    "signal_title": "FDA Sets Class II Path for AI Cervical Cytology Imaging",
-    "crux": "FDA final rule classifies digital cervical cytology slide imaging systems with an AI algorithm into class II, giving the device type a defined regulatory pathway.",
-    "importance": "Medium",
-    "impact_score": 42,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Medical devices",
-     "Healthcare AI",
-     "Diagnostics"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [],
-    "watch_next": "Special controls attached to the classification and follow-on 510(k) clearances for similar AI pathology tools.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-    "published_date": "2026-11-05",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
      "kind": "official journal"
     },
     "reported_by": null
@@ -7543,7 +7543,7 @@
     "related_signals": [
      "6ac8edbd6722b5b4db1fbb06",
      "fr-2026-22396",
-     "govuk-giant-12-tonne-box-lowered-into-place-for-fusion-upgrade"
+     "fr-2026-21443"
     ],
     "watch_next": "Colombian hydro reservoir levels and LNG cargo arrivals through the winter",
     "confidence_score": 67,
@@ -8132,6 +8132,90 @@
    }
   },
   {
+   "id": "nist-nist-report-provides-guidelines-transition-post-quantum-cryp",
+   "published": "2026-10-27T15:00:00Z",
+   "kicker": "AI Policy · National Institute of Standards and Technology",
+   "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.",
+   "body": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.\n\nNational Institute of Standards and Technology published this on Oct 27, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from National Institute of Standards and Technology. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from National Institute of Standards and Technology",
+    "Published Oct 27, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "National Institute of Standards and Technology",
+     "date": "2026-10-27",
+     "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+     "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "National Institute of Standards and Technology",
+   "primarySource": {
+    "name": "National Institute of Standards and Technology",
+    "kind": "NIST news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+   "soWhat": {
+    "changed": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and…",
+    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
+    "watch": "Follow-on measures or implementation details from National Institute of Standards and Technology"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "Tech vendors selling to the US government need quantum-readiness road maps aligned with these timelines.",
+    "n_sources": 1,
+    "signal_title": "NIST sets the federal migration path to post-quantum cryptography",
+    "crux": "NIST published a report laying out timelines and migration activities for federal agencies moving to post-quantum cryptography standards.",
+    "importance": "Medium",
+    "impact_score": 55,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Cybersecurity",
+     "Technology vendors",
+     "Government IT",
+     "Financial services"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "nist-quantum-physics-can-verify-persons-location-nist-researchers",
+     "fr-2026-22861",
+     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense"
+    ],
+    "watch_next": "Agency deadlines for quantum-vulnerable algorithms and procurement requirements for vendors.",
+    "confidence_score": 67,
+    "source_name": "National Institute of Standards and Technology",
+    "source_url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+    "published_date": "2026-10-27",
+    "key_number": null,
+    "primary_source": {
+     "name": "National Institute of Standards and Technology",
+     "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "doe-energy-department-announces-5-billion-loan-boost-nuclear-pow",
    "published": "2026-10-27T15:00:00Z",
    "kicker": "Geoeconomics · US Department of Energy",
@@ -8215,90 +8299,6 @@
     "primary_source": {
      "name": "US Department of Energy",
      "url": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "nist-nist-report-provides-guidelines-transition-post-quantum-cryp",
-   "published": "2026-10-27T15:00:00Z",
-   "kicker": "AI Policy · National Institute of Standards and Technology",
-   "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
-   "topics": [
-    "ai"
-   ],
-   "primary": "ai",
-   "summary": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.",
-   "body": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.\n\nNational Institute of Standards and Technology published this on Oct 27, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from National Institute of Standards and Technology. Read the source for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "Official publication from National Institute of Standards and Technology",
-    "Published Oct 27, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "National Institute of Standards and Technology",
-     "date": "2026-10-27",
-     "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
-     "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "National Institute of Standards and Technology",
-   "primarySource": {
-    "name": "National Institute of Standards and Technology",
-    "kind": "NIST news release",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
-   "soWhat": {
-    "changed": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and…",
-    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
-    "watch": "Follow-on measures or implementation details from National Institute of Standards and Technology"
-   },
-   "photo": {
-    "src": "img/photos/ai-chip.webp",
-    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
-    "key": "ai-chip"
-   },
-   "signal": {
-    "so_what": "Tech vendors selling to the US government need quantum-readiness road maps aligned with these timelines.",
-    "n_sources": 1,
-    "signal_title": "NIST sets the federal migration path to post-quantum cryptography",
-    "crux": "NIST published a report laying out timelines and migration activities for federal agencies moving to post-quantum cryptography standards.",
-    "importance": "Medium",
-    "impact_score": 55,
-    "time_horizon": "Long term",
-    "affected_sectors": [
-     "Cybersecurity",
-     "Technology vendors",
-     "Government IT",
-     "Financial services"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "nist-quantum-physics-can-verify-persons-location-nist-researchers",
-     "fr-2026-22861",
-     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense"
-    ],
-    "watch_next": "Agency deadlines for quantum-vulnerable algorithms and procurement requirements for vendors.",
-    "confidence_score": 67,
-    "source_name": "National Institute of Standards and Technology",
-    "source_url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
-    "published_date": "2026-10-27",
-    "key_number": null,
-    "primary_source": {
-     "name": "National Institute of Standards and Technology",
-     "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -16688,7 +16688,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-22T19:28:33+00:00",
+  "asOf": "2026-11-22T20:23:37+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -16759,13 +16759,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 6,
+     "cur": 5,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 7,
+     "cur": 6,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -16819,13 +16819,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 16,
+     "cur": 13,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 19,
+     "cur": 16,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -16839,13 +16839,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 85,
+     "cur": 80,
      "prev": 18,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 103,
+     "cur": 98,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -16899,13 +16899,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 7,
+     "cur": 6,
      "prev": 4,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 11,
+     "cur": 10,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -16954,21 +16954,21 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-22T19:29:25+00:00",
+  "asOf": "2026-11-22T20:23:46+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
    "minerals": 21,
-   "geo": 112,
+   "geo": 107,
    "ai-investment-infrastructure": 8,
-   "energy-power": 21,
+   "energy-power": 18,
    "trade-sanctions": 35,
    "strategic-supply-chains": 12,
    "defense-technology": 24,
    "semiconductors": 5,
    "economic-security": 3,
-   "cyber-digital-sovereignty": 8,
-   "space-satellites": 11
+   "cyber-digital-sovereignty": 7,
+   "space-satellites": 10
   },
   "live": [
    "arctic",
