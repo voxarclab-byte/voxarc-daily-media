@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-22T18:22:37+00:00",
+ "generated": "2026-11-22T19:29:25+00:00",
  "items": [
   {
    "id": "fr-2026-23812",
@@ -85,8 +85,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6ad66e84a07c63635f9885ed",
-     "cisa-cisa-announces-enhanced-reporting-form-cyber-incidents",
-     "fr-2026-23529"
+     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense",
+     "cisa-cisa-announces-enhanced-reporting-form-cyber-incidents"
     ],
     "watch_next": "Comments close Jan 7, 2027 on federalregister.gov",
     "confidence_score": 67,
@@ -1112,8 +1112,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6ac8edbd6722b5b4db1fbb06",
-     "gg-364174",
-     "fr-2026-22443"
+     "doe-energy-department-announces-5-billion-loan-boost-nuclear-pow",
+     "gg-364174"
     ],
     "watch_next": "Order duration, which plants or resources it covers, and any grid operator or state response.",
     "confidence_score": 67,
@@ -1565,7 +1565,7 @@
     "related_signals": [
      "eia-68445",
      "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
-     "govuk-prime-minister-hails-major-investment-in-uk-renewables"
+     "govuk-bringing-clean-solar-power-to-communities-in-bangladesh"
     ],
     "watch_next": "Whether Grid United satisfies DOE's conditions and the loan is funded",
     "confidence_score": 79,
@@ -2621,93 +2621,6 @@
    }
   },
   {
-   "id": "eu-32026r2558",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Implementing Regulation (EU) 2026/2558",
-    "Published Nov 16, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "soWhat": {
-    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
-    "n_sources": 1,
-    "signal_title": "EU widens action on Russian hybrid threats",
-    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
-    "importance": "Medium",
-    "impact_score": 52,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Government",
-     "Shipping",
-     "Cybersecurity",
-     "Financial Services"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Russia"
-    ],
-    "risk_level": "High",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "eu-32026d2556",
-     "eu-32026r2569",
-     "eu-32026d2570"
-    ],
-    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-    "published_date": "2026-11-16",
-    "duplicate_of": "eu-32026r2550",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "eu-32026d2556",
    "published": "2026-11-16T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -2869,6 +2782,93 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2569",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2558",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2558",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
+    "n_sources": 1,
+    "signal_title": "EU widens action on Russian hybrid threats",
+    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Government",
+     "Shipping",
+     "Cybersecurity",
+     "Financial Services"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026r2569",
+     "eu-32026d2570"
+    ],
+    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+    "published_date": "2026-11-16",
+    "duplicate_of": "eu-32026r2550",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
      "kind": "official journal"
     },
     "reported_by": null
@@ -4082,8 +4082,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "doe-energy-department-announces-28-billion-loan-strengthen-grid",
-     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
-     "eia-68445"
+     "govuk-bringing-clean-solar-power-to-communities-in-bangladesh",
+     "govuk-giant-12-tonne-box-lowered-into-place-for-fusion-upgrade"
     ],
     "watch_next": "Start of offshore construction in early 2027 and any further National Wealth Fund allocations",
     "confidence_score": 67,
@@ -5029,9 +5029,9 @@
     "risk_level": "Low",
     "opportunity_level": "Low",
     "related_signals": [
+     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense",
      "fr-2026-23812",
-     "nist-quantum-physics-can-verify-persons-location-nist-researchers",
-     "eu-32026r2550"
+     "nist-quantum-physics-can-verify-persons-location-nist-researchers"
     ],
     "watch_next": "CISA's FAQ and any further mandate changes for who must use the new form",
     "confidence_score": 67,
@@ -5043,6 +5043,97 @@
      "name": "Cybersecurity and Infrastructure Security Agency",
      "url": "https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyber-incidents",
      "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22784",
+   "published": "2026-11-09T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically…",
+   "body": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.\n\nKey dates: Send comments on or before December 9, 2026.\n\nDocument type: Proposed rule. Agency: Transportation, Federal Aviation Administration. Docket: Docket No.: FAA-2026-9942, Notice No. 26-20.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Federal Aviation Administration",
+    "Comments close Dec 9, 2026",
+    "Docket Docket No.: FAA-2026-9942"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-09",
+     "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-12-09",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return"
+    }
+   ],
+   "titleMarkup": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+   "soWhat": {
+    "changed": "Federal Aviation Administration proposed a rule: Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+    "who": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for…",
+    "watch": "Comments close Dec 9, 2026 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Launch providers with upper stages that reenter uncontrolled could face a cheaper licensing case if the rule is finalized.",
+    "n_sources": 1,
+    "signal_title": "FAA moves to ease reentry safety proofs for launch operators",
+    "crux": "FAA proposed letting launch and reentry operators meet the high-consequence safety test for uncontrolled atmospheric returns by showing the vehicle breaks up enough. Two companion proposals filed the same day clarify flight safety limits.",
+    "importance": "Medium",
+    "impact_score": 48,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Space launch",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22789",
+     "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
+     "govuk-uk-reaches-for-stars-with-nato-space-launch-plan"
+    ],
+    "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+    "published_date": "2026-11-09",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+     "kind": "official journal"
     },
     "reported_by": null
    }
@@ -5278,97 +5369,6 @@
    }
   },
   {
-   "id": "fr-2026-22784",
-   "published": "2026-11-09T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically…",
-   "body": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.\n\nKey dates: Send comments on or before December 9, 2026.\n\nDocument type: Proposed rule. Agency: Transportation, Federal Aviation Administration. Docket: Docket No.: FAA-2026-9942, Notice No. 26-20.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Proposed rule from Federal Aviation Administration",
-    "Comments close Dec 9, 2026",
-    "Docket Docket No.: FAA-2026-9942"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-09",
-     "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "comment",
-     "label": "Comments close",
-     "date": "2026-12-09",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return"
-    }
-   ],
-   "titleMarkup": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-   "soWhat": {
-    "changed": "Federal Aviation Administration proposed a rule: Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-    "who": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for…",
-    "watch": "Comments close Dec 9, 2026 on federalregister.gov"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "Launch providers with upper stages that reenter uncontrolled could face a cheaper licensing case if the rule is finalized.",
-    "n_sources": 1,
-    "signal_title": "FAA moves to ease reentry safety proofs for launch operators",
-    "crux": "FAA proposed letting launch and reentry operators meet the high-consequence safety test for uncontrolled atmospheric returns by showing the vehicle breaks up enough. Two companion proposals filed the same day clarify flight safety limits.",
-    "importance": "Medium",
-    "impact_score": 48,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Space launch",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22789",
-     "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
-     "govuk-uk-reaches-for-stars-with-nato-space-launch-plan"
-    ],
-    "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-    "published_date": "2026-11-09",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
    "published": "2026-11-07T15:00:00Z",
    "kicker": "Geoeconomics · US Department of Energy",
@@ -5447,89 +5447,6 @@
     "primary_source": {
      "name": "US Department of Energy",
      "url": "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
-   "published": "2026-11-06T15:00:00Z",
-   "kicker": "Arctic · National Defence",
-   "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
-   "topics": [
-    "arctic"
-   ],
-   "primary": "arctic",
-   "summary": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago…",
-   "body": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago, which demonstrated the capabilities of the ship and crew.\n\nNational Defence published this news release on Nov 6, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "News release from National Defence"
-   ],
-   "sources": [
-    {
-     "publisher": "National Defence",
-     "date": "2026-11-06",
-     "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
-     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Government of Canada",
-   "primarySource": {
-    "name": "National Defence",
-    "kind": "Government of Canada news release",
-    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
-   },
-   "deadlines": [],
-   "titleMarkup": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
-   "soWhat": {
-    "changed": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia…",
-    "who": "Arctic governments, Indigenous communities, shipping and defence planners",
-    "watch": "Follow-on regulations, orders or funding details from National Defence"
-   },
-   "photo": {
-    "src": "img/photos/ai-chip.webp",
-    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
-    "key": "ai-chip"
-   },
-   "signal": {
-    "so_what": "Ottawa is treating the Northwest Passage as a routine naval route, which strengthens its sovereignty position with allies and shippers.",
-    "n_sources": 1,
-    "signal_title": "Canadian Navy now moves warships between oceans through the Arctic",
-    "crux": "HMCS Robert Hampton Gray finished an 83-day deployment through the Canadian Arctic Archipelago, the first such voyage used to move a ship from the Atlantic to the Pacific fleet, after leading a multinational task group in Operation NANOOK.",
-    "importance": "Medium",
-    "impact_score": 50,
-    "time_horizon": "Medium term",
-    "affected_sectors": [
-     "Defence",
-     "Shipping"
-    ],
-    "affected_regions": [
-     "Canada",
-     "Arctic",
-     "Greenland"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "6ad7c0a0a69d84a91a2bf0be",
-     "6ad66e84a07c63635f9885ef",
-     "6acab8dbf6dba531c0671d32"
-    ],
-    "watch_next": "Next summer's NANOOK deployments and how often the navy repeats the Arctic transfer route.",
-    "confidence_score": 67,
-    "source_name": "National Defence",
-    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
-    "published_date": "2026-11-06",
-    "key_number": null,
-    "primary_source": {
-     "name": "National Defence",
-     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -5619,6 +5536,257 @@
      "name": "Office of the United States Trade Representative",
      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
      "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
+   "published": "2026-11-06T15:00:00Z",
+   "kicker": "Arctic · National Defence",
+   "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+   "topics": [
+    "arctic"
+   ],
+   "primary": "arctic",
+   "summary": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago…",
+   "body": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago, which demonstrated the capabilities of the ship and crew.\n\nNational Defence published this news release on Nov 6, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from National Defence"
+   ],
+   "sources": [
+    {
+     "publisher": "National Defence",
+     "date": "2026-11-06",
+     "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "National Defence",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+   "soWhat": {
+    "changed": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia…",
+    "who": "Arctic governments, Indigenous communities, shipping and defence planners",
+    "watch": "Follow-on regulations, orders or funding details from National Defence"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "Ottawa is treating the Northwest Passage as a routine naval route, which strengthens its sovereignty position with allies and shippers.",
+    "n_sources": 1,
+    "signal_title": "Canadian Navy now moves warships between oceans through the Arctic",
+    "crux": "HMCS Robert Hampton Gray finished an 83-day deployment through the Canadian Arctic Archipelago, the first such voyage used to move a ship from the Atlantic to the Pacific fleet, after leading a multinational task group in Operation NANOOK.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Arctic",
+     "Greenland"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ad7c0a0a69d84a91a2bf0be",
+     "6ad66e84a07c63635f9885ef",
+     "6acab8dbf6dba531c0671d32"
+    ],
+    "watch_next": "Next summer's NANOOK deployments and how often the navy repeats the Arctic transfer route.",
+    "confidence_score": 67,
+    "source_name": "National Defence",
+    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "National Defence",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eia-68425",
+   "published": "2026-11-06T15:00:00Z",
+   "kicker": "Geoeconomics · US Energy Information Administration",
+   "title": "U.S. crude oil imports from Venezuela in July were highest since 2017",
+   "topics": [
+    "geo"
+   ],
+   "primary": "geo",
+   "summary": "In July 2026, U.S. imports of crude oil from Venezuela averaged 701,000 barrels per day (b/d), the most since May 2017, before decreasing to 655,000 b/d in August, according to data published in our Petroleum Supply Monthly",
+   "body": "In July 2026, U.S. imports of crude oil from Venezuela averaged 701,000 barrels per day (b/d), the most since May 2017, before decreasing to 655,000 b/d in August, according to data published in our Petroleum Supply Monthly\n\nUS Energy Information Administration published this on Nov 6, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Energy Information Administration. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from US Energy Information Administration",
+    "Published Nov 6, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "US Energy Information Administration",
+     "date": "2026-11-06",
+     "title": "U.S. crude oil imports from Venezuela in July were highest since 2017",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "US Energy Information Administration",
+   "primarySource": {
+    "name": "US Energy Information Administration",
+    "kind": "EIA Today in Energy",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "U.S. crude oil imports from Venezuela in July were highest since 2017",
+   "soWhat": {
+    "changed": "In July 2026, U.S. imports of crude oil from Venezuela averaged 701,000 barrels per day (b/d), the most since May 2017…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from US Energy Information Administration"
+   },
+   "photo": {
+    "src": "img/photos/geo-tanker.webp",
+    "credit": "Photo: Jernej Furman from Slovenia, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Oil_tanker,_gas_tanker_in_the_high_sea_Refinery_Industry_cargo_ship_(52848038105).jpg",
+    "key": "geo-tanker"
+   },
+   "signal": {
+    "so_what": "US refiners that run heavy crude gain a larger supply option, while the flow stays exposed to shifts in US policy toward Venezuela.",
+    "n_sources": 1,
+    "signal_title": "Venezuelan crude flows to the US hit a nine-year high",
+    "crux": "US imports of Venezuelan crude averaged 701,000 b/d in July 2026, the most since May 2017, before easing to 655,000 b/d in August, per EIA data.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Oil and gas",
+     "Refining",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "United States",
+     "Venezuela"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "eia-68404",
+     "fr-2026-22052",
+     "fr-2026-22617"
+    ],
+    "watch_next": "Next EIA Petroleum Supply Monthly releases for September and October Venezuelan volumes",
+    "confidence_score": 67,
+    "source_name": "US Energy Information Administration",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "US Energy Information Administration",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22789",
+   "published": "2026-11-06T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "The American Declaration of Freedom in Space",
+   "topics": [
+    "geo",
+    "space-satellites"
+   ],
+   "primary": "geo",
+   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
+   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Presidential document from Executive Office of the President"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-06",
+     "title": "The American Declaration of Freedom in Space",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "The American Declaration of Freedom in Space",
+   "soWhat": {
+    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
+    "n_sources": 1,
+    "signal_title": "Washington declares outer space open to permanent American presence",
+    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Space",
+     "Space resources",
+     "Aerospace"
+    ],
+    "affected_regions": [
+     "United States",
+     "Global"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22784",
+     "fr-2026-21818",
+     "gg-364032"
+    ],
+    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+     "kind": "official journal"
     },
     "reported_by": null
    }
@@ -5718,90 +5886,6 @@
    }
   },
   {
-   "id": "fr-2026-22789",
-   "published": "2026-11-06T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "The American Declaration of Freedom in Space",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans…",
-   "body": "It is America's destiny to explore and expand our frontiers beyond Earth to the farthest depths of space. Today, my Administration reaffirms that our solar system and all of outer space beyond Earth are the province of all humans, and that our Nation will lead the way in the exploration, development, use, and settlement of these new frontiers--forging an interplanetary civilization founded on the enduring and inalienable rights of freedom and individual liberty. From the intrepid Apollo 11 astronauts who took humanity's first steps on the Moon to the pioneering rovers that explored the surface of Mars, the United States has always blazed a trail into the great unknown, shattering...\n\nDocument type: Presidential document. Agency: Executive Office of the President.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Presidential document from Executive Office of the President"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-06",
-     "title": "The American Declaration of Freedom in Space",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "The American Declaration of Freedom in Space",
-   "soWhat": {
-    "changed": "Executive Office of the President published a presidential document: The American Declaration of Freedom in Space",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Watch for the final rule or implementing guidance from Executive Office of the President"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "A political signal for lunar and space resource ventures; it creates no new license or funding on its own.",
-    "n_sources": 1,
-    "signal_title": "Washington declares outer space open to permanent American presence",
-    "crux": "A presidential proclamation states that the solar system and outer space are open to exploration, development, use and a permanent presence by US citizens under US law and US international obligations.",
-    "importance": "Medium",
-    "impact_score": 45,
-    "time_horizon": "Long term",
-    "affected_sectors": [
-     "Space",
-     "Space resources",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States",
-     "Global"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22784",
-     "fr-2026-21818",
-     "gg-364032"
-    ],
-    "watch_next": "Agency rules on commercial space activity and allied reactions under the Outer Space Treaty.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-    "published_date": "2026-11-06",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "eu-32026h2394",
    "published": "2026-11-06T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -5880,6 +5964,98 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026H2394",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22617",
+   "published": "2026-11-05T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Deepwater Port Application Processing and Licensing",
+   "topics": [
+    "geo",
+    "strategic-supply-chains"
+   ],
+   "primary": "geo",
+   "summary": "This document proposes procedures for the processing of applications for the licensing of deepwater ports. The proposed rule reflects the transfer of deepwater port license application processing management under the Deepwater Port Act from the United States…",
+   "body": "This document proposes procedures for the processing of applications for the licensing of deepwater ports. The proposed rule reflects the transfer of deepwater port license application processing management under the Deepwater Port Act from the United States Coast Guard (USCG) to MARAD. Pursuant to the National Defense Authorization Act for Fiscal Year 2026 (2026 NDAA), MARAD is the Federal lead agency for purposes of the National Environmental Policy Act of 1969 (NEPA) for all deepwater port license applications. USCG responsibility for authorities pertaining to design, construction, equipment, operation of deepwater ports, and navigational safety are not affected by the 2026 NDAA statutory changes, or this proposed rule and will continue to be administered by USCG.\n\nKey dates: Comments should be filed on or before January 4, 2027. Late comments will be considered to the extent practicable.\n\nDocument type: Proposed rule. Agency: Transportation, Maritime Administration. Docket: Docket Number MARAD-2026-0728.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Maritime Administration",
+    "Comments close Jan 4, 2027",
+    "Docket Docket Number MARAD-2026-0728"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-05",
+     "title": "Deepwater Port Application Processing and Licensing",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2027-01-04",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing"
+    }
+   ],
+   "titleMarkup": "Deepwater Port Application Processing and Licensing",
+   "soWhat": {
+    "changed": "Maritime Administration proposed a rule: Deepwater Port Application Processing and Licensing",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Comments close Jan 4, 2027 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Offshore export terminal developers will deal with one lead agency for licensing and environmental review.",
+    "n_sources": 1,
+    "signal_title": "Deepwater port licensing moves from the Coast Guard to MARAD",
+    "crux": "MARAD proposed procedures for processing deepwater port license applications after the 2026 NDAA moved that role from the Coast Guard and made MARAD the lead NEPA agency. Coast Guard safety duties stay in place.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Ports",
+     "Oil and gas",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22052",
+     "gc-roberts-bank-terminal-2-listed-as-a-project-of-national-inte",
+     "eia-68425"
+    ],
+    "watch_next": "Comments close January 4, 2027 on docket MARAD-2026-0728.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
+    "published_date": "2026-11-05",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
      "kind": "official journal"
     },
     "reported_by": null
@@ -5967,98 +6143,6 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "fr-2026-22617",
-   "published": "2026-11-05T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "Deepwater Port Application Processing and Licensing",
-   "topics": [
-    "geo",
-    "strategic-supply-chains"
-   ],
-   "primary": "geo",
-   "summary": "This document proposes procedures for the processing of applications for the licensing of deepwater ports. The proposed rule reflects the transfer of deepwater port license application processing management under the Deepwater Port Act from the United States…",
-   "body": "This document proposes procedures for the processing of applications for the licensing of deepwater ports. The proposed rule reflects the transfer of deepwater port license application processing management under the Deepwater Port Act from the United States Coast Guard (USCG) to MARAD. Pursuant to the National Defense Authorization Act for Fiscal Year 2026 (2026 NDAA), MARAD is the Federal lead agency for purposes of the National Environmental Policy Act of 1969 (NEPA) for all deepwater port license applications. USCG responsibility for authorities pertaining to design, construction, equipment, operation of deepwater ports, and navigational safety are not affected by the 2026 NDAA statutory changes, or this proposed rule and will continue to be administered by USCG.\n\nKey dates: Comments should be filed on or before January 4, 2027. Late comments will be considered to the extent practicable.\n\nDocument type: Proposed rule. Agency: Transportation, Maritime Administration. Docket: Docket Number MARAD-2026-0728.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Proposed rule from Maritime Administration",
-    "Comments close Jan 4, 2027",
-    "Docket Docket Number MARAD-2026-0728"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-05",
-     "title": "Deepwater Port Application Processing and Licensing",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "comment",
-     "label": "Comments close",
-     "date": "2027-01-04",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing"
-    }
-   ],
-   "titleMarkup": "Deepwater Port Application Processing and Licensing",
-   "soWhat": {
-    "changed": "Maritime Administration proposed a rule: Deepwater Port Application Processing and Licensing",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Comments close Jan 4, 2027 on federalregister.gov"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "Offshore export terminal developers will deal with one lead agency for licensing and environmental review.",
-    "n_sources": 1,
-    "signal_title": "Deepwater port licensing moves from the Coast Guard to MARAD",
-    "crux": "MARAD proposed procedures for processing deepwater port license applications after the 2026 NDAA moved that role from the Coast Guard and made MARAD the lead NEPA agency. Coast Guard safety duties stay in place.",
-    "importance": "Medium",
-    "impact_score": 52,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Ports",
-     "Oil and gas",
-     "Shipping"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22052",
-     "gc-roberts-bank-terminal-2-listed-as-a-project-of-national-inte",
-     "6ad7c0a0a69d84a91a2bf0be"
-    ],
-    "watch_next": "Comments close January 4, 2027 on docket MARAD-2026-0728.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
-    "published_date": "2026-11-05",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
      "kind": "official journal"
     },
     "reported_by": null
@@ -6303,9 +6387,9 @@
     "risk_level": "Low",
     "opportunity_level": "Medium",
     "related_signals": [
+     "doe-energy-department-announces-5-billion-loan-boost-nuclear-pow",
      "fr-2026-22443",
-     "6ac8edbd6722b5b4db1fbb14",
-     "6adbb54da4c20d730fe656b9"
+     "6ac8edbd6722b5b4db1fbb14"
     ],
     "watch_next": "Publication of the CNSC record of decision on its website.",
     "confidence_score": 67,
@@ -6405,6 +6489,97 @@
    }
   },
   {
+   "id": "eia-68404",
+   "published": "2026-11-03T15:00:00Z",
+   "kicker": "Critical Minerals · US Energy Information Administration",
+   "title": "Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery",
+   "topics": [
+    "minerals",
+    "geo"
+   ],
+   "primary": "minerals",
+   "summary": "Global crude oil refinery inputs fell by 4.8 million barrels per day (b/d) in the second quarter of 2026 (2Q26), or 6%, following the start of conflict in late February in the Middle East…",
+   "body": "Global crude oil refinery inputs fell by 4.8 million barrels per day (b/d) in the second quarter of 2026 (2Q26), or 6%, following the start of conflict in late February in the Middle East, according to data from Kpler. Throughput then increased by 1.8 million b/d in the third quarter, primarily as refiners in the region adjusted to new trade flows.\n\nUS Energy Information Administration published this on Nov 3, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Energy Information Administration. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from US Energy Information Administration",
+    "Published Nov 3, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "US Energy Information Administration",
+     "date": "2026-11-03",
+     "title": "Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "US Energy Information Administration",
+   "primarySource": {
+    "name": "US Energy Information Administration",
+    "kind": "EIA Today in Energy",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery",
+   "soWhat": {
+    "changed": "Global crude oil refinery inputs fell by 4.8 million barrels per day (b/d) in the second quarter of 2026 (2Q26), or 6%…",
+    "who": "Miners, processors, offtakers and investors in critical-mineral supply chains",
+    "watch": "Follow-on measures or implementation details from US Energy Information Administration"
+   },
+   "photo": {
+    "src": "img/photos/geo-tanker.webp",
+    "credit": "Photo: Jernej Furman from Slovenia, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Oil_tanker,_gas_tanker_in_the_high_sea_Refinery_Industry_cargo_ship_(52848038105).jpg",
+    "key": "geo-tanker"
+   },
+   "signal": {
+    "so_what": "Fuel buyers face tighter product supply, while refiners outside the conflict zone can capture wider margins.",
+    "n_sources": 1,
+    "signal_title": "Middle East conflict cut global refining runs by 6%",
+    "crux": "Global refinery inputs fell by 4.8 million b/d, or 6%, in Q2 2026 after conflict began in the Middle East in late February, followed by only a modest recovery, per EIA.",
+    "importance": "Medium",
+    "impact_score": 55,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Refining",
+     "Oil and gas",
+     "Shipping",
+     "Transportation"
+    ],
+    "affected_regions": [
+     "Global",
+     "Middle East"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "eia-68425",
+     "fr-2026-22052",
+     "6ac8edbd6722b5b4db1fbb20"
+    ],
+    "watch_next": "EIA data on whether refinery inputs return to pre-conflict levels in the second half of 2026",
+    "confidence_score": 67,
+    "source_name": "US Energy Information Administration",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
+    "published_date": "2026-11-03",
+    "key_number": {
+     "value": "6%",
+     "unit": "",
+     "label": "",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "US Energy Information Administration",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "fr-2026-22396",
    "published": "2026-11-03T12:00:00Z",
    "kicker": "Geoeconomics · Federal Register",
@@ -6478,9 +6653,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Medium",
     "related_signals": [
+     "eia-68364",
      "6ac8edbd6722b5b4db1fbb06",
-     "fr-2026-21443",
-     "gg-364174"
+     "fr-2026-21443"
     ],
     "watch_next": "Comments close January 4, 2027 on docket PHMSA-2019-0091.",
     "confidence_score": 67,
@@ -6571,8 +6746,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "fr-2026-21801",
-     "gc-commission-authorizes-operation-of-bruce-b-nuclear-generatin",
-     "6ac8edbd6722b5b4db1fbb06"
+     "doe-energy-department-announces-5-billion-loan-boost-nuclear-pow",
+     "gc-commission-authorizes-operation-of-bruce-b-nuclear-generatin"
     ],
     "watch_next": "Effective December 3, 2026 and the first advanced reactor dockets heard under it.",
     "confidence_score": 67,
@@ -7027,8 +7202,8 @@
     "strategic-supply-chains"
    ],
    "primary": "geo",
-   "summary": "Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and advance efforts to secure America&#039;s electric grid.",
-   "body": "Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and advance efforts to secure America&#039;s electric grid.\n\nUS Department of Energy published this on Oct 30, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Department of Energy. Read the source for the measure, who it applies to and when it takes effect.",
+   "summary": "Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and advance efforts to secure America's electric grid.",
+   "body": "Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and advance efforts to secure America's electric grid.\n\nUS Department of Energy published this on Oct 30, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Department of Energy. Read the source for the measure, who it applies to and when it takes effect.",
    "stat": null,
    "keyPoints": [
     "Official publication from US Department of Energy",
@@ -7054,7 +7229,7 @@
    "deadlines": [],
    "titleMarkup": "Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America's Grid Supply Chain…",
    "soWhat": {
-    "changed": "Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and advance efforts to secure America&#039;s electric grid.",
+    "changed": "Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and advance efforts to secure America's electric grid.",
     "who": "Exporters, importers and investors exposed to trade and security policy",
     "watch": "Follow-on measures or implementation details from US Department of Energy"
    },
@@ -7294,6 +7469,92 @@
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
      "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eia-68364",
+   "published": "2026-10-29T15:00:00Z",
+   "kicker": "Geoeconomics · US Energy Information Administration",
+   "title": "LNG imports make up increasing share of Colombia's natural gas supply",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "Colombia is importing more liquefied natural gas (LNG) as domestic production continues to fall. A potential drought this fall and winter could limit the availability of hydroelectric generation and boost the country's demand for natural gas power generation.…",
+   "body": "Colombia is importing more liquefied natural gas (LNG) as domestic production continues to fall. A potential drought this fall and winter could limit the availability of hydroelectric generation and boost the country's demand for natural gas power generation. Colombia's government has declared a national disaster in anticipation of a drought resulting from an expected strong El Ni�o.\n\nUS Energy Information Administration published this on Oct 29, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Energy Information Administration. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from US Energy Information Administration",
+    "Published Oct 29, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "US Energy Information Administration",
+     "date": "2026-10-29",
+     "title": "LNG imports make up increasing share of Colombia's natural gas supply",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "US Energy Information Administration",
+   "primarySource": {
+    "name": "US Energy Information Administration",
+    "kind": "EIA Today in Energy",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "LNG imports make up increasing share of Colombia's natural gas supply",
+   "soWhat": {
+    "changed": "Colombia is importing more liquefied natural gas (LNG) as domestic production continues to fall.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from US Energy Information Administration"
+   },
+   "photo": {
+    "src": "img/photos/geo-tanker.webp",
+    "credit": "Photo: Jernej Furman from Slovenia, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Oil_tanker,_gas_tanker_in_the_high_sea_Refinery_Industry_cargo_ship_(52848038105).jpg",
+    "key": "geo-tanker"
+   },
+   "signal": {
+    "so_what": "LNG suppliers and shippers gain a growing buyer, while Colombian power prices become more exposed to global gas markets.",
+    "n_sources": 1,
+    "signal_title": "Colombia turns to LNG as domestic gas declines",
+    "crux": "Colombia is importing more LNG as domestic gas production keeps falling, and a possible drought this fall and winter could cut hydropower and raise gas-fired demand, per EIA.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "LNG",
+     "Oil and gas",
+     "Utilities",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "Colombia",
+     "Latin America"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ac8edbd6722b5b4db1fbb06",
+     "fr-2026-22396",
+     "govuk-giant-12-tonne-box-lowered-into-place-for-fusion-upgrade"
+    ],
+    "watch_next": "Colombian hydro reservoir levels and LNG cargo arrivals through the winter",
+    "confidence_score": 67,
+    "source_name": "US Energy Information Administration",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
+    "published_date": "2026-10-29",
+    "key_number": null,
+    "primary_source": {
+     "name": "US Energy Information Administration",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
+     "kind": "government or agency"
     },
     "reported_by": null
    }
@@ -7566,8 +7827,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "6ae0fb95987facb4c57e55ac",
-     "fr-2026-22617",
-     "6ad66e84a07c63635f9885ed"
+     "eia-68404",
+     "fr-2026-22617"
     ],
     "watch_next": "The first purchase commitments or financing awards made under this determination.",
     "confidence_score": 67,
@@ -7871,6 +8132,95 @@
    }
   },
   {
+   "id": "doe-energy-department-announces-5-billion-loan-boost-nuclear-pow",
+   "published": "2026-10-27T15:00:00Z",
+   "kicker": "Geoeconomics · US Department of Energy",
+   "title": "Energy Department Announces $5 Billion Loan to Boost Nuclear Power and Help Lower Costs in Illinois…",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $5 billion to finance nuclear uprates and modernization across Constellation Energy’s nuclear fleet in Illinois, Maryland…",
+   "body": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $5 billion to finance nuclear uprates and modernization across Constellation Energy’s nuclear fleet in Illinois, Maryland, and Pennsylvania.\n\nUS Department of Energy published this on Oct 27, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Department of Energy. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from US Department of Energy",
+    "Published Oct 27, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "US Department of Energy",
+     "date": "2026-10-27",
+     "title": "Energy Department Announces $5 Billion Loan to Boost Nuclear Power and Help Lower Costs in Illinois, Maryland, and Pennsylvania",
+     "url": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "US Department of Energy",
+   "primarySource": {
+    "name": "US Department of Energy",
+    "kind": "Department of Energy news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Energy Department Announces $5 Billion Loan to Boost Nuclear Power and Help Lower Costs in Illinois…",
+   "soWhat": {
+    "changed": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $5 billion to finance nuclear…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from US Department of Energy"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Federal financing for adding output at existing reactors signals a faster, lower-risk route to new firm power than new builds.",
+    "n_sources": 1,
+    "signal_title": "US puts up to $5B behind nuclear uprates",
+    "crux": "DOE's Office of Energy Dominance Financing made a conditional loan commitment of up to $5 billion to fund uprates and modernization across Constellation Energy's nuclear fleet, including Illinois and Maryland.",
+    "importance": "Medium",
+    "impact_score": 58,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Nuclear power",
+     "Utilities",
+     "Energy finance"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "fr-2026-22443",
+     "gc-commission-authorizes-operation-of-bruce-b-nuclear-generatin",
+     "6ac8edbd6722b5b4db1fbb06"
+    ],
+    "watch_next": "Loan closing and final terms, and the size of capacity added by the uprates",
+    "confidence_score": 67,
+    "source_name": "US Department of Energy",
+    "source_url": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs",
+    "published_date": "2026-10-27",
+    "key_number": {
+     "value": "$5 billion",
+     "unit": "",
+     "label": "to fund uprates and modernization across",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "US Department of Energy",
+     "url": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "nist-nist-report-provides-guidelines-transition-post-quantum-cryp",
    "published": "2026-10-27T15:00:00Z",
    "kicker": "AI Policy · National Institute of Standards and Technology",
@@ -7938,7 +8288,7 @@
     "related_signals": [
      "nist-quantum-physics-can-verify-persons-location-nist-researchers",
      "fr-2026-22861",
-     "fr-2026-23812"
+     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense"
     ],
     "watch_next": "Agency deadlines for quantum-vulnerable algorithms and procurement requirements for vendors.",
     "confidence_score": 67,
@@ -8260,6 +8610,91 @@
      "kind": "government or agency"
     },
     "reported_by": "Federal Register"
+   }
+  },
+  {
+   "id": "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense",
+   "published": "2026-10-26T15:00:00Z",
+   "kicker": "Geoeconomics · Cybersecurity and Infrastructure Security Agency",
+   "title": "CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security",
+   "topics": [
+    "geo",
+    "cyber-digital-sovereignty"
+   ],
+   "primary": "geo",
+   "summary": "Cybersecurity and Infrastructure Security Agency published \"CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security\" on Oct 26, 2026. The full official text is at the source link.",
+   "body": "Cybersecurity and Infrastructure Security Agency published \"CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security\" on Oct 26, 2026. The full official text is at the source link.\n\nCybersecurity and Infrastructure Security Agency published this on Oct 26, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from Cybersecurity and Infrastructure Security Agency. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from Cybersecurity and Infrastructure Security Agency",
+    "Published Oct 26, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "Cybersecurity and Infrastructure Security Agency",
+     "date": "2026-10-26",
+     "title": "CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security",
+     "url": "https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Cybersecurity and Infrastructure Security Agency",
+   "primarySource": {
+    "name": "Cybersecurity and Infrastructure Security Agency",
+    "kind": "CISA advisory or news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security",
+   "soWhat": {
+    "changed": "Cybersecurity and Infrastructure Security Agency published \"CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from Cybersecurity and Infrastructure Security Agency"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Operators of critical infrastructure should expect new federal security priorities, and security vendors gain a policy tailwind.",
+    "n_sources": 1,
+    "signal_title": "CISA resets US critical infrastructure cyber defense",
+    "crux": "CISA released a new strategy on Oct 26, 2026 to strengthen national cyber defense and critical infrastructure security.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Cybersecurity",
+     "Utilities",
+     "Telecommunications",
+     "Government"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "cisa-cisa-announces-enhanced-reporting-form-cyber-incidents",
+     "fr-2026-23812",
+     "6ac8edbd6722b5b4db1fbb06"
+    ],
+    "watch_next": "CISA implementation priorities and sector-specific guidance under the new strategy",
+    "confidence_score": 67,
+    "source_name": "Cybersecurity and Infrastructure Security Agency",
+    "source_url": "https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security",
+    "published_date": "2026-10-26",
+    "key_number": null,
+    "primary_source": {
+     "name": "Cybersecurity and Infrastructure Security Agency",
+     "url": "https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security",
+     "kind": "government or agency"
+    },
+    "reported_by": null
    }
   },
   {
@@ -8665,8 +9100,8 @@
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-20",
-    "asOfLabel": "Nov 20, 2026",
+    "asOf": "2026-11-22",
+    "asOfLabel": "Nov 22, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -8791,8 +9226,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "fr-2026-22443",
-     "6ad66e84a07c63635f9885ed",
-     "6acab8dbf6dba531c0671d1b"
+     "doe-energy-department-announces-5-billion-loan-boost-nuclear-pow",
+     "6ad66e84a07c63635f9885ed"
     ],
     "watch_next": "Effective November 25, 2026 and the first commercial applications that cite a DOE or military demonstration.",
     "confidence_score": 67,
@@ -10323,8 +10758,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "fr-2026-22396",
-     "6ac8edbd6722b5b4db1fbb06",
-     "fr-2026-22052"
+     "eia-68364",
+     "6ac8edbd6722b5b4db1fbb06"
     ],
     "watch_next": "Comments due December 21, 2026 on docket RM26-2-001.",
     "confidence_score": 67,
@@ -16253,7 +16688,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-22T18:22:31+00:00",
+  "asOf": "2026-11-22T19:28:33+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -16264,8 +16699,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 12,
-     "prev": 12,
+     "cur": 11,
+     "prev": 13,
      "dir": "steady",
      "reliable": false
     },
@@ -16324,13 +16759,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 4,
+     "cur": 6,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 5,
+     "cur": 7,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -16384,13 +16819,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 11,
+     "cur": 16,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 14,
+     "cur": 19,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -16404,13 +16839,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 75,
+     "cur": 85,
      "prev": 18,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 93,
+     "cur": 103,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -16424,13 +16859,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 10,
+     "cur": 11,
      "prev": 9,
-     "dir": "steady",
+     "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 19,
+     "cur": 20,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -16464,13 +16899,13 @@
      "reliable": false
     },
     "30": {
-     "cur": 6,
+     "cur": 7,
      "prev": 4,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 10,
+     "cur": 11,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -16519,21 +16954,21 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-22T18:22:37+00:00",
+  "asOf": "2026-11-22T19:29:25+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
-   "minerals": 20,
-   "geo": 102,
+   "minerals": 21,
+   "geo": 112,
    "ai-investment-infrastructure": 8,
-   "energy-power": 16,
+   "energy-power": 21,
    "trade-sanctions": 35,
    "strategic-supply-chains": 12,
    "defense-technology": 24,
    "semiconductors": 5,
    "economic-security": 3,
-   "cyber-digital-sovereignty": 6,
-   "space-satellites": 10
+   "cyber-digital-sovereignty": 8,
+   "space-satellites": 11
   },
   "live": [
    "arctic",
