@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-22T11:21:58+00:00",
+ "generated": "2026-11-22T12:20:37+00:00",
  "items": [
   {
    "id": "fr-2026-23812",
@@ -2621,93 +2621,6 @@
    }
   },
   {
-   "id": "eu-32026r2558",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Implementing Regulation (EU) 2026/2558",
-    "Published Nov 16, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
-   "soWhat": {
-    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
-    "n_sources": 1,
-    "signal_title": "EU widens action on Russian hybrid threats",
-    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
-    "importance": "Medium",
-    "impact_score": 52,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Government",
-     "Shipping",
-     "Cybersecurity",
-     "Financial Services"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Russia"
-    ],
-    "risk_level": "High",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "eu-32026d2556",
-     "eu-32026r2569",
-     "eu-32026d2570"
-    ],
-    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-    "published_date": "2026-11-16",
-    "duplicate_of": "eu-32026r2550",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "eu-32026d2556",
    "published": "2026-11-16T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -2869,6 +2782,93 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2569",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2558",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+   "body": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026R2558. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2558",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Implementing Regulation (EU) 2026/2558 of 16 November 2026 implementing Regulation (EU) 2024/2642 concerning restrictive measures in view of Russia’s destabilising activities",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2558: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2558 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Firms in shipping, energy, media and digital services with Russia-linked counterparties face more screening and asset-freeze exposure.",
+    "n_sources": 1,
+    "signal_title": "EU widens action on Russian hybrid threats",
+    "crux": "Council Implementing Regulation (EU) 2026/2558 of Nov 16, 2026 implements the 2024 regime on restrictive measures in view of Russia's destabilising activities.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Government",
+     "Shipping",
+     "Cybersecurity",
+     "Financial Services"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026r2569",
+     "eu-32026d2570"
+    ],
+    "watch_next": "The annex of new listings on EUR-Lex and whether Canada, the UK or the US align",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+    "published_date": "2026-11-16",
+    "duplicate_of": "eu-32026r2550",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
      "kind": "official journal"
     },
     "reported_by": null
@@ -9702,11 +9702,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.07M km²",
+    "value": "9.09M km²",
     "unit": "daily extent",
-    "change": "-1.84M km² vs the 1981–2010 average for the date",
+    "change": "-1.89M km² vs the 1981–2010 average for the date",
     "series": [
-     7.178,
      7.364,
      7.344,
      7.438,
@@ -9735,14 +9734,11 @@
      8.995,
      9.083,
      9.048,
-     9.074
+     9.074,
+     9.094
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-23",
-      5.107
-     ],
      [
       "2026-08-24",
       5.087
@@ -10098,11 +10094,15 @@
      [
       "2026-11-20",
       9.074
+     ],
+     [
+      "2026-11-21",
+      9.094
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-20",
-    "asOfLabel": "Nov 20, 2026",
+    "asOf": "2026-11-21",
+    "asOfLabel": "Nov 21, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -11596,11 +11596,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.07M km²",
+    "value": "9.09M km²",
     "unit": "daily extent",
-    "change": "-1.84M km² vs the 1981–2010 average for the date",
+    "change": "-1.89M km² vs the 1981–2010 average for the date",
     "series": [
-     7.178,
      7.364,
      7.344,
      7.438,
@@ -11629,14 +11628,11 @@
      8.995,
      9.083,
      9.048,
-     9.074
+     9.074,
+     9.094
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-23",
-      5.107
-     ],
      [
       "2026-08-24",
       5.087
@@ -11992,11 +11988,15 @@
      [
       "2026-11-20",
       9.074
+     ],
+     [
+      "2026-11-21",
+      9.094
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-20",
-    "asOfLabel": "Nov 20, 2026",
+    "asOf": "2026-11-21",
+    "asOfLabel": "Nov 21, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -12630,11 +12630,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.07M km²",
+    "value": "9.09M km²",
     "unit": "daily extent",
-    "change": "-1.84M km² vs the 1981–2010 average for the date",
+    "change": "-1.89M km² vs the 1981–2010 average for the date",
     "series": [
-     7.178,
      7.364,
      7.344,
      7.438,
@@ -12663,14 +12662,11 @@
      8.995,
      9.083,
      9.048,
-     9.074
+     9.074,
+     9.094
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-23",
-      5.107
-     ],
      [
       "2026-08-24",
       5.087
@@ -13026,11 +13022,15 @@
      [
       "2026-11-20",
       9.074
+     ],
+     [
+      "2026-11-21",
+      9.094
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-20",
-    "asOfLabel": "Nov 20, 2026",
+    "asOf": "2026-11-21",
+    "asOfLabel": "Nov 21, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -13380,11 +13380,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.07M km²",
+    "value": "9.09M km²",
     "unit": "daily extent",
-    "change": "-1.84M km² vs the 1981–2010 average for the date",
+    "change": "-1.89M km² vs the 1981–2010 average for the date",
     "series": [
-     7.178,
      7.364,
      7.344,
      7.438,
@@ -13413,14 +13412,11 @@
      8.995,
      9.083,
      9.048,
-     9.074
+     9.074,
+     9.094
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-23",
-      5.107
-     ],
      [
       "2026-08-24",
       5.087
@@ -13776,11 +13772,15 @@
      [
       "2026-11-20",
       9.074
+     ],
+     [
+      "2026-11-21",
+      9.094
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-20",
-    "asOfLabel": "Nov 20, 2026",
+    "asOf": "2026-11-21",
+    "asOfLabel": "Nov 21, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -14026,11 +14026,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.07M km²",
+    "value": "9.09M km²",
     "unit": "daily extent",
-    "change": "-1.84M km² vs the 1981–2010 average for the date",
+    "change": "-1.89M km² vs the 1981–2010 average for the date",
     "series": [
-     7.178,
      7.364,
      7.344,
      7.438,
@@ -14059,14 +14058,11 @@
      8.995,
      9.083,
      9.048,
-     9.074
+     9.074,
+     9.094
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-23",
-      5.107
-     ],
      [
       "2026-08-24",
       5.087
@@ -14422,11 +14418,15 @@
      [
       "2026-11-20",
       9.074
+     ],
+     [
+      "2026-11-21",
+      9.094
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-20",
-    "asOfLabel": "Nov 20, 2026",
+    "asOf": "2026-11-21",
+    "asOfLabel": "Nov 21, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -15606,11 +15606,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "9.07M km²",
+   "value": "9.09M km²",
    "unit": "daily extent",
-   "change": "-1.84M km² vs the 1981–2010 average for the date",
+   "change": "-1.89M km² vs the 1981–2010 average for the date",
    "series": [
-    7.178,
     7.364,
     7.344,
     7.438,
@@ -15639,19 +15638,16 @@
     8.995,
     9.083,
     9.048,
-    9.074
+    9.074,
+    9.094
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-20",
-   "asOfLabel": "Nov 20, 2026",
+   "asOf": "2026-11-21",
+   "asOfLabel": "Nov 21, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-23",
-     5.107
-    ],
     [
      "2026-08-24",
      5.087
@@ -16007,6 +16003,10 @@
     [
      "2026-11-20",
      9.074
+    ],
+    [
+     "2026-11-21",
+     9.094
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -16253,7 +16253,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-22T11:21:50+00:00",
+  "asOf": "2026-11-22T12:20:29+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -16264,8 +16264,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 13,
-     "prev": 11,
+     "cur": 12,
+     "prev": 12,
      "dir": "steady",
      "reliable": false
     },
@@ -16404,8 +16404,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 76,
-     "prev": 16,
+     "cur": 75,
+     "prev": 17,
      "dir": "up",
      "reliable": false
     },
@@ -16424,8 +16424,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 12,
-     "prev": 7,
+     "cur": 11,
+     "prev": 8,
      "dir": "up",
      "reliable": false
     },
@@ -16444,9 +16444,9 @@
      "reliable": false
     },
     "30": {
-     "cur": 3,
-     "prev": 2,
-     "dir": "up",
+     "cur": 2,
+     "prev": 3,
+     "dir": "down",
      "reliable": false
     },
     "90": {
@@ -16504,8 +16504,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 27,
-     "prev": 2,
+     "cur": 26,
+     "prev": 3,
      "dir": "up",
      "reliable": false
     },
@@ -16519,7 +16519,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-22T11:21:58+00:00",
+  "asOf": "2026-11-22T12:20:37+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
