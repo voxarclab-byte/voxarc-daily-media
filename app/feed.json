@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-23T22:27:16+00:00",
+ "generated": "2026-11-23T23:25:02+00:00",
  "items": [
   {
    "id": "gc-government-of-canada-adds-samidoun-alias-masar-badil-to-terr",
@@ -17124,7 +17124,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-23T22:27:11+00:00",
+  "asOf": "2026-11-23T23:24:51+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -17390,7 +17390,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-23T22:27:16+00:00",
+  "asOf": "2026-11-23T23:25:02+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
