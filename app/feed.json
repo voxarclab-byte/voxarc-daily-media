@@ -1,8 +1,96 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-23T14:26:27+00:00",
+ "generated": "2026-11-23T15:22:59+00:00",
  "items": [
+  {
+   "id": "ecpress-statement-26-2563",
+   "published": "2026-11-23T15:00:00Z",
+   "kicker": "Geoeconomics · European Commission",
+   "title": "Statement by President von der Leyen on the 22nd package of sanctions against Russia",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "European Commission Statement Strasbourg, 23 Nov 2026 Good afternoon. Today, we present our 22nd package of sanctions. The aim is to keep pressure on Russia to end their war of aggression in Ukraine. And we will co...",
+   "body": "European Commission Statement Strasbourg, 23 Nov 2026 Good afternoon. Today, we present our 22nd package of sanctions. The aim is to keep pressure on Russia to end their war of aggression in Ukraine. And we will co...\n\nEuropean Commission published this on Nov 23, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from European Commission",
+    "Published Nov 23, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "European Commission",
+     "date": "2026-11-23",
+     "title": "Statement by President von der Leyen on the 22nd package of sanctions against Russia",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2563",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "European Commission",
+   "primarySource": {
+    "name": "European Commission",
+    "kind": "European Commission press release",
+    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
+   },
+   "deadlines": [],
+   "titleMarkup": "Statement by President von der Leyen on the 22nd package of sanctions against Russia",
+   "soWhat": {
+    "changed": "European Commission Statement Strasbourg, 23 Nov 2026 Good afternoon.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from European Commission"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "EU exporters, banks and traders with any Russia exposure should prepare to re-screen counterparties and goods once the package text is out.",
+    "n_sources": 1,
+    "signal_title": "EU opens 22nd round of Russia sanctions",
+    "crux": "The European Commission presented its 22nd sanctions package against Russia on Nov 23, 2026, aiming to keep pressure on Moscow to end the war in Ukraine.",
+    "importance": "Medium",
+    "impact_score": 60,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Compliance",
+     "Trade and export controls",
+     "Energy",
+     "Financial services",
+     "Shipping and logistics"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia",
+     "Ukraine"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-23196",
+     "eu-32026r2574",
+     "ecpress-ip-26-2521"
+    ],
+    "watch_next": "Package contents and listings once published, and Council adoption, which needs all member states",
+    "confidence_score": 67,
+    "source_name": "European Commission",
+    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2563",
+    "published_date": "2026-11-23",
+    "key_number": null,
+    "primary_source": {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2563",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "fr-2026-23812",
    "published": "2026-11-23T12:00:00Z",
@@ -360,6 +448,92 @@
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2616",
      "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "ecpress-ip-26-2521",
+   "published": "2026-11-22T15:00:00Z",
+   "kicker": "Geoeconomics · European Commission",
+   "title": "Commission adopts guidelines implementing the visa ban on combatants in Russia's war of aggression against…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "European Commission Press release Brussels, 23 Nov 2026 Today, alongside the proposal for the EU's 22nd sanctions package, the Commission is taking action to strengthen Europe's security…",
+   "body": "European Commission Press release Brussels, 23 Nov 2026 Today, alongside the proposal for the EU's 22nd sanctions package, the Commission is taking action to strengthen Europe's security, ensuring that those linked to Russia's war of aggression are banned from our territory and cannot become a security risk or the Union and its citizens.\n\nEuropean Commission published this on Nov 22, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from European Commission",
+    "Published Nov 22, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "European Commission",
+     "date": "2026-11-22",
+     "title": "Commission adopts guidelines implementing the visa ban on combatants in Russia's war of aggression against Ukraine",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2521",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "European Commission",
+   "primarySource": {
+    "name": "European Commission",
+    "kind": "European Commission press release",
+    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
+   },
+   "deadlines": [],
+   "titleMarkup": "Commission adopts guidelines implementing the visa ban on combatants in Russia's war of aggression against…",
+   "soWhat": {
+    "changed": "European Commission Press release Brussels, 23 Nov 2026 Today, alongside the proposal for the EU's 22nd sanctions package…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from European Commission"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Visa screening across Schengen tightens for former combatants, a security measure rather than a trade one.",
+    "n_sources": 1,
+    "signal_title": "EU moves to bar entry to Russia's war combatants",
+    "crux": "Alongside the 22nd sanctions proposal, the Commission adopted guidelines for member states on applying the visa ban for people who fought in Russia's war of aggression against Ukraine.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Border and migration security",
+     "Defence and security",
+     "Compliance"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia",
+     "Ukraine"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "ecpress-statement-26-2563",
+     "ecpress-ip-26-2499",
+     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ"
+    ],
+    "watch_next": "How member state consulates apply the guidelines in Schengen visa decisions",
+    "confidence_score": 67,
+    "source_name": "European Commission",
+    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2521",
+    "published_date": "2026-11-22",
+    "key_number": null,
+    "primary_source": {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2521",
+     "kind": "government or agency"
     },
     "reported_by": null
    }
@@ -1473,8 +1647,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "fr-2026-23785",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "gc-minister-anand-announces-additional-sanctions-to-reduce-russ"
+     "ecpress-statement-26-2563",
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
     ],
     "watch_next": "Office setup on Jan 16, 2027 and the first anti-circumvention outreach missions under the new envoy",
     "confidence_score": 79,
@@ -3128,9 +3302,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
-     "fr-2026-23196",
-     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
-     "ecpress-ip-26-2499"
+     "ecpress-statement-26-2563",
+     "ecpress-ip-26-2521",
+     "fr-2026-23196"
     ],
     "watch_next": "The annex of the act on EUR-Lex for which persons and entities were added, amended or removed",
     "confidence_score": 79,
@@ -3391,9 +3565,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
+     "ecpress-statement-26-2563",
      "fr-2026-22861",
-     "fr-C1-2026-22802",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+     "fr-C1-2026-22802"
     ],
     "watch_next": "Further amendments, extensions or expiry of general licenses 55F and 115D on OFAC's site",
     "confidence_score": 67,
@@ -3476,7 +3650,7 @@
     "related_signals": [
      "fr-2026-22861",
      "fr-C1-2026-22802",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+     "ecpress-statement-26-2563"
     ],
     "watch_next": "Any follow-on Iran general licenses or amendments from OFAC",
     "confidence_score": 67,
@@ -4177,7 +4351,7 @@
     "related_signals": [
      "fr-2026-22861",
      "fr-2026-23196",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+     "ecpress-statement-26-2563"
     ],
     "watch_next": "Watch whether OFAC republishes the withdrawn notice in corrected form.",
     "confidence_score": 67,
@@ -4599,9 +4773,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
+     "ecpress-statement-26-2563",
      "ecpress-ip-26-2499",
-     "fr-2026-23785",
-     "fr-2026-22861"
+     "fr-2026-23785"
     ],
     "watch_next": "Published regulations naming the 11 entities and any allied sanctions moves",
     "confidence_score": 67,
@@ -4779,7 +4953,7 @@
     "related_signals": [
      "fr-2026-23196",
      "fr-C1-2026-22802",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+     "ecpress-statement-26-2563"
     ],
     "watch_next": "The named persons and the sanctions program they fall under",
     "confidence_score": 67,
@@ -5119,7 +5293,7 @@
     "related_signals": [
      "fr-2026-22386",
      "eu-32026r2490",
-     "ecpress-ip-26-2499"
+     "ecpress-statement-26-2563"
     ],
     "watch_next": "Matching G7 listings and the updated schedule of the Special Economic Measures (Russia) Regulations.",
     "confidence_score": 67,
@@ -6649,7 +6823,7 @@
     "related_signals": [
      "gc-minister-anand-announces-additional-sanctions-to-reduce-russ",
      "fr-2026-22386",
-     "ecpress-ip-26-2499"
+     "ecpress-statement-26-2563"
     ],
     "watch_next": "The annex changes on EUR-Lex for names added or removed.",
     "confidence_score": 67,
@@ -16865,7 +17039,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-23T14:26:20+00:00",
+  "asOf": "2026-11-23T15:22:31+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -16910,9 +17084,9 @@
    },
    "arctic": {
     "7": {
-     "cur": 1,
-     "prev": 0,
-     "dir": "up",
+     "cur": 0,
+     "prev": 1,
+     "dir": "down",
      "reliable": false
     },
     "30": {
@@ -16930,9 +17104,9 @@
    },
    "cyber-digital-sovereignty": {
     "7": {
-     "cur": 2,
+     "cur": 1,
      "prev": 2,
-     "dir": "steady",
+     "dir": "down",
      "reliable": false
     },
     "30": {
@@ -17011,18 +17185,18 @@
    "geo": {
     "7": {
      "cur": 23,
-     "prev": 24,
+     "prev": 23,
      "dir": "steady",
      "reliable": false
     },
     "30": {
-     "cur": 84,
+     "cur": 86,
      "prev": 18,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 102,
+     "cur": 104,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -17030,9 +17204,9 @@
    },
    "minerals": {
     "7": {
-     "cur": 1,
-     "prev": 1,
-     "dir": "steady",
+     "cur": 0,
+     "prev": 2,
+     "dir": "down",
      "reliable": false
     },
     "30": {
@@ -17110,19 +17284,19 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 5,
-     "prev": 14,
+     "cur": 7,
+     "prev": 12,
      "dir": "down",
      "reliable": false
     },
     "30": {
-     "cur": 28,
+     "cur": 30,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 31,
+     "cur": 33,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -17131,15 +17305,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-23T14:26:27+00:00",
+  "asOf": "2026-11-23T15:22:59+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
    "minerals": 21,
-   "geo": 109,
+   "geo": 111,
    "ai-investment-infrastructure": 8,
    "energy-power": 18,
-   "trade-sanctions": 36,
+   "trade-sanctions": 38,
    "strategic-supply-chains": 12,
    "defense-technology": 25,
    "semiconductors": 5,
