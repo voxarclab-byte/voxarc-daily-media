@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-23T13:25:06+00:00",
+ "generated": "2026-11-23T14:26:27+00:00",
  "items": [
   {
    "id": "fr-2026-23812",
@@ -16865,7 +16865,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-23T13:24:59+00:00",
+  "asOf": "2026-11-23T14:26:20+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -17131,7 +17131,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-23T13:25:06+00:00",
+  "asOf": "2026-11-23T14:26:27+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
