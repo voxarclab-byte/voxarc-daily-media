@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-23T01:25:24+00:00",
+ "generated": "2026-11-23T02:23:46+00:00",
  "items": [
   {
    "id": "fr-2026-23812",
@@ -182,6 +182,91 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23785/notice-of-ofac-sanctions-action",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026d2618",
+   "published": "2026-11-23T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Decision (CFSP) 2026/2618: On an assistance measure under the European Peace Facility to support the…",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Council Decision (CFSP) 2026/2618 of 20 November 2026 on an assistance measure under the European Peace Facility to support the Armed Forces of Ukraine through the joint procurement of military equipment not designed to deliver lethal force",
+   "body": "Council Decision (CFSP) 2026/2618 of 20 November 2026 on an assistance measure under the European Peace Facility to support the Armed Forces of Ukraine through the joint procurement of military equipment not designed to deliver lethal force.\n\nPublished in the Official Journal of the European Union, L series, on Nov 23, 2026. CELEX number 32026D2618. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Decision (CFSP) 2026/2618",
+    "Published Nov 23, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-23",
+     "title": "Council Decision (CFSP) 2026/2618 of 20 November 2026 on an assistance measure under the European Peace Facility to support the Armed Forces of Ukraine through the joint procurement of military equipment not designed to deliver lethal force",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602618",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Decision (CFSP) 2026/2618: On an assistance measure under the European Peace Facility to support the…",
+   "soWhat": {
+    "changed": "The EU published Council Decision (CFSP) 2026/2618 in the Official Journal on Nov 23, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "European defence suppliers of non-lethal gear gain a pooled EU procurement channel; watch the funding size and supplier rules.",
+    "n_sources": 1,
+    "signal_title": "EU adds joint non-lethal equipment buying for Ukraine's forces",
+    "crux": "The EU Council adopted a European Peace Facility assistance measure on Nov 20, 2026 to fund joint procurement of non-lethal military equipment for Ukraine's armed forces.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Defence procurement",
+     "Logistics"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Ukraine"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "eu-32026d2508",
+     "eu-32026r2382",
+     "eu-32026r2381"
+    ],
+    "watch_next": "The measure's budget and procurement terms in the decision text on EUR-Lex",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602618",
+    "published_date": "2026-11-23",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602618",
      "kind": "official journal"
     },
     "reported_by": null
@@ -2164,15 +2249,16 @@
     "risk_level": "Low",
     "opportunity_level": "Low",
     "related_signals": [
+     "eu-32026d2507",
      "6ad7c0a0a69d84a91a2bf0be",
-     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d",
-     "eu-32026r2382"
+     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d"
     ],
     "watch_next": "The amended terms in the act's articles on EUR-Lex and any follow-on EPF assistance measures",
     "confidence_score": 67,
     "source_name": "EUR-Lex (Official Journal of the EU)",
     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2554",
     "published_date": "2026-11-17",
+    "duplicate_of": "eu-32026d2618",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
@@ -2621,90 +2707,6 @@
    }
   },
   {
-   "id": "eu-32026d2556",
-   "published": "2026-11-16T09:00:00Z",
-   "kicker": "Geoeconomics · EU Official Journal",
-   "title": "Council Decision (CFSP) 2026/2556: Amending Decision (CFSP) 2024/2643 concerning restrictive measures in view…",
-   "topics": [
-    "geo",
-    "trade-sanctions"
-   ],
-   "primary": "geo",
-   "summary": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities",
-   "body": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026D2556. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
-   "stat": null,
-   "keyPoints": [
-    "Council Decision (CFSP) 2026/2556",
-    "Published Nov 16, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "EUR-Lex (Official Journal of the EU)",
-     "date": "2026-11-16",
-     "title": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2556",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "EUR-Lex",
-   "primarySource": {
-    "name": "EUR-Lex",
-    "kind": "Official Journal of the European Union",
-    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Council Decision (CFSP) 2026/2556: Amending Decision (CFSP) 2024/2643 concerning restrictive measures in view…",
-   "soWhat": {
-    "changed": "The EU published Council Decision (CFSP) 2026/2556 in the Official Journal on Nov 16, 2026…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Sanctions compliance teams should track this paired decision and regulation as one package when updating screening lists.",
-    "n_sources": 1,
-    "signal_title": "EU amends legal basis for Russia destabilisation sanctions",
-    "crux": "Council Decision (CFSP) 2026/2556 of Nov 16, 2026 amends Decision 2024/2643, the CFSP basis for restrictive measures over Russia's destabilising activities, alongside implementing regulation 2026/2558.",
-    "importance": "Medium",
-    "impact_score": 45,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Government",
-     "Financial Services"
-    ],
-    "affected_regions": [
-     "European Union",
-     "Russia"
-    ],
-    "risk_level": "High",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "eu-32026r2569",
-     "eu-32026d2570",
-     "eu-32026r2550"
-    ],
-    "watch_next": "Whether the decision extends the regime's scope or duration, set out in its articles on EUR-Lex",
-    "confidence_score": 67,
-    "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2556",
-    "published_date": "2026-11-16",
-    "key_number": null,
-    "primary_source": {
-     "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2556",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "eu-32026r2569",
    "published": "2026-11-16T09:00:00Z",
    "kicker": "Geoeconomics · EU Official Journal",
@@ -2869,6 +2871,90 @@
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2558",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026d2556",
+   "published": "2026-11-16T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Decision (CFSP) 2026/2556: Amending Decision (CFSP) 2024/2643 concerning restrictive measures in view…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities",
+   "body": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities.\n\nPublished in the Official Journal of the European Union, L series, on Nov 16, 2026. CELEX number 32026D2556. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Decision (CFSP) 2026/2556",
+    "Published Nov 16, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-16",
+     "title": "Council Decision (CFSP) 2026/2556 of 16 November 2026 amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2556",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Decision (CFSP) 2026/2556: Amending Decision (CFSP) 2024/2643 concerning restrictive measures in view…",
+   "soWhat": {
+    "changed": "The EU published Council Decision (CFSP) 2026/2556 in the Official Journal on Nov 16, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Sanctions compliance teams should track this paired decision and regulation as one package when updating screening lists.",
+    "n_sources": 1,
+    "signal_title": "EU amends legal basis for Russia destabilisation sanctions",
+    "crux": "Council Decision (CFSP) 2026/2556 of Nov 16, 2026 amends Decision 2024/2643, the CFSP basis for restrictive measures over Russia's destabilising activities, alongside implementing regulation 2026/2558.",
+    "importance": "Medium",
+    "impact_score": 45,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Government",
+     "Financial Services"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Russia"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026r2569",
+     "eu-32026d2570",
+     "eu-32026r2550"
+    ],
+    "watch_next": "Whether the decision extends the regime's scope or duration, set out in its articles on EUR-Lex",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2556",
+    "published_date": "2026-11-16",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2556",
      "kind": "official journal"
     },
     "reported_by": null
@@ -4179,7 +4265,6 @@
     "source_name": "EUR-Lex (Official Journal of the EU)",
     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2507",
     "published_date": "2026-11-11",
-    "duplicate_of": "eu-32026d2554",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
@@ -4338,9 +4423,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
+     "eu-32026d2618",
      "eu-32026r2382",
-     "eu-32026r2381",
-     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive"
+     "eu-32026r2381"
     ],
     "watch_next": "The amended mission terms and any change to its budget or duration on EUR-Lex",
     "confidence_score": 67,
@@ -6831,7 +6916,7 @@
     "related_signals": [
      "eu-32026r2381",
      "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
-     "eu-32026d2508"
+     "eu-32026d2618"
     ],
     "watch_next": "The defence exemptions in the act and the dates they apply from on EUR-Lex.",
     "confidence_score": 67,
@@ -6915,7 +7000,7 @@
     "related_signals": [
      "eu-32026r2382",
      "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
-     "eu-32026d2508"
+     "eu-32026d2618"
     ],
     "watch_next": "Which projects qualify and the permit deadlines set in the act on EUR-Lex.",
     "confidence_score": 67,
@@ -16688,7 +16773,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-23T01:25:18+00:00",
+  "asOf": "2026-11-23T02:23:35+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -16773,8 +16858,8 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 11,
-     "prev": 4,
+     "cur": 10,
+     "prev": 5,
      "dir": "up",
      "reliable": false
     },
@@ -16833,8 +16918,8 @@
    },
    "geo": {
     "7": {
-     "cur": 26,
-     "prev": 19,
+     "cur": 25,
+     "prev": 20,
      "dir": "up",
      "reliable": false
     },
@@ -16913,19 +16998,19 @@
    },
    "strategic-supply-chains": {
     "7": {
-     "cur": 4,
+     "cur": 3,
      "prev": 0,
      "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 11,
+     "cur": 10,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 12,
+     "cur": 11,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -16954,17 +17039,17 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-23T01:25:24+00:00",
+  "asOf": "2026-11-23T02:23:46+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
    "minerals": 21,
-   "geo": 107,
+   "geo": 108,
    "ai-investment-infrastructure": 8,
    "energy-power": 18,
    "trade-sanctions": 35,
    "strategic-supply-chains": 12,
-   "defense-technology": 24,
+   "defense-technology": 25,
    "semiconductors": 5,
    "economic-security": 3,
    "cyber-digital-sovereignty": 7,
