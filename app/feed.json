@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-23T12:21:29+00:00",
+ "generated": "2026-11-23T13:25:06+00:00",
  "items": [
   {
    "id": "fr-2026-23812",
@@ -294,14 +294,14 @@
      "publisher": "EUR-Lex (Official Journal of the EU)",
      "date": "2026-11-23",
      "title": "Council Implementing Regulation (EU) 2026/2616 of 23 November 2026 implementing Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602616",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2616",
      "kind": "official"
     },
     {
      "publisher": "EUR-Lex (Official Journal of the EU)",
      "date": "2026-11-23",
      "title": "Council Decision (CFSP) 2026/2605 of 23 November 2026 amending Decision (CFSP) 2026/455 on restrictive measures to combat terrorism",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602605",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2605",
      "note": "Official document (merged duplicate eu-32026d2605)",
      "kind": "official"
     }
@@ -353,12 +353,12 @@
     "watch_next": "The annex listings in the Official Journal and any matching updates by the UK, US or Canada",
     "confidence_score": 79,
     "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602616",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2616",
     "published_date": "2026-11-23",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602616",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2616",
      "kind": "official journal"
     },
     "reported_by": null
@@ -16865,7 +16865,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-23T12:21:22+00:00",
+  "asOf": "2026-11-23T13:24:59+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -17131,7 +17131,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-23T12:21:29+00:00",
+  "asOf": "2026-11-23T13:25:06+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
