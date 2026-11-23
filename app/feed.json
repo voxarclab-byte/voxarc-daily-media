@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-23T04:22:37+00:00",
+ "generated": "2026-11-23T11:21:37+00:00",
  "items": [
   {
    "id": "fr-2026-23812",
@@ -209,7 +209,7 @@
      "publisher": "EUR-Lex (Official Journal of the EU)",
      "date": "2026-11-23",
      "title": "Council Decision (CFSP) 2026/2618 of 20 November 2026 on an assistance measure under the European Peace Facility to support the Armed Forces of Ukraine through the joint procurement of military equipment not designed to deliver lethal force",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602618",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2618",
      "kind": "official"
     }
    ],
@@ -261,12 +261,104 @@
     "watch_next": "The measure's budget and procurement terms in the decision text on EUR-Lex",
     "confidence_score": 67,
     "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602618",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2618",
     "published_date": "2026-11-23",
     "key_number": null,
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602618",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2618",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "eu-32026r2616",
+   "published": "2026-11-23T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Implementing Regulation (EU) 2026/2616: Implementing Regulation…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Implementing Regulation (EU) 2026/2616 of 23 November 2026 implementing Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism",
+   "body": "Council Implementing Regulation (EU) 2026/2616 of 23 November 2026 implementing Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism.\n\nPublished in the Official Journal of the European Union, L series, on Nov 23, 2026. CELEX number 32026R2616. Act type: Council Implementing Regulation.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Implementing Regulation (EU) 2026/2616",
+    "Published Nov 23, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-23",
+     "title": "Council Implementing Regulation (EU) 2026/2616 of 23 November 2026 implementing Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602616",
+     "kind": "official"
+    },
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-23",
+     "title": "Council Decision (CFSP) 2026/2605 of 23 November 2026 amending Decision (CFSP) 2026/455 on restrictive measures to combat terrorism",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602605",
+     "note": "Official document (merged duplicate eu-32026d2605)",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Implementing Regulation (EU) 2026/2616: Implementing Regulation…",
+   "soWhat": {
+    "changed": "The EU published Council Implementing Regulation (EU) 2026/2616 in the Official Journal on Nov 23, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Banks, payment firms and compliance teams screening against EU lists need to refresh their terrorist-designation data from the Official Journal annex.",
+    "n_sources": 2,
+    "signal_title": "EU updates its terrorist sanctions list",
+    "crux": "On Nov 23, 2026 the EU Council adopted Implementing Regulation 2026/2616 and companion Decision (CFSP) 2026/2605, updating the persons and entities under its counter-terrorism restrictive measures (Regulation 2580/2001, Decision 2026/455).",
+    "importance": "Low",
+    "impact_score": 38,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Banking and payments",
+     "Compliance and sanctions screening",
+     "Government"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "eu-32026d2556",
+     "eu-32026r2569",
+     "eu-32026d2570"
+    ],
+    "watch_next": "The annex listings in the Official Journal and any matching updates by the UK, US or Canada",
+    "confidence_score": 79,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602616",
+    "published_date": "2026-11-23",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602616",
      "kind": "official journal"
     },
     "reported_by": null
@@ -921,8 +1013,8 @@
      0,
      1,
      1,
-     0,
-     3,
+     2,
+     1,
      0,
      0,
      0,
@@ -932,12 +1024,11 @@
      0,
      0,
      0,
-     0,
      1,
+     0,
      1
     ],
     "weeklyEntityList": [
-     0,
      0,
      0,
      0,
@@ -988,11 +1079,12 @@
      0,
      0,
      0,
+     0,
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-22",
-    "asOfLabel": "Nov 22, 2026",
+    "asOf": "2026-11-23",
+    "asOfLabel": "Nov 23, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -3642,8 +3734,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "eu-32026d2556",
-     "eu-32026r2569",
-     "eu-32026d2570"
+     "eu-32026r2616",
+     "eu-32026r2569"
     ],
     "watch_next": "The Customs Cooperation Committee decision itself and its application date on EUR-Lex",
     "confidence_score": 67,
@@ -11089,8 +11181,8 @@
      0,
      1,
      1,
-     0,
-     3,
+     2,
+     1,
      0,
      0,
      0,
@@ -11100,12 +11192,11 @@
      0,
      0,
      0,
-     0,
      1,
+     0,
      1
     ],
     "weeklyEntityList": [
-     0,
      0,
      0,
      0,
@@ -11156,11 +11247,12 @@
      0,
      0,
      0,
+     0,
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-22",
-    "asOfLabel": "Nov 22, 2026",
+    "asOf": "2026-11-23",
+    "asOfLabel": "Nov 23, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -11351,8 +11443,8 @@
      0,
      1,
      1,
-     0,
-     3,
+     2,
+     1,
      0,
      0,
      0,
@@ -11362,12 +11454,11 @@
      0,
      0,
      0,
-     0,
      1,
+     0,
      1
     ],
     "weeklyEntityList": [
-     0,
      0,
      0,
      0,
@@ -11418,11 +11509,12 @@
      0,
      0,
      0,
+     0,
      0
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-22",
-    "asOfLabel": "Nov 22, 2026",
+    "asOf": "2026-11-23",
+    "asOfLabel": "Nov 23, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -16652,8 +16744,8 @@
     2
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-22",
-   "asOfLabel": "Nov 22, 2026",
+   "asOf": "2026-11-23",
+   "asOfLabel": "Nov 23, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -16696,8 +16788,8 @@
     0,
     1,
     1,
-    0,
-    3,
+    2,
+    1,
     0,
     0,
     0,
@@ -16707,12 +16799,11 @@
     0,
     0,
     0,
-    0,
     1,
+    0,
     1
    ],
    "weeklyEntityList": [
-    0,
     0,
     0,
     0,
@@ -16763,6 +16854,7 @@
     0,
     0,
     0,
+    0,
     0
    ],
    "weeklyLabel": "Final rules per week, last 52 weeks",
@@ -16773,7 +16865,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-23T04:22:31+00:00",
+  "asOf": "2026-11-23T11:21:09+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -16838,9 +16930,9 @@
    },
    "cyber-digital-sovereignty": {
     "7": {
-     "cur": 2,
-     "prev": 1,
-     "dir": "up",
+     "cur": 1,
+     "prev": 2,
+     "dir": "down",
      "reliable": false
     },
     "30": {
@@ -16858,19 +16950,19 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 10,
+     "cur": 11,
      "prev": 5,
      "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 20,
+     "cur": 21,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 23,
+     "cur": 24,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -16918,19 +17010,19 @@
    },
    "geo": {
     "7": {
-     "cur": 25,
-     "prev": 20,
-     "dir": "up",
+     "cur": 22,
+     "prev": 25,
+     "dir": "steady",
      "reliable": false
     },
     "30": {
-     "cur": 80,
+     "cur": 82,
      "prev": 18,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 98,
+     "cur": 100,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -17018,19 +17110,19 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 8,
-     "prev": 10,
-     "dir": "steady",
+     "cur": 4,
+     "prev": 15,
+     "dir": "down",
      "reliable": false
     },
     "30": {
-     "cur": 26,
+     "cur": 27,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 29,
+     "cur": 30,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -17039,15 +17131,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-23T04:22:37+00:00",
+  "asOf": "2026-11-23T11:21:37+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
    "minerals": 21,
-   "geo": 108,
+   "geo": 109,
    "ai-investment-infrastructure": 8,
    "energy-power": 18,
-   "trade-sanctions": 35,
+   "trade-sanctions": 36,
    "strategic-supply-chains": 12,
    "defense-technology": 25,
    "semiconductors": 5,
