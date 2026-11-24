@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-24T20:25:23+00:00",
+ "generated": "2026-11-24T21:27:39+00:00",
  "items": [
   {
    "id": "govuk-nuclear-regulatory-review-joint-ministerial-letter-to-indust",
@@ -9003,6 +9003,90 @@
    }
   },
   {
+   "id": "nist-nist-report-provides-guidelines-transition-post-quantum-cryp",
+   "published": "2026-10-27T15:00:00Z",
+   "kicker": "AI Policy · National Institute of Standards and Technology",
+   "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.",
+   "body": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.\n\nNational Institute of Standards and Technology published this on Oct 27, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from National Institute of Standards and Technology. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from National Institute of Standards and Technology",
+    "Published Oct 27, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "National Institute of Standards and Technology",
+     "date": "2026-10-27",
+     "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+     "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "National Institute of Standards and Technology",
+   "primarySource": {
+    "name": "National Institute of Standards and Technology",
+    "kind": "NIST news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+   "soWhat": {
+    "changed": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and…",
+    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
+    "watch": "Follow-on measures or implementation details from National Institute of Standards and Technology"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "Tech vendors selling to the US government need quantum-readiness road maps aligned with these timelines.",
+    "n_sources": 1,
+    "signal_title": "NIST sets the federal migration path to post-quantum cryptography",
+    "crux": "NIST published a report laying out timelines and migration activities for federal agencies moving to post-quantum cryptography standards.",
+    "importance": "Medium",
+    "impact_score": 55,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Cybersecurity",
+     "Technology vendors",
+     "Government IT",
+     "Financial services"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "nist-quantum-physics-can-verify-persons-location-nist-researchers",
+     "fr-2026-22861",
+     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense"
+    ],
+    "watch_next": "Agency deadlines for quantum-vulnerable algorithms and procurement requirements for vendors.",
+    "confidence_score": 67,
+    "source_name": "National Institute of Standards and Technology",
+    "source_url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+    "published_date": "2026-10-27",
+    "key_number": null,
+    "primary_source": {
+     "name": "National Institute of Standards and Technology",
+     "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "doe-energy-department-announces-5-billion-loan-boost-nuclear-pow",
    "published": "2026-10-27T15:00:00Z",
    "kicker": "Geoeconomics · US Department of Energy",
@@ -9086,90 +9170,6 @@
     "primary_source": {
      "name": "US Department of Energy",
      "url": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "nist-nist-report-provides-guidelines-transition-post-quantum-cryp",
-   "published": "2026-10-27T15:00:00Z",
-   "kicker": "AI Policy · National Institute of Standards and Technology",
-   "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
-   "topics": [
-    "ai"
-   ],
-   "primary": "ai",
-   "summary": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.",
-   "body": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.\n\nNational Institute of Standards and Technology published this on Oct 27, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from National Institute of Standards and Technology. Read the source for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "Official publication from National Institute of Standards and Technology",
-    "Published Oct 27, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "National Institute of Standards and Technology",
-     "date": "2026-10-27",
-     "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
-     "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "National Institute of Standards and Technology",
-   "primarySource": {
-    "name": "National Institute of Standards and Technology",
-    "kind": "NIST news release",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
-   "soWhat": {
-    "changed": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and…",
-    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
-    "watch": "Follow-on measures or implementation details from National Institute of Standards and Technology"
-   },
-   "photo": {
-    "src": "img/photos/ai-chip.webp",
-    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
-    "key": "ai-chip"
-   },
-   "signal": {
-    "so_what": "Tech vendors selling to the US government need quantum-readiness road maps aligned with these timelines.",
-    "n_sources": 1,
-    "signal_title": "NIST sets the federal migration path to post-quantum cryptography",
-    "crux": "NIST published a report laying out timelines and migration activities for federal agencies moving to post-quantum cryptography standards.",
-    "importance": "Medium",
-    "impact_score": 55,
-    "time_horizon": "Long term",
-    "affected_sectors": [
-     "Cybersecurity",
-     "Technology vendors",
-     "Government IT",
-     "Financial services"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "nist-quantum-physics-can-verify-persons-location-nist-researchers",
-     "fr-2026-22861",
-     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense"
-    ],
-    "watch_next": "Agency deadlines for quantum-vulnerable algorithms and procurement requirements for vendors.",
-    "confidence_score": 67,
-    "source_name": "National Institute of Standards and Technology",
-    "source_url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
-    "published_date": "2026-10-27",
-    "key_number": null,
-    "primary_source": {
-     "name": "National Institute of Standards and Technology",
-     "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -17559,7 +17559,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-24T20:25:16+00:00",
+  "asOf": "2026-11-24T21:27:32+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -17825,7 +17825,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-24T20:25:23+00:00",
+  "asOf": "2026-11-24T21:27:39+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
