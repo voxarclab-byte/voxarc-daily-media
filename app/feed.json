@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-24T14:22:55+00:00",
+ "generated": "2026-11-24T15:24:10+00:00",
  "items": [
   {
    "id": "govuk-nuclear-regulatory-review-joint-ministerial-letter-to-indust",
@@ -17559,14 +17559,14 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-24T14:22:32+00:00",
+  "asOf": "2026-11-24T15:23:50+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
     "7": {
-     "cur": 4,
-     "prev": 2,
-     "dir": "up",
+     "cur": 3,
+     "prev": 3,
+     "dir": "steady",
      "reliable": false
     },
     "30": {
@@ -17644,19 +17644,19 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 10,
-     "prev": 6,
-     "dir": "up",
+     "cur": 8,
+     "prev": 9,
+     "dir": "steady",
      "reliable": false
     },
     "30": {
-     "cur": 21,
+     "cur": 22,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 24,
+     "cur": 25,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -17685,18 +17685,18 @@
    "energy-power": {
     "7": {
      "cur": 2,
-     "prev": 2,
-     "dir": "steady",
+     "prev": 3,
+     "dir": "down",
      "reliable": false
     },
     "30": {
-     "cur": 14,
+     "cur": 15,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 17,
+     "cur": 18,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -17704,19 +17704,19 @@
    },
    "geo": {
     "7": {
-     "cur": 25,
-     "prev": 20,
-     "dir": "up",
+     "cur": 21,
+     "prev": 25,
+     "dir": "steady",
      "reliable": false
     },
     "30": {
-     "cur": 90,
+     "cur": 92,
      "prev": 18,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 108,
+     "cur": 110,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -17784,9 +17784,9 @@
    },
    "strategic-supply-chains": {
     "7": {
-     "cur": 3,
-     "prev": 0,
-     "dir": "up",
+     "cur": 1,
+     "prev": 2,
+     "dir": "down",
      "reliable": false
     },
     "30": {
@@ -17805,7 +17805,7 @@
    "trade-sanctions": {
     "7": {
      "cur": 9,
-     "prev": 10,
+     "prev": 9,
      "dir": "steady",
      "reliable": false
     },
@@ -17825,7 +17825,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-24T14:22:55+00:00",
+  "asOf": "2026-11-24T15:24:10+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
