@@ -1,8 +1,96 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-24T02:25:29+00:00",
+ "generated": "2026-11-24T03:27:05+00:00",
  "items": [
+  {
+   "id": "eu-32026d2621",
+   "published": "2026-11-24T09:00:00Z",
+   "kicker": "Geoeconomics · EU Official Journal",
+   "title": "Council Decision (CFSP) 2026/2621: Amending Decision (CFSP) 2019/1894 concerning restrictive measures in view…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "Council Decision (CFSP) 2026/2621 of 23 November 2026 amending Decision (CFSP) 2019/1894 concerning restrictive measures in view of Türkiye’s unauthorised drilling activities in the Eastern Mediterranean",
+   "body": "Council Decision (CFSP) 2026/2621 of 23 November 2026 amending Decision (CFSP) 2019/1894 concerning restrictive measures in view of Türkiye’s unauthorised drilling activities in the Eastern Mediterranean.\n\nPublished in the Official Journal of the European Union, L series, on Nov 24, 2026. CELEX number 32026D2621. Act type: Council Decision.\n\nWhy it matters: Publication in the Official Journal is what makes an EU act law. Read the act on EUR-Lex for its scope, the annexes it changes and the date it applies from.",
+   "stat": null,
+   "keyPoints": [
+    "Council Decision (CFSP) 2026/2621",
+    "Published Nov 24, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-24",
+     "title": "Council Decision (CFSP) 2026/2621 of 23 November 2026 amending Decision (CFSP) 2019/1894 concerning restrictive measures in view of Türkiye’s unauthorised drilling activities in the Eastern Mediterranean",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602621",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "EUR-Lex",
+   "primarySource": {
+    "name": "EUR-Lex",
+    "kind": "Official Journal of the European Union",
+    "terms": "© European Union, https://eur-lex.europa.eu (reuse under Decision 2011/833/EU)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Council Decision (CFSP) 2026/2621: Amending Decision (CFSP) 2019/1894 concerning restrictive measures in view…",
+   "soWhat": {
+    "changed": "The EU published Council Decision (CFSP) 2026/2621 in the Official Journal on Nov 24, 2026…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "The date it applies from, set in the act's final article on EUR-Lex"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Offshore energy operators and investors in Eastern Mediterranean gas should treat EU-Turkiye maritime tension as a live sanctions risk.",
+    "n_sources": 1,
+    "signal_title": "EU keeps sanctions tool aimed at Turkish drilling in Eastern Mediterranean",
+    "crux": "On 23 November 2026 the EU Council amended Decision (CFSP) 2019/1894, its restrictive measures framework over Turkiye's unauthorised drilling in the Eastern Mediterranean.",
+    "importance": "Medium",
+    "impact_score": 44,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Offshore oil and gas",
+     "Energy",
+     "Maritime",
+     "Defense and security"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Turkiye",
+     "Cyprus",
+     "Eastern Mediterranean"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "ecpress-statement-26-2563",
+     "fr-2026-23196",
+     "ecpress-ip-26-2499"
+    ],
+    "watch_next": "Whether the EU adds listings under the regime or Turkiye resumes survey and drilling activity in disputed waters.",
+    "confidence_score": 67,
+    "source_name": "EUR-Lex (Official Journal of the EU)",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602621",
+    "published_date": "2026-11-24",
+    "key_number": null,
+    "primary_source": {
+     "name": "EUR-Lex (Official Journal of the EU)",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602621",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "gc-government-of-canada-adds-samidoun-alias-masar-badil-to-terr",
    "published": "2026-11-23T15:00:00Z",
@@ -17300,7 +17388,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-24T02:25:12+00:00",
+  "asOf": "2026-11-24T03:26:39+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -17566,15 +17654,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-24T02:25:29+00:00",
+  "asOf": "2026-11-24T03:27:05+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
    "minerals": 21,
-   "geo": 114,
+   "geo": 115,
    "ai-investment-infrastructure": 8,
    "energy-power": 19,
-   "trade-sanctions": 39,
+   "trade-sanctions": 40,
    "strategic-supply-chains": 12,
    "defense-technology": 25,
    "semiconductors": 5,
