@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-24T13:27:26+00:00",
+ "generated": "2026-11-24T14:22:55+00:00",
  "items": [
   {
    "id": "govuk-nuclear-regulatory-review-joint-ministerial-letter-to-indust",
@@ -83,6 +83,92 @@
     "primary_source": {
      "name": "UK Department for Energy Security and Net Zero",
      "url": "https://www.gov.uk/government/publications/nuclear-regulatory-review-joint-ministerial-letter-to-industry",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "govuk-new-digital-number-plates-to-help-police-crackdown-on-crimin",
+   "published": "2026-11-24T15:00:00Z",
+   "kicker": "Geoeconomics · UK Department for Transport",
+   "title": "New digital number plates to help police crackdown on criminal drone use",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "A London-based trial will help police track and identify drones to prevent unauthorised, dangerous activity and disruption at major events.",
+   "body": "A London-based trial will help police track and identify drones to prevent unauthorised, dangerous activity and disruption at major events.\n\nUK Department for Transport published this on Nov 24, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Department for Transport. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Department for Transport",
+    "Published Nov 24, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Department for Transport",
+     "date": "2026-11-24",
+     "title": "New digital number plates to help police crackdown on criminal drone use",
+     "url": "https://www.gov.uk/government/news/new-digital-number-plates-to-help-police-crackdown-on-criminal-drone-use",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Department for Transport",
+   "primarySource": {
+    "name": "UK Department for Transport",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "New digital number plates to help police crackdown on criminal drone use",
+   "soWhat": {
+    "changed": "A London-based trial will help police track and identify drones to prevent unauthorised, dangerous activity and disruption at major events.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from UK Department for Transport"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Counter-drone and remote identification vendors gain a UK proving ground, while drone operators should expect identification duties to tighten.",
+    "n_sources": 1,
+    "signal_title": "UK moves toward remote ID for drones with police tracking trial",
+    "crux": "The UK Department for Transport is backing a London trial of digital number plates that let police track and identify drones at major events.",
+    "importance": "Medium",
+    "impact_score": 42,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Drones and unmanned aviation",
+     "Defence and security",
+     "Aerospace",
+     "Public safety technology"
+    ],
+    "affected_regions": [
+     "United Kingdom",
+     "Europe"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "govuk-grants-up-to-45-million-boost-uk-growth-as-ministry-of-defen",
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk"
+    ],
+    "watch_next": "Trial results and any UK rule making remote identification mandatory for drone operators",
+    "confidence_score": 67,
+    "source_name": "UK Department for Transport",
+    "source_url": "https://www.gov.uk/government/news/new-digital-number-plates-to-help-police-crackdown-on-criminal-drone-use",
+    "published_date": "2026-11-24",
+    "key_number": null,
+    "primary_source": {
+     "name": "UK Department for Transport",
+     "url": "https://www.gov.uk/government/news/new-digital-number-plates-to-help-police-crackdown-on-criminal-drone-use",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -17473,7 +17559,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-24T13:27:19+00:00",
+  "asOf": "2026-11-24T14:22:32+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -17739,17 +17825,17 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-24T13:27:26+00:00",
+  "asOf": "2026-11-24T14:22:55+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
    "minerals": 21,
-   "geo": 116,
+   "geo": 117,
    "ai-investment-infrastructure": 8,
    "energy-power": 20,
    "trade-sanctions": 40,
    "strategic-supply-chains": 12,
-   "defense-technology": 25,
+   "defense-technology": 26,
    "semiconductors": 5,
    "economic-security": 3,
    "cyber-digital-sovereignty": 8,
