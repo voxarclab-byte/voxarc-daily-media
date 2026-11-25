@@ -1,8 +1,202 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-25T13:23:50+00:00",
+ "generated": "2026-11-25T14:20:24+00:00",
  "items": [
+  {
+   "id": "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
+   "published": "2026-11-25T15:00:00Z",
+   "kicker": "Critical Minerals · Office of the United States Trade Representative",
+   "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess…",
+   "topics": [
+    "ai",
+    "minerals",
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "minerals",
+   "summary": "<span id=\"pageTitle\" class=\"field field--name-title field--type-string field--label-hidden\">USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors</span>…",
+   "body": "<span id=\"pageTitle\" class=\"field field--name-title field--type-string field--label-hidden\">USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://ustr.gov/users/myarbrough\" typeof=\"schema:Person\" property=\"schema:name\" datatype>myarbrough</span></span> <span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-25T06:19:59-05:00\" title=\"Wednesday, November 25, 2026 - 06:19\" class=\"datetime\">Wed…\n\nOffice of the United States Trade Representative published this on Nov 25, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from Office of the United States Trade Representative. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from Office of the United States Trade Representative",
+    "Published Nov 25, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "Office of the United States Trade Representative",
+     "date": "2026-11-25",
+     "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Office of the United States Trade Representative",
+   "primarySource": {
+    "name": "Office of the United States Trade Representative",
+    "kind": "USTR press release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess…",
+   "soWhat": {
+    "changed": "<span id=\"pageTitle\" class=\"field field--name-title field--type-string field--label-hidden\">USTR Makes Determinations and Proposes Actions in 14 Section 301…",
+    "who": "Miners, processors, offtakers and investors in critical-mineral supply chains",
+    "watch": "Follow-on measures or implementation details from Office of the United States Trade Representative"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "Importers, manufacturers and supply-chain planners exposed to these economies face a possible new tariff layer in 2027; comments are due Jan 5, 2027 with hearings from Jan 25, 2027.",
+    "n_sources": 1,
+    "signal_title": "US moves toward broad Section 301 tariffs on 14 economies over excess capacity",
+    "crux": "USTR found that manufacturing excess-capacity practices in 14 economies, including China, the EU, Japan, Korea, Taiwan and India, are actionable under Section 301 and proposed added tariffs of up to 15 to 35 percent by economy.",
+    "importance": "High",
+    "impact_score": 80,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Manufacturing",
+     "Trade",
+     "Semiconductors and ICT",
+     "Shipbuilding",
+     "Textiles and apparel",
+     "Supply chains"
+    ],
+    "affected_regions": [
+     "United States",
+     "China",
+     "European Union",
+     "Japan",
+     "South Korea",
+     "Taiwan",
+     "India",
+     "Southeast Asia",
+     "Switzerland",
+     "Bangladesh"
+    ],
+    "risk_level": "High",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22868",
+     "fr-2026-23529",
+     "6adbb54da4c20d730fe656c5"
+    ],
+    "watch_next": "Comment deadline Jan 5, 2027, USTR hearings from Jan 25, 2027, product exemption annexes, and any decision on Mexico and Norway",
+    "confidence_score": 67,
+    "source_name": "Office of the United States Trade Representative",
+    "source_url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+    "published_date": "2026-11-25",
+    "key_number": {
+     "value": "35%",
+     "unit": "",
+     "label": "by economy",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "Office of the United States Trade Representative",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "ustr-ustr-invites-public-comment-proposed-modifications-section-3",
+   "published": "2026-11-25T15:00:00Z",
+   "kicker": "Critical Minerals · Office of the United States Trade Representative",
+   "title": "USTR Invites Public Comment on Proposed Modifications of the Section 301 Action Regarding Brazil’s…",
+   "topics": [
+    "minerals",
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "minerals",
+   "summary": "<span id=\"pageTitle\" class=\"field field--name-title field--type-string field--label-hidden\">USTR Invites Public Comment on Proposed Modifications of the Section 301 Action Regarding Brazil’s Unreasonable Acts, Policies…",
+   "body": "<span id=\"pageTitle\" class=\"field field--name-title field--type-string field--label-hidden\">USTR Invites Public Comment on Proposed Modifications of the Section 301 Action Regarding Brazil’s Unreasonable Acts, Policies, and Practices</span> <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://ustr.gov/users/myarbrough\" typeof=\"schema:Person\" property=\"schema:name\" datatype>myarbrough</span></span> <span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-25T06:40:40-05:00\" title=\"Wednesday, November 25, 2026 - 06:40\" class=\"datetime\">Wed…\n\nOffice of the United States Trade Representative published this on Nov 25, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from Office of the United States Trade Representative. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from Office of the United States Trade Representative",
+    "Published Nov 25, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "Office of the United States Trade Representative",
+     "date": "2026-11-25",
+     "title": "USTR Invites Public Comment on Proposed Modifications of the Section 301 Action Regarding Brazil’s Unreasonable Acts, Policies, and Practices",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Office of the United States Trade Representative",
+   "primarySource": {
+    "name": "Office of the United States Trade Representative",
+    "kind": "USTR press release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "USTR Invites Public Comment on Proposed Modifications of the Section 301 Action Regarding Brazil’s…",
+   "soWhat": {
+    "changed": "<span id=\"pageTitle\" class=\"field field--name-title field--type-string field--label-hidden\">USTR Invites Public Comment on Proposed Modifications of the…",
+    "who": "Miners, processors, offtakers and investors in critical-mineral supply chains",
+    "watch": "Follow-on measures or implementation details from Office of the United States Trade Representative"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "Aerospace buyers and sugar traders sourcing from Brazil face higher costs if adopted; hearing requests are due Dec 7, 2026 and written comments Dec 30, 2026.",
+    "n_sources": 1,
+    "signal_title": "US proposes widening Brazil Section 301 tariffs to sugar and finished aircraft",
+    "crux": "USTR proposed adding a specific tariff on Brazilian sugar and an extra 10 percent tariff on finished Brazilian aircraft, both previously exempt, plus a higher nondiscriminatory out-of-quota sugar tariff.",
+    "importance": "Medium",
+    "impact_score": 55,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Aerospace",
+     "Agriculture and food",
+     "Trade"
+    ],
+    "affected_regions": [
+     "United States",
+     "Brazil"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
+     "6adbb54da4c20d730fe656c5",
+     "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng"
+    ],
+    "watch_next": "Hearing request deadline Dec 7, 2026, comments due Dec 30, 2026, USTR hearing Jan 14, 2027",
+    "confidence_score": 67,
+    "source_name": "Office of the United States Trade Representative",
+    "source_url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable",
+    "published_date": "2026-11-25",
+    "key_number": {
+     "value": "10%",
+     "unit": "",
+     "label": "tariff on finished Brazilian aircraft",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "Office of the United States Trade Representative",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "fr-2026-23999",
    "published": "2026-11-25T12:00:00Z",
@@ -655,7 +849,7 @@
     "related_signals": [
      "ecpress-statement-26-2563",
      "fr-2026-23196",
-     "ecpress-ip-26-2499"
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30"
     ],
     "watch_next": "Whether the EU adds listings under the regime or Turkiye resumes survey and drilling activity in disputed waters.",
     "confidence_score": 67,
@@ -1012,7 +1206,7 @@
     "related_signals": [
      "ecpress-ip-26-2499",
      "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "6ac8edbd6722b5b4db1fbb06"
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30"
     ],
     "watch_next": "Check the OFAC Recent Actions page for the named entries and any related general licenses",
     "confidence_score": 67,
@@ -3095,9 +3289,9 @@
     "risk_level": "Low",
     "opportunity_level": "Low",
     "related_signals": [
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
      "fr-2026-22868",
-     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
-     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk"
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive"
     ],
     "watch_next": "Any practical OSCE work programmes or UK follow-on trade and connectivity initiatives",
     "confidence_score": 67,
@@ -4571,9 +4765,9 @@
     "risk_level": "Low",
     "opportunity_level": "Low",
     "related_signals": [
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
      "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
-     "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng"
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor"
     ],
     "watch_next": "Any successor Iran general licenses or new designations related to Qingdao Haiye Oil Terminal on OFAC's website",
     "confidence_score": 67,
@@ -5788,9 +5982,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Medium",
     "related_signals": [
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
      "fr-2026-23193",
-     "fr-2026-22385",
-     "fr-2026-22292"
+     "fr-2026-22385"
     ],
     "watch_next": "Which exclusions were extended and their new expiry dates",
     "confidence_score": 67,
@@ -5874,9 +6068,9 @@
     "risk_level": "Medium",
     "opportunity_level": "Low",
     "related_signals": [
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
      "fr-2026-22385",
-     "fr-2026-22292",
-     "fr-2026-22735"
+     "fr-2026-22292"
     ],
     "watch_next": "USTR findings and any proposed action at the end of the extension",
     "confidence_score": 67,
@@ -5961,7 +6155,7 @@
     "related_signals": [
      "fr-2026-22292",
      "fr-2026-22735",
-     "fr-2026-22385"
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30"
     ],
     "watch_next": "Product schedules on the Finance Canada website and the Dec 1, 2026 removal for certain trailers.",
     "confidence_score": 67,
@@ -6456,7 +6650,7 @@
     "related_signals": [
      "fr-2026-22789",
      "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
-     "govuk-uk-reaches-for-stars-with-nato-space-launch-plan"
+     "ustr-ustr-invites-public-comment-proposed-modifications-section-3"
     ],
     "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
     "confidence_score": 67,
@@ -6709,9 +6903,9 @@
     "risk_level": "High",
     "opportunity_level": "Medium",
     "related_signals": [
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
      "gc-minister-sidhu-announces-extension-of-favourable-market-acce",
-     "fr-2026-21896",
-     "fr-2026-23193"
+     "ustr-ustr-invites-public-comment-proposed-modifications-section-3"
     ],
     "watch_next": "Any USTR or Treasury statement on Chinese compliance, and new export licensing data on rare earths",
     "confidence_score": 67,
@@ -6889,7 +7083,7 @@
     "related_signals": [
      "fr-2026-22292",
      "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
-     "fr-2026-22385"
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30"
     ],
     "watch_next": "Effective January 5, 2027; brokers must be fully compliant by May 6, 2027.",
     "confidence_score": 67,
@@ -7496,8 +7690,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i",
-     "fr-2026-23193"
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
+     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
     ],
     "watch_next": "Follow-up commitments from the Canada-China Joint Economic and Trade Commission.",
     "confidence_score": 67,
@@ -8272,8 +8466,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "fr-2026-22292",
-     "fr-2026-22735",
-     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor"
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
+     "fr-2026-22735"
     ],
     "watch_next": "A negotiation update due within 180 days of October 28, 2026.",
     "confidence_score": 67,
@@ -9193,7 +9387,7 @@
     "related_signals": [
      "gg-364174",
      "6ac8edbd6722b5b4db1fbb06",
-     "fr-2026-22292"
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30"
     ],
     "watch_next": "A negotiation update due within 180 days of October 22, 2026.",
     "confidence_score": 67,
@@ -9767,9 +9961,9 @@
     "risk_level": "Low",
     "opportunity_level": "Medium",
     "related_signals": [
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
      "6adfaa09c6ab4e86516a9cb3",
-     "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
-     "6ae0fb95987facb4c57e55ac"
+     "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng"
     ],
     "watch_next": "Applications due Dec 11, 2026",
     "confidence_score": 67,
@@ -10182,8 +10376,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "fr-2026-23529",
-     "6ad66e84a07c63635f9885f2",
-     "6ad66e84a07c63635f9885eb"
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
+     "6ad66e84a07c63635f9885f2"
     ],
     "watch_next": "The real detail will come from ministries and provinces.",
     "confidence_score": 88,
@@ -10795,9 +10989,9 @@
     "risk_level": "Low",
     "opportunity_level": "High",
     "related_signals": [
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
      "fr-2026-22292",
-     "fr-2026-22735",
-     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor"
+     "fr-2026-22735"
     ],
     "watch_next": "Project milestones, any matching provincial support, and how the funding ties to US tariff exposure on Canadian aluminum.",
     "confidence_score": 67,
@@ -15529,9 +15723,9 @@
     "risk_level": "High",
     "opportunity_level": "Medium",
     "related_signals": [
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
      "6ad66e84a07c63635f9885ef",
-     "6ac8edbd6722b5b4db1fbb20",
-     "6ad7c0a0a69d84a91a2bf0be"
+     "6ac8edbd6722b5b4db1fbb20"
     ],
     "watch_next": "Whether the Russia, India NSR memorandum is signed by end-2026, as Russia's First Deputy PM says it could be.",
     "confidence_score": 80,
@@ -17003,7 +17197,7 @@
     "related_signals": [
      "6ad66e84a07c63635f9885ed",
      "6adbb54da4c20d730fe656c5",
-     "fr-2026-22052"
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30"
     ],
     "watch_next": "Treat Jan 10 as a political clock until MOFCOM updates Notice 70.",
     "confidence_score": 80,
@@ -17968,7 +18162,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-25T13:23:43+00:00",
+  "asOf": "2026-11-25T14:19:52+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -18234,15 +18428,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-25T13:23:50+00:00",
+  "asOf": "2026-11-25T14:20:24+00:00",
   "counts": {
    "arctic": 17,
-   "ai": 25,
-   "minerals": 21,
-   "geo": 120,
+   "ai": 26,
+   "minerals": 23,
+   "geo": 122,
    "ai-investment-infrastructure": 8,
    "energy-power": 20,
-   "trade-sanctions": 41,
+   "trade-sanctions": 43,
    "strategic-supply-chains": 12,
    "defense-technology": 27,
    "semiconductors": 5,
