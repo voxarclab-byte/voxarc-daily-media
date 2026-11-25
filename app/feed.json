@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-25T15:26:24+00:00",
+ "generated": "2026-11-25T16:20:20+00:00",
  "items": [
   {
    "id": "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
@@ -428,93 +428,6 @@
    }
   },
   {
-   "id": "ecpress-ip-26-2567",
-   "published": "2026-11-24T15:00:00Z",
-   "kicker": "AI Policy · European Commission",
-   "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity…",
-   "topics": [
-    "ai",
-    "geo"
-   ],
-   "primary": "ai",
-   "summary": "European Commission Press release Strasbourg, 25 Nov 2026 The European Commission today proposed the Quantum Act, a new framework to help turn Europe's quantum research into products and services…",
-   "body": "European Commission Press release Strasbourg, 25 Nov 2026 The European Commission today proposed the Quantum Act, a new framework to help turn Europe's quantum research into products and services, strengthen supply chains and prepare Europe's digital systems for post-quantum cryptography. The proposal also lays the groundwork for the Sovereign Tech Equity Fund (STEF).\n\nEuropean Commission published this on Nov 24, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "Official publication from European Commission",
-    "Published Nov 24, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "European Commission",
-     "date": "2026-11-24",
-     "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security",
-     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "European Commission",
-   "primarySource": {
-    "name": "European Commission",
-    "kind": "European Commission press release",
-    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
-   },
-   "deadlines": [],
-   "titleMarkup": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity…",
-   "soWhat": {
-    "changed": "European Commission Press release Strasbourg, 25 Nov 2026 The European Commission today proposed the Quantum Act…",
-    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
-    "watch": "Follow-on measures or implementation details from European Commission"
-   },
-   "photo": {
-    "src": "img/photos/ai-supercomputer.webp",
-    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
-    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
-    "key": "ai-supercomputer"
-   },
-   "signal": {
-    "so_what": "European quantum and post-quantum cryptography suppliers gain a likely public buyer and equity funder, while foreign suppliers may face procurement safeguards.",
-    "n_sources": 1,
-    "signal_title": "EU moves quantum into industrial and security policy",
-    "crux": "The Commission proposed a Quantum Act covering research, deployment, supply-chain monitoring and post-quantum cryptography, plus a legal basis for a Sovereign Tech Equity Fund.",
-    "importance": "Medium",
-    "impact_score": 60,
-    "time_horizon": "Long term",
-    "affected_sectors": [
-     "Quantum computing",
-     "Cybersecurity",
-     "Semiconductors",
-     "Defence and dual-use",
-     "Venture and growth capital",
-     "High-performance computing"
-    ],
-    "affected_regions": [
-     "European Union"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "High",
-    "related_signals": [
-     "fr-2026-23812",
-     "fr-2026-23529",
-     "6adbb54da4c20d730fe656c5"
-    ],
-    "watch_next": "Parliament and Council positions, and the size and EIB setup of the Sovereign Tech Equity Fund",
-    "confidence_score": 67,
-    "source_name": "European Commission",
-    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567",
-    "published_date": "2026-11-24",
-    "key_number": null,
-    "primary_source": {
-     "name": "European Commission",
-     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "govuk-nuclear-regulatory-review-joint-ministerial-letter-to-indust",
    "published": "2026-11-24T15:00:00Z",
    "kicker": "Geoeconomics · UK Department for Energy Security and Net Zero",
@@ -772,6 +685,93 @@
     "primary_source": {
      "name": "UK Department for Transport",
      "url": "https://www.gov.uk/government/news/new-digital-number-plates-to-help-police-crackdown-on-criminal-drone-use",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "ecpress-ip-26-2567",
+   "published": "2026-11-24T15:00:00Z",
+   "kicker": "AI Policy · European Commission",
+   "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity…",
+   "topics": [
+    "ai",
+    "geo"
+   ],
+   "primary": "ai",
+   "summary": "European Commission Press release Strasbourg, 25 Nov 2026 The European Commission today proposed the Quantum Act, a new framework to help turn Europe's quantum research into products and services…",
+   "body": "European Commission Press release Strasbourg, 25 Nov 2026 The European Commission today proposed the Quantum Act, a new framework to help turn Europe's quantum research into products and services, strengthen supply chains and prepare Europe's digital systems for post-quantum cryptography. The proposal also lays the groundwork for the Sovereign Tech Equity Fund (STEF).\n\nEuropean Commission published this on Nov 24, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from European Commission",
+    "Published Nov 24, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "European Commission",
+     "date": "2026-11-24",
+     "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "European Commission",
+   "primarySource": {
+    "name": "European Commission",
+    "kind": "European Commission press release",
+    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
+   },
+   "deadlines": [],
+   "titleMarkup": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity…",
+   "soWhat": {
+    "changed": "European Commission Press release Strasbourg, 25 Nov 2026 The European Commission today proposed the Quantum Act…",
+    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
+    "watch": "Follow-on measures or implementation details from European Commission"
+   },
+   "photo": {
+    "src": "img/photos/ai-supercomputer.webp",
+    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
+    "key": "ai-supercomputer"
+   },
+   "signal": {
+    "so_what": "European quantum and post-quantum cryptography suppliers gain a likely public buyer and equity funder, while foreign suppliers may face procurement safeguards.",
+    "n_sources": 1,
+    "signal_title": "EU moves quantum into industrial and security policy",
+    "crux": "The Commission proposed a Quantum Act covering research, deployment, supply-chain monitoring and post-quantum cryptography, plus a legal basis for a Sovereign Tech Equity Fund.",
+    "importance": "Medium",
+    "impact_score": 60,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Quantum computing",
+     "Cybersecurity",
+     "Semiconductors",
+     "Defence and dual-use",
+     "Venture and growth capital",
+     "High-performance computing"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "fr-2026-23812",
+     "fr-2026-23529",
+     "6adbb54da4c20d730fe656c5"
+    ],
+    "watch_next": "Parliament and Council positions, and the size and EIB setup of the Sovereign Tech Equity Fund",
+    "confidence_score": 67,
+    "source_name": "European Commission",
+    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567",
+    "published_date": "2026-11-24",
+    "key_number": null,
+    "primary_source": {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -18162,7 +18162,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-25T15:26:03+00:00",
+  "asOf": "2026-11-25T16:20:12+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -18428,7 +18428,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-25T15:26:24+00:00",
+  "asOf": "2026-11-25T16:20:20+00:00",
   "counts": {
    "arctic": 17,
    "ai": 26,
