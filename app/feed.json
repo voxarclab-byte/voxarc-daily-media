@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-25T01:28:07+00:00",
+ "generated": "2026-11-25T02:20:47+00:00",
  "items": [
   {
    "id": "govuk-nuclear-regulatory-review-joint-ministerial-letter-to-indust",
@@ -17651,7 +17651,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-25T01:28:05+00:00",
+  "asOf": "2026-11-25T02:20:45+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -17917,7 +17917,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-25T01:28:07+00:00",
+  "asOf": "2026-11-25T02:20:47+00:00",
   "counts": {
    "arctic": 17,
    "ai": 24,
