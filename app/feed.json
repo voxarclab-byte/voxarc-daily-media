@@ -1,8 +1,325 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-25T04:28:42+00:00",
+ "generated": "2026-11-25T11:18:39+00:00",
  "items": [
+  {
+   "id": "fr-2026-23999",
+   "published": "2026-11-25T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Additions to the Entity List",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "In this rule, the Bureau of Industry and Security (BIS) amends the Export Administration Regulations (EAR) by adding 7 entities to the Entity List, under the destinations of Malaysia, Singapore…",
+   "body": "In this rule, the Bureau of Industry and Security (BIS) amends the Export Administration Regulations (EAR) by adding 7 entities to the Entity List, under the destinations of Malaysia, Singapore, and Thailand. These entities have been determined by the U.S. Government to be acting contrary to the national security or foreign policy interests of the United States.\n\nKey dates: This rule is effective November 23, 2026.\n\nDocument type: Final rule. Agency: Commerce, Industry and Security Bureau. Docket: Docket No. 261123-0006.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Industry and Security Bureau",
+    "Docket Docket No. 261123-0006"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-25",
+     "title": "Additions to the Entity List",
+     "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Additions to the Entity List",
+   "soWhat": {
+    "changed": "The Commerce Department's Bureau of Industry and Security (BIS) issued a final rule: Additions to the Entity List",
+    "who": "In this rule, the Bureau of Industry and Security (BIS) amends the Export Administration Regulations (EAR) by adding 7 entities to the Entity List…",
+    "watch": "Watch for the final rule or implementing guidance from Industry and Security Bureau"
+   },
+   "dataCard": {
+    "id": "bis-rules",
+    "kind": "count",
+    "title": "US export-control rules (BIS)",
+    "value": "15",
+    "unit": "final rules in 2026 so far",
+    "change": "16 in the last 12 months",
+    "series": [
+     1,
+     2,
+     1,
+     0,
+     1,
+     0,
+     0,
+     2,
+     5,
+     1,
+     0,
+     3
+    ],
+    "seriesLabel": "Final rules per month, last 12 months",
+    "weekly": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     1,
+     0,
+     1,
+     1,
+     2,
+     1,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     2
+    ],
+    "weeklyEntityList": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "weeklyLabel": "Final rules per week, last 52 weeks",
+    "asOf": "2026-11-25",
+    "asOfLabel": "Nov 25, 2026",
+    "source": "Federal Register API, Bureau of Industry and Security",
+    "license": "Public domain (US government work)",
+    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "Firms sourcing or shipping US-origin items through these three countries need to rescreen counterparties now, since listed parties require a licence.",
+    "n_sources": 1,
+    "signal_title": "US widens Entity List reach into Southeast Asian hubs",
+    "crux": "BIS added 7 entities in Malaysia, Singapore and Thailand to the Entity List, effective Nov 23, 2026, citing US national security or foreign policy interests.",
+    "importance": "Medium",
+    "impact_score": 58,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Semiconductors",
+     "Electronics distribution",
+     "Logistics and freight forwarding",
+     "Export compliance"
+    ],
+    "affected_regions": [
+     "United States",
+     "Malaysia",
+     "Singapore",
+     "Thailand"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-23529",
+     "fr-2026-22793",
+     "6ad66e84a07c63635f9885ed"
+    ],
+    "watch_next": "Whether further Southeast Asian listings follow and how partner governments respond",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list",
+    "published_date": "2026-11-25",
+    "key_number": {
+     "value": "7",
+     "unit": "entities",
+     "label": "",
+     "kind": "count"
+    },
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "ecpress-ip-26-2567",
+   "published": "2026-11-24T15:00:00Z",
+   "kicker": "AI Policy · European Commission",
+   "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity…",
+   "topics": [
+    "ai",
+    "geo"
+   ],
+   "primary": "ai",
+   "summary": "European Commission Press release Strasbourg, 25 Nov 2026 The European Commission today proposed the Quantum Act, a new framework to help turn Europe's quantum research into products and services…",
+   "body": "European Commission Press release Strasbourg, 25 Nov 2026 The European Commission today proposed the Quantum Act, a new framework to help turn Europe's quantum research into products and services, strengthen supply chains and prepare Europe's digital systems for post-quantum cryptography. The proposal also lays the groundwork for the Sovereign Tech Equity Fund (STEF).\n\nEuropean Commission published this on Nov 24, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from European Commission",
+    "Published Nov 24, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "European Commission",
+     "date": "2026-11-24",
+     "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "European Commission",
+   "primarySource": {
+    "name": "European Commission",
+    "kind": "European Commission press release",
+    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
+   },
+   "deadlines": [],
+   "titleMarkup": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity…",
+   "soWhat": {
+    "changed": "European Commission Press release Strasbourg, 25 Nov 2026 The European Commission today proposed the Quantum Act…",
+    "who": "AI developers, compute and cloud providers, and the firms that deploy their models",
+    "watch": "Follow-on measures or implementation details from European Commission"
+   },
+   "photo": {
+    "src": "img/photos/ai-supercomputer.webp",
+    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
+    "key": "ai-supercomputer"
+   },
+   "signal": {
+    "so_what": "European quantum and post-quantum cryptography suppliers gain a likely public buyer and equity funder, while foreign suppliers may face procurement safeguards.",
+    "n_sources": 1,
+    "signal_title": "EU moves quantum into industrial and security policy",
+    "crux": "The Commission proposed a Quantum Act covering research, deployment, supply-chain monitoring and post-quantum cryptography, plus a legal basis for a Sovereign Tech Equity Fund.",
+    "importance": "Medium",
+    "impact_score": 60,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Quantum computing",
+     "Cybersecurity",
+     "Semiconductors",
+     "Defence and dual-use",
+     "Venture and growth capital",
+     "High-performance computing"
+    ],
+    "affected_regions": [
+     "European Union"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "High",
+    "related_signals": [
+     "fr-2026-23812",
+     "fr-2026-23529",
+     "6adbb54da4c20d730fe656c5"
+    ],
+    "watch_next": "Parliament and Council positions, and the size and EIB setup of the Sovereign Tech Equity Fund",
+    "confidence_score": 67,
+    "source_name": "European Commission",
+    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567",
+    "published_date": "2026-11-24",
+    "key_number": null,
+    "primary_source": {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "govuk-nuclear-regulatory-review-joint-ministerial-letter-to-indust",
    "published": "2026-11-24T15:00:00Z",
@@ -609,8 +926,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "6ad66e84a07c63635f9885ed",
-     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense",
-     "cisa-cisa-fbi-hhs-usda-and-dot-urge-critical-infrastructure-stren"
+     "ecpress-ip-26-2567",
+     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense"
     ],
     "watch_next": "Comments close Jan 7, 2027 on federalregister.gov",
     "confidence_score": 67,
@@ -1566,9 +1883,9 @@
     "id": "bis-rules",
     "kind": "count",
     "title": "US export-control rules (BIS)",
-    "value": "14",
+    "value": "15",
     "unit": "final rules in 2026 so far",
-    "change": "15 in the last 12 months",
+    "change": "16 in the last 12 months",
     "series": [
      1,
      2,
@@ -1581,7 +1898,7 @@
      5,
      1,
      0,
-     2
+     3
     ],
     "seriesLabel": "Final rules per month, last 12 months",
     "weekly": [
@@ -1592,10 +1909,10 @@
      0,
      0,
      0,
-     1,
-     1,
+     2,
      0,
      1,
+     0,
      0,
      0,
      0,
@@ -1636,7 +1953,7 @@
      0,
      1,
      0,
-     1
+     2
     ],
     "weeklyEntityList": [
      0,
@@ -1690,11 +2007,11 @@
      0,
      0,
      0,
-     0
+     1
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-24",
-    "asOfLabel": "Nov 24, 2026",
+    "asOf": "2026-11-25",
+    "asOfLabel": "Nov 25, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -1989,7 +2306,7 @@
     "related_signals": [
      "nist-nist-report-provides-guidelines-transition-post-quantum-cryp",
      "cisa-cisa-announces-enhanced-reporting-form-cyber-incidents",
-     "fr-2026-22861"
+     "ecpress-ip-26-2567"
     ],
     "watch_next": "Progress on NIST and industry quantum network technology needed to share entangled photons at scale",
     "confidence_score": 67,
@@ -9161,8 +9478,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "nist-quantum-physics-can-verify-persons-location-nist-researchers",
-     "fr-2026-22861",
-     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense"
+     "ecpress-ip-26-2567",
+     "fr-2026-22861"
     ],
     "watch_next": "Agency deadlines for quantum-vulnerable algorithms and procurement requirements for vendors.",
     "confidence_score": 67,
@@ -11910,9 +12227,9 @@
     "id": "bis-rules",
     "kind": "count",
     "title": "US export-control rules (BIS)",
-    "value": "14",
+    "value": "15",
     "unit": "final rules in 2026 so far",
-    "change": "15 in the last 12 months",
+    "change": "16 in the last 12 months",
     "series": [
      1,
      2,
@@ -11925,7 +12242,7 @@
      5,
      1,
      0,
-     2
+     3
     ],
     "seriesLabel": "Final rules per month, last 12 months",
     "weekly": [
@@ -11936,10 +12253,10 @@
      0,
      0,
      0,
-     1,
-     1,
+     2,
      0,
      1,
+     0,
      0,
      0,
      0,
@@ -11980,7 +12297,7 @@
      0,
      1,
      0,
-     1
+     2
     ],
     "weeklyEntityList": [
      0,
@@ -12034,11 +12351,11 @@
      0,
      0,
      0,
-     0
+     1
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-24",
-    "asOfLabel": "Nov 24, 2026",
+    "asOf": "2026-11-25",
+    "asOfLabel": "Nov 25, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -12172,9 +12489,9 @@
     "id": "bis-rules",
     "kind": "count",
     "title": "US export-control rules (BIS)",
-    "value": "14",
+    "value": "15",
     "unit": "final rules in 2026 so far",
-    "change": "15 in the last 12 months",
+    "change": "16 in the last 12 months",
     "series": [
      1,
      2,
@@ -12187,7 +12504,7 @@
      5,
      1,
      0,
-     2
+     3
     ],
     "seriesLabel": "Final rules per month, last 12 months",
     "weekly": [
@@ -12198,10 +12515,10 @@
      0,
      0,
      0,
-     1,
-     1,
+     2,
      0,
      1,
+     0,
      0,
      0,
      0,
@@ -12242,7 +12559,7 @@
      0,
      1,
      0,
-     1
+     2
     ],
     "weeklyEntityList": [
      0,
@@ -12296,11 +12613,11 @@
      0,
      0,
      0,
-     0
+     1
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-24",
-    "asOfLabel": "Nov 24, 2026",
+    "asOf": "2026-11-25",
+    "asOfLabel": "Nov 25, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -17512,9 +17829,9 @@
    "id": "bis-rules",
    "kind": "count",
    "title": "US export-control rules (BIS)",
-   "value": "14",
+   "value": "15",
    "unit": "final rules in 2026 so far",
-   "change": "15 in the last 12 months",
+   "change": "16 in the last 12 months",
    "series": [
     1,
     2,
@@ -17527,11 +17844,11 @@
     5,
     1,
     0,
-    2
+    3
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-24",
-   "asOfLabel": "Nov 24, 2026",
+   "asOf": "2026-11-25",
+   "asOfLabel": "Nov 25, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -17543,10 +17860,10 @@
     0,
     0,
     0,
-    1,
-    1,
+    2,
     0,
     1,
+    0,
     0,
     0,
     0,
@@ -17587,7 +17904,7 @@
     0,
     1,
     0,
-    1
+    2
    ],
    "weeklyEntityList": [
     0,
@@ -17641,7 +17958,7 @@
     0,
     0,
     0,
-    0
+    1
    ],
    "weeklyLabel": "Final rules per week, last 52 weeks",
    "desks": [
@@ -17651,24 +17968,24 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-25T04:28:40+00:00",
+  "asOf": "2026-11-25T11:18:13+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
     "7": {
-     "cur": 3,
-     "prev": 3,
-     "dir": "steady",
+     "cur": 4,
+     "prev": 2,
+     "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 11,
+     "cur": 12,
      "prev": 13,
      "dir": "steady",
      "reliable": false
     },
     "90": {
-     "cur": 24,
+     "cur": 25,
      "prev": 3,
      "dir": "up",
      "reliable": false
@@ -17736,8 +18053,8 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 9,
-     "prev": 9,
+     "cur": 8,
+     "prev": 8,
      "dir": "steady",
      "reliable": false
     },
@@ -17797,18 +18114,18 @@
    "geo": {
     "7": {
      "cur": 22,
-     "prev": 25,
+     "prev": 24,
      "dir": "steady",
      "reliable": false
     },
     "30": {
-     "cur": 93,
+     "cur": 94,
      "prev": 18,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 111,
+     "cur": 112,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -17917,15 +18234,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-25T04:28:42+00:00",
+  "asOf": "2026-11-25T11:18:39+00:00",
   "counts": {
    "arctic": 17,
-   "ai": 24,
+   "ai": 25,
    "minerals": 21,
-   "geo": 118,
+   "geo": 120,
    "ai-investment-infrastructure": 8,
    "energy-power": 20,
-   "trade-sanctions": 40,
+   "trade-sanctions": 41,
    "strategic-supply-chains": 12,
    "defense-technology": 27,
    "semiconductors": 5,
