@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-25T19:22:03+00:00",
+ "generated": "2026-11-25T20:24:27+00:00",
  "items": [
   {
    "id": "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
@@ -18162,7 +18162,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-25T19:21:55+00:00",
+  "asOf": "2026-11-25T20:24:19+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -18173,8 +18173,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 11,
-     "prev": 15,
+     "cur": 10,
+     "prev": 16,
      "dir": "down",
      "reliable": false
     },
@@ -18313,8 +18313,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 92,
-     "prev": 23,
+     "cur": 91,
+     "prev": 24,
      "dir": "up",
      "reliable": false
     },
@@ -18333,8 +18333,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 12,
-     "prev": 10,
+     "cur": 11,
+     "prev": 11,
      "dir": "steady",
      "reliable": false
     },
@@ -18353,8 +18353,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 2,
-     "prev": 3,
+     "cur": 1,
+     "prev": 4,
      "dir": "down",
      "reliable": false
     },
@@ -18393,8 +18393,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 9,
-     "prev": 2,
+     "cur": 8,
+     "prev": 3,
      "dir": "up",
      "reliable": false
     },
@@ -18428,7 +18428,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-25T19:22:03+00:00",
+  "asOf": "2026-11-25T20:24:27+00:00",
   "counts": {
    "arctic": 17,
    "ai": 26,
