@@ -1,8 +1,369 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-26T04:27:55+00:00",
+ "generated": "2026-11-26T11:23:18+00:00",
  "items": [
+  {
+   "id": "fr-2026-24129",
+   "published": "2026-11-27T12:00:00Z",
+   "kicker": "Critical Minerals · Federal Register",
+   "title": "Locatable Minerals",
+   "topics": [
+    "minerals"
+   ],
+   "primary": "minerals",
+   "summary": "The U.S. Department of Agriculture, Forest Service (Agency) is reopening the comment period for the proposed rule, \"Locatable Minerals,\" which published in the Federal Register on February 20…",
+   "body": "The U.S. Department of Agriculture, Forest Service (Agency) is reopening the comment period for the proposed rule, \"Locatable Minerals,\" which published in the Federal Register on February 20, 2026 (91 FR 8316). The proposed rule would revise regulations governing occupancy and use of National Forest System lands in connection with prospecting, exploration, development, mining, processing, and reclamation conducted under the mining laws. The Agency is reopening the comment period to allow the public additional time to review the proposed revisions and submit comments. The proposed regulatory text and supporting analyses, including the draft environmental impact statement and cost-benefit analysis are unchanged by this notice.\n\nKey dates: The comment period for the proposed rule published on February 20, 2026 (91 FR 8316), is reopened. Written comments must be received on or before December 11, 2026.\n\nDocument type: Proposed rule. Agency: Agriculture, Forest Service.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from Forest Service",
+    "Comments close Dec 11, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-27",
+     "title": "Locatable Minerals",
+     "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24129/locatable-minerals",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-12-11",
+     "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24129/locatable-minerals"
+    }
+   ],
+   "titleMarkup": "Locatable Minerals",
+   "soWhat": {
+    "changed": "Forest Service proposed a rule: Locatable Minerals",
+    "who": "Miners, processors, offtakers and investors in critical-mineral supply chains",
+    "watch": "Comments close Dec 11, 2026 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/minerals-openpit.webp",
+    "credit": "Photo: Doc Searls from Santa Barbara, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_mine_dumps,_2004.jpg",
+    "key": "minerals-openpit"
+   },
+   "signal": {
+    "so_what": "Miners and juniors with US forest land claims get another chance to shape permitting terms before the rule is finalized.",
+    "n_sources": 1,
+    "signal_title": "US Forest Service reopens window on hardrock mining rules",
+    "crux": "The USDA Forest Service reopened public comment on its proposed Locatable Minerals rule, first published Feb 20, 2026, which governs mining of locatable minerals on National Forest System lands.",
+    "importance": "Medium",
+    "impact_score": 46,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Mining",
+     "Critical minerals",
+     "Exploration",
+     "Environment"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6adfaa09c6ab4e86516a9cb3",
+     "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
+     "fr-2026-21896"
+    ],
+    "watch_next": "Final rule timing and any changes to permitting and reclamation requirements for mineral projects on federal forest land",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24129/locatable-minerals",
+    "published_date": "2026-11-27",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24129/locatable-minerals",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-24149",
+   "published": "2026-11-27T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Heightened Import Disclosures for Supply Chain Visibility; Extension of Comment Period",
+   "topics": [
+    "geo",
+    "trade-sanctions",
+    "strategic-supply-chains"
+   ],
+   "primary": "geo",
+   "summary": "This document announces that U.S. Customs and Border Protection (CBP) will extend the comment period for an additional 45 days for interested parties to submit comments on the advance notice of proposed rulemaking…",
+   "body": "This document announces that U.S. Customs and Border Protection (CBP) will extend the comment period for an additional 45 days for interested parties to submit comments on the advance notice of proposed rulemaking (ANPRM) regarding supply chain visibility. The ANPRM was published in the Federal Register on September 2, 2026, with comments due on or before December 1, 2026. To allow for as much public participation as possible in the formulation of a Notice of Proposed Rulemaking, CBP is extending the comment period to January 15, 2027.\n\nKey dates: The comment period for the ANPRM published on September 2, 2026, at 91 FR 56408, is extended. Comments must be received on or before January 15, 2027.\n\nDocument type: Proposed rule. Agency: Homeland Security, U.S. Customs and Border Protection. Docket: Docket No. USCBP-2026-1058.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Proposed rule from U.S. Customs and Border Protection",
+    "Comments close Jan 15, 2027",
+    "Docket Docket No. USCBP-2026-1058"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-27",
+     "title": "Heightened Import Disclosures for Supply Chain Visibility; Extension of Comment Period",
+     "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24149/heightened-import-disclosures-for-supply-chain-visibility-extension-of-comment-period",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2027-01-15",
+     "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24149/heightened-import-disclosures-for-supply-chain-visibility-extension-of-comment-period"
+    }
+   ],
+   "titleMarkup": "Heightened Import Disclosures for Supply Chain Visibility; Extension of Comment Period",
+   "soWhat": {
+    "changed": "U.S. Customs and Border Protection proposed a rule: Heightened Import Disclosures for Supply Chain Visibility; Extension of Comment Period",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Comments close Jan 15, 2027 on federalregister.gov"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "Importers have extra time to weigh in before deeper supply chain origin reporting becomes a compliance cost.",
+    "n_sources": 1,
+    "signal_title": "CBP gives importers 45 more days on supply chain disclosure plan",
+    "crux": "US Customs and Border Protection extended by 45 days the comment period on its advance notice of proposed rulemaking for heightened import disclosures aimed at supply chain visibility.",
+    "importance": "Medium",
+    "impact_score": 48,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Trade compliance",
+     "Logistics",
+     "Manufacturing",
+     "Retail"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "fr-2026-22735",
+     "fr-2026-22793",
+     "fr-2026-22292"
+    ],
+    "watch_next": "Whether CBP moves to a proposed rule and which upstream origin data importers would have to declare",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24149/heightened-import-disclosures-for-supply-chain-visibility-extension-of-comment-period",
+    "published_date": "2026-11-27",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24149/heightened-import-disclosures-for-supply-chain-visibility-extension-of-comment-period",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "govuk-major-8-billion-investment-to-upgrade-uk-nuclear-submarine-a",
+   "published": "2026-11-26T15:00:00Z",
+   "kicker": "Geoeconomics · UK Ministry of Defence",
+   "title": "Major £8 billion investment to upgrade UK nuclear submarine availability and warfighting readiness",
+   "topics": [
+    "geo",
+    "energy-power",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "Royal Navy submarines will get back to sea faster under a new multi-billion contract to improve their maintenance, strengthening the UK’s nuclear deterrent while backing British jobs and skills.",
+   "body": "Royal Navy submarines will get back to sea faster under a new multi-billion contract to improve their maintenance, strengthening the UK’s nuclear deterrent while backing British jobs and skills.\n\nUK Ministry of Defence published this on Nov 26, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Ministry of Defence",
+    "Published Nov 26, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Ministry of Defence",
+     "date": "2026-11-26",
+     "title": "Major £8 billion investment to upgrade UK nuclear submarine availability and warfighting readiness",
+     "url": "https://www.gov.uk/government/news/major-8-billion-investment-to-upgrade-uk-nuclear-submarine-availability-and-warfighting-readiness",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Ministry of Defence",
+   "primarySource": {
+    "name": "UK Ministry of Defence",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Major £8 billion investment to upgrade UK nuclear submarine availability and warfighting readiness",
+   "soWhat": {
+    "changed": "Royal Navy submarines will get back to sea faster under a new multi-billion contract to improve their maintenance…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "UK naval maintenance suppliers gain a long revenue line, and allies get a signal of higher UK undersea readiness.",
+    "n_sources": 1,
+    "signal_title": "UK commits 8 billion pounds to get attack and deterrent submarines back to sea faster",
+    "crux": "The UK Ministry of Defence announced a new multi-billion contract worth about 8 billion pounds to improve Royal Navy submarine maintenance, aiming to raise availability and support the nuclear deterrent.",
+    "importance": "Medium",
+    "impact_score": 52,
+    "time_horizon": "Long term",
+    "affected_sectors": [
+     "Defense",
+     "Shipbuilding",
+     "Naval maintenance",
+     "Nuclear"
+    ],
+    "affected_regions": [
+     "United Kingdom",
+     "North Atlantic"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "govuk-uk-growth-and-security-boosted-as-royal-navy-agrees-export-d",
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
+     "govuk-grants-up-to-45-million-boost-uk-growth-as-ministry-of-defen"
+    ],
+    "watch_next": "Contract partners, delivery milestones and any change in UK submarine presence in the North Atlantic and Arctic",
+    "confidence_score": 67,
+    "source_name": "UK Ministry of Defence",
+    "source_url": "https://www.gov.uk/government/news/major-8-billion-investment-to-upgrade-uk-nuclear-submarine-availability-and-warfighting-readiness",
+    "published_date": "2026-11-26",
+    "key_number": null,
+    "primary_source": {
+     "name": "UK Ministry of Defence",
+     "url": "https://www.gov.uk/government/news/major-8-billion-investment-to-upgrade-uk-nuclear-submarine-availability-and-warfighting-readiness",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "ecpress-mex-26-2595",
+   "published": "2026-11-26T15:00:00Z",
+   "kicker": "Geoeconomics · European Commission",
+   "title": "Daily News 26/ 11/ 2026",
+   "topics": [
+    "geo",
+    "strategic-supply-chains"
+   ],
+   "primary": "geo",
+   "summary": "European Commission Daily news Brussels, 26 Nov 2026 EU launches Supply Chain Early Warning Network with Trans-Pacific bloc The EU and the members of the Comprehensive and Progressive Agreement for Trans-Pacific P...",
+   "body": "European Commission Daily news Brussels, 26 Nov 2026 EU launches Supply Chain Early Warning Network with Trans-Pacific bloc The EU and the members of the Comprehensive and Progressive Agreement for Trans-Pacific P...\n\nEuropean Commission published this on Nov 26, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from European Commission. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from European Commission",
+    "Published Nov 26, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "European Commission",
+     "date": "2026-11-26",
+     "title": "Daily News 26/ 11/ 2026",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2595",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "European Commission",
+   "primarySource": {
+    "name": "European Commission",
+    "kind": "European Commission press release",
+    "terms": "© European Union (reuse under Decision 2011/833/EU), attributed with link"
+   },
+   "deadlines": [],
+   "titleMarkup": "Daily News 26/ 11/ 2026",
+   "soWhat": {
+    "changed": "European Commission Daily news Brussels, 26 Nov 2026 EU launches Supply Chain Early Warning Network with Trans-Pacific bloc The EU and the members of the…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from European Commission"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Firms reliant on concentrated inputs could see earlier coordinated warnings across two large trade blocs, reducing single-supplier shock exposure.",
+    "n_sources": 1,
+    "signal_title": "EU and CPTPP bloc set up joint supply chain early warning",
+    "crux": "The European Commission announced on Nov 26, 2026 that the EU and members of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership launched a Supply Chain Early Warning Network.",
+    "importance": "Medium",
+    "impact_score": 56,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Trade policy",
+     "Critical minerals",
+     "Semiconductors",
+     "Logistics",
+     "Manufacturing"
+    ],
+    "affected_regions": [
+     "European Union",
+     "Asia-Pacific",
+     "Canada",
+     "Japan"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "fr-2026-22735",
+     "eu-32026d2622",
+     "fr-2026-24149"
+    ],
+    "watch_next": "Which goods and inputs the network will monitor first and how alerts tie into stockpiling or export control coordination",
+    "confidence_score": 67,
+    "source_name": "European Commission",
+    "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2595",
+    "published_date": "2026-11-26",
+    "key_number": null,
+    "primary_source": {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2595",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "eu-32026d2622",
    "published": "2026-11-26T09:00:00Z",
@@ -25,7 +386,7 @@
      "publisher": "EUR-Lex (Official Journal of the EU)",
      "date": "2026-11-26",
      "title": "Council Decision (CFSP) 2026/2622 of 25 November 2026 amending Decision 2014/512/CFSP concerning restrictive measures in view of Russia’s actions destabilising the situation in Ukraine",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602622",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2622",
      "kind": "official"
     }
    ],
@@ -80,7 +441,7 @@
     "watch_next": "The matching Council Regulation amending Regulation 833/2014, and whether the UK, US or Canada list the same entities",
     "confidence_score": 67,
     "source_name": "EUR-Lex (Official Journal of the EU)",
-    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602622",
+    "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2622",
     "published_date": "2026-11-26",
     "key_number": {
      "value": "15",
@@ -90,7 +451,7 @@
     },
     "primary_source": {
      "name": "EUR-Lex (Official Journal of the EU)",
-     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602622",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2622",
      "kind": "official journal"
     },
     "reported_by": null
@@ -360,17 +721,40 @@
      0,
      0,
      0,
+     1,
+     1,
      0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     1,
      2,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      1,
@@ -380,32 +764,9 @@
      0,
      0,
      0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     1,
-     0,
      1,
      1,
-     2,
-     1,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     2
+     1
     ],
     "weeklyEntityList": [
      0,
@@ -462,8 +823,8 @@
      1
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-25",
-    "asOfLabel": "Nov 25, 2026",
+    "asOf": "2026-11-26",
+    "asOfLabel": "Nov 26, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -1912,8 +2273,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "gc-roberts-bank-terminal-2-listed-as-a-project-of-national-inte",
-     "gc-canada-and-japan-reaffirm-commitment-to-strengthening-batter",
-     "gc-minister-mcguinty-announces-new-military-aid-to-ukraine-at-u"
+     "ecpress-mex-26-2595",
+     "gc-canada-and-japan-reaffirm-commitment-to-strengthening-batter"
     ],
     "watch_next": "Construction timeline for the berths and rail transload yard, tenant and shipper commitments, and further Trade Diversification Corridors Fund awards.",
     "confidence_score": 72,
@@ -2195,17 +2556,40 @@
      0,
      0,
      0,
+     1,
+     1,
      0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     1,
      2,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      1,
@@ -2215,32 +2599,9 @@
      0,
      0,
      0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     1,
-     0,
      1,
      1,
-     2,
-     1,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     2
+     1
     ],
     "weeklyEntityList": [
      0,
@@ -2297,8 +2658,8 @@
      1
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-25",
-    "asOfLabel": "Nov 25, 2026",
+    "asOf": "2026-11-26",
+    "asOfLabel": "Nov 26, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -3126,9 +3487,9 @@
     "risk_level": "Low",
     "opportunity_level": "Medium",
     "related_signals": [
+     "ecpress-mex-26-2595",
      "eia-68384",
-     "6ace51427d6da06c8ebdbdcd",
-     "nrcan-canada-invests-to-unlock-lithium-potential-and-improve-conne"
+     "6ace51427d6da06c8ebdbdcd"
     ],
     "watch_next": "Any specific investment, offtake or project announcements from Global Affairs Canada or Japanese partners following the dialogue",
     "confidence_score": 67,
@@ -3139,95 +3500,6 @@
     "primary_source": {
      "name": "Global Affairs Canada",
      "url": "https://www.canada.ca/en/global-affairs/news/2026/11/canada-and-japan-reaffirm-commitment-to-strengthening-battery-supply-chains.html",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
-   "published": "2026-11-17T15:00:00Z",
-   "kicker": "Geoeconomics · UK Ministry of Defence",
-   "title": "More than 1,000 air defence missiles for Ukraine as UK delivers £240 million in winter support",
-   "topics": [
-    "geo",
-    "defense-technology"
-   ],
-   "primary": "geo",
-   "summary": "More than 1,000 new air defence systems proven against Russia’s jet-powered drones will be supplied by the UK to strengthen Ukraine&#39;s defences this winter.",
-   "body": "More than 1,000 new air defence systems proven against Russia’s jet-powered drones will be supplied by the UK to strengthen Ukraine&#39;s defences this winter.\n\nUK Ministry of Defence published this on Nov 17, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "Official publication from UK Ministry of Defence",
-    "Published Nov 17, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "UK Ministry of Defence",
-     "date": "2026-11-17",
-     "title": "More than 1,000 air defence missiles for Ukraine as UK delivers £240 million in winter support",
-     "url": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "UK Ministry of Defence",
-   "primarySource": {
-    "name": "UK Ministry of Defence",
-    "kind": "GOV.UK news or communication",
-    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
-   },
-   "deadlines": [],
-   "titleMarkup": "More than 1,000 air defence missiles for Ukraine as UK delivers £240 million in winter support",
-   "soWhat": {
-    "changed": "More than 1,000 new air defence systems proven against Russia’s jet-powered drones will be supplied by the UK to strengthen Ukraine&#39;s defences this winter.",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "UK and European air defence suppliers, including Thales Belfast, gain near-term demand, while Ukraine's winter air defence depends on mid-December deliveries arriving on time.",
-    "n_sources": 1,
-    "signal_title": "UK commits £240 million winter air defence package for Ukraine",
-    "crux": "At the 37th Ukraine Defence Contact Group in Brussels on 17 November 2026, the UK announced a £240 million air defence package, including more than 1,000 short-range missiles and launchers and more than a dozen radars, with deliveries due to begin from mid-December. The package is part of £500 million announced at the Budget for Ukraine's winter air defences, and the missiles include systems from Thales Belfast.",
-    "importance": "Medium",
-    "impact_score": 54,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Defence"
-    ],
-    "affected_regions": [
-     "United Kingdom",
-     "Ukraine",
-     "Europe"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
-     "govuk-defence-secretary-meets-president-zelensky-and-minister-khma",
-     "govuk-142-million-navy-investment-strengthens-uk-security-and-brit"
-    ],
-    "watch_next": "Mid-December delivery start, remaining Budget support, and any follow-through on the UK-Sweden-Ukraine Gripen letter of intent",
-    "confidence_score": 67,
-    "source_name": "UK Ministry of Defence",
-    "source_url": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support",
-    "published_date": "2026-11-17",
-    "key_number": {
-     "value": "£240 million",
-     "unit": "",
-     "label": "air defence package",
-     "kind": "money"
-    },
-    "primary_source": {
-     "name": "UK Ministry of Defence",
-     "url": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -3484,6 +3756,95 @@
     "primary_source": {
      "name": "UK Ministry of Defence",
      "url": "https://www.gov.uk/government/news/army-buys-hundreds-more-drones-and-electronic-warfare-kit-in-25-million-boost-to-strengthen-britains-defences-on-natos-eastern-flank",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+   "published": "2026-11-17T15:00:00Z",
+   "kicker": "Geoeconomics · UK Ministry of Defence",
+   "title": "More than 1,000 air defence missiles for Ukraine as UK delivers £240 million in winter support",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "More than 1,000 new air defence systems proven against Russia’s jet-powered drones will be supplied by the UK to strengthen Ukraine&#39;s defences this winter.",
+   "body": "More than 1,000 new air defence systems proven against Russia’s jet-powered drones will be supplied by the UK to strengthen Ukraine&#39;s defences this winter.\n\nUK Ministry of Defence published this on Nov 17, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from UK Ministry of Defence. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from UK Ministry of Defence",
+    "Published Nov 17, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "UK Ministry of Defence",
+     "date": "2026-11-17",
+     "title": "More than 1,000 air defence missiles for Ukraine as UK delivers £240 million in winter support",
+     "url": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "UK Ministry of Defence",
+   "primarySource": {
+    "name": "UK Ministry of Defence",
+    "kind": "GOV.UK news or communication",
+    "terms": "Open Government Licence v3.0 (nationalarchives.gov.uk/doc/open-government-licence/version/3)"
+   },
+   "deadlines": [],
+   "titleMarkup": "More than 1,000 air defence missiles for Ukraine as UK delivers £240 million in winter support",
+   "soWhat": {
+    "changed": "More than 1,000 new air defence systems proven against Russia’s jet-powered drones will be supplied by the UK to strengthen Ukraine&#39;s defences this winter.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from UK Ministry of Defence"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "UK and European air defence suppliers, including Thales Belfast, gain near-term demand, while Ukraine's winter air defence depends on mid-December deliveries arriving on time.",
+    "n_sources": 1,
+    "signal_title": "UK commits £240 million winter air defence package for Ukraine",
+    "crux": "At the 37th Ukraine Defence Contact Group in Brussels on 17 November 2026, the UK announced a £240 million air defence package, including more than 1,000 short-range missiles and launchers and more than a dozen radars, with deliveries due to begin from mid-December. The package is part of £500 million announced at the Budget for Ukraine's winter air defences, and the missiles include systems from Thales Belfast.",
+    "importance": "Medium",
+    "impact_score": 54,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Defence"
+    ],
+    "affected_regions": [
+     "United Kingdom",
+     "Ukraine",
+     "Europe"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "govuk-defence-secretary-meets-president-zelensky-and-minister-khma",
+     "govuk-142-million-navy-investment-strengthens-uk-security-and-brit"
+    ],
+    "watch_next": "Mid-December delivery start, remaining Budget support, and any follow-through on the UK-Sweden-Ukraine Gripen letter of intent",
+    "confidence_score": 67,
+    "source_name": "UK Ministry of Defence",
+    "source_url": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support",
+    "published_date": "2026-11-17",
+    "key_number": {
+     "value": "£240 million",
+     "unit": "",
+     "label": "air defence package",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "UK Ministry of Defence",
+     "url": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -6247,8 +6608,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "fr-2026-22292",
-     "fr-2026-22735",
-     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30"
+     "fr-2026-24149",
+     "fr-2026-22735"
     ],
     "watch_next": "Product schedules on the Finance Canada website and the Dec 1, 2026 removal for certain trailers.",
     "confidence_score": 67,
@@ -6651,8 +7012,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "eu-32026d2622",
-     "fr-2026-23529",
-     "fr-2026-22094"
+     "fr-2026-24149",
+     "fr-2026-23529"
     ],
     "watch_next": "Whether BIS lets the stay lapse, extends it again or rewrites the rule before January 10, 2027.",
     "confidence_score": 67,
@@ -7174,9 +7535,9 @@
     "risk_level": "High",
     "opportunity_level": "Low",
     "related_signals": [
+     "fr-2026-24149",
      "fr-2026-22292",
-     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
-     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30"
+     "gc-canada-modifies-tariff-relief-measures-to-better-support-wor"
     ],
     "watch_next": "Effective January 5, 2027; brokers must be fully compliant by May 6, 2027.",
     "confidence_score": 67,
@@ -8559,8 +8920,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "fr-2026-22292",
-     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
-     "fr-2026-22735"
+     "fr-2026-24149",
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30"
     ],
     "watch_next": "A negotiation update due within 180 days of October 28, 2026.",
     "confidence_score": 67,
@@ -8647,7 +9008,7 @@
     "related_signals": [
      "fr-2026-22617",
      "fr-2026-22735",
-     "6adfaa09c6ab4e86516a9cb3"
+     "ecpress-mex-26-2595"
     ],
     "watch_next": "A final investment decision targeted by mid-2027.",
     "confidence_score": 67,
@@ -9019,7 +9380,7 @@
     "related_signals": [
      "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
      "fr-2026-22385",
-     "fr-2026-22735"
+     "fr-2026-24149"
     ],
     "watch_next": "The Annex I product list and any further changes to Proclamation 11048 duties.",
     "confidence_score": 67,
@@ -11082,9 +11443,9 @@
     "risk_level": "Low",
     "opportunity_level": "High",
     "related_signals": [
+     "ecpress-mex-26-2595",
      "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
-     "fr-2026-22292",
-     "fr-2026-22735"
+     "fr-2026-22292"
     ],
     "watch_next": "Project milestones, any matching provincial support, and how the funding ties to US tariff exposure on Canadian aluminum.",
     "confidence_score": 67,
@@ -11704,11 +12065,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.29M km²",
+    "value": "9.47M km²",
     "unit": "daily extent",
-    "change": "-1.90M km² vs the 1981–2010 average for the date",
+    "change": "-1.81M km² vs the 1981–2010 average for the date",
     "series": [
-     7.525,
      7.601,
      7.673,
      7.743,
@@ -11737,14 +12097,11 @@
      9.094,
      9.184,
      9.228,
-     9.288
+     9.288,
+     9.473
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-27",
-      5.028
-     ],
      [
       "2026-08-28",
       4.96
@@ -12100,11 +12457,15 @@
      [
       "2026-11-24",
       9.288
+     ],
+     [
+      "2026-11-25",
+      9.473
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-24",
-    "asOfLabel": "Nov 24, 2026",
+    "asOf": "2026-11-25",
+    "asOfLabel": "Nov 25, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -12539,17 +12900,40 @@
      0,
      0,
      0,
+     1,
+     1,
      0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     1,
      2,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      1,
@@ -12559,32 +12943,9 @@
      0,
      0,
      0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     1,
-     0,
      1,
      1,
-     2,
-     1,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     2
+     1
     ],
     "weeklyEntityList": [
      0,
@@ -12641,8 +13002,8 @@
      1
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-25",
-    "asOfLabel": "Nov 25, 2026",
+    "asOf": "2026-11-26",
+    "asOfLabel": "Nov 26, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -12801,17 +13162,40 @@
      0,
      0,
      0,
+     1,
+     1,
      0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     1,
+     0,
+     1,
      2,
-     0,
      1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
      0,
      0,
      1,
@@ -12821,32 +13205,9 @@
      0,
      0,
      0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     1,
-     0,
      1,
      1,
-     2,
-     1,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     2
+     1
     ],
     "weeklyEntityList": [
      0,
@@ -12903,8 +13264,8 @@
      1
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-25",
-    "asOfLabel": "Nov 25, 2026",
+    "asOf": "2026-11-26",
+    "asOfLabel": "Nov 26, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -13598,11 +13959,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.29M km²",
+    "value": "9.47M km²",
     "unit": "daily extent",
-    "change": "-1.90M km² vs the 1981–2010 average for the date",
+    "change": "-1.81M km² vs the 1981–2010 average for the date",
     "series": [
-     7.525,
      7.601,
      7.673,
      7.743,
@@ -13631,14 +13991,11 @@
      9.094,
      9.184,
      9.228,
-     9.288
+     9.288,
+     9.473
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-27",
-      5.028
-     ],
      [
       "2026-08-28",
       4.96
@@ -13994,11 +14351,15 @@
      [
       "2026-11-24",
       9.288
+     ],
+     [
+      "2026-11-25",
+      9.473
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-24",
-    "asOfLabel": "Nov 24, 2026",
+    "asOf": "2026-11-25",
+    "asOfLabel": "Nov 25, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -14632,11 +14993,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.29M km²",
+    "value": "9.47M km²",
     "unit": "daily extent",
-    "change": "-1.90M km² vs the 1981–2010 average for the date",
+    "change": "-1.81M km² vs the 1981–2010 average for the date",
     "series": [
-     7.525,
      7.601,
      7.673,
      7.743,
@@ -14665,14 +15025,11 @@
      9.094,
      9.184,
      9.228,
-     9.288
+     9.288,
+     9.473
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-27",
-      5.028
-     ],
      [
       "2026-08-28",
       4.96
@@ -15028,11 +15385,15 @@
      [
       "2026-11-24",
       9.288
+     ],
+     [
+      "2026-11-25",
+      9.473
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-24",
-    "asOfLabel": "Nov 24, 2026",
+    "asOf": "2026-11-25",
+    "asOfLabel": "Nov 25, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -15382,11 +15743,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.29M km²",
+    "value": "9.47M km²",
     "unit": "daily extent",
-    "change": "-1.90M km² vs the 1981–2010 average for the date",
+    "change": "-1.81M km² vs the 1981–2010 average for the date",
     "series": [
-     7.525,
      7.601,
      7.673,
      7.743,
@@ -15415,14 +15775,11 @@
      9.094,
      9.184,
      9.228,
-     9.288
+     9.288,
+     9.473
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-27",
-      5.028
-     ],
      [
       "2026-08-28",
       4.96
@@ -15778,11 +16135,15 @@
      [
       "2026-11-24",
       9.288
+     ],
+     [
+      "2026-11-25",
+      9.473
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-24",
-    "asOfLabel": "Nov 24, 2026",
+    "asOf": "2026-11-25",
+    "asOfLabel": "Nov 25, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -16028,11 +16389,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.29M km²",
+    "value": "9.47M km²",
     "unit": "daily extent",
-    "change": "-1.90M km² vs the 1981–2010 average for the date",
+    "change": "-1.81M km² vs the 1981–2010 average for the date",
     "series": [
-     7.525,
      7.601,
      7.673,
      7.743,
@@ -16061,14 +16421,11 @@
      9.094,
      9.184,
      9.228,
-     9.288
+     9.288,
+     9.473
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-27",
-      5.028
-     ],
      [
       "2026-08-28",
       4.96
@@ -16424,11 +16781,15 @@
      [
       "2026-11-24",
       9.288
+     ],
+     [
+      "2026-11-25",
+      9.473
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-24",
-    "asOfLabel": "Nov 24, 2026",
+    "asOf": "2026-11-25",
+    "asOfLabel": "Nov 25, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -17608,11 +17969,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "9.29M km²",
+   "value": "9.47M km²",
    "unit": "daily extent",
-   "change": "-1.90M km² vs the 1981–2010 average for the date",
+   "change": "-1.81M km² vs the 1981–2010 average for the date",
    "series": [
-    7.525,
     7.601,
     7.673,
     7.743,
@@ -17641,19 +18001,16 @@
     9.094,
     9.184,
     9.228,
-    9.288
+    9.288,
+    9.473
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-24",
-   "asOfLabel": "Nov 24, 2026",
+   "asOf": "2026-11-25",
+   "asOfLabel": "Nov 25, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-27",
-     5.028
-    ],
     [
      "2026-08-28",
      4.96
@@ -18009,6 +18366,10 @@
     [
      "2026-11-24",
      9.288
+    ],
+    [
+     "2026-11-25",
+     9.473
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -18134,8 +18495,8 @@
     3
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-25",
-   "asOfLabel": "Nov 25, 2026",
+   "asOf": "2026-11-26",
+   "asOfLabel": "Nov 26, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -18146,17 +18507,40 @@
     0,
     0,
     0,
+    1,
+    1,
     0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    0,
+    1,
     2,
-    0,
     1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
     0,
     0,
     1,
@@ -18166,32 +18550,9 @@
     0,
     0,
     0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    1,
-    0,
-    1,
-    0,
     1,
     1,
-    2,
-    1,
-    0,
-    0,
-    0,
-    1,
-    0,
-    0,
-    0,
-    0,
-    0,
-    1,
-    0,
-    2
+    1
    ],
    "weeklyEntityList": [
     0,
@@ -18255,7 +18616,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-26T04:27:46+00:00",
+  "asOf": "2026-11-26T11:22:39+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -18401,18 +18762,18 @@
    "geo": {
     "7": {
      "cur": 22,
-     "prev": 26,
+     "prev": 27,
      "dir": "steady",
      "reliable": false
     },
     "30": {
-     "cur": 91,
+     "cur": 92,
      "prev": 24,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 115,
+     "cur": 116,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -18501,18 +18862,18 @@
    "trade-sanctions": {
     "7": {
      "cur": 11,
-     "prev": 10,
+     "prev": 11,
      "dir": "steady",
      "reliable": false
     },
     "30": {
-     "cur": 35,
+     "cur": 36,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 38,
+     "cur": 39,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -18521,17 +18882,17 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-26T04:27:55+00:00",
+  "asOf": "2026-11-26T11:23:18+00:00",
   "counts": {
    "arctic": 17,
    "ai": 26,
-   "minerals": 23,
-   "geo": 123,
+   "minerals": 24,
+   "geo": 126,
    "ai-investment-infrastructure": 8,
-   "energy-power": 20,
-   "trade-sanctions": 44,
-   "strategic-supply-chains": 12,
-   "defense-technology": 27,
+   "energy-power": 21,
+   "trade-sanctions": 45,
+   "strategic-supply-chains": 14,
+   "defense-technology": 28,
    "semiconductors": 5,
    "economic-security": 3,
    "cyber-digital-sovereignty": 8,
