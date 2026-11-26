@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-26T11:23:18+00:00",
+ "generated": "2026-11-26T12:26:41+00:00",
  "items": [
   {
    "id": "fr-2026-24129",
@@ -388,6 +388,14 @@
      "title": "Council Decision (CFSP) 2026/2622 of 25 November 2026 amending Decision 2014/512/CFSP concerning restrictive measures in view of Russia’s actions destabilising the situation in Ukraine",
      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2622",
      "kind": "official"
+    },
+    {
+     "publisher": "EUR-Lex (Official Journal of the EU)",
+     "date": "2026-11-26",
+     "title": "Council Regulation (EU) 2026/2632 of 25 November 2026 amending Regulation (EU) No 833/2014 concerning restrictive measures in view of Russia’s actions destabilising the situation in Ukraine",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2632",
+     "note": "Official document (merged duplicate eu-32026r2632)",
+     "kind": "official"
     }
    ],
    "image": null,
@@ -413,7 +421,7 @@
    },
    "signal": {
     "so_what": "EU exporters and distributors of dual-use goods must screen counterparties against the 15 new Annex IV listings now.",
-    "n_sources": 1,
+    "n_sources": 2,
     "signal_title": "EU widens Russia dual-use export blacklist by 15 entities",
     "crux": "Council Decision (CFSP) 2026/2622 adds 15 entities linked to Russia's military-industrial complex to Annex IV of Decision 2014/512/CFSP, tightening dual-use and tech export restrictions, and delists one third-country entity (Yusha Group, China). In force the day after publication.",
     "importance": "Medium",
@@ -439,7 +447,7 @@
      "fr-2026-23999"
     ],
     "watch_next": "The matching Council Regulation amending Regulation 833/2014, and whether the UK, US or Canada list the same entities",
-    "confidence_score": 67,
+    "confidence_score": 79,
     "source_name": "EUR-Lex (Official Journal of the EU)",
     "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2622",
     "published_date": "2026-11-26",
@@ -18616,14 +18624,14 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-26T11:22:39+00:00",
+  "asOf": "2026-11-26T12:25:08+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
     "7": {
-     "cur": 4,
-     "prev": 3,
-     "dir": "up",
+     "cur": 3,
+     "prev": 4,
+     "dir": "down",
      "reliable": false
     },
     "30": {
@@ -18641,9 +18649,9 @@
    },
    "ai-investment-infrastructure": {
     "7": {
-     "cur": 1,
-     "prev": 0,
-     "dir": "up",
+     "cur": 0,
+     "prev": 1,
+     "dir": "down",
      "reliable": false
     },
     "30": {
@@ -18761,14 +18769,14 @@
    },
    "geo": {
     "7": {
-     "cur": 22,
+     "cur": 21,
      "prev": 27,
-     "dir": "steady",
+     "dir": "down",
      "reliable": false
     },
     "30": {
-     "cur": 92,
-     "prev": 24,
+     "cur": 91,
+     "prev": 25,
      "dir": "up",
      "reliable": false
     },
@@ -18787,8 +18795,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 11,
-     "prev": 11,
+     "cur": 10,
+     "prev": 12,
      "dir": "steady",
      "reliable": false
     },
@@ -18801,9 +18809,9 @@
    },
    "semiconductors": {
     "7": {
-     "cur": 1,
-     "prev": 0,
-     "dir": "up",
+     "cur": 0,
+     "prev": 1,
+     "dir": "down",
      "reliable": false
     },
     "30": {
@@ -18861,7 +18869,7 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 11,
+     "cur": 10,
      "prev": 11,
      "dir": "steady",
      "reliable": false
@@ -18882,7 +18890,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-26T11:23:18+00:00",
+  "asOf": "2026-11-26T12:26:41+00:00",
   "counts": {
    "arctic": 17,
    "ai": 26,
