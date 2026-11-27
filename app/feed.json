@@ -1,8 +1,96 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-27T18:16:59+00:00",
+ "generated": "2026-11-27T19:27:26+00:00",
  "items": [
+  {
+   "id": "gc-canadian-coast-guard-strengthens-arctic-maritime-capabilitie",
+   "published": "2026-11-27T15:00:00Z",
+   "kicker": "Arctic · Canadian Coast Guard",
+   "title": "Canadian Coast Guard strengthens Arctic maritime capabilities with delivery of first Arctic and Offshore…",
+   "topics": [
+    "arctic",
+    "strategic-supply-chains"
+   ],
+   "primary": "arctic",
+   "summary": "On Nov 27, 2026, the Canadian Coast Guard (CCG) accepted the new Canadian Coast Guard Ship (CCGS) Donjek, the first of two Arctic and Offshore Patrol Ships (AOPS) to be delivered to the CCG…",
+   "body": "On Nov 27, 2026, the Canadian Coast Guard (CCG) accepted the new Canadian Coast Guard Ship (CCGS) Donjek, the first of two Arctic and Offshore Patrol Ships (AOPS) to be delivered to the CCG, marking a major milestone in strengthening Canada's presence and operational capabilities in the Arctic.\n\nCanadian Coast Guard published this news release on Nov 27, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from Canadian Coast Guard"
+   ],
+   "sources": [
+    {
+     "publisher": "Canadian Coast Guard",
+     "date": "2026-11-27",
+     "title": "Canadian Coast Guard strengthens Arctic maritime capabilities with delivery of first Arctic and Offshore Patrol Ship",
+     "url": "https://www.canada.ca/en/canadian-coast-guard/news/2026/11/canadian-coast-guard-strengthens-arctic-maritime-capabilities-with-delivery-of-first-arctic-and-offshore-patrol-ship.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "Canadian Coast Guard",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Canadian Coast Guard strengthens Arctic maritime capabilities with delivery of first Arctic and Offshore…",
+   "soWhat": {
+    "changed": "On Nov 27, 2026, the Canadian Coast Guard (CCG) accepted the new Canadian Coast Guard Ship (CCGS) Donjek…",
+    "who": "Arctic governments, Indigenous communities, shipping and defence planners",
+    "watch": "Follow-on regulations, orders or funding details from Canadian Coast Guard"
+   },
+   "photo": {
+    "src": "img/photos/arctic-sea-ice.webp",
+    "credit": "Photo: U.S. Navy photo by Aerographer’s Mate 1st Class Gene Swope, Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Navy_050824-N-8108S-001_A_U.S._Coast_Guard_HH-65_Dolphin_helicopter_prepares_to_depart_the_Coast_Guard_cutter_USCGC_Healy_(WAGB_20)_to_fly_members_of_a_science_party_to_a_remote_ice_floe.jpg",
+    "key": "arctic-sea-ice"
+   },
+   "signal": {
+    "so_what": "Adds civilian enforcement and response capacity in Arctic approaches as shipping and sovereignty pressure grow; Canadian yards and marine suppliers keep a steady federal pipeline under the National Shipbuilding Strategy.",
+    "n_sources": 1,
+    "signal_title": "Coast Guard gains its first Arctic patrol ship, lifting northern presence",
+    "crux": "The Canadian Coast Guard accepted CCGS Donjek, the first of two Arctic and Offshore Patrol Ships built by Irving Shipbuilding, for fisheries patrols, surveillance, search and rescue, environmental response and icebreaking on the East Coast and lower Arctic.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Shipbuilding",
+     "Defence and security",
+     "Arctic shipping",
+     "Fisheries",
+     "Search and rescue",
+     "Marine services"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Arctic",
+     "Atlantic Canada"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "gc-operation-nanooktatigiit-strengthens-wholeofgovernment-crisi",
+     "6acf6f0f0708b0daf40ec136",
+     "6ac8edbd6722b5b4db1fbb14"
+    ],
+    "watch_next": "Delivery timing of the second Coast Guard AOPS and Donjek's first Arctic deployment season.",
+    "confidence_score": 67,
+    "source_name": "Canadian Coast Guard",
+    "source_url": "https://www.canada.ca/en/canadian-coast-guard/news/2026/11/canadian-coast-guard-strengthens-arctic-maritime-capabilities-with-delivery-of-first-arctic-and-offshore-patrol-ship.html",
+    "published_date": "2026-11-27",
+    "key_number": null,
+    "primary_source": {
+     "name": "Canadian Coast Guard",
+     "url": "https://www.canada.ca/en/canadian-coast-guard/news/2026/11/canadian-coast-guard-strengthens-arctic-maritime-capabilities-with-delivery-of-first-arctic-and-offshore-patrol-ship.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "gc-federal-government-supports-manitoba-businesses-in-building-",
    "published": "2026-11-27T15:00:00Z",
@@ -10231,9 +10319,9 @@
     "risk_level": "Low",
     "opportunity_level": "Medium",
     "related_signals": [
+     "gc-canadian-coast-guard-strengthens-arctic-maritime-capabilitie",
      "6acab8dbf6dba531c0671d32",
-     "6ac8edbd6722b5b4db1fbb14",
-     "6ad66e84a07c63635f98860f"
+     "6ac8edbd6722b5b4db1fbb14"
     ],
     "watch_next": "Lessons learned from the exercise and follow-on Arctic readiness spending.",
     "confidence_score": 67,
@@ -18806,7 +18894,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-27T18:16:51+00:00",
+  "asOf": "2026-11-27T19:27:24+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -18851,19 +18939,19 @@
    },
    "arctic": {
     "7": {
-     "cur": 0,
+     "cur": 1,
      "prev": 1,
-     "dir": "down",
+     "dir": "steady",
      "reliable": false
     },
     "30": {
-     "cur": 2,
+     "cur": 3,
      "prev": 15,
      "dir": "down",
      "reliable": false
     },
     "90": {
-     "cur": 17,
+     "cur": 18,
      "prev": 1,
      "dir": "up",
      "reliable": false
@@ -19031,19 +19119,19 @@
    },
    "strategic-supply-chains": {
     "7": {
-     "cur": 2,
+     "cur": 3,
      "prev": 3,
-     "dir": "down",
+     "dir": "steady",
      "reliable": false
     },
     "30": {
-     "cur": 10,
+     "cur": 11,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 13,
+     "cur": 14,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -19072,16 +19160,16 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-27T18:16:59+00:00",
+  "asOf": "2026-11-27T19:27:26+00:00",
   "counts": {
-   "arctic": 17,
+   "arctic": 18,
    "ai": 27,
    "minerals": 24,
    "geo": 127,
    "ai-investment-infrastructure": 9,
    "energy-power": 21,
    "trade-sanctions": 46,
-   "strategic-supply-chains": 14,
+   "strategic-supply-chains": 15,
    "defense-technology": 28,
    "semiconductors": 5,
    "economic-security": 3,
