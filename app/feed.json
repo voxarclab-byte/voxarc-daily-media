@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-27T19:27:26+00:00",
+ "generated": "2026-11-27T20:25:12+00:00",
  "items": [
   {
    "id": "gc-canadian-coast-guard-strengthens-arctic-maritime-capabilitie",
@@ -3617,89 +3617,6 @@
    }
   },
   {
-   "id": "gc-minister-mcguinty-announces-new-military-aid-to-ukraine-at-u",
-   "published": "2026-11-17T15:00:00Z",
-   "kicker": "Geoeconomics · National Defence",
-   "title": "Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting",
-   "topics": [
-    "geo",
-    "defense-technology"
-   ],
-   "primary": "geo",
-   "summary": "On Nov 17, 2026, the Honourable David J. McGuinty, Minister of National Defence, participated in the 37th Ukraine Defense Contact Group (UDCG) meeting in Brussels…",
-   "body": "On Nov 17, 2026, the Honourable David J. McGuinty, Minister of National Defence, participated in the 37th Ukraine Defense Contact Group (UDCG) meeting in Brussels, reaffirming Canada's commitment to supporting Ukraine as it defends itself against Russia's ongoing aggression\n\nNational Defence published this news release on Nov 17, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "News release from National Defence"
-   ],
-   "sources": [
-    {
-     "publisher": "National Defence",
-     "date": "2026-11-17",
-     "title": "Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting",
-     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-announces-new-military-aid-to-ukraine-at-ukraine-defense-contact-group-meeting.html",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Government of Canada",
-   "primarySource": {
-    "name": "National Defence",
-    "kind": "Government of Canada news release",
-    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting",
-   "soWhat": {
-    "changed": "On Nov 17, 2026, the Honourable David J.",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Follow-on regulations, orders or funding details from National Defence"
-   },
-   "photo": {
-    "src": "img/photos/geo-eu.webp",
-    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
-    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
-    "key": "geo-eu"
-   },
-   "signal": {
-    "so_what": "Canadian defence suppliers should watch for related procurement, while Ottawa's defence spending priorities stay tied to allied support for Ukraine.",
-    "n_sources": 1,
-    "signal_title": "Canada adds new military aid for Ukraine at UDCG",
-    "crux": "Canada's Defence Minister announced new military aid to Ukraine at the 37th Ukraine Defense Contact Group meeting in Brussels on Nov 17, 2026.",
-    "importance": "Low",
-    "impact_score": 36,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Defence"
-    ],
-    "affected_regions": [
-     "Canada",
-     "Ukraine",
-     "Europe"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
-     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
-     "govuk-defence-secretary-meets-president-zelensky-and-minister-khma"
-    ],
-    "watch_next": "Details of the aid package and any follow-on contracts from National Defence",
-    "confidence_score": 67,
-    "source_name": "National Defence",
-    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-announces-new-military-aid-to-ukraine-at-ukraine-defense-contact-group-meeting.html",
-    "published_date": "2026-11-17",
-    "key_number": null,
-    "primary_source": {
-     "name": "National Defence",
-     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-announces-new-military-aid-to-ukraine-at-ukraine-defense-contact-group-meeting.html",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "gc-canada-and-japan-reaffirm-commitment-to-strengthening-batter",
    "published": "2026-11-17T15:00:00Z",
    "kicker": "Geoeconomics · Global Affairs Canada",
@@ -3778,6 +3695,89 @@
     "primary_source": {
      "name": "Global Affairs Canada",
      "url": "https://www.canada.ca/en/global-affairs/news/2026/11/canada-and-japan-reaffirm-commitment-to-strengthening-battery-supply-chains.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gc-minister-mcguinty-announces-new-military-aid-to-ukraine-at-u",
+   "published": "2026-11-17T15:00:00Z",
+   "kicker": "Geoeconomics · National Defence",
+   "title": "Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting",
+   "topics": [
+    "geo",
+    "defense-technology"
+   ],
+   "primary": "geo",
+   "summary": "On Nov 17, 2026, the Honourable David J. McGuinty, Minister of National Defence, participated in the 37th Ukraine Defense Contact Group (UDCG) meeting in Brussels…",
+   "body": "On Nov 17, 2026, the Honourable David J. McGuinty, Minister of National Defence, participated in the 37th Ukraine Defense Contact Group (UDCG) meeting in Brussels, reaffirming Canada's commitment to supporting Ukraine as it defends itself against Russia's ongoing aggression\n\nNational Defence published this news release on Nov 17, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from National Defence"
+   ],
+   "sources": [
+    {
+     "publisher": "National Defence",
+     "date": "2026-11-17",
+     "title": "Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-announces-new-military-aid-to-ukraine-at-ukraine-defense-contact-group-meeting.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "National Defence",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting",
+   "soWhat": {
+    "changed": "On Nov 17, 2026, the Honourable David J.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on regulations, orders or funding details from National Defence"
+   },
+   "photo": {
+    "src": "img/photos/geo-eu.webp",
+    "credit": "Photo: Trougnouf (Benoit Brummer), CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_(DSCF7542-DSCF7548).jpg",
+    "key": "geo-eu"
+   },
+   "signal": {
+    "so_what": "Canadian defence suppliers should watch for related procurement, while Ottawa's defence spending priorities stay tied to allied support for Ukraine.",
+    "n_sources": 1,
+    "signal_title": "Canada adds new military aid for Ukraine at UDCG",
+    "crux": "Canada's Defence Minister announced new military aid to Ukraine at the 37th Ukraine Defense Contact Group meeting in Brussels on Nov 17, 2026.",
+    "importance": "Low",
+    "impact_score": 36,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Defence"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Ukraine",
+     "Europe"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "govuk-more-than-1000-air-defence-missiles-for-ukraine-as-uk-delive",
+     "govuk-ukraines-drone-pioneers-bring-battle-tested-tech-and-high-sk",
+     "govuk-defence-secretary-meets-president-zelensky-and-minister-khma"
+    ],
+    "watch_next": "Details of the aid package and any follow-on contracts from National Defence",
+    "confidence_score": 67,
+    "source_name": "National Defence",
+    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-announces-new-military-aid-to-ukraine-at-ukraine-defense-contact-group-meeting.html",
+    "published_date": "2026-11-17",
+    "key_number": null,
+    "primary_source": {
+     "name": "National Defence",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-announces-new-military-aid-to-ukraine-at-ukraine-defense-contact-group-meeting.html",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -5000,6 +5000,95 @@
    }
   },
   {
+   "id": "eia-68445",
+   "published": "2026-11-13T15:00:00Z",
+   "kicker": "Geoeconomics · US Energy Information Administration",
+   "title": "Hydropower generation in the Southwest fell to record lows this summer",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the Southwestern electricity supply region, which includes Arizona, New Mexico…",
+   "body": "Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the Southwestern electricity supply region, which includes Arizona, New Mexico, and small parts of Nevada and California. Hydropower generation from April through August 2026 was 19% lower than during the same period last year and 28% lower than the 10-year average, according to the latest data from our Form EIA-923 survey\n\nUS Energy Information Administration published this on Nov 13, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Energy Information Administration. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from US Energy Information Administration",
+    "Published Nov 13, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "US Energy Information Administration",
+     "date": "2026-11-13",
+     "title": "Hydropower generation in the Southwest fell to record lows this summer",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "US Energy Information Administration",
+   "primarySource": {
+    "name": "US Energy Information Administration",
+    "kind": "EIA Today in Energy",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Hydropower generation in the Southwest fell to record lows this summer",
+   "soWhat": {
+    "changed": "Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the Southwestern electricity supply…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from US Energy Information Administration"
+   },
+   "photo": {
+    "src": "img/photos/grid-power.webp",
+    "credit": "Photo: Foto3821, CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Electric_transmission_power_tower2.jpg",
+    "key": "grid-power"
+   },
+   "signal": {
+    "so_what": "Utilities and large power users in Arizona, New Mexico and neighbouring states should plan for tighter hydro supply and possible shifts to other generation through 2027.",
+    "n_sources": 1,
+    "signal_title": "Southwest hydropower hits record lows after Colorado River drought",
+    "crux": "EIA reported that hydropower generation in the Southwestern electricity supply region from April through August 2026 was 19% lower than the same period a year earlier and 28% below the 10-year average, after prolonged drought in the Colorado River Basin. Lake Powell ended September less than 1% above the Glen Canyon Dam minimum power pool, and EIA's November Short-Term Energy Outlook expects 2026 Southwest hydropower at 6.13 billion kWh, 9% below last year. The Interior Department also decided to cut collective water use in California, Arizona and Nevada by 1.25 million acre-feet a year for the next two years.",
+    "importance": "Medium",
+    "impact_score": 46,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Utilities",
+     "Energy",
+     "Water"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "doe-energy-department-announces-28-billion-loan-strengthen-grid",
+     "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
+     "6ac8edbd6722b5b4db1fbb06"
+    ],
+    "watch_next": "Winter precipitation, Lake Powell elevation versus the 3,490-foot minimum power pool, and EIA's next Short-Term Energy Outlook",
+    "confidence_score": 67,
+    "source_name": "US Energy Information Administration",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
+    "published_date": "2026-11-13",
+    "key_number": {
+     "value": "19%",
+     "unit": "",
+     "label": "lower than the same period a",
+     "kind": "percent"
+    },
+    "primary_source": {
+     "name": "US Energy Information Administration",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "nrcan-canada-invests-to-diversify-trade-create-jobs-and-lower-glob",
    "published": "2026-11-13T15:00:00Z",
    "kicker": "Geoeconomics · NRCan",
@@ -5084,95 +5173,6 @@
     "primary_source": {
      "name": "Natural Resources Canada",
      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-diversify-trade-create-jobs-and-lower-global-emissions-by-expanding-low-carbon-lng-exports.html",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "eia-68445",
-   "published": "2026-11-13T15:00:00Z",
-   "kicker": "Geoeconomics · US Energy Information Administration",
-   "title": "Hydropower generation in the Southwest fell to record lows this summer",
-   "topics": [
-    "geo",
-    "energy-power"
-   ],
-   "primary": "geo",
-   "summary": "Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the Southwestern electricity supply region, which includes Arizona, New Mexico…",
-   "body": "Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the Southwestern electricity supply region, which includes Arizona, New Mexico, and small parts of Nevada and California. Hydropower generation from April through August 2026 was 19% lower than during the same period last year and 28% lower than the 10-year average, according to the latest data from our Form EIA-923 survey\n\nUS Energy Information Administration published this on Nov 13, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Energy Information Administration. Read the source for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "Official publication from US Energy Information Administration",
-    "Published Nov 13, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "US Energy Information Administration",
-     "date": "2026-11-13",
-     "title": "Hydropower generation in the Southwest fell to record lows this summer",
-     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "US Energy Information Administration",
-   "primarySource": {
-    "name": "US Energy Information Administration",
-    "kind": "EIA Today in Energy",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Hydropower generation in the Southwest fell to record lows this summer",
-   "soWhat": {
-    "changed": "Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the Southwestern electricity supply…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Follow-on measures or implementation details from US Energy Information Administration"
-   },
-   "photo": {
-    "src": "img/photos/grid-power.webp",
-    "credit": "Photo: Foto3821, CC0",
-    "url": "https://commons.wikimedia.org/wiki/File:Electric_transmission_power_tower2.jpg",
-    "key": "grid-power"
-   },
-   "signal": {
-    "so_what": "Utilities and large power users in Arizona, New Mexico and neighbouring states should plan for tighter hydro supply and possible shifts to other generation through 2027.",
-    "n_sources": 1,
-    "signal_title": "Southwest hydropower hits record lows after Colorado River drought",
-    "crux": "EIA reported that hydropower generation in the Southwestern electricity supply region from April through August 2026 was 19% lower than the same period a year earlier and 28% below the 10-year average, after prolonged drought in the Colorado River Basin. Lake Powell ended September less than 1% above the Glen Canyon Dam minimum power pool, and EIA's November Short-Term Energy Outlook expects 2026 Southwest hydropower at 6.13 billion kWh, 9% below last year. The Interior Department also decided to cut collective water use in California, Arizona and Nevada by 1.25 million acre-feet a year for the next two years.",
-    "importance": "Medium",
-    "impact_score": 46,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Utilities",
-     "Energy",
-     "Water"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Medium",
-    "opportunity_level": "Low",
-    "related_signals": [
-     "doe-energy-department-announces-28-billion-loan-strengthen-grid",
-     "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
-     "6ac8edbd6722b5b4db1fbb06"
-    ],
-    "watch_next": "Winter precipitation, Lake Powell elevation versus the 3,490-foot minimum power pool, and EIA's next Short-Term Energy Outlook",
-    "confidence_score": 67,
-    "source_name": "US Energy Information Administration",
-    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
-    "published_date": "2026-11-13",
-    "key_number": {
-     "value": "19%",
-     "unit": "",
-     "label": "lower than the same period a",
-     "kind": "percent"
-    },
-    "primary_source": {
-     "name": "US Energy Information Administration",
-     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -6819,6 +6819,90 @@
    }
   },
   {
+   "id": "cisa-cisa-announces-enhanced-reporting-form-cyber-incidents",
+   "published": "2026-11-09T15:00:00Z",
+   "kicker": "Geoeconomics · Cybersecurity and Infrastructure Security Agency",
+   "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+   "topics": [
+    "geo",
+    "cyber-digital-sovereignty"
+   ],
+   "primary": "geo",
+   "summary": "Cybersecurity and Infrastructure Security Agency published \"CISA Announces Enhanced Reporting Form for Cyber Incidents\" on Nov 9, 2026. The full official text is at the source link.",
+   "body": "Cybersecurity and Infrastructure Security Agency published \"CISA Announces Enhanced Reporting Form for Cyber Incidents\" on Nov 9, 2026. The full official text is at the source link.\n\nCybersecurity and Infrastructure Security Agency published this on Nov 9, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from Cybersecurity and Infrastructure Security Agency. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from Cybersecurity and Infrastructure Security Agency",
+    "Published Nov 9, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "Cybersecurity and Infrastructure Security Agency",
+     "date": "2026-11-09",
+     "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+     "url": "https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyber-incidents",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Cybersecurity and Infrastructure Security Agency",
+   "primarySource": {
+    "name": "Cybersecurity and Infrastructure Security Agency",
+    "kind": "CISA advisory or news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+   "soWhat": {
+    "changed": "Cybersecurity and Infrastructure Security Agency published \"CISA Announces Enhanced Reporting Form for Cyber Incidents\" on Nov 9, 2026.",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from Cybersecurity and Infrastructure Security Agency"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "US critical infrastructure operators and cyber teams should update reporting playbooks to the new questionnaire, as CISA will use the richer data to correlate campaigns and prioritize response.",
+    "n_sources": 1,
+    "signal_title": "CISA tightens cyber incident reporting with a new form",
+    "crux": "On 9 November 2026, CISA launched an updated web-based cyber incident reporting form on its Incident Reporting Portal, with more granular questions on incident type and observed activity mapped to the MITRE ATT&CK framework. Federal civilian agencies and certain TSA- and US Coast Guard-regulated entities must report to CISA; other organizations are encouraged to report voluntarily.",
+    "importance": "Medium",
+    "impact_score": 44,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Cybersecurity",
+     "Government",
+     "Critical infrastructure"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Low",
+    "related_signals": [
+     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense",
+     "cisa-cisa-fbi-hhs-usda-and-dot-urge-critical-infrastructure-stren",
+     "fr-2026-23812"
+    ],
+    "watch_next": "CISA's FAQ and any further mandate changes for who must use the new form",
+    "confidence_score": 67,
+    "source_name": "Cybersecurity and Infrastructure Security Agency",
+    "source_url": "https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyber-incidents",
+    "published_date": "2026-11-09",
+    "key_number": null,
+    "primary_source": {
+     "name": "Cybersecurity and Infrastructure Security Agency",
+     "url": "https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyber-incidents",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
    "id": "gc-canada-modifies-tariff-relief-measures-to-better-support-wor",
    "published": "2026-11-09T15:00:00Z",
    "kicker": "Geoeconomics · Department of Finance Canada",
@@ -6994,45 +7078,53 @@
    }
   },
   {
-   "id": "cisa-cisa-announces-enhanced-reporting-form-cyber-incidents",
-   "published": "2026-11-09T15:00:00Z",
-   "kicker": "Geoeconomics · Cybersecurity and Infrastructure Security Agency",
-   "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+   "id": "fr-2026-22784",
+   "published": "2026-11-09T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
    "topics": [
     "geo",
-    "cyber-digital-sovereignty"
+    "space-satellites"
    ],
    "primary": "geo",
-   "summary": "Cybersecurity and Infrastructure Security Agency published \"CISA Announces Enhanced Reporting Form for Cyber Incidents\" on Nov 9, 2026. The full official text is at the source link.",
-   "body": "Cybersecurity and Infrastructure Security Agency published \"CISA Announces Enhanced Reporting Form for Cyber Incidents\" on Nov 9, 2026. The full official text is at the source link.\n\nCybersecurity and Infrastructure Security Agency published this on Nov 9, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from Cybersecurity and Infrastructure Security Agency. Read the source for the measure, who it applies to and when it takes effect.",
+   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically…",
+   "body": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.\n\nKey dates: Send comments on or before December 9, 2026.\n\nDocument type: Proposed rule. Agency: Transportation, Federal Aviation Administration. Docket: Docket No.: FAA-2026-9942, Notice No. 26-20.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
    "stat": null,
    "keyPoints": [
-    "Official publication from Cybersecurity and Infrastructure Security Agency",
-    "Published Nov 9, 2026"
+    "Proposed rule from Federal Aviation Administration",
+    "Comments close Dec 9, 2026",
+    "Docket Docket No.: FAA-2026-9942"
    ],
    "sources": [
     {
-     "publisher": "Cybersecurity and Infrastructure Security Agency",
+     "publisher": "Federal Register",
      "date": "2026-11-09",
-     "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
-     "url": "https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyber-incidents",
+     "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
      "kind": "official"
     }
    ],
    "image": null,
    "readMinutes": 1,
-   "origin": "Cybersecurity and Infrastructure Security Agency",
+   "origin": "Federal Register",
    "primarySource": {
-    "name": "Cybersecurity and Infrastructure Security Agency",
-    "kind": "CISA advisory or news release",
+    "name": "Federal Register",
+    "kind": "Official US government publication",
     "terms": "Public domain (US government work)"
    },
-   "deadlines": [],
-   "titleMarkup": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+   "deadlines": [
+    {
+     "type": "comment",
+     "label": "Comments close",
+     "date": "2026-12-09",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return"
+    }
+   ],
+   "titleMarkup": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
    "soWhat": {
-    "changed": "Cybersecurity and Infrastructure Security Agency published \"CISA Announces Enhanced Reporting Form for Cyber Incidents\" on Nov 9, 2026.",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Follow-on measures or implementation details from Cybersecurity and Infrastructure Security Agency"
+    "changed": "Federal Aviation Administration proposed a rule: Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+    "who": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for…",
+    "watch": "Comments close Dec 9, 2026 on federalregister.gov"
    },
    "photo": {
     "src": "img/photos/geo-capitol.webp",
@@ -7041,38 +7133,37 @@
     "key": "geo-capitol"
    },
    "signal": {
-    "so_what": "US critical infrastructure operators and cyber teams should update reporting playbooks to the new questionnaire, as CISA will use the richer data to correlate campaigns and prioritize response.",
+    "so_what": "Launch providers with upper stages that reenter uncontrolled could face a cheaper licensing case if the rule is finalized.",
     "n_sources": 1,
-    "signal_title": "CISA tightens cyber incident reporting with a new form",
-    "crux": "On 9 November 2026, CISA launched an updated web-based cyber incident reporting form on its Incident Reporting Portal, with more granular questions on incident type and observed activity mapped to the MITRE ATT&CK framework. Federal civilian agencies and certain TSA- and US Coast Guard-regulated entities must report to CISA; other organizations are encouraged to report voluntarily.",
+    "signal_title": "FAA moves to ease reentry safety proofs for launch operators",
+    "crux": "FAA proposed letting launch and reentry operators meet the high-consequence safety test for uncontrolled atmospheric returns by showing the vehicle breaks up enough. Two companion proposals filed the same day clarify flight safety limits.",
     "importance": "Medium",
-    "impact_score": 44,
+    "impact_score": 48,
     "time_horizon": "Near term",
     "affected_sectors": [
-     "Cybersecurity",
-     "Government",
-     "Critical infrastructure"
+     "Space launch",
+     "Aerospace"
     ],
     "affected_regions": [
      "United States"
     ],
     "risk_level": "Low",
-    "opportunity_level": "Low",
+    "opportunity_level": "Medium",
     "related_signals": [
-     "cisa-cisa-unveils-new-strategy-strengthen-national-cyber-defense",
-     "cisa-cisa-fbi-hhs-usda-and-dot-urge-critical-infrastructure-stren",
-     "fr-2026-23812"
+     "fr-2026-22789",
+     "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
+     "ustr-ustr-invites-public-comment-proposed-modifications-section-3"
     ],
-    "watch_next": "CISA's FAQ and any further mandate changes for who must use the new form",
+    "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
     "confidence_score": 67,
-    "source_name": "Cybersecurity and Infrastructure Security Agency",
-    "source_url": "https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyber-incidents",
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
     "published_date": "2026-11-09",
     "key_number": null,
     "primary_source": {
-     "name": "Cybersecurity and Infrastructure Security Agency",
-     "url": "https://www.cisa.gov/news-events/news/cisa-announces-enhanced-reporting-form-cyber-incidents",
-     "kind": "government or agency"
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+     "kind": "official journal"
     },
     "reported_by": null
    }
@@ -7308,97 +7399,6 @@
    }
   },
   {
-   "id": "fr-2026-22784",
-   "published": "2026-11-09T12:00:00Z",
-   "kicker": "Geoeconomics · Federal Register",
-   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-   "topics": [
-    "geo",
-    "space-satellites"
-   ],
-   "primary": "geo",
-   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically…",
-   "body": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.\n\nKey dates: Send comments on or before December 9, 2026.\n\nDocument type: Proposed rule. Agency: Transportation, Federal Aviation Administration. Docket: Docket No.: FAA-2026-9942, Notice No. 26-20.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Proposed rule from Federal Aviation Administration",
-    "Comments close Dec 9, 2026",
-    "Docket Docket No.: FAA-2026-9942"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-09",
-     "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "comment",
-     "label": "Comments close",
-     "date": "2026-12-09",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return"
-    }
-   ],
-   "titleMarkup": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-   "soWhat": {
-    "changed": "Federal Aviation Administration proposed a rule: Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
-    "who": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for…",
-    "watch": "Comments close Dec 9, 2026 on federalregister.gov"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "Launch providers with upper stages that reenter uncontrolled could face a cheaper licensing case if the rule is finalized.",
-    "n_sources": 1,
-    "signal_title": "FAA moves to ease reentry safety proofs for launch operators",
-    "crux": "FAA proposed letting launch and reentry operators meet the high-consequence safety test for uncontrolled atmospheric returns by showing the vehicle breaks up enough. Two companion proposals filed the same day clarify flight safety limits.",
-    "importance": "Medium",
-    "impact_score": 48,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Space launch",
-     "Aerospace"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "fr-2026-22789",
-     "gc-minister-mcguinty-announces-strategic-advancements-for-canad",
-     "ustr-ustr-invites-public-comment-proposed-modifications-section-3"
-    ],
-    "watch_next": "Comments close December 9, 2026 on docket FAA-2026-9942.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-    "published_date": "2026-11-09",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
    "published": "2026-11-07T15:00:00Z",
    "kicker": "Geoeconomics · US Department of Energy",
@@ -7477,89 +7477,6 @@
     "primary_source": {
      "name": "US Department of Energy",
      "url": "https://www.energy.gov/articles/energy-secretary-builds-progress-strengthen-puerto-ricos-energy-reliability",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
-   "id": "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
-   "published": "2026-11-06T15:00:00Z",
-   "kicker": "Arctic · National Defence",
-   "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
-   "topics": [
-    "arctic"
-   ],
-   "primary": "arctic",
-   "summary": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago…",
-   "body": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago, which demonstrated the capabilities of the ship and crew.\n\nNational Defence published this news release on Nov 6, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "News release from National Defence"
-   ],
-   "sources": [
-    {
-     "publisher": "National Defence",
-     "date": "2026-11-06",
-     "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
-     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Government of Canada",
-   "primarySource": {
-    "name": "National Defence",
-    "kind": "Government of Canada news release",
-    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
-   },
-   "deadlines": [],
-   "titleMarkup": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
-   "soWhat": {
-    "changed": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia…",
-    "who": "Arctic governments, Indigenous communities, shipping and defence planners",
-    "watch": "Follow-on regulations, orders or funding details from National Defence"
-   },
-   "photo": {
-    "src": "img/photos/ai-chip.webp",
-    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
-    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
-    "key": "ai-chip"
-   },
-   "signal": {
-    "so_what": "Ottawa is treating the Northwest Passage as a routine naval route, which strengthens its sovereignty position with allies and shippers.",
-    "n_sources": 1,
-    "signal_title": "Canadian Navy now moves warships between oceans through the Arctic",
-    "crux": "HMCS Robert Hampton Gray finished an 83-day deployment through the Canadian Arctic Archipelago, the first such voyage used to move a ship from the Atlantic to the Pacific fleet, after leading a multinational task group in Operation NANOOK.",
-    "importance": "Medium",
-    "impact_score": 50,
-    "time_horizon": "Medium term",
-    "affected_sectors": [
-     "Defence",
-     "Shipping"
-    ],
-    "affected_regions": [
-     "Canada",
-     "Arctic",
-     "Greenland"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "6ad7c0a0a69d84a91a2bf0be",
-     "6ad66e84a07c63635f9885ef",
-     "6acab8dbf6dba531c0671d32"
-    ],
-    "watch_next": "Next summer's NANOOK deployments and how often the navy repeats the Arctic transfer route.",
-    "confidence_score": 67,
-    "source_name": "National Defence",
-    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
-    "published_date": "2026-11-06",
-    "key_number": null,
-    "primary_source": {
-     "name": "National Defence",
-     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -7732,6 +7649,89 @@
     "primary_source": {
      "name": "US Energy Information Administration",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "gc-hmcs-robert-hampton-gray-participates-in-multiple-arctic-ope",
+   "published": "2026-11-06T15:00:00Z",
+   "kicker": "Arctic · National Defence",
+   "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+   "topics": [
+    "arctic"
+   ],
+   "primary": "arctic",
+   "summary": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago…",
+   "body": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia, following successful deployments and an historic coastal transfer through the waters of the Canadian Arctic Archipelago, which demonstrated the capabilities of the ship and crew.\n\nNational Defence published this news release on Nov 6, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "News release from National Defence"
+   ],
+   "sources": [
+    {
+     "publisher": "National Defence",
+     "date": "2026-11-06",
+     "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Government of Canada",
+   "primarySource": {
+    "name": "National Defence",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+   },
+   "deadlines": [],
+   "titleMarkup": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+   "soWhat": {
+    "changed": "On Nov 6, 2026, His Majesty’s Canadian Ship (HMCS) Robert Hampton Gray was welcomed to its new home port of Esquimalt, British Columbia…",
+    "who": "Arctic governments, Indigenous communities, shipping and defence planners",
+    "watch": "Follow-on regulations, orders or funding details from National Defence"
+   },
+   "photo": {
+    "src": "img/photos/ai-chip.webp",
+    "credit": "Photo: Steve Jurvetson from Menlo Park, USA, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg",
+    "key": "ai-chip"
+   },
+   "signal": {
+    "so_what": "Ottawa is treating the Northwest Passage as a routine naval route, which strengthens its sovereignty position with allies and shippers.",
+    "n_sources": 1,
+    "signal_title": "Canadian Navy now moves warships between oceans through the Arctic",
+    "crux": "HMCS Robert Hampton Gray finished an 83-day deployment through the Canadian Arctic Archipelago, the first such voyage used to move a ship from the Atlantic to the Pacific fleet, after leading a multinational task group in Operation NANOOK.",
+    "importance": "Medium",
+    "impact_score": 50,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Defence",
+     "Shipping"
+    ],
+    "affected_regions": [
+     "Canada",
+     "Arctic",
+     "Greenland"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "6ad7c0a0a69d84a91a2bf0be",
+     "6ad66e84a07c63635f9885ef",
+     "6acab8dbf6dba531c0671d32"
+    ],
+    "watch_next": "Next summer's NANOOK deployments and how often the navy repeats the Arctic transfer route.",
+    "confidence_score": 67,
+    "source_name": "National Defence",
+    "source_url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+    "published_date": "2026-11-06",
+    "key_number": null,
+    "primary_source": {
+     "name": "National Defence",
+     "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -8086,93 +8086,6 @@
    }
   },
   {
-   "id": "fr-2026-22593",
-   "published": "2026-11-05T12:00:00Z",
-   "kicker": "AI Policy · Federal Register",
-   "title": "Medical Devices; Hematology and Pathology Devices",
-   "topics": [
-    "ai"
-   ],
-   "primary": "ai",
-   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II…",
-   "body": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.\n\nKey dates: This order is effective November 5, 2026. The classification was applicable on January 31, 2024.\n\nDocument type: Final rule. Agency: Health and Human Services, Food and Drug Administration. Docket: Docket No. FDA-2026-N-12384.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
-   "stat": null,
-   "keyPoints": [
-    "Final rule from Food and Drug Administration",
-    "Takes effect Nov 5, 2026",
-    "Docket Docket No. FDA-2026-N-12384"
-   ],
-   "sources": [
-    {
-     "publisher": "Federal Register",
-     "date": "2026-11-05",
-     "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "Federal Register",
-   "primarySource": {
-    "name": "Federal Register",
-    "kind": "Official US government publication",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [
-    {
-     "type": "effective",
-     "label": "Takes effect",
-     "date": "2026-11-05",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
-    }
-   ],
-   "titleMarkup": "Medical Devices; Hematology and Pathology Devices",
-   "soWhat": {
-    "changed": "Food and Drug Administration issued a final rule: Medical Devices; Hematology and Pathology Devices",
-    "who": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital…",
-    "watch": "Takes effect Nov 5, 2026"
-   },
-   "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
-   },
-   "signal": {
-    "so_what": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital… are most exposed.",
-    "n_sources": 1,
-    "signal_title": "FDA Sets Class II Path for AI Cervical Cytology Imaging",
-    "crux": "FDA final rule classifies digital cervical cytology slide imaging systems with an AI algorithm into class II, giving the device type a defined regulatory pathway.",
-    "importance": "Medium",
-    "impact_score": 42,
-    "time_horizon": "Near term",
-    "affected_sectors": [
-     "Medical devices",
-     "Healthcare AI",
-     "Diagnostics"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [],
-    "watch_next": "Special controls attached to the classification and follow-on 510(k) clearances for similar AI pathology tools.",
-    "confidence_score": 67,
-    "source_name": "Federal Register",
-    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-    "published_date": "2026-11-05",
-    "key_number": null,
-    "primary_source": {
-     "name": "Federal Register",
-     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-     "kind": "official journal"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "fr-2026-22617",
    "published": "2026-11-05T12:00:00Z",
    "kicker": "Geoeconomics · Federal Register",
@@ -8259,6 +8172,93 @@
     "primary_source": {
      "name": "Federal Register",
      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "fr-2026-22593",
+   "published": "2026-11-05T12:00:00Z",
+   "kicker": "AI Policy · Federal Register",
+   "title": "Medical Devices; Hematology and Pathology Devices",
+   "topics": [
+    "ai"
+   ],
+   "primary": "ai",
+   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II…",
+   "body": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.\n\nKey dates: This order is effective November 5, 2026. The classification was applicable on January 31, 2024.\n\nDocument type: Final rule. Agency: Health and Human Services, Food and Drug Administration. Docket: Docket No. FDA-2026-N-12384.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Final rule from Food and Drug Administration",
+    "Takes effect Nov 5, 2026",
+    "Docket Docket No. FDA-2026-N-12384"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-05",
+     "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [
+    {
+     "type": "effective",
+     "label": "Takes effect",
+     "date": "2026-11-05",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
+    }
+   ],
+   "titleMarkup": "Medical Devices; Hematology and Pathology Devices",
+   "soWhat": {
+    "changed": "Food and Drug Administration issued a final rule: Medical Devices; Hematology and Pathology Devices",
+    "who": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital…",
+    "watch": "Takes effect Nov 5, 2026"
+   },
+   "photo": {
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
+   },
+   "signal": {
+    "so_what": "The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital… are most exposed.",
+    "n_sources": 1,
+    "signal_title": "FDA Sets Class II Path for AI Cervical Cytology Imaging",
+    "crux": "FDA final rule classifies digital cervical cytology slide imaging systems with an AI algorithm into class II, giving the device type a defined regulatory pathway.",
+    "importance": "Medium",
+    "impact_score": 42,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Medical devices",
+     "Healthcare AI",
+     "Diagnostics"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [],
+    "watch_next": "Special controls attached to the classification and follow-on 510(k) clearances for similar AI pathology tools.",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+    "published_date": "2026-11-05",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
      "kind": "official journal"
     },
     "reported_by": null
@@ -9216,92 +9216,90 @@
    }
   },
   {
-   "id": "gc-roberts-bank-terminal-2-listed-as-a-project-of-national-inte",
+   "id": "eia-68384",
    "published": "2026-10-30T15:00:00Z",
-   "kicker": "Geoeconomics · Transport Canada",
-   "title": "Roberts Bank Terminal 2 listed as a project of national interest to strengthen Canada's trade sovereignty",
+   "kicker": "Geoeconomics · US Energy Information Administration",
+   "title": "The share of solar generation with co-located battery storage is increasing",
    "topics": [
     "geo",
-    "trade-sanctions",
-    "strategic-supply-chains",
-    "economic-security"
+    "energy-power"
    ],
    "primary": "geo",
-   "summary": "The world is increasingly more uncertain. Geopolitical tension is reshaping trade, supply chains are under pressure, and there is an increased global competition for capital, and market access.",
-   "body": "The world is increasingly more uncertain. Geopolitical tension is reshaping trade, supply chains are under pressure, and there is an increased global competition for capital, and market access.\n\nTransport Canada published this news release on Oct 30, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
+   "summary": "Utility-scale solar developers are increasingly co-locating battery storage with new solar photovoltaic capacity. As of September 2026, over 16% of new utility-scale solar capacity added this year is co-located with operable battery storage…",
+   "body": "Utility-scale solar developers are increasingly co-locating battery storage with new solar photovoltaic capacity. As of September 2026, over 16% of new utility-scale solar capacity added this year is co-located with operable battery storage, compared with 2% in 2017, according to data reported to EIA by operators.\n\nUS Energy Information Administration published this on Oct 30, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Energy Information Administration. Read the source for the measure, who it applies to and when it takes effect.",
    "stat": null,
    "keyPoints": [
-    "News release from Transport Canada"
+    "Official publication from US Energy Information Administration",
+    "Published Oct 30, 2026"
    ],
    "sources": [
     {
-     "publisher": "Transport Canada",
+     "publisher": "US Energy Information Administration",
      "date": "2026-10-30",
-     "title": "Roberts Bank Terminal 2 listed as a project of national interest to strengthen Canada's trade sovereignty",
-     "url": "https://www.canada.ca/en/transport-canada/news/2026/10/roberts-bank-terminal-2-listed-as-a-project-of-national-interest-to-strengthen-canadas-trade-sovereignty.html",
+     "title": "The share of solar generation with co-located battery storage is increasing",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
      "kind": "official"
     }
    ],
    "image": null,
    "readMinutes": 1,
-   "origin": "Government of Canada",
+   "origin": "US Energy Information Administration",
    "primarySource": {
-    "name": "Transport Canada",
-    "kind": "Government of Canada news release",
-    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
+    "name": "US Energy Information Administration",
+    "kind": "EIA Today in Energy",
+    "terms": "Public domain (US government work)"
    },
    "deadlines": [],
-   "titleMarkup": "Roberts Bank Terminal 2 listed as a project of national interest to strengthen Canada's trade sovereignty",
+   "titleMarkup": "The share of solar generation with co-located battery storage is increasing",
    "soWhat": {
-    "changed": "The world is increasingly more uncertain.",
+    "changed": "Utility-scale solar developers are increasingly co-locating battery storage with new solar photovoltaic capacity.",
     "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Follow-on regulations, orders or funding details from Transport Canada"
+    "watch": "Follow-on measures or implementation details from US Energy Information Administration"
    },
    "photo": {
-    "src": "img/photos/ai-supercomputer.webp",
-    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
-    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
-    "key": "ai-supercomputer"
+    "src": "img/photos/geo-capitol.webp",
+    "credit": "Photo: Diliff, CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+    "key": "geo-capitol"
    },
    "signal": {
-    "so_what": "Shippers and builders on Indo-Pacific routes gain a clearer timeline for new West Coast container capacity.",
+    "so_what": "Growing storage attachment adds to grid-scale battery demand, and with it demand for lithium, graphite and other battery minerals.",
     "n_sources": 1,
-    "signal_title": "Ottawa fast-tracks a $5.9B container terminal to cut US dependence",
-    "crux": "Canada listed Roberts Bank Terminal 2 at the Port of Vancouver as a project of national interest. The $5.9 billion terminal would add 2.4 million containers of yearly capacity and could start operating in 2035 instead of 2039.",
+    "signal_title": "Batteries are becoming standard with new US solar builds",
+    "crux": "EIA reports that as of September 2026 over 16% of new US utility-scale solar capacity added this year is co-located with operable battery storage, a rising share.",
     "importance": "Medium",
-    "impact_score": 64,
-    "time_horizon": "Long term",
+    "impact_score": 42,
+    "time_horizon": "Medium term",
     "affected_sectors": [
-     "Ports",
-     "Shipping",
-     "Logistics",
-     "Construction"
+     "Batteries",
+     "Utilities",
+     "Solar",
+     "Critical minerals"
     ],
     "affected_regions": [
-     "Canada",
-     "Indo-Pacific"
+     "United States"
     ],
     "risk_level": "Low",
-    "opportunity_level": "High",
+    "opportunity_level": "Medium",
     "related_signals": [
-     "fr-2026-22617",
-     "fr-2026-22735",
-     "ecpress-mex-26-2595"
+     "fr-2026-22094",
+     "6ac8edbd6722b5b4db1fbb06",
+     "doe-energy-department-announces-5-billion-loan-boost-nuclear-pow"
     ],
-    "watch_next": "A final investment decision targeted by mid-2027.",
+    "watch_next": "EIA year-end capacity data and whether the co-located share keeps rising into 2027.",
     "confidence_score": 67,
-    "source_name": "Transport Canada",
-    "source_url": "https://www.canada.ca/en/transport-canada/news/2026/10/roberts-bank-terminal-2-listed-as-a-project-of-national-interest-to-strengthen-canadas-trade-sovereignty.html",
+    "source_name": "US Energy Information Administration",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
     "published_date": "2026-10-30",
     "key_number": {
-     "value": "$5.9 billion",
+     "value": "16%",
      "unit": "",
-     "label": "terminal would add 2",
-     "kind": "money"
+     "label": "of new US utility-scale solar capacity",
+     "kind": "percent"
     },
     "primary_source": {
-     "name": "Transport Canada",
-     "url": "https://www.canada.ca/en/transport-canada/news/2026/10/roberts-bank-terminal-2-listed-as-a-project-of-national-interest-to-strengthen-canadas-trade-sovereignty.html",
+     "name": "US Energy Information Administration",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -9400,90 +9398,92 @@
    }
   },
   {
-   "id": "eia-68384",
+   "id": "gc-roberts-bank-terminal-2-listed-as-a-project-of-national-inte",
    "published": "2026-10-30T15:00:00Z",
-   "kicker": "Geoeconomics · US Energy Information Administration",
-   "title": "The share of solar generation with co-located battery storage is increasing",
+   "kicker": "Geoeconomics · Transport Canada",
+   "title": "Roberts Bank Terminal 2 listed as a project of national interest to strengthen Canada's trade sovereignty",
    "topics": [
     "geo",
-    "energy-power"
+    "trade-sanctions",
+    "strategic-supply-chains",
+    "economic-security"
    ],
    "primary": "geo",
-   "summary": "Utility-scale solar developers are increasingly co-locating battery storage with new solar photovoltaic capacity. As of September 2026, over 16% of new utility-scale solar capacity added this year is co-located with operable battery storage…",
-   "body": "Utility-scale solar developers are increasingly co-locating battery storage with new solar photovoltaic capacity. As of September 2026, over 16% of new utility-scale solar capacity added this year is co-located with operable battery storage, compared with 2% in 2017, according to data reported to EIA by operators.\n\nUS Energy Information Administration published this on Oct 30, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Energy Information Administration. Read the source for the measure, who it applies to and when it takes effect.",
+   "summary": "The world is increasingly more uncertain. Geopolitical tension is reshaping trade, supply chains are under pressure, and there is an increased global competition for capital, and market access.",
+   "body": "The world is increasingly more uncertain. Geopolitical tension is reshaping trade, supply chains are under pressure, and there is an increased global competition for capital, and market access.\n\nTransport Canada published this news release on Oct 30, 2026. The text above is the release's lead paragraph; the full release is on canada.ca.\n\nWhy it matters: This is the Government of Canada's own announcement. Read the release for the measure, who it applies to and when it takes effect.",
    "stat": null,
    "keyPoints": [
-    "Official publication from US Energy Information Administration",
-    "Published Oct 30, 2026"
+    "News release from Transport Canada"
    ],
    "sources": [
     {
-     "publisher": "US Energy Information Administration",
+     "publisher": "Transport Canada",
      "date": "2026-10-30",
-     "title": "The share of solar generation with co-located battery storage is increasing",
-     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
+     "title": "Roberts Bank Terminal 2 listed as a project of national interest to strengthen Canada's trade sovereignty",
+     "url": "https://www.canada.ca/en/transport-canada/news/2026/10/roberts-bank-terminal-2-listed-as-a-project-of-national-interest-to-strengthen-canadas-trade-sovereignty.html",
      "kind": "official"
     }
    ],
    "image": null,
    "readMinutes": 1,
-   "origin": "US Energy Information Administration",
+   "origin": "Government of Canada",
    "primarySource": {
-    "name": "US Energy Information Administration",
-    "kind": "EIA Today in Energy",
-    "terms": "Public domain (US government work)"
+    "name": "Transport Canada",
+    "kind": "Government of Canada news release",
+    "terms": "Lead paragraph with attribution and link (canada.ca terms)"
    },
    "deadlines": [],
-   "titleMarkup": "The share of solar generation with co-located battery storage is increasing",
+   "titleMarkup": "Roberts Bank Terminal 2 listed as a project of national interest to strengthen Canada's trade sovereignty",
    "soWhat": {
-    "changed": "Utility-scale solar developers are increasingly co-locating battery storage with new solar photovoltaic capacity.",
+    "changed": "The world is increasingly more uncertain.",
     "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Follow-on measures or implementation details from US Energy Information Administration"
+    "watch": "Follow-on regulations, orders or funding details from Transport Canada"
    },
    "photo": {
-    "src": "img/photos/geo-capitol.webp",
-    "credit": "Photo: Diliff, CC BY 2.5",
-    "url": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
-    "key": "geo-capitol"
+    "src": "img/photos/ai-supercomputer.webp",
+    "credit": "Photo: U.S. Department of Energy from United States, Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Theta_supercomputer_-_389_071_002_(36954713450).jpg",
+    "key": "ai-supercomputer"
    },
    "signal": {
-    "so_what": "Growing storage attachment adds to grid-scale battery demand, and with it demand for lithium, graphite and other battery minerals.",
+    "so_what": "Shippers and builders on Indo-Pacific routes gain a clearer timeline for new West Coast container capacity.",
     "n_sources": 1,
-    "signal_title": "Batteries are becoming standard with new US solar builds",
-    "crux": "EIA reports that as of September 2026 over 16% of new US utility-scale solar capacity added this year is co-located with operable battery storage, a rising share.",
+    "signal_title": "Ottawa fast-tracks a $5.9B container terminal to cut US dependence",
+    "crux": "Canada listed Roberts Bank Terminal 2 at the Port of Vancouver as a project of national interest. The $5.9 billion terminal would add 2.4 million containers of yearly capacity and could start operating in 2035 instead of 2039.",
     "importance": "Medium",
-    "impact_score": 42,
-    "time_horizon": "Medium term",
+    "impact_score": 64,
+    "time_horizon": "Long term",
     "affected_sectors": [
-     "Batteries",
-     "Utilities",
-     "Solar",
-     "Critical minerals"
+     "Ports",
+     "Shipping",
+     "Logistics",
+     "Construction"
     ],
     "affected_regions": [
-     "United States"
+     "Canada",
+     "Indo-Pacific"
     ],
     "risk_level": "Low",
-    "opportunity_level": "Medium",
+    "opportunity_level": "High",
     "related_signals": [
-     "fr-2026-22094",
-     "6ac8edbd6722b5b4db1fbb06",
-     "doe-energy-department-announces-5-billion-loan-boost-nuclear-pow"
+     "fr-2026-22617",
+     "fr-2026-22735",
+     "ecpress-mex-26-2595"
     ],
-    "watch_next": "EIA year-end capacity data and whether the co-located share keeps rising into 2027.",
+    "watch_next": "A final investment decision targeted by mid-2027.",
     "confidence_score": 67,
-    "source_name": "US Energy Information Administration",
-    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
+    "source_name": "Transport Canada",
+    "source_url": "https://www.canada.ca/en/transport-canada/news/2026/10/roberts-bank-terminal-2-listed-as-a-project-of-national-interest-to-strengthen-canadas-trade-sovereignty.html",
     "published_date": "2026-10-30",
     "key_number": {
-     "value": "16%",
+     "value": "$5.9 billion",
      "unit": "",
-     "label": "of new US utility-scale solar capacity",
-     "kind": "percent"
+     "label": "terminal would add 2",
+     "kind": "money"
     },
     "primary_source": {
-     "name": "US Energy Information Administration",
-     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
+     "name": "Transport Canada",
+     "url": "https://www.canada.ca/en/transport-canada/news/2026/10/roberts-bank-terminal-2-listed-as-a-project-of-national-interest-to-strengthen-canadas-trade-sovereignty.html",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -18894,7 +18894,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-27T19:27:24+00:00",
+  "asOf": "2026-11-27T20:25:09+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -19160,7 +19160,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-27T19:27:26+00:00",
+  "asOf": "2026-11-27T20:25:12+00:00",
   "counts": {
    "arctic": 18,
    "ai": 27,
