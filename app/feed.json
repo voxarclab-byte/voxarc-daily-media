@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-27T14:23:45+00:00",
+ "generated": "2026-11-27T15:19:59+00:00",
  "items": [
   {
    "id": "fr-2026-24129",
@@ -18713,7 +18713,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-27T14:23:37+00:00",
+  "asOf": "2026-11-27T15:19:51+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -18798,9 +18798,9 @@
    },
    "defense-technology": {
     "7": {
-     "cur": 8,
-     "prev": 6,
-     "dir": "up",
+     "cur": 7,
+     "prev": 7,
+     "dir": "steady",
      "reliable": false
     },
     "30": {
@@ -18839,8 +18839,8 @@
    "energy-power": {
     "7": {
      "cur": 2,
-     "prev": 3,
-     "dir": "down",
+     "prev": 2,
+     "dir": "steady",
      "reliable": false
     },
     "30": {
@@ -18858,14 +18858,14 @@
    },
    "geo": {
     "7": {
-     "cur": 24,
-     "prev": 21,
+     "cur": 22,
+     "prev": 22,
      "dir": "steady",
      "reliable": false
     },
     "30": {
-     "cur": 91,
-     "prev": 28,
+     "cur": 90,
+     "prev": 29,
      "dir": "up",
      "reliable": false
     },
@@ -18884,8 +18884,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 8,
-     "prev": 15,
+     "cur": 7,
+     "prev": 16,
      "dir": "down",
      "reliable": false
     },
@@ -18938,9 +18938,9 @@
    },
    "strategic-supply-chains": {
     "7": {
-     "cur": 3,
-     "prev": 2,
-     "dir": "up",
+     "cur": 2,
+     "prev": 3,
+     "dir": "down",
      "reliable": false
     },
     "30": {
@@ -18979,7 +18979,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-27T14:23:45+00:00",
+  "asOf": "2026-11-27T15:19:59+00:00",
   "counts": {
    "arctic": 17,
    "ai": 27,
