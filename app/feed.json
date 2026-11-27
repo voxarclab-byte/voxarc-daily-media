@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-27T11:20:19+00:00",
+ "generated": "2026-11-27T12:24:35+00:00",
  "items": [
   {
    "id": "fr-2026-24129",
@@ -18713,7 +18713,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-27T11:20:13+00:00",
+  "asOf": "2026-11-27T12:24:28+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -18804,8 +18804,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 22,
-     "prev": 5,
+     "cur": 21,
+     "prev": 6,
      "dir": "up",
      "reliable": false
     },
@@ -18824,9 +18824,9 @@
      "reliable": false
     },
     "30": {
-     "cur": 2,
-     "prev": 1,
-     "dir": "up",
+     "cur": 1,
+     "prev": 2,
+     "dir": "down",
      "reliable": false
     },
     "90": {
@@ -18858,19 +18858,19 @@
    },
    "geo": {
     "7": {
-     "cur": 23,
-     "prev": 23,
+     "cur": 24,
+     "prev": 21,
      "dir": "steady",
      "reliable": false
     },
     "30": {
      "cur": 91,
-     "prev": 27,
+     "prev": 28,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 118,
+     "cur": 119,
      "prev": 2,
      "dir": "up",
      "reliable": false
@@ -18878,19 +18878,19 @@
    },
    "minerals": {
     "7": {
-     "cur": 2,
+     "cur": 3,
      "prev": 1,
      "dir": "up",
      "reliable": false
     },
     "30": {
      "cur": 8,
-     "prev": 14,
+     "prev": 15,
      "dir": "down",
      "reliable": false
     },
     "90": {
-     "cur": 22,
+     "cur": 23,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -18938,19 +18938,19 @@
    },
    "strategic-supply-chains": {
     "7": {
-     "cur": 2,
+     "cur": 3,
      "prev": 2,
-     "dir": "steady",
+     "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 9,
+     "cur": 10,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 12,
+     "cur": 13,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -18958,19 +18958,19 @@
    },
    "trade-sanctions": {
     "7": {
-     "cur": 10,
-     "prev": 10,
-     "dir": "steady",
+     "cur": 11,
+     "prev": 8,
+     "dir": "up",
      "reliable": false
     },
     "30": {
-     "cur": 36,
+     "cur": 37,
      "prev": 3,
      "dir": "up",
      "reliable": false
     },
     "90": {
-     "cur": 39,
+     "cur": 40,
      "prev": 0,
      "dir": "up",
      "reliable": false
@@ -18979,7 +18979,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-27T11:20:19+00:00",
+  "asOf": "2026-11-27T12:24:35+00:00",
   "counts": {
    "arctic": 17,
    "ai": 27,
