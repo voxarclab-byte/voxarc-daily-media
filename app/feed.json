@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-27T21:22:40+00:00",
+ "generated": "2026-11-27T22:24:19+00:00",
  "items": [
   {
    "id": "gc-canadian-coast-guard-strengthens-arctic-maritime-capabilitie",
@@ -18894,7 +18894,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-27T21:22:37+00:00",
+  "asOf": "2026-11-27T22:24:16+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -19160,7 +19160,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-27T21:22:40+00:00",
+  "asOf": "2026-11-27T22:24:19+00:00",
   "counts": {
    "arctic": 18,
    "ai": 27,
