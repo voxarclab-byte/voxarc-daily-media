@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-27T17:24:38+00:00",
+ "generated": "2026-11-27T18:16:59+00:00",
  "items": [
   {
    "id": "gc-federal-government-supports-manitoba-businesses-in-building-",
@@ -18806,7 +18806,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-27T17:24:30+00:00",
+  "asOf": "2026-11-27T18:16:51+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -19072,7 +19072,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-27T17:24:38+00:00",
+  "asOf": "2026-11-27T18:16:59+00:00",
   "counts": {
    "arctic": 17,
    "ai": 27,
