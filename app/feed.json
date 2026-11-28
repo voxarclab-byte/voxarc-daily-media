@@ -1,8 +1,94 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-28T04:20:29+00:00",
+ "generated": "2026-11-28T11:25:51+00:00",
  "items": [
+  {
+   "id": "fr-2026-24231",
+   "published": "2026-11-30T12:00:00Z",
+   "kicker": "Geoeconomics · Federal Register",
+   "title": "Request for Comments Concerning Proposed Modification of Section 301 Action on Brazil's Acts, Policies…",
+   "topics": [
+    "geo",
+    "trade-sanctions"
+   ],
+   "primary": "geo",
+   "summary": "The United States Trade Representative (Trade Representative) proposes a modification of the tariff action taken in connection with the Section 301 investigation of Brazil's acts, policies…",
+   "body": "The United States Trade Representative (Trade Representative) proposes a modification of the tariff action taken in connection with the Section 301 investigation of Brazil's acts, policies, and practices related to digital trade and electronic payment services; unfair, preferential tariffs; anti-corruption enforcement; intellectual property protection; ethanol market access; and illegal deforestation. Brazil has made insufficient progress in eliminating the acts, policies, and practices USTR identified as actionable. The proposed modification to duties on certain sugar products and finished aircraft seeks to create additional leverage to encourage Brazil to eliminate its acts, policies, and practices identified as actionable in the investigation. USTR is seeking public comment and will hold a public hearing regarding this proposed modification.\n\nKey dates: November 27, 2026: Comment period opens.\n\nDocument type: Notice. Agency: Trade Representative, Office of United States.\n\nWhy it matters: This is the official text. Check the Federal Register notice for the exact scope, definitions and how to comment.",
+   "stat": null,
+   "keyPoints": [
+    "Notice from Trade Representative, Office of United States"
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register",
+     "date": "2026-11-30",
+     "title": "Request for Comments Concerning Proposed Modification of Section 301 Action on Brazil's Acts, Policies, and Practices Related to Digital Trade and Electronic Payment Services; Unfair, Preferential Tariffs; Anti-Corruption Enforcement; Intellectual Property Protection; Ethanol Market Access; and Illegal Deforestation",
+     "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24231/request-for-comments-concerning-proposed-modification-of-section-301-action-on-brazils-acts-policies",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "Federal Register",
+   "primarySource": {
+    "name": "Federal Register",
+    "kind": "Official US government publication",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Request for Comments Concerning Proposed Modification of Section 301 Action on Brazil's Acts, Policies…",
+   "soWhat": {
+    "changed": "Trade Representative, Office of United States published a notice: Request for Comments Concerning Proposed Modification of Section 301 Action on Brazil's Acts…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Watch for the final rule or implementing guidance from Trade Representative, Office of United States"
+   },
+   "photo": {
+    "src": "img/photos/geo-port.webp",
+    "credit": "Photo: biofriendly, CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Container_ship_being_loaded_in_Long_Beach_container_port.jpg",
+    "key": "geo-port"
+   },
+   "signal": {
+    "so_what": "Exporters and importers in US-Brazil trade should file comments and model exposure before the tariff action is finalised.",
+    "n_sources": 1,
+    "signal_title": "US moves to adjust its Section 301 tariffs on Brazil",
+    "crux": "USTR proposed modifying the tariff action from its Section 301 investigation of Brazil and opened a public comment period.",
+    "importance": "Medium",
+    "impact_score": 55,
+    "time_horizon": "Near term",
+    "affected_sectors": [
+     "Trade",
+     "Investment",
+     "Agriculture",
+     "Manufacturing"
+    ],
+    "affected_regions": [
+     "United States",
+     "Brazil",
+     "Latin America"
+    ],
+    "risk_level": "Medium",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
+     "fr-2026-22868",
+     "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng"
+    ],
+    "watch_next": "Comment deadline, USTR final determination and any change in covered products or duty rates",
+    "confidence_score": 67,
+    "source_name": "Federal Register",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/30/2026-24231/request-for-comments-concerning-proposed-modification-of-section-301-action-on-brazils-acts-policies",
+    "published_date": "2026-11-30",
+    "key_number": null,
+    "primary_source": {
+     "name": "Federal Register",
+     "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24231/request-for-comments-concerning-proposed-modification-of-section-301-action-on-brazils-acts-policies",
+     "kind": "official journal"
+    },
+    "reported_by": null
+   }
+  },
   {
    "id": "gc-canadian-coast-guard-strengthens-arctic-maritime-capabilitie",
    "published": "2026-11-27T15:00:00Z",
@@ -816,8 +902,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "fr-2026-22868",
-     "fr-2026-23529",
-     "6adbb54da4c20d730fe656c5"
+     "fr-2026-24231",
+     "fr-2026-23529"
     ],
     "watch_next": "Comment deadline Jan 5, 2027, USTR hearings from Jan 25, 2027, product exemption annexes, and any decision on Mexico and Norway",
     "confidence_score": 67,
@@ -907,8 +993,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
-     "6adbb54da4c20d730fe656c5",
-     "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng"
+     "fr-2026-24231",
+     "6adbb54da4c20d730fe656c5"
     ],
     "watch_next": "Hearing request deadline Dec 7, 2026, comments due Dec 30, 2026, USTR hearing Jan 14, 2027",
     "confidence_score": 67,
@@ -1101,8 +1187,8 @@
      1
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-27",
-    "asOfLabel": "Nov 27, 2026",
+    "asOf": "2026-11-28",
+    "asOfLabel": "Nov 28, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -2936,8 +3022,8 @@
      1
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-27",
-    "asOfLabel": "Nov 27, 2026",
+    "asOf": "2026-11-28",
+    "asOfLabel": "Nov 28, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -3520,103 +3606,6 @@
    }
   },
   {
-   "id": "doe-energy-department-announces-28-billion-loan-strengthen-grid",
-   "published": "2026-11-17T15:00:00Z",
-   "kicker": "Geoeconomics · US Department of Energy",
-   "title": "Energy Department Announces $2.8 Billion Loan to Strengthen Grid Reliability and Help Lower Costs in Wyoming",
-   "topics": [
-    "geo",
-    "energy-power"
-   ],
-   "primary": "geo",
-   "summary": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $2.8 billion for Grid United’s Wyoming Intertie project to lower electricity costs and strengthen grid reliability in Wyoming",
-   "body": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $2.8 billion for Grid United’s Wyoming Intertie project to lower electricity costs and strengthen grid reliability in Wyoming\n\nUS Department of Energy published this on Nov 17, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Department of Energy. Read the source for the measure, who it applies to and when it takes effect.",
-   "stat": null,
-   "keyPoints": [
-    "Official publication from US Department of Energy",
-    "Published Nov 17, 2026"
-   ],
-   "sources": [
-    {
-     "publisher": "US Department of Energy",
-     "date": "2026-11-17",
-     "title": "Energy Department Announces $2.8 Billion Loan to Strengthen Grid Reliability and Help Lower Costs in Wyoming",
-     "url": "https://www.energy.gov/articles/energy-department-announces-28-billion-loan-strengthen-grid-reliability-and-help-lower",
-     "kind": "official"
-    },
-    {
-     "publisher": "US Department of Energy",
-     "date": "2026-10-28",
-     "title": "Energy Department Closes $5.1 Billion Loan to Lower Electricity Costs and Strengthen Grid Reliability in Iowa and Wisconsin",
-     "url": "https://www.energy.gov/articles/energy-department-closes-51-billion-loan-lower-electricity-costs-and-strengthen-grid",
-     "note": "Official document (merged duplicate doe-energy-department-closes-51-billion-loan-lower-electricity-c)",
-     "kind": "official"
-    }
-   ],
-   "image": null,
-   "readMinutes": 1,
-   "origin": "US Department of Energy",
-   "primarySource": {
-    "name": "US Department of Energy",
-    "kind": "Department of Energy news release",
-    "terms": "Public domain (US government work)"
-   },
-   "deadlines": [],
-   "titleMarkup": "Energy Department Announces $2.8 Billion Loan to Strengthen Grid Reliability and Help Lower Costs in Wyoming",
-   "soWhat": {
-    "changed": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $2.8 billion for Grid United’s…",
-    "who": "Exporters, importers and investors exposed to trade and security policy",
-    "watch": "Follow-on measures or implementation details from US Department of Energy"
-   },
-   "photo": {
-    "src": "img/photos/grid-power.webp",
-    "credit": "Photo: Foto3821, CC0",
-    "url": "https://commons.wikimedia.org/wiki/File:Electric_transmission_power_tower2.jpg",
-    "key": "grid-power"
-   },
-   "signal": {
-    "so_what": "Grid developers and utilities in the Western and SPP markets should treat this as a financing signal for interregional transmission, not a closed loan, until definitive documents are signed.",
-    "n_sources": 2,
-    "signal_title": "DOE offers $2.8 billion loan for Wyoming Intertie grid link",
-    "crux": "DOE's Office of Energy Dominance Financing announced a conditional loan commitment of up to $2.8 billion for Grid United's Wyoming Intertie project, which is intended to add about 1.8 GW of transfer capacity between the SPP and WECC regions. Funding still depends on technical, legal, environmental and financial conditions being met.",
-    "importance": "Medium",
-    "impact_score": 54,
-    "time_horizon": "Medium term",
-    "affected_sectors": [
-     "Utilities",
-     "Investment",
-     "Energy"
-    ],
-    "affected_regions": [
-     "United States"
-    ],
-    "risk_level": "Low",
-    "opportunity_level": "Medium",
-    "related_signals": [
-     "eia-68445",
-     "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
-     "govuk-prime-minister-hails-major-investment-in-uk-renewables"
-    ],
-    "watch_next": "Whether Grid United satisfies DOE's conditions and the loan is funded",
-    "confidence_score": 79,
-    "source_name": "US Department of Energy",
-    "source_url": "https://www.energy.gov/articles/energy-department-announces-28-billion-loan-strengthen-grid-reliability-and-help-lower",
-    "published_date": "2026-11-17",
-    "key_number": {
-     "value": "$2.8 billion",
-     "unit": "",
-     "label": "for Grid United's Wyoming Intertie project",
-     "kind": "money"
-    },
-    "primary_source": {
-     "name": "US Department of Energy",
-     "url": "https://www.energy.gov/articles/energy-department-announces-28-billion-loan-strengthen-grid-reliability-and-help-lower",
-     "kind": "government or agency"
-    },
-    "reported_by": null
-   }
-  },
-  {
    "id": "gc-canada-and-japan-reaffirm-commitment-to-strengthening-batter",
    "published": "2026-11-17T15:00:00Z",
    "kicker": "Geoeconomics · Global Affairs Canada",
@@ -3778,6 +3767,103 @@
     "primary_source": {
      "name": "National Defence",
      "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-announces-new-military-aid-to-ukraine-at-ukraine-defense-contact-group-meeting.html",
+     "kind": "government or agency"
+    },
+    "reported_by": null
+   }
+  },
+  {
+   "id": "doe-energy-department-announces-28-billion-loan-strengthen-grid",
+   "published": "2026-11-17T15:00:00Z",
+   "kicker": "Geoeconomics · US Department of Energy",
+   "title": "Energy Department Announces $2.8 Billion Loan to Strengthen Grid Reliability and Help Lower Costs in Wyoming",
+   "topics": [
+    "geo",
+    "energy-power"
+   ],
+   "primary": "geo",
+   "summary": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $2.8 billion for Grid United’s Wyoming Intertie project to lower electricity costs and strengthen grid reliability in Wyoming",
+   "body": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $2.8 billion for Grid United’s Wyoming Intertie project to lower electricity costs and strengthen grid reliability in Wyoming\n\nUS Department of Energy published this on Nov 17, 2026. The text above is the official lead or summary; the full document is on the source page.\n\nWhy it matters: This is an official publication from US Department of Energy. Read the source for the measure, who it applies to and when it takes effect.",
+   "stat": null,
+   "keyPoints": [
+    "Official publication from US Department of Energy",
+    "Published Nov 17, 2026"
+   ],
+   "sources": [
+    {
+     "publisher": "US Department of Energy",
+     "date": "2026-11-17",
+     "title": "Energy Department Announces $2.8 Billion Loan to Strengthen Grid Reliability and Help Lower Costs in Wyoming",
+     "url": "https://www.energy.gov/articles/energy-department-announces-28-billion-loan-strengthen-grid-reliability-and-help-lower",
+     "kind": "official"
+    },
+    {
+     "publisher": "US Department of Energy",
+     "date": "2026-10-28",
+     "title": "Energy Department Closes $5.1 Billion Loan to Lower Electricity Costs and Strengthen Grid Reliability in Iowa and Wisconsin",
+     "url": "https://www.energy.gov/articles/energy-department-closes-51-billion-loan-lower-electricity-costs-and-strengthen-grid",
+     "note": "Official document (merged duplicate doe-energy-department-closes-51-billion-loan-lower-electricity-c)",
+     "kind": "official"
+    }
+   ],
+   "image": null,
+   "readMinutes": 1,
+   "origin": "US Department of Energy",
+   "primarySource": {
+    "name": "US Department of Energy",
+    "kind": "Department of Energy news release",
+    "terms": "Public domain (US government work)"
+   },
+   "deadlines": [],
+   "titleMarkup": "Energy Department Announces $2.8 Billion Loan to Strengthen Grid Reliability and Help Lower Costs in Wyoming",
+   "soWhat": {
+    "changed": "The U.S. Department of Energy’s Office of Energy Dominance Financing today announced a conditional loan commitment of up to $2.8 billion for Grid United’s…",
+    "who": "Exporters, importers and investors exposed to trade and security policy",
+    "watch": "Follow-on measures or implementation details from US Department of Energy"
+   },
+   "photo": {
+    "src": "img/photos/grid-power.webp",
+    "credit": "Photo: Foto3821, CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Electric_transmission_power_tower2.jpg",
+    "key": "grid-power"
+   },
+   "signal": {
+    "so_what": "Grid developers and utilities in the Western and SPP markets should treat this as a financing signal for interregional transmission, not a closed loan, until definitive documents are signed.",
+    "n_sources": 2,
+    "signal_title": "DOE offers $2.8 billion loan for Wyoming Intertie grid link",
+    "crux": "DOE's Office of Energy Dominance Financing announced a conditional loan commitment of up to $2.8 billion for Grid United's Wyoming Intertie project, which is intended to add about 1.8 GW of transfer capacity between the SPP and WECC regions. Funding still depends on technical, legal, environmental and financial conditions being met.",
+    "importance": "Medium",
+    "impact_score": 54,
+    "time_horizon": "Medium term",
+    "affected_sectors": [
+     "Utilities",
+     "Investment",
+     "Energy"
+    ],
+    "affected_regions": [
+     "United States"
+    ],
+    "risk_level": "Low",
+    "opportunity_level": "Medium",
+    "related_signals": [
+     "eia-68445",
+     "doe-energy-secretary-builds-progress-strengthen-puerto-ricos-ene",
+     "govuk-prime-minister-hails-major-investment-in-uk-renewables"
+    ],
+    "watch_next": "Whether Grid United satisfies DOE's conditions and the loan is funded",
+    "confidence_score": 79,
+    "source_name": "US Department of Energy",
+    "source_url": "https://www.energy.gov/articles/energy-department-announces-28-billion-loan-strengthen-grid-reliability-and-help-lower",
+    "published_date": "2026-11-17",
+    "key_number": {
+     "value": "$2.8 billion",
+     "unit": "",
+     "label": "for Grid United's Wyoming Intertie project",
+     "kind": "money"
+    },
+    "primary_source": {
+     "name": "US Department of Energy",
+     "url": "https://www.energy.gov/articles/energy-department-announces-28-billion-loan-strengthen-grid-reliability-and-help-lower",
      "kind": "government or agency"
     },
     "reported_by": null
@@ -6715,8 +6801,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
-     "fr-2026-23193",
-     "fr-2026-22385"
+     "fr-2026-24231",
+     "fr-2026-23193"
     ],
     "watch_next": "Which exclusions were extended and their new expiry dates",
     "confidence_score": 67,
@@ -6801,8 +6887,8 @@
     "opportunity_level": "Low",
     "related_signals": [
      "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
-     "fr-2026-22385",
-     "fr-2026-22292"
+     "fr-2026-24231",
+     "fr-2026-22385"
     ],
     "watch_next": "USTR findings and any proposed action at the end of the extension",
     "confidence_score": 67,
@@ -7636,8 +7722,8 @@
     "opportunity_level": "Medium",
     "related_signals": [
      "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
-     "gc-minister-sidhu-announces-extension-of-favourable-market-acce",
-     "ustr-ustr-invites-public-comment-proposed-modifications-section-3"
+     "fr-2026-24231",
+     "gc-minister-sidhu-announces-extension-of-favourable-market-acce"
     ],
     "watch_next": "Any USTR or Treasury statement on Chinese compliance, and new export licensing data on rare earths",
     "confidence_score": 67,
@@ -8422,8 +8508,8 @@
     "opportunity_level": "High",
     "related_signals": [
      "ustr-readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
-     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30",
-     "gc-minister-anand-announces-reimposition-of-sanctions-against-i"
+     "fr-2026-24231",
+     "ustr-ustr-makes-determinations-and-proposes-actions-14-section-30"
     ],
     "watch_next": "Follow-up commitments from the Canada-China Joint Economic and Trade Commission.",
     "confidence_score": 67,
@@ -12343,11 +12429,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.46M km²",
+    "value": "9.55M km²",
     "unit": "daily extent",
-    "change": "-1.89M km² vs the 1981–2010 average for the date",
+    "change": "-1.88M km² vs the 1981–2010 average for the date",
     "series": [
-     7.673,
      7.743,
      7.755,
      7.84,
@@ -12376,14 +12461,11 @@
      9.228,
      9.288,
      9.473,
-     9.46
+     9.46,
+     9.549
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-29",
-      4.911
-     ],
      [
       "2026-08-30",
       4.849
@@ -12739,11 +12821,15 @@
      [
       "2026-11-26",
       9.46
+     ],
+     [
+      "2026-11-27",
+      9.549
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-26",
-    "asOfLabel": "Nov 26, 2026",
+    "asOf": "2026-11-27",
+    "asOfLabel": "Nov 27, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -13280,8 +13366,8 @@
      1
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-27",
-    "asOfLabel": "Nov 27, 2026",
+    "asOf": "2026-11-28",
+    "asOfLabel": "Nov 28, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -13542,8 +13628,8 @@
      1
     ],
     "weeklyLabel": "Final rules per week, last 52 weeks",
-    "asOf": "2026-11-27",
-    "asOfLabel": "Nov 27, 2026",
+    "asOf": "2026-11-28",
+    "asOfLabel": "Nov 28, 2026",
     "source": "Federal Register API, Bureau of Industry and Security",
     "license": "Public domain (US government work)",
     "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau"
@@ -14237,11 +14323,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.46M km²",
+    "value": "9.55M km²",
     "unit": "daily extent",
-    "change": "-1.89M km² vs the 1981–2010 average for the date",
+    "change": "-1.88M km² vs the 1981–2010 average for the date",
     "series": [
-     7.673,
      7.743,
      7.755,
      7.84,
@@ -14270,14 +14355,11 @@
      9.228,
      9.288,
      9.473,
-     9.46
+     9.46,
+     9.549
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-29",
-      4.911
-     ],
      [
       "2026-08-30",
       4.849
@@ -14633,11 +14715,15 @@
      [
       "2026-11-26",
       9.46
+     ],
+     [
+      "2026-11-27",
+      9.549
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-26",
-    "asOfLabel": "Nov 26, 2026",
+    "asOf": "2026-11-27",
+    "asOfLabel": "Nov 27, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -15271,11 +15357,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.46M km²",
+    "value": "9.55M km²",
     "unit": "daily extent",
-    "change": "-1.89M km² vs the 1981–2010 average for the date",
+    "change": "-1.88M km² vs the 1981–2010 average for the date",
     "series": [
-     7.673,
      7.743,
      7.755,
      7.84,
@@ -15304,14 +15389,11 @@
      9.228,
      9.288,
      9.473,
-     9.46
+     9.46,
+     9.549
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-29",
-      4.911
-     ],
      [
       "2026-08-30",
       4.849
@@ -15667,11 +15749,15 @@
      [
       "2026-11-26",
       9.46
+     ],
+     [
+      "2026-11-27",
+      9.549
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-26",
-    "asOfLabel": "Nov 26, 2026",
+    "asOf": "2026-11-27",
+    "asOfLabel": "Nov 27, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -16021,11 +16107,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.46M km²",
+    "value": "9.55M km²",
     "unit": "daily extent",
-    "change": "-1.89M km² vs the 1981–2010 average for the date",
+    "change": "-1.88M km² vs the 1981–2010 average for the date",
     "series": [
-     7.673,
      7.743,
      7.755,
      7.84,
@@ -16054,14 +16139,11 @@
      9.228,
      9.288,
      9.473,
-     9.46
+     9.46,
+     9.549
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-29",
-      4.911
-     ],
      [
       "2026-08-30",
       4.849
@@ -16417,11 +16499,15 @@
      [
       "2026-11-26",
       9.46
+     ],
+     [
+      "2026-11-27",
+      9.549
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-26",
-    "asOfLabel": "Nov 26, 2026",
+    "asOf": "2026-11-27",
+    "asOfLabel": "Nov 27, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -16667,11 +16753,10 @@
     "id": "nsidc-ice",
     "kind": "level",
     "title": "Arctic sea-ice extent",
-    "value": "9.46M km²",
+    "value": "9.55M km²",
     "unit": "daily extent",
-    "change": "-1.89M km² vs the 1981–2010 average for the date",
+    "change": "-1.88M km² vs the 1981–2010 average for the date",
     "series": [
-     7.673,
      7.743,
      7.755,
      7.84,
@@ -16700,14 +16785,11 @@
      9.228,
      9.288,
      9.473,
-     9.46
+     9.46,
+     9.549
     ],
     "seriesLabel": "Daily, last 30 days",
     "daily90": [
-     [
-      "2026-08-29",
-      4.911
-     ],
      [
       "2026-08-30",
       4.849
@@ -17063,11 +17145,15 @@
      [
       "2026-11-26",
       9.46
+     ],
+     [
+      "2026-11-27",
+      9.549
      ]
     ],
     "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
-    "asOf": "2026-11-26",
-    "asOfLabel": "Nov 26, 2026",
+    "asOf": "2026-11-27",
+    "asOfLabel": "Nov 27, 2026",
     "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
     "license": "Free to use with citation",
     "url": "https://nsidc.org/data/g02135/versions/4"
@@ -18247,11 +18333,10 @@
    "id": "nsidc-ice",
    "kind": "level",
    "title": "Arctic sea-ice extent",
-   "value": "9.46M km²",
+   "value": "9.55M km²",
    "unit": "daily extent",
-   "change": "-1.89M km² vs the 1981–2010 average for the date",
+   "change": "-1.88M km² vs the 1981–2010 average for the date",
    "series": [
-    7.673,
     7.743,
     7.755,
     7.84,
@@ -18280,19 +18365,16 @@
     9.228,
     9.288,
     9.473,
-    9.46
+    9.46,
+    9.549
    ],
    "seriesLabel": "Daily, last 30 days",
-   "asOf": "2026-11-26",
-   "asOfLabel": "Nov 26, 2026",
+   "asOf": "2026-11-27",
+   "asOfLabel": "Nov 27, 2026",
    "source": "NSIDC Sea Ice Index, Version 4 (NOAA@NSIDC)",
    "license": "Free to use with citation",
    "url": "https://nsidc.org/data/g02135/versions/4",
    "daily90": [
-    [
-     "2026-08-29",
-     4.911
-    ],
     [
      "2026-08-30",
      4.849
@@ -18648,6 +18730,10 @@
     [
      "2026-11-26",
      9.46
+    ],
+    [
+     "2026-11-27",
+     9.549
     ]
    ],
    "daily90Label": "Daily, last 90 days (gaps are missing NSIDC days, not filled)",
@@ -18773,8 +18859,8 @@
     3
    ],
    "seriesLabel": "Final rules per month, last 12 months",
-   "asOf": "2026-11-27",
-   "asOfLabel": "Nov 27, 2026",
+   "asOf": "2026-11-28",
+   "asOfLabel": "Nov 28, 2026",
    "source": "Federal Register API, Bureau of Industry and Security",
    "license": "Public domain (US government work)",
    "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
@@ -18894,7 +18980,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-28T04:20:27+00:00",
+  "asOf": "2026-11-28T11:25:27+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -19160,15 +19246,15 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-28T04:20:29+00:00",
+  "asOf": "2026-11-28T11:25:51+00:00",
   "counts": {
    "arctic": 18,
    "ai": 27,
    "minerals": 24,
-   "geo": 127,
+   "geo": 128,
    "ai-investment-infrastructure": 9,
    "energy-power": 21,
-   "trade-sanctions": 46,
+   "trade-sanctions": 47,
    "strategic-supply-chains": 15,
    "defense-technology": 28,
    "semiconductors": 5,
