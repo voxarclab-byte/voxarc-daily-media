@@ -1,7 +1,7 @@
 {
  "version": 1,
  "publisher": "Voxarc Lab",
- "generated": "2026-11-28T11:25:51+00:00",
+ "generated": "2026-11-28T12:25:22+00:00",
  "items": [
   {
    "id": "fr-2026-24231",
@@ -18980,7 +18980,7 @@
   }
  ],
  "signalTrends": {
-  "asOf": "2026-11-28T11:25:27+00:00",
+  "asOf": "2026-11-28T12:25:14+00:00",
   "basis": "story count in the bundled feed, window vs prior window",
   "topics": {
    "ai": {
@@ -19131,8 +19131,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 91,
-     "prev": 29,
+     "cur": 90,
+     "prev": 30,
      "dir": "up",
      "reliable": false
     },
@@ -19231,8 +19231,8 @@
      "reliable": false
     },
     "30": {
-     "cur": 38,
-     "prev": 3,
+     "cur": 37,
+     "prev": 4,
      "dir": "up",
      "reliable": false
     },
@@ -19246,7 +19246,7 @@
   }
  },
  "topicCoverage": {
-  "asOf": "2026-11-28T11:25:51+00:00",
+  "asOf": "2026-11-28T12:25:22+00:00",
   "counts": {
    "arctic": 18,
    "ai": 27,
